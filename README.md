@@ -12,7 +12,7 @@
 **這裡有一份我自己撰寫的[reflection工具箱](https://github.com/jim60105/KK/blob/ed1d022e33adfa99114d67d6792f6df3e6d7427b/Extension/Extension.cs#L18)，作為技術參考**
 
 另外，我曾有javascript開發經驗，我的[畢業專題](https://github.com/jim60105/PMS5003TAirQuality)主要使用Angular開發，也寫過不少[有的沒的網站](https://github.com/jim60105?tab=repositories&q=&type=&language=javascript)\
-比較近期的前端小作品有: [三向語言標籤](https://blog.maki0419.com/2020/05/personal-koikatu-plugin.html)、[Blogger的自動TOC](https://gist.github.com/jim60105/2d892ca5d898397e5e52f127cc84b129)、[Blog右下角的抖內彈窗](https://gist.github.com/jim60105/b38a23e9a69ad81bd1059fda87530a78)\
+比較近期的前端小作品有: [三向語言標籤](https://gist.github.com/jim60105/d7aaa9c25e7cdb4098e591115633cd6f)、[Blogger的自動TOC](https://gist.github.com/jim60105/2d892ca5d898397e5e52f127cc84b129)、[Blog右下角的抖內彈窗](https://gist.github.com/jim60105/b38a23e9a69ad81bd1059fda87530a78)\
 雖然我對js並不專精，但**我對網頁開發整體有充分的概念，有信心能和前端工程師良好配合**
 
 *在此附上我的[Koikatu遊戲外掛作品頁](https://blog.maki0419.com/2020/05/personal-koikatu-plugin.html)，以及我維護的[Koikatu中文指南](https://blog.maki0419.com/2019/11/koikatu-V5.html)\
