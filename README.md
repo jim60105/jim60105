@@ -12,8 +12,8 @@
 **這裡有一份我自己撰寫的[reflection工具箱](https://github.com/jim60105/KK/blob/ed1d022e33adfa99114d67d6792f6df3e6d7427b/Extension/Extension.cs#L18)，作為技術參考**
 
 另外，我曾有javascript開發經驗，我的[畢業專題](https://github.com/jim60105/PMS5003TAirQuality)主要使用Angular開發，也寫過不少[有的沒的網站](https://github.com/jim60105?tab=repositories&q=&type=&language=javascript)\
-比較近期的前端小作品有: [三向語言標籤](https://blog.maki0419.com/2020/05/personal-koikatu-plugin.html)、Blogger的TOC hack、Blog右下角的抖內彈窗\
-雖然我對js並不專精，但**我對網頁開發整體有充分的概念，有信心能和前端工程師良好配合**\
+比較近期的前端小作品有: [三向語言標籤](https://blog.maki0419.com/2020/05/personal-koikatu-plugin.html)、[Blogger的自動TOC](https://gist.github.com/jim60105/2d892ca5d898397e5e52f127cc84b129)、Blog右下角的抖內彈窗\
+雖然我對js並不專精，但**我對網頁開發整體有充分的概念，有信心能和前端工程師良好配合**
 
 *在此附上我的[Koikatu遊戲外掛作品頁](https://blog.maki0419.com/2020/05/personal-koikatu-plugin.html)，以及我維護的[Koikatu中文指南](https://blog.maki0419.com/2019/11/koikatu-V5.html)\
 若要交流Koikatu開發事宜，歡迎到[Discord コイカツ！(中文)](https://discord.gg/UJEA9nr)找我，這裡也有其它的Koikatu中文開發者*
@@ -23,7 +23,7 @@
 由當時入門Arch Linux至今，能說我對於網域購買設定、主機架設、Linux指令都有一定經驗\
 今年的待業期間，我粗淺的自學了Docker技術，有簡單的docker-compose file作品\
 像是我的個人空間[NextCloud](https://github.com/jim60105/docker-Nextcloud)，用做Koikatu插件發佈，這是[我的備忘手札](https://blog.maki0419.com/2020/07/docker-nextcloud.html)\
-另外還有[V2Ray](https://github.com/jim60105/docker-V2Ray)和[Opencart](https://github.com/jim60105/docker-Opencart-tw)，這些都建立在此[ReverseProxy](https://github.com/jim60105/docker-ReverseProxy)之上\
+另外還有[V2Ray](https://github.com/jim60105/docker-V2Ray)和[Opencart](https://github.com/jim60105/docker-Opencart-tw)，這些都建立在此[ReverseProxy](https://github.com/jim60105/docker-ReverseProxy)之上
 
 基於興趣，[Arduino創作](https://github.com/jim60105/BluetoothRemoteCar)也稍有接觸，家裡有不少奇怪的開發板和週邊\
 台灣著名的LASS環境感測專案我也參了一腳，為之寫了[Android App](https://blog.maki0419.com/2019/01/android-app-pm25-airbox-lass.html)和[Domoticz Plugin](https://paper.dropbox.com/doc/Domoticz-Python-Plugin-for-LASS--A_rOOOUYAEF~eMe_exbvo4bbAg-VCGAQpPFerrr9lAZUt8uW)\
