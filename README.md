@@ -51,6 +51,9 @@
 > 琳的備忘手札 - [Docker] Opencart購物網站建置\
 > https://blog.maki0419.com/2020/08/docker-opencart.html
 
+> 琳的備忘手札 - [Docker] Youtube直播錄影伺服器建置\
+> https://blog.maki0419.com/2020/11/docker-youtube-dl-auto-recording-live-dl.html
+
 > Github - jim60105/docker-V2Ray V2Ray on Docker\
 > https://github.com/jim60105/docker-V2Ray
 
