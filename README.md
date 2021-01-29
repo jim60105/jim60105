@@ -2,7 +2,13 @@
 
 ### 🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜
 
-[![Metrics](https://github.com/jim60105/jim60105/blob/master/metrics.svg)](https://github.com/jim60105)
+[![Metrics](https://github.com/jim60105/jim60105/blob/master/base-metrics.svg)](https://github.com/jim60105)
+### 🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜
+
+[![Metrics](https://github.com/jim60105/jim60105/blob/master/activity-metrics.svg)](https://github.com/jim60105)
+### 🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜
+
+[![Metrics](https://github.com/jim60105/jim60105/blob/master/habits-metrics.svg)](https://github.com/jim60105)
 ### 🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜
 
 * Email jim60105@gmail.com
