@@ -3,8 +3,8 @@
 |<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/base-metrics.svg" /></a>|<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/activity-metrics.svg" /><br><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/habits-metrics.svg" /></a>|
 |---|---|
 
-<div class="display: flex; justify-content: center;width:100%">
-<div>
+
+<p align='center'>
     <a href="http://blog.maki0419.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/pic/social/blogger.png" width="100px" alt="">
     </a>
@@ -20,5 +20,4 @@
     <a href="https://www.plurk.com/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/pic/social/plurk.png" width="100px" alt="">
     </a>
-    </div>
-</div>
+</p>
