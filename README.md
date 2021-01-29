@@ -1,4 +1,4 @@
-[![img](https://github.com/jim60105/jim60105/raw/master/DSC07219.JPG)](https://blog.maki0419.com/2020/03/niz-atom68-micro82.html)
+[![img](https://github.com/jim60105/jim60105/raw/master/DSC07219.png)](https://blog.maki0419.com/2020/03/niz-atom68-micro82.html)
 
 ### 🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜
 
