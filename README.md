@@ -1,6 +1,6 @@
 [![img](https://github.com/jim60105/jim60105/raw/master/pic/banner.png)](https://blog.maki0419.com/2020/03/niz-atom68-micro82.html) 
 
-|<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/base-metrics.svg" /></a>|<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/activity-metrics.svg" /><br><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/habits-metrics.svg" /></a>|
+|<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/base-metrics.svg" /></a>|<a href="https://github.com/jim60105?tab=repositories"><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/activity-metrics.svg" /><br><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/habits-metrics.svg" /></a>|
 |---|---|
 
 
