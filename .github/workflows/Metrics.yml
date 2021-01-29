@@ -21,7 +21,6 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_gists: yes
           repositories_forks: yes
-          config_animated: yes
           config_timezone: Asia/Taipei
           config_order: base.header, isocalendar, base.repositories, base.activity, base.community, gist, base.metadata
           config_padding: 6%
@@ -37,7 +36,6 @@ jobs:
           plugin_activity_days: 14
           base: ""
           repositories_forks: yes
-          config_animated: yes
           config_timezone: Asia/Taipei
           config_order: activity, language
           config_padding: 6%
@@ -54,6 +52,5 @@ jobs:
           plugin_habits_charts: yes
           base: ""
           repositories_forks: yes
-          config_animated: yes
           config_timezone: Asia/Taipei
           config_padding: 6%
