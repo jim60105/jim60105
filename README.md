@@ -1,7 +1,22 @@
-[![img](https://github.com/jim60105/jim60105/raw/master/DSC07219.png)](https://blog.maki0419.com/2020/03/niz-atom68-micro82.html)
+[![img](https://github.com/jim60105/jim60105/raw/master/pic/banner.png)](https://blog.maki0419.com/2020/03/niz-atom68-micro82.html) 
 
-|<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/blob/master/base-metrics.svg" /></a>|<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/blob/master/activity-metrics.svg" /><br><img src="https://github.com/jim60105/jim60105/blob/master/habits-metrics.svg" /></a>|
+|<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/blob/master/pic/matrics/base-metrics.svg" /></a>|<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/blob/master/pic/matrics/activity-metrics.svg" /><br><img src="https://github.com/jim60105/jim60105/blob/master/pic/matrics/habits-metrics.svg" /></a>|
 |---|---|
 
-* Email jim60105@gmail.com
-* Blogger [blog.maki0419.com](https://blog.maki0419.com)
+<div class="align:center">
+    <a href="http://blog.maki0419.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/jim60105/jim60105/raw/master/pic/social/blogger.png" alt="">
+    </a>
+    <a href="https://www.facebook.com/jim60105/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/jim60105/jim60105/raw/master/pic/social/facebook.png" alt="">
+    </a>
+    <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/jim60105/jim60105/raw/master/pic/social/github.png" alt="">
+    </a>
+    <a href="https://twitter.com/jim60105" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/jim60105/jim60105/raw/master/pic/social/twitter.png" alt="">
+    </a>
+    <a href="https://www.plurk.com/jim60105" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/jim60105/jim60105/raw/master/pic/social/plurk.png" alt="">
+    </a>
+</div>
