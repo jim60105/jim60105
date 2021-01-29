@@ -1,3 +1,5 @@
+![img](https://github.com/jim60105/jim60105/raw/master/DSC07219.JPG)
+
 ### 🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜🦜
 
 [![Metrics](https://github.com/jim60105/jim60105/blob/master/metrics.svg)](https://github.com/jim60105)
