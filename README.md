@@ -1,8 +1,11 @@
 [![img](https://github.com/jim60105/jim60105/raw/master/pic/banner.png)](https://blog.maki0419.com/2020/03/niz-atom68-micro82.html) 
 
-|<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/base-metrics.svg" /></a>|<a href="https://github.com/jim60105?tab=repositories"><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/activity-metrics.svg" /><br><img src="https://github.com/jim60105/jim60105/blob/master/pic/metrics/habits-metrics.svg" /></a>|
+|<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/raw/master/pic/metrics/base-metrics.svg" /></a>|<a href="https://github.com/jim60105?tab=repositories"><img src="https://github.com/jim60105/jim60105/raw/master/pic/metrics/activity-metrics.svg" /><br><img src="https://github.com/jim60105/jim60105/raw/master/pic/metrics/habits-metrics.svg" /></a>|
 |---|---|
 
+<p align='right'>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jim60105/jim60105?label=Last%20Update&style=flat-square">
+</p>
 
 <p align='center'>
     <a href="http://blog.maki0419.com" target="_blank" rel="noopener noreferrer">
