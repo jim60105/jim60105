@@ -13,7 +13,7 @@ jobs:
       - name: Base metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: pic/metrics/base-metrics.svg
+          filename: images/metrics/base-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_lines: yes
@@ -27,7 +27,7 @@ jobs:
       - name: Activity metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: pic/metrics/activity-metrics.svg
+          filename: images/metrics/activity-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_languages: yes
@@ -42,7 +42,7 @@ jobs:
       - name: Habits metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: pic/metrics/habits-metrics.svg
+          filename: images/metrics/habits-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_habits: yes
