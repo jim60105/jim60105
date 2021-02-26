@@ -2,7 +2,7 @@
 
 |<a href="https://github.com/jim60105"><img src="https://github.com/jim60105/jim60105/raw/master/pic/metrics/base-metrics.svg" /></a>|<a href="https://github.com/jim60105?tab=repositories"><img src="https://github.com/jim60105/jim60105/raw/master/pic/metrics/activity-metrics.svg" /><br><img src="https://github.com/jim60105/jim60105/raw/master/pic/metrics/habits-metrics.svg" /></a>|
 |---|---|
-
+<img src="https://github.com/jim60105/jim60105/blob/master/images/stat.svg" alt="Alternative Text"/>
 <p align='right'>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jim60105/jim60105?label=Last%20Update&style=flat-square">
 </p>
