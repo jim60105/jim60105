@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="506" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="462" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -1007,6 +1007,76 @@
                     
                     
                       <div class="commit">
+                        <div class="sha">#9b2ae22</div>
+                        <div class="message">Add icon</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">jim60105/sound-buttons</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#99b2a73</div>
+                        <div class="message">修正非表列語系即不顯示問題
+
+未成功比對時就使用第一個語言</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">jim60105/sound-buttons</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
                         <div class="sha">#b92e2eb</div>
                         <div class="message">加上footer連結</div>
                       </div>
@@ -1088,84 +1158,6 @@
               </section>
             </div>
           
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">jim60105/sound-buttons_configs</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#81a94b0</div>
-                        <div class="message">增加對主repo的重build推送workflow</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 3 commits in <div class="repo">jim60105/sound-buttons</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#ba1c1fa</div>
-                        <div class="message">修正buttons沒有吃到css var</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#e6705f7</div>
-                        <div class="message">增加多語系</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#ede3ef3</div>
-                        <div class="message">新增repository_dispatch</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
         
       </section>
     </div>
@@ -1200,21 +1192,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="190.95668327205834" height="8" fill="#178600"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="190.93947343992633" height="8" fill="#178600"/>
         
-          <rect mask="url(#languages-bar)" x="190.95668327205834" y="0" width="92.51212506050138" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="190.93947343992633" y="0" width="92.5037874725459" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="283.4688083325597" y="0" width="56.51763575516076" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="283.4432609124722" y="0" width="56.52912501047695" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="339.9864440877205" y="0" width="49.19418934472847" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="339.9723859229491" y="0" width="49.21463005338061" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="389.18063343244893" y="0" width="41.848975960788806" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="389.18701597632975" y="0" width="41.84520435228136" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="431.0296093932377" y="0" width="13.23038110680779" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="431.0322203286112" y="0" width="13.229188728337505" height="8" fill="#89e051"/>
         
-          <rect mask="url(#languages-bar)" x="444.2599905000455" y="0" width="10.132629819942514" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="444.26140905694865" y="0" width="10.131716624052906" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="454.392620319988" y="0" width="5.607379680011969" height="8" fill="#199f4b"/>
+          <rect mask="url(#languages-bar)" x="454.39312568100155" y="0" width="5.606874318998467" height="8" fill="#199f4b"/>
         
       </svg>
       
