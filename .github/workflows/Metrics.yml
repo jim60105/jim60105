@@ -25,7 +25,7 @@ jobs:
           config_order: base.header, isocalendar, base.repositories, base.activity, base.community, gist, base.metadata
           config_padding: 6%
       - name: Activity metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@3.7.0
         with:
           filename: images/metrics/activity-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -34,7 +34,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
-          base: ''
+          base: ""
           repositories_forks: yes
           config_timezone: Asia/Taipei
           config_order: activity, language
@@ -50,7 +50,7 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          base: ''
+          base: ""
           repositories_forks: yes
           config_timezone: Asia/Taipei
           config_padding: 6%
