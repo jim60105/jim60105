@@ -18,7 +18,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_lines: yes
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+#           plugin_isocalendar_duration: full-year
           plugin_gists: yes
           repositories_forks: yes
           config_timezone: Asia/Taipei
