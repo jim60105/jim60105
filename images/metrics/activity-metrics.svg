@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="441" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="608" class="">
     <defs>
         <style/>
     </defs>
@@ -1056,9 +1056,122 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            jim60105/backup-dl
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #b9588fd
+                                        </span>
+                                        <span class="message">
+                                            Update Dockerfile
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">
+                                            jim60105/backup-dl
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #0207fe5
+                                        </span>
+                                        <span class="message">
+                                            更新Windows排程
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #b63181e
+                                        </span>
+                                        <span class="message">
+                                            寫Log、相關參數錯誤排除
+
+因為EmbedThumbnail、AddMetadata會在MergeOutputFormat完成前就執行，導致找不到檔案
+TODO: 改為寫下圖片和影片資訊，在全部載完後另外做合併
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #4c8b2d8
+                                        </span>
+                                        <span class="message">
+                                            調整Docker測試環境
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #84556a4
+                                        </span>
+                                        <span class="message">
+                                            加封面圖、加MetaData、轉用mkv格式
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #a2d6285
+                                        </span>
+                                        <span class="message">
+                                            修正mkv縮圖方法
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #e89a008
+                                        </span>
+                                        <span class="message">
+                                            檔案路徑相關邏輯調整
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #9a2db81
+                                        </span>
+                                        <span class="message">
+                                            Update Dockerfile
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">
-                                            jim60105/backup-dl
+                                            jim60105/Playlists
                                         </span>
                                     </div>
                                 </div>
@@ -1071,18 +1184,20 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #f36a6c1
+                                            #c97c06a
                                         </span>
                                         <span class="message">
-                                            Rename排程、改Readme
+                                            Github Action: Fetch and recreate RadioQTama subtitles
                                         </span>
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #0142759
+                                            #3b5da46
                                         </span>
                                         <span class="message">
-                                            Rewrite to backup usage
+                                            Merge pull request #97 from jim60105/QuonTama
+
+QuonTama to master auto PR
                                         </span>
                                     </div>
                                 </div>
@@ -1092,110 +1207,55 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            jim60105/Newcj_rime
+                                        Merged
+                                        <span class="issue">
+                                            #97 QuonTama to master auto PR
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        on branch
-                                        <span class="code">
-                                            personal-edit
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #a31d638
-                                        </span>
-                                        <span class="message">
-                                            楽しみ
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            jim60105/backup-dl
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #74b4617
-                                        </span>
-                                        <span class="message">
-                                            Rename
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            jim60105/backup-dl
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #d8eade0
-                                        </span>
-                                        <span class="message">
-                                            Rename
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">
-                                            master
-                                        </span>
                                         in
                                         <span class="repo">
-                                            jim60105/backup-dl
+                                            jim60105/Playlists
+                                        </span>
+                                    </div>
+                                    <div>
+                                        1 file changed
+                                        <span class="code">
+                                            ++2 --1
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">
+                                            #97 QuonTama to master auto PR
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        in
+                                        <span class="repo">
+                                            jim60105/Playlists
+                                        </span>
+                                    </div>
+                                    <div>
+                                        1 file changed
+                                        <span class="code">
+                                            ++2 --1
                                         </span>
                                     </div>
                                 </div>
@@ -1218,14 +1278,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.1636149645951" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="141.1636149645951" y="0" width="83.03871706316284" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="224.20233202775793" y="0" width="67.95788715455312" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="292.16021918231104" y="0" width="54.41781628046074" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="346.57803546277177" y="0" width="50.824930701602064" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="397.4029661643738" y="0" width="47.07184523464984" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="444.4748113990237" y="0" width="9.58729025577701" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="454.0621016548007" y="0" width="5.937898345199278" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.9846948250496" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="141.9846948250496" y="0" width="82.82487252904241" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="224.809567354092" y="0" width="67.78287936020918" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="292.59244671430116" y="0" width="54.277677403297034" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="346.8701241175982" y="0" width="50.69404436313274" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="397.5641684807309" y="0" width="46.95062398785798" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="444.5147924685889" y="0" width="9.562600692995536" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="454.07739316158444" y="0" width="5.922606838415546" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
