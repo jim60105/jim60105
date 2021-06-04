@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="440" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="465" class="">
     <defs>
         <style/>
     </defs>
@@ -1058,7 +1058,7 @@
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
-                                            jim60105/backup-dl
+                                            jim60105/docker-youtube-dl
                                         </span>
                                     </div>
                                 </div>
@@ -1071,50 +1071,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #3fb5368
+                                            #663ce08
                                         </span>
                                         <span class="message">
-                                            調整非同步表現、加log、Error handling
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">
-                                            LastStable
-                                        </span>
-                                        in
-                                        <span class="repo">
-                                            jim60105/youtube-dl-server
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      tag
-                                        <span class="code">
-                                            LastStable
-                                        </span>
-                                        in
-                                        <span class="repo">
-                                            jim60105/youtube-dl-server
+                                            docker-compose 換更好的寫法，jobber改為叫起停止的container
                                         </span>
                                     </div>
                                 </div>
@@ -1129,7 +1089,7 @@
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
-                                            jim60105/youtube-dl-server
+                                            jim60105/backup-dl
                                         </span>
                                     </div>
                                 </div>
@@ -1142,10 +1102,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #0df02e0
+                                            #1c244ff
                                         </span>
                                         <span class="message">
-                                            Add bookmarklet shortcut
+                                            修正路徑出現%20的問題
                                         </span>
                                     </div>
                                 </div>
@@ -1158,9 +1118,9 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">
-                                            jim60105/youtube-dl-server
+                                            jim60105/backup-dl
                                         </span>
                                     </div>
                                 </div>
@@ -1168,39 +1128,77 @@
                                     <div>
                                         on branch
                                         <span class="code">
-                                            my-stable
+                                            master
                                         </span>
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #0b0a2f0
+                                            #48a264f
                                         </span>
                                         <span class="message">
-                                            Update build workflow
+                                            以Serilog做logging
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            jim60105/backup-dl
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
                                         </span>
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #5d2d893
+                                            #a756c86
                                         </span>
                                         <span class="message">
-                                            Update README docker tags
+                                            修正archive.txt被刪除的問題、增加一份archive備份
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            jim60105/backup-dl
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
                                         </span>
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #20b25e4
+                                            #a99204d
                                         </span>
                                         <span class="message">
-                                            Disable CORS to allow bookmarklets
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #0df02e0
-                                        </span>
-                                        <span class="message">
-                                            Add bookmarklet shortcut
+                                            修正archive.txt被刪除的問題、增加一份archive備份
                                         </span>
                                     </div>
                                 </div>
@@ -1223,14 +1221,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="142.13472241313724" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="142.13472241313724" y="0" width="82.54842865408652" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="224.68315106722378" y="0" width="67.66104577378117" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="292.344196841005" y="0" width="54.1134258889269" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="346.45762272993187" y="0" width="50.52528442783573" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="396.9829071577676" y="0" width="46.7939172881616" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="443.7768244459292" y="0" width="10.320336550295536" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="454.0971609962247" y="0" width="5.902839003775322" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="142.28879387882714" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="142.28879387882714" y="0" width="82.50841686830832" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="224.79721074713544" y="0" width="67.62825000391409" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="292.4254607510495" y="0" width="54.087196742719094" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="346.51265749376864" y="0" width="50.50079447824044" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="397.013451972009" y="0" width="46.77123595764103" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="443.7846879296501" y="0" width="10.315334212856266" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="454.10002214250636" y="0" width="5.899977857493641" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
