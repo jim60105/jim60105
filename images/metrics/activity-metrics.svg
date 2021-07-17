@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="532" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="494" class="">
     <defs>
         <style/>
     </defs>
@@ -1053,6 +1053,109 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            jim60105/backup-dl
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #5efe202
+                                        </span>
+                                        <span class="message">
+                                            Fix ErrorCode: BlobNotFound
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            jim60105/backup-dl
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #356f212
+                                        </span>
+                                        <span class="message">
+                                            Set blob tags
+
+在中繼資料和 blob 索引標記之間進行選擇: https://docs.microsoft.com/zh-tw/azure/storage/blobs/storage-manage-find-blobs?tabs=azure-portal#choosing-between-metadata-and-blob-index-tags
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">
+                                            jim60105/backup-dl
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #b804e0f
+                                        </span>
+                                        <span class="message">
+                                            使上傳Azure時的log不會報重覆值
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #ad2796c
+                                        </span>
+                                        <span class="message">
+                                            upload azure files add metadata: videoID, duration
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
@@ -1116,131 +1219,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">
-                                            jim60105/docker-Seq
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            No-Rsync
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #1955ad2
-                                        </span>
-                                        <span class="message">
-                                            Add docker-compose.restore.yml
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #bdf53c3
-                                        </span>
-                                        <span class="message">
-                                            Remove rsync things
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            jim60105/docker-Seq
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #1955ad2
-                                        </span>
-                                        <span class="message">
-                                            Add docker-compose.restore.yml
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">
-                                            jim60105/docker-Seq
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            No-Backup
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #beedaaa
-                                        </span>
-                                        <span class="message">
-                                            修正upload未執行
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #dffa74f
-                                        </span>
-                                        <span class="message">
-                                            修正ssh-keyscan
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #3a49685
-                                        </span>
-                                        <span class="message">
-                                            Remove rsync things
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #c956b3c
-                                        </span>
-                                        <span class="message">
-                                            Remove backup things
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1258,14 +1236,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.52446262649048" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="135.52446262649048" y="0" width="88.50822391708512" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="224.0326865435756" y="0" width="72.42528160706554" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="296.45796815064114" y="0" width="58.685613141811615" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="355.1435812924528" y="0" width="47.58979594565362" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="402.7333772381064" y="0" width="37.84925806990184" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="440.5826353080082" y="0" width="11.510412184911546" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.09304749291977" y="0" width="7.906952507080245" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.63666409863436" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="135.63666409863436" y="0" width="88.47761836481229" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="224.11428246344667" y="0" width="72.40023742875081" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="296.5145198921975" y="0" width="58.66532004902109" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="355.1798399412186" y="0" width="47.57333971228899" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="402.75317965350763" y="0" width="37.83617004943233" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="440.58934970293996" y="0" width="11.50643196130953" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.0957816642495" y="0" width="7.904218335750574" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
