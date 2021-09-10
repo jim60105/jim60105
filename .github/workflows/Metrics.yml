@@ -25,7 +25,7 @@ jobs:
           config_order: base.header, isocalendar, base.repositories, base.activity, base.community, gist, base.metadata
           config_padding: 6%
       - name: Activity metrics
-        uses: lowlighter/metrics@v3.7
+        uses: lowlighter/metrics@latest
         with:
           filename: images/metrics/activity-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
