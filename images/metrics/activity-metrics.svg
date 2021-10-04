@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="516" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="512" class="">
     <defs>
         <style/>
     </defs>
@@ -1346,6 +1346,27 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">jim60105/KK</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">KKSunshine</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#7255228</span>
+                                        <span class="message">升級StudioDualScreen v1.2.0
+
+現在在重新Enable時會自動SetLock(false)</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 2 commits in <span class="repo">jim60105/Playlists</span>
                     </div>
                                 </div>
@@ -1417,35 +1438,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">jim60105/Playlists</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#c501c5e</span>
-                                        <span class="message">Merge pull request #190 from jim60105/QuonTama
-
-歌ってみた LAST STARDUST</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ef781b0</span>
-                                        <span class="message">歌ってみた LAST STARDUST
-2021/9/29 【朝歌/sing a song】朝からたくさん歌いたい！！！
-2021/9/26 【歌枠/sing a song】マクロス曲縛り✨銀河の果てまで届け・・・!!
-2021/9/24 【歌枠/sing a song】アーカイブ無しの歌枠！生き残れば奇跡✨
-2021/9/21 【朝歌/sing a song】おはようの歌🌅</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1464,14 +1456,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="118.33165215787609" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="118.33165215787609" y="0" width="90.8648891022523" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="209.19654126012838" y="0" width="74.35371415418338" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="283.5502554143118" y="0" width="60.30422353978825" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="343.8544789541" y="0" width="49.32483618218076" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="393.17931513628076" y="0" width="38.85705175087443" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="432.0363668871552" y="0" width="15.67415370472177" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.71052059187696" y="0" width="12.289479408122999" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="118.48190124523485" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="118.48190124523485" y="0" width="90.82493115254232" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="209.30683239777719" y="0" width="74.32101701450405" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="283.62784941228125" y="0" width="60.277704681345675" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="343.90555409362696" y="0" width="49.303145523191425" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="393.20869961681836" y="0" width="38.839964313305536" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="432.0486639301239" y="0" width="15.667260975839714" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.7159249059636" y="0" width="12.28407509403641" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
