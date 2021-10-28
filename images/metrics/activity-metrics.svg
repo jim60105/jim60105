@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="457" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="438" class="">
     <defs>
         <style/>
     </defs>
@@ -1343,12 +1343,37 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Deleted
-                      tag  <span class="code">KKS_CoordinateLoadOption_v1.3.0</span> in  <span class="repo">jim60105/KK</span>
+                      Pushed 1 commit in <span class="repo">jim60105/sound-buttons</span>
                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">gh-pages</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#f9ce9e6</span>
+                                        <span class="message">deployed via Scully Publish Action 🎩 for 30ebb52419fa7ef0620fa85654e62c610f525da0</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">jim60105/sound-buttons_configs</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6777141</span>
+                                        <span class="message">Update かける日文</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1365,10 +1390,10 @@
                                 <div class="details">
                                     <div>on branch <span class="code">KKSunshine</span></div>
                                     <div class="commit">
-                                        <span class="sha">#f74541c</span>
-                                        <span class="message">CLO: Move to MoreAcc v2.0
+                                        <span class="sha">#270a4a6</span>
+                                        <span class="message">MaterialEditor data is lost after reload() in Maker
 
-Not tested in Maker</span>
+Not sure if it will break anything if I don't trigger reload(). Need more test.</span>
                                     </div>
                                 </div>
                             </section>
@@ -1393,48 +1418,14 @@ Not tested in Maker</span>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 3 commits in <span class="repo">jim60105/KK</span>
+                      Pushed 1 commit in <span class="repo">jim60105/sound-buttons</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">KKSunshine</span></div>
+                                    <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <span class="sha">#49643c4</span>
-                                        <span class="message">CLO: Move to MoreAcc v2.0</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#bad35a3</span>
-                                        <span class="message">CLO: Fix the language cannot be detected due to CultureFix</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3efdb3d</span>
-                                        <span class="message">CLO: gg=G</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">jim60105/KK</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">KKSunshine</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#0b564bb</span>
-                                        <span class="message">修正Function名稱錯誤、修正觸發Reload造成的問題
-
-因為在Reload時會把ExtData讀出來，而其它插件中未存入ExtData的資料就會遺失
-解決辦法是在動作前存一次檔</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#49281e5</span>
-                                        <span class="message">SCOLB: gg=G</span>
+                                        <span class="sha">#f3c3e9e</span>
+                                        <span class="message">deployed via Scully Publish Action 🎩 for 30ebb52419fa7ef0620fa85654e62c610f525da0</span>
                                     </div>
                                 </div>
                             </section>
@@ -1457,14 +1448,14 @@ Not tested in Maker</span>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="117.46425222443881" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="117.46425222443881" y="0" width="90.73886937071825" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="208.20312159515709" y="0" width="74.25059362887546" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="282.4537152240326" y="0" width="60.22058813192128" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="342.67430335595384" y="0" width="49.25642799200903" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="391.9307313479629" y="0" width="38.80316124070895" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="430.73389258867184" y="0" width="16.993672176273684" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.7275647649455" y="0" width="12.272435235054541" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="117.4644930047441" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="117.4644930047441" y="0" width="90.73880558720714" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="208.20329859195124" y="0" width="74.25054143554755" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="282.45384002749876" y="0" width="60.220545800772804" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="342.67438582827157" y="0" width="49.25639336795053" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="391.9307791962221" y="0" width="38.80313396461567" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="430.7339131608378" y="0" width="16.99366023082974" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.72757339166753" y="0" width="12.272426608332449" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
