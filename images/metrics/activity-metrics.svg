@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="493" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="453" class="">
     <defs>
         <style/>
     </defs>
@@ -1346,14 +1346,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">jim60105/KK</span>
+                      Pushed 1 commit in <span class="repo">jim60105/docker-twitcasting-recorder</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">KKSunshine</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#211cdc9</span>
-                                        <span class="message">Update ALL Readme.md (about preview img link)</span>
+                                        <span class="sha">#1b10f04</span>
+                                        <span class="message">Add discord end message</span>
                                     </div>
                                 </div>
                             </section>
@@ -1365,14 +1365,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">jim60105/worker-img_router</span>
+                      Pushed 1 commit in <span class="repo">jim60105/docker-twitcasting-recorder</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a8cf325</span>
-                                        <span class="message">hot-link protection新增排除設計</span>
+                                        <span class="sha">#387a264</span>
+                                        <span class="message">Try fix discord webhook not working</span>
                                     </div>
                                 </div>
                             </section>
@@ -1384,14 +1384,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">jim60105/worker-img_router</span>
+                      Pushed 1 commit in <span class="repo">jim60105/docker-twitcasting-recorder</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#ed19ca3</span>
-                                        <span class="message">Also protect random pics under hot-link</span>
+                                        <span class="sha">#04fbb95</span>
+                                        <span class="message">Try fix discord webhook not working</span>
                                     </div>
                                 </div>
                             </section>
@@ -1403,18 +1403,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">jim60105/worker-img_router</span>
+                      Pushed 1 commit in <span class="repo">jim60105/docker-twitcasting-recorder</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#19934a5</span>
-                                        <span class="message">新增Hot-Link Protection功能
-
-Change hot-link protection to 302 redirect
-
-add some logs for debugging</span>
+                                        <span class="sha">#395c124</span>
+                                        <span class="message">Try fix webhook not send</span>
                                     </div>
                                 </div>
                             </section>
@@ -1426,18 +1422,14 @@ add some logs for debugging</span>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">jim60105/worker-img_router</span>
+                      Pushed 1 commit in <span class="repo">jim60105/docker-twitcasting-recorder</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#05dcf0f</span>
-                                        <span class="message">新增Hot-Link Protection功能
-
-Change hot-link protection to 302 redirect
-
-add some logs for debugging</span>
+                                        <span class="sha">#b838803</span>
+                                        <span class="message">Fix: mistake on Env variable exists check</span>
                                     </div>
                                 </div>
                             </section>
@@ -1460,14 +1452,14 @@ add some logs for debugging</span>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="116.86529528304973" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="116.86529528304973" y="0" width="90.83378280292403" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="207.69907808597378" y="0" width="74.35625927305902" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="282.0553373590328" y="0" width="60.283579248613506" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="342.3389166076463" y="0" width="49.520613854077716" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="391.859530461724" y="0" width="38.843749593190445" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="430.70328005491444" y="0" width="17.011447665027468" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.7147277199419" y="0" width="12.28527228005808" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="116.81683804491635" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="116.81683804491635" y="0" width="90.79611931836966" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="207.61295736328603" y="0" width="74.3254280587659" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="281.9383854220519" y="0" width="60.258583155906024" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="342.19696857795793" y="0" width="49.50008053687498" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="391.6970491148329" y="0" width="38.82764335036214" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="430.524692465195" y="0" width="17.004394007493797" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.52908647268885" y="0" width="12.470913527311145" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
