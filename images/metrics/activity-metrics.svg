@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="422" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="461" class="">
     <defs>
         <style/>
     </defs>
@@ -1407,14 +1407,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">jim60105/docker-Instagram-to-Discord</span>
+                      Pushed 1 commit in <span class="repo">jim60105/KK</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">KK</span></div>
                                     <div class="commit">
-                                        <span class="sha">#ce7bd61</span>
-                                        <span class="message">Correct using Inheritance in python</span>
+                                        <span class="sha">#4911356</span>
+                                        <span class="message">修正錯誤的PluginData ID, 檢核輸入的空ID</span>
                                     </div>
                                 </div>
                             </section>
@@ -1426,14 +1426,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">jim60105/docker-Instagram-to-Discord</span>
+                      Pushed 1 commit in <span class="repo">jim60105/KK</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">KK</span></div>
                                     <div class="commit">
-                                        <span class="sha">#24a708d</span>
-                                        <span class="message">fix import</span>
+                                        <span class="sha">#f132aa2</span>
+                                        <span class="message">修正錯誤的PluginData ID, 檢核輸入的空ID</span>
                                     </div>
                                 </div>
                             </section>
@@ -1445,33 +1445,29 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">jim60105/docker-Instagram-to-Discord</span>
+                      Pushed 2 commits in <span class="repo">jim60105/KK</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">KK</span></div>
                                     <div class="commit">
-                                        <span class="sha">#6d0eb06</span>
-                                        <span class="message">try fix 429</span>
+                                        <span class="sha">#a2371f1</span>
+                                        <span class="message">CLO: 新增「在特定的插件資料存在時，關閉飾品選項功能」 v1.1.7
+
+主要用在Madevil的飾品插件，內建的幾個是寫死的，應作者要求
+未來也能通過Config Setting新增插件名，方便擴充
+
+以此功能更新來說，版號應該進v1.2.X
+但v1.2已經用在升KKS上了，未免混淆改用修訂版號v1.1.7
+直接的說，KK版原本就沒有再更新的計劃
+各位能不能把KK給丟了，把開發成本都拿去做KKS
+我們為什麼要開雙頭火車?</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">jim60105/sound-buttons_upload-backend</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#e339e02</span>
-                                        <span class="message">如果有上傳檔案就不該做Source檢核，因為source可以是空的</span>
+                                        <span class="sha">#d70fbec</span>
+                                        <span class="message">CLO: Fix NullRefException with HairAccCus Supports, v1.2.2
+
+(cherry picked from commit 57af36222422bb28b191a275a1bda02533e50d7a)</span>
                                     </div>
                                 </div>
                             </section>
@@ -1483,8 +1479,29 @@
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                      Starred <span class="repo">AdguardTeam/dnsproxy</span>
+                      Starred <span class="repo">jim60105/docker-Instagram-to-Discord</span>
                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">jim60105/docker-Instagram-to-Discord</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#2f1c268</span>
+                                        <span class="message">test_login() feature seems to raise 429 exception, so avoid using that
+
+Also catch that exception while login</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1506,14 +1523,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.23848367166624" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="104.23848367166624" y="0" width="93.2351415219993" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="197.47362519366555" y="0" width="77.67736509740219" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="275.1509902910677" y="0" width="63.49019541939205" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="338.6411857104598" y="0" width="50.32690993645017" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="388.96809564691" y="0" width="39.47620465955806" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="428.44430030646805" y="0" width="18.648837577676286" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.09313788414437" y="0" width="12.906862115855706" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.21575275988064" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="104.21575275988064" y="0" width="93.2148100695203" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="197.43056282940094" y="0" width="77.6604262733559" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="275.09098910275685" y="0" width="63.47635034048746" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="338.5673394432443" y="0" width="50.31593532793792" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="388.88327477118224" y="0" width="39.46759622537771" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="428.35087099655993" y="0" width="18.74508144065394" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.0959524372139" y="0" width="12.904047562786145" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
