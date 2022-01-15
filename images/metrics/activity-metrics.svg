@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="446" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="612" class="">
     <defs>
         <style/>
     </defs>
@@ -14,6 +14,79 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#5 docker program not responding every few days</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">jim60105/twspace-dl</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">jim60105/twspace-dl</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#d31ce1d</span>
+                                        <span class="message">bump version 2022.1.12.0 -&gt; 2022.1.13.0</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c4f10eb</span>
+                                        <span class="message">fixed login</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4f4c693</span>
+                                        <span class="message">added input cookie file</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dd46fdc</span>
+                                        <span class="message">bump version 2021.12.18.3 -&gt; 2022.1.12.0</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#68a93d3</span>
+                                        <span class="message">remove useless print</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#34678ea</span>
+                                        <span class="message">use api for guest_token fix #28</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#42c5274</span>
+                                        <span class="message">rename submodule to snake case</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dc38028</span>
+                                        <span class="message">Merge pull request #27 from mirusu400/main</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#04f1dfa</span>
+                                        <span class="message">change a lot of stuff</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#223f5a1</span>
+                                        <span class="message">Add manual login class</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -74,39 +147,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/Playlists</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">MinaiAruma</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#825ece8</span>
-                                        <span class="message">被版權</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">loresoft/EntityFrameworkCore.Generator</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -125,14 +165,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.11372966398054" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="104.11372966398054" y="0" width="92.19973763396756" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="196.3134672979481" y="0" width="76.98194200367028" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="273.2954093016184" y="0" width="62.785117976316336" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="336.0805272779348" y="0" width="49.6657060722532" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="385.74623335018794" y="0" width="39.037809703300084" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="424.784043053488" y="0" width="22.439091831647282" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.22313488513527" y="0" width="12.776865114864698" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="103.7234614800664" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="103.7234614800664" y="0" width="91.85412880523863" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="195.57759028530504" y="0" width="76.69337677027679" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="272.2709670555818" y="0" width="62.54976924710903" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="334.8207363026909" y="0" width="49.479535189947974" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="384.30027149263884" y="0" width="38.891477272927425" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="423.1917487655662" y="0" width="24.079279936845463" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.2710287024117" y="0" width="12.72897129758827" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
