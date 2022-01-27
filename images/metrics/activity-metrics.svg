@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="454" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="451" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/sound-buttons_configs</span>
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#44045c1</div>
-                                        <div class="message">更新Aruma</div>
+                                        <div class="sha">#1afffca</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/sound-buttons_upload-backend</span>
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e517725</div>
-                                        <div class="message">Bug fix</div>
+                                        <div class="sha">#70ad325</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,18 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/sound-buttons_upload-backend</span>
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3ce681b</div>
-                                        <div class="message">Try fix System.OutOfMemoryException
-
-2022-01-25T14:30:16.985 [Error] Executed 'ProcessJsonFile' (Failed, Id=3cddeb89-4003-478d-bfb6-22f269807c22, Duration=73ms)Exception of type 'System.OutOfMemoryException' was thrown.
-2022-01-25T14:30:17.118 [Error] An unhandled exception has occurred. Host is shutting down.Exception of type 'System.OutOfMemoryException' was thrown.
-2022-01-25T14:30:17.171 [Error] 288cbf1bb7fb4b948a8c2798c5ea102a: Function 'ProcessJsonFile (Activity)' failed with an error. Reason: System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.at System.GC.AllocateNewArray(IntPtr typeHandle, Int32 length, GC_ALLOC_FLAGS flags)at System.Buffers.TlsOverPerCoreLockedStacksArrayPool`1.Rent(Int32 minimumLength)at Azure.Storage.Blobs.Specialized.BlobBaseClient.OpenReadInternal(Int64 position, Nullable`1 bufferSize, BlobRequestConditions conditions, Boolean allowModifications, Boolean async, CancellationToken cancellationToken)at Azure.Storage.Blobs.Specialized.BlobBaseClient.OpenRead(Int64 position, Nullable`1 bufferSize, BlobRequestConditions conditions, CancellationToken cancellationToken)at SoundButtons.SoundButtons.ProcessJsonFile(Request request, ILogger log, BlobContainerClient BlobContainerClient) in D:\a\sound-buttons_upload-backend\sound-buttons_upload-backend\SoundButtons\SoundButtons.cs:line 447at Microsoft.Azure.WebJobs.Host.Executors.VoidTaskMethodInvoker`2.InvokeAsync(TReflected instance, Object[] arguments) in C:\projects\azure-webjobs-sdk-rqm4t\src\Microsoft.Azure.WebJobs.Host\Executors\VoidTaskMethodInvoker.cs:line 20at Microsoft.Azure.WebJobs.Host.Executors.FunctionInvoker`2.InvokeAsync(Object instance, Object[] arguments) in C:\projects\azure-webjobs-sdk-rqm4t\src\Microsoft.Azure.WebJobs.Host\Executors\FunctionInvoker.cs:line 52at Microsoft.Azure.WebJobs.Host.Executors.FunctionExecutor.InvokeWithTimeoutAsync(IFunctionInvoker invoker, ParameterHelper parameterHelper, CancellationTokenSource timeoutTokenSource, CancellationTokenSource functionCancellationTokenSource, Boolean throwOnTimeout, TimeSpan timerInterval, IFunctionInstance instance) in C:\projects\azure-webjobs-sdk-rqm4t\src\Microsoft.Azure.WebJobs.Host\Executors\FunctionExecutor.cs:line 572at Microsoft.Azure.WebJobs.Host.Executors.FunctionExecutor.ExecuteWithWatchersAsync(IFunctionInstanceEx instance, ParameterHelper parameterHelper, ILogger logger, CancellationTokenSource functionCancellationTokenSource) in C:\projects\azure-webjobs-sdk-rqm4t\src\Microsoft.Azure.WebJobs.Host\Executors\FunctionExecutor.cs:line 518at Microsoft.Azure.WebJobs.Host.Executors.FunctionExecutor.ExecuteWithLoggingAsync(IFunctionInstanceEx instance, FunctionStartedMessage message, FunctionInstanceLogEntry instanceLogEntry, ParameterHelper parameterHelper, ILogger logger, CancellationToken cancellationToken) in C:\projects\azure-webjobs-sdk-rqm4t\src\Microsoft.Azure.WebJobs.Host\Executors\FunctionExecutor.cs:line 296. IsReplay: False. State: Failed. HubName: SoundButtonsEastAsia. AppName: SoundButtonsEastAsia. SlotName: Production. ExtensionVersion: 2.6.0. SequenceNumber: 16. TaskEventId: 2</div>
+                                        <div class="sha">#ac27491</div>
+                                        <div class="message">Add readme, 修正編碼為UTF-8</div>
                                     </div>
                                 </div>
                             </section>
@@ -87,18 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/sound-buttons_upload-backend</span>
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2dec91e</div>
-                                        <div class="message">Try fix System.OutOfMemoryException
-
-2022-01-25T14:30:16.985 [Error] Executed 'ProcessJsonFile' (Failed, Id=3cddeb89-4003-478d-bfb6-22f269807c22, Duration=73ms)Exception of type 'System.OutOfMemoryException' was thrown.
-2022-01-25T14:30:17.118 [Error] An unhandled exception has occurred. Host is shutting down.Exception of type 'System.OutOfMemoryException' was thrown.
-2022-01-25T14:30:17.171 [Error] 288cbf1bb7fb4b948a8c2798c5ea102a: Function 'ProcessJsonFile (Activity)' failed with an error. Reason: System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.at System.GC.AllocateNewArray(IntPtr typeHandle, Int32 length, GC_ALLOC_FLAGS flags)at System.Buffers.TlsOverPerCoreLockedStacksArrayPool`1.Rent(Int32 minimumLength)at Azure.Storage.Blobs.Specialized.BlobBaseClient.OpenReadInternal(Int64 position, Nullable`1 bufferSize, BlobRequestConditions conditions, Boolean allowModifications, Boolean async, CancellationToken cancellationToken)at Azure.Storage.Blobs.Specialized.BlobBaseClient.OpenRead(Int64 position, Nullable`1 bufferSize, BlobRequestConditions conditions, CancellationToken cancellationToken)at SoundButtons.SoundButtons.ProcessJsonFile(Request request, ILogger log, BlobContainerClient BlobContainerClient) in D:\a\sound-buttons_upload-backend\sound-buttons_upload-backend\SoundButtons\SoundButtons.cs:line 447at Microsoft.Azure.WebJobs.Host.Executors.VoidTaskMethodInvoker`2.InvokeAsync(TReflected instance, Object[] arguments) in C:\projects\azure-webjobs-sdk-rqm4t\src\Microsoft.Azure.WebJobs.Host\Executors\VoidTaskMethodInvoker.cs:line 20at Microsoft.Azure.WebJobs.Host.Executors.FunctionInvoker`2.InvokeAsync(Object instance, Object[] arguments) in C:\projects\azure-webjobs-sdk-rqm4t\src\Microsoft.Azure.WebJobs.Host\Executors\FunctionInvoker.cs:line 52at Microsoft.Azure.WebJobs.Host.Executors.FunctionExecutor.InvokeWithTimeoutAsync(IFunctionInvoker invoker, ParameterHelper parameterHelper, CancellationTokenSource timeoutTokenSource, CancellationTokenSource functionCancellationTokenSource, Boolean throwOnTimeout, TimeSpan timerInterval, IFunctionInstance instance) in C:\projects\azure-webjobs-sdk-rqm4t\src\Microsoft.Azure.WebJobs.Host\Executors\FunctionExecutor.cs:line 572at Microsoft.Azure.WebJobs.Host.Executors.FunctionExecutor.ExecuteWithWatchersAsync(IFunctionInstanceEx instance, ParameterHelper parameterHelper, ILogger logger, CancellationTokenSource functionCancellationTokenSource) in C:\projects\azure-webjobs-sdk-rqm4t\src\Microsoft.Azure.WebJobs.Host\Executors\FunctionExecutor.cs:line 518at Microsoft.Azure.WebJobs.Host.Executors.FunctionExecutor.ExecuteWithLoggingAsync(IFunctionInstanceEx instance, FunctionStartedMessage message, FunctionInstanceLogEntry instanceLogEntry, ParameterHelper parameterHelper, ILogger logger, CancellationToken cancellationToken) in C:\projects\azure-webjobs-sdk-rqm4t\src\Microsoft.Azure.WebJobs.Host\Executors\FunctionExecutor.cs:line 296. IsReplay: False. State: Failed. HubName: SoundButtonsEastAsia. AppName: SoundButtonsEastAsia. SlotName: Production. ExtensionVersion: 2.6.0. SequenceNumber: 16. TaskEventId: 2</div>
+                                        <div class="sha">#78c2d65</div>
+                                        <div class="message">Create LICENSE.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -111,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/sound-buttons</span>
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2941b65</div>
-                                        <div class="message">修正videoId和clip的預設值在後台會接到字串'null'</div>
+                                        <div class="sha">#af22c82</div>
+                                        <div class="message">Add docker-compose</div>
                                     </div>
                                 </div>
                             </section>
@@ -141,14 +133,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="103.92991515216251" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="103.92991515216251" y="0" width="91.61900973845728" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="195.54892489061982" y="0" width="76.49706468927307" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="272.04598957989293" y="0" width="62.70548229186138" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="334.7514718717543" y="0" width="49.58142483088759" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="384.3328967026419" y="0" width="38.7919267359935" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="423.12482343863536" y="0" width="24.03881749914618" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.16364093778157" y="0" width="12.836359062218468" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="105.23713619669786" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="105.23713619669786" y="0" width="91.28265377173578" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="196.51978996843366" y="0" width="76.21622511003763" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="272.73601507847127" y="0" width="62.47527501091361" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="335.2112900893849" y="0" width="49.399399199656365" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="384.6106892890412" y="0" width="38.649512011630925" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="423.2602013006722" y="0" width="23.950565075093042" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.2107663757652" y="0" width="12.789233624234777" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
