@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="562" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="569" class="">
     <defs>
         <style/>
     </defs>
@@ -22,31 +22,62 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/Playlists</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">MatoriKakeru</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e267c83</div>
+                                        <div class="message">2022/3/1 コラボ歌枠✨バチバチカッコよく決めるだわよ😎✨【亜玖魔サキ/Vtuber/間取かける】
+2022/2/19 コラボ歌枠✨多ジャンル歌うわよ～～！！✨【涼風しとら/Vtuber/間取かける】
+2022/2/17 【歌枠】間取かけるちゃんと歌う!!⚡【#あくまのささやき】
+2021/10/14 最高のLIVEをお届けします…💕#URライブ【伊冬ユナ/間取かける】
+2021/10/2 【歌と雑談】歌うまVtuber‼間取かけるちゃんと一緒に歌う✨✨【#サキの歌うまVコラボ】</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
                                         <span class="repo">jim60105/Playlists</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9579ae0</div>
-                                        <div class="message">Merge pull request #229 from jim60105/MatoriKakeru
+                                        <div class="sha">#572732a</div>
+                                        <div class="message">Merge pull request #230 from jim60105/QuonTama
 
-Matori kakeru</div>
+Quon tama</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7ee0ad6</div>
-                                        <div class="message">2022/3</div>
+                                        <div class="sha">#fa0c0ef</div>
+                                        <div class="message">2021/11/22 🔴【コラボ歌枠】久遠たまちゃんが来てくれたァ！🥚🌏【Singing Stream】
+
+2021/9/20 アニソンデュエット歌枠！！【花丸はれる/久遠たま】
+久遠たま &amp; 浠Mizuki 一度だけの恋なら</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a4034ac</div>
-                                        <div class="message">整理註解，整理未補的歌單</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0ca7e4</div>
+                                        <div class="sha">#3b52bad</div>
                                         <div class="message">增加 時軸轉換表格
 
 (cherry picked from commit e397bf1ac6b4e05c43c848a32a43ac3d03b2d9c2)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf6bb71</div>
+                                        <div class="message">2022/3/20 【歌枠/sing a song】アニソンメドレー歌枠第二弾</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8269e3a</div>
+                                        <div class="message">整理連動</div>
                                     </div>
                                 </div>
                             </section>
@@ -59,12 +90,12 @@ Matori kakeru</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#229 Matori kakeru</span>
+                                        <span class="issue">#230 Quon tama</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">jim60105/Playlists</span></div>
-                                    <div>4 files changed <span class="code">++254 --93</span></div>
+                                    <div>3 files changed <span class="code">++85 --12</span></div>
                                 </div>
                             </section>
                         </div>
@@ -76,12 +107,12 @@ Matori kakeru</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#229 Matori kakeru</span>
+                                        <span class="issue">#230 Quon tama</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">jim60105/Playlists</span></div>
-                                    <div>4 files changed <span class="code">++254 --93</span></div>
+                                    <div>3 files changed <span class="code">++85 --12</span></div>
                                 </div>
                             </section>
                         </div>
@@ -97,46 +128,23 @@ Matori kakeru</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">MatoriKakeru</span></div>
+                                    <div>on branch <span class="code">QuonTama</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7ee0ad6</div>
-                                        <div class="message">2022/3</div>
+                                        <div class="sha">#fa0c0ef</div>
+                                        <div class="message">2021/11/22 🔴【コラボ歌枠】久遠たまちゃんが来てくれたァ！🥚🌏【Singing Stream】
+
+2021/9/20 アニソンデュエット歌枠！！【花丸はれる/久遠たま】
+久遠たま &amp; 浠Mizuki 一度だけの恋なら</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a4034ac</div>
-                                        <div class="message">整理註解，整理未補的歌單</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0ca7e4</div>
+                                        <div class="sha">#3b52bad</div>
                                         <div class="message">增加 時軸轉換表格
 
 (cherry picked from commit e397bf1ac6b4e05c43c848a32a43ac3d03b2d9c2)</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/Playlists</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#73a4347</div>
-                                        <div class="message">Merge pull request #228 from jim60105/MinaiAruma
-
-修正秒數錯誤</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38d9a1f</div>
-                                        <div class="message">修正秒數錯誤</div>
+                                        <div class="sha">#bf6bb71</div>
+                                        <div class="message">2022/3/20 【歌枠/sing a song】アニソンメドレー歌枠第二弾</div>
                                     </div>
                                 </div>
                             </section>
