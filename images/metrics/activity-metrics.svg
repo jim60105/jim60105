@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="546" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="356" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,30 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">jim60105/Playlists</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/YoutubeSegmentDownloader</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9250550</div>
-                                        <div class="message">Merge pull request #252 from jim60105/MinaiAruma
-
-Minai aruma</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a47680c</div>
-                                        <div class="message">2022/5/21 喉が爆発した歌枠！初見さん大歓迎！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】艦長的破喉嚨歌回！
-2022/5/15 睡眠導入歌枠💤！裏声祭り！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】艦長的假音訓練睡眠歌回！
-2022/5/8 デビュー5ヶ月記念！！母の日はやはりあの方がーー！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】艦長生存5個月紀念
-歌ってみた 神っぽいな God-ish
-2022/5/4 今夜は久々のバラード縛り！！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】艦長又窗掉的定期歌回抒情歌篇！
-2022/4/20 久々の定期歌枠！！うろ覚え曲祭り！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】許久未見的定期歌回之艦長窗了！</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cca1224</div>
-                                        <div class="message">更新表格工具</div>
+                                        <div class="sha">#b7f7806</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -54,61 +39,14 @@ Minai aruma</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#252 Minai aruma</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">jim60105/Playlists</span></div>
-                                    <div>5 files changed <span class="code">++92 --22</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#252 Minai aruma</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">jim60105/Playlists</span></div>
-                                    <div>5 files changed <span class="code">++92 --22</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/Playlists</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">MinaiAruma</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a47680c</div>
-                                        <div class="message">2022/5/21 喉が爆発した歌枠！初見さん大歓迎！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】艦長的破喉嚨歌回！
-2022/5/15 睡眠導入歌枠💤！裏声祭り！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】艦長的假音訓練睡眠歌回！
-2022/5/8 デビュー5ヶ月記念！！母の日はやはりあの方がーー！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】艦長生存5個月紀念
-歌ってみた 神っぽいな God-ish
-2022/5/4 今夜は久々のバラード縛り！！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】艦長又窗掉的定期歌回抒情歌篇！
-2022/4/20 久々の定期歌枠！！うろ覚え曲祭り！♬Ꮚ•̀ꈊ•́Ꮚ【新人Vtuber】許久未見的定期歌回之艦長窗了！</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cca1224</div>
-                                        <div class="message">更新表格工具</div>
+                                        Created new
+                      tag
+                                        <span class="code">v1.7.1</span>
+                                        in
+                                        <span class="repo">jim60105/YoutubeSegmentDownloader</span>
                                     </div>
                                 </div>
                             </section>
@@ -120,37 +58,47 @@ Minai aruma</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">jim60105/Playlists</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/YoutubeSegmentDownloader</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d9e6dc7</div>
-                                        <div class="message">Merge pull request #251 from jim60105/MatoriKakeru
-
-Matori kakeru</div>
+                                        <div class="sha">#00e14d7</div>
+                                        <div class="message">Fix: 實作I18n後，browser選擇(不使用)後無回應</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6b5f4c</div>
-                                        <div class="message">歌ってみた I SAY YES
-2022/5/13 リクエスト受け付け歌枠✨withまったり雨音...☔
-2022/5/6 青いイメージの曲を歌う...(独断と偏見...！)ネモフィラ畑 LIVE !!✨✨
-2022/5/2 無加工歌枠！やっぱりエコー無しはﾄﾞｷﾄﾞｷ...🙄
-2022/5/18 ウルかけコラボ第2弾😎✨【#Vtuber/#天狼ウルル/#間取かける】
-2022/5/15 ロリ好き集まれ～！ロリボで歌うます！がんばるます✨アニソン/ボカロ/J-POP✨✨
-2022/5/5 #プラチナでええかー お待たせしました...😎✨PLATINUM LIVE✨【#Vtuber/#紅記えり/#間取かける】
-2022/5/3 狼二人の歌枠コラボ🐺【間取かける／天狼ウルル】
-2022/4/30 コラボ歌枠！間取かけるちゃんとまたまた楽しく歌っちゃお～！＃ライかけらいぶ【間取かける/九楽ライ】
-歌ってみた おじゃま虫Ⅱ
-歌ってみた スキキライ
-2022/3/26 最高の歌枠を届けます！【間取かける/涼風しとら】</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      tag
+                                        <span class="code">v1.7.1</span>
+                                        in
+                                        <span class="repo">jim60105/YoutubeSegmentDownloader</span>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#1dbb599</div>
-                                        <div class="message">2022/4/29 【歌枠/sing songs】バンドリ！最初期オリジナル楽曲縛り🔥✨
-2022/4/24 【歌枠/sing songs】HoneyWorks縛り歌枠✨青春を感じよう😎✨</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v1.7.1</span>
+                                        in
+                                        <span class="repo">jim60105/YoutubeSegmentDownloader</span>
                                     </div>
                                 </div>
                             </section>
@@ -173,14 +121,14 @@ Matori kakeru</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="121.11413460152102" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="121.11413460152102" y="0" width="93.78823877124594" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="214.90237337276696" y="0" width="85.6305950056937" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="300.5329683784606" y="0" width="71.34110780499718" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="371.8740761834578" y="0" width="46.90351897884127" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="418.7775951622991" y="0" width="22.705958165107862" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="441.483553327407" y="0" width="12.433481122183922" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="453.9170344495909" y="0" width="6.08296555040912" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="121.12598937474458" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="121.12598937474458" y="0" width="93.78495790764201" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="214.9109472823866" y="0" width="85.6275995096036" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="300.5385467919902" y="0" width="71.33861217817737" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="371.87715897016756" y="0" width="46.9018782182264" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="418.77903718839394" y="0" width="22.70516387413159" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="441.4842010625256" y="0" width="12.433046178994687" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="453.9172472415203" y="0" width="6.082752758479772" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
