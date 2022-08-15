@@ -19,6 +19,27 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/GuildCQFreeChat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#429a297</div>
+                                        <div class="message">Remove member-only videos.
+Youtube has a bug where the member level is not verified in the popup chat room. This causes lower level members to be able to read or leave messages in the popup chat room of higher level member-only videos. This project will no longer expose links to member-restricted FreeChat until the problem is fixed.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
@@ -295,23 +316,6 @@ Update YOSHIKASongList.jsonc</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#276 Update YOSHIKASongList.jsonc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ralfjr in <span class="repo">jim60105/Playlists</span></div>
-                                    <div>1 file changed <span class="code">++16 --2</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -330,14 +334,14 @@ Update YOSHIKASongList.jsonc</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.7563387755754" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="326.7563387755754" y="0" width="41.71162294369821" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="368.4679617192736" y="0" width="31.847419435778477" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="400.3153811550521" y="0" width="28.210478185390073" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="428.52585934044214" y="0" width="17.940258203797523" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.4661175442397" y="0" width="7.453791925480153" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.9199094697198" y="0" width="4.103995780455496" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.02390525017535" y="0" width="1.9760947498246768" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.8048520388846" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="326.8048520388846" y="0" width="41.717815836403844" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="368.5226678752884" y="0" width="31.783851950124625" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="400.306519825413" y="0" width="28.21466657347587" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="428.52118639888886" y="0" width="17.942921780190066" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="446.46410817907895" y="0" width="7.454898584257416" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.91900676333637" y="0" width="4.104605097565191" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.02361186090155" y="0" width="1.9763881390984133" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
