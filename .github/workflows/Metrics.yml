@@ -37,7 +37,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_skipped: jim60105/Playlists
+          plugin_activity_skipped: jim60105/Playlists, jim60105/jim60105
           plugin_activity_load: 300
           plugin_activity_visibility: all
           base: ""
@@ -75,10 +75,10 @@ jobs:
           repositories_forks: yes
           config_timezone: Asia/Taipei
           config_padding: 6%
-      - name: Star metrics
+      - name: wakatime metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: images/metrics/star.svg
+          filename: images/metrics/wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_twemoji: yes
@@ -86,7 +86,7 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: public
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: jim60105
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
