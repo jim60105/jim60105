@@ -34,6 +34,10 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_skipped: jim60105/Playlists
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
           base: ""
           repositories_forks: yes
           config_timezone: Asia/Taipei
@@ -50,6 +54,38 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          base: ""
+          repositories_forks: yes
+          config_timezone: Asia/Taipei
+          config_padding: 6%
+      - name: Blog metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: images/metrics/blog.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_rss: yes
+          plugin_rss_limit: 5
+          plugin_rss_source: https://blog.maki0419.com/feeds/posts/default
+          base: ""
+          repositories_forks: yes
+          config_timezone: Asia/Taipei
+          config_padding: 6%
+      - name: Star metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: images/metrics/star.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_stars: yes
+          plugin_stars_limit: 5
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: public
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: jim60105
           base: ""
           repositories_forks: yes
           config_timezone: Asia/Taipei
