@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#550646a</div>
-                                        <div class="message">chara img css微調</div>
+                                        <div class="sha">#2fd88ca</div>
+                                        <div class="message">修正預覧圖片的尺寸</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#659864f</div>
-                                        <div class="message">yoruka新增多圖片</div>
+                                        <div class="sha">#ad0709a</div>
+                                        <div class="message">更新角色說明</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4c521c8</div>
-                                        <div class="message">右鍵選單: 分享到twitter、facebook</div>
+                                        <div class="sha">#bb8abe6</div>
+                                        <div class="message">調整網站預覧圖</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/sound-buttons_configs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#193f0c4</div>
+                                        <div class="message">還原HACHI、Yuna，新增多圖片</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,28 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c37c1a5</div>
-                                        <div class="message">修正worker audio url遺漏附檔名</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/sound-buttons</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1996e28</div>
-                                        <div class="message">把預設音量調為0.8，微調CSS版面</div>
+                                        <div class="sha">#550646a</div>
+                                        <div class="message">chara img css微調</div>
                                     </div>
                                 </div>
                             </section>
@@ -133,14 +133,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.8609003137095" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="323.8609003137095" y="0" width="42.67396321139083" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="366.5348635251004" y="0" width="32.072441819846425" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="398.6073053449468" y="0" width="27.984671908033995" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="426.5919772529808" y="0" width="19.722833309493502" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.3148105624743" y="0" width="7.393335147141279" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.70814570961556" y="0" width="4.061216442607622" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.76936215222315" y="0" width="2.230637847776805" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.8459918286879" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="323.8459918286879" y="0" width="42.67201163783293" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="366.5180034665208" y="0" width="32.07234173719698" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="398.59034520371773" y="0" width="27.983392107855803" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="426.57373731157355" y="0" width="19.741699104508655" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="446.3154364160822" y="0" width="7.3929970337744395" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.7084334498566" y="0" width="4.061030714308073" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.7694641641647" y="0" width="2.230535835835252" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
