@@ -24,7 +24,7 @@
     <a href="http://blog.maki0419.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/blogger.png" width="100px" alt="">
     </a>&nbsp;
-    <a rel="me" href="https://liker.social/@jim60105" target="_blank" rel="noopener noreferrer">
+    <a rel="me" href="https://liker.social/@jim60105" target="_blank" rel="noopener">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/mastodon.png" width="100px" alt="">
     </a>&nbsp;
     <a href="https://www.facebook.com/jim60105/" target="_blank" rel="noopener noreferrer">
