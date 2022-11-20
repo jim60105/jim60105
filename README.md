@@ -24,11 +24,11 @@
     <a href="http://blog.maki0419.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/blogger.png" width="100px" alt="">
     </a>&nbsp;
+    <a rel="me" href="https://liker.social/@jim60105" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/mastodon.png" width="100px" alt="">
+    </a>&nbsp;
     <a href="https://www.facebook.com/jim60105/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/facebook.png" width="100px" alt="">
-    </a>&nbsp;
-    <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/github.png" width="100px" alt="">
     </a>&nbsp;
     <a href="https://twitter.com/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/twitter.png" width="100px" alt="">
@@ -36,6 +36,9 @@
     <a href="https://www.plurk.com/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/plurk.png" width="100px" alt="">
     </a><br>
+    <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/github.png" width="100px" alt="">
+    </a>&nbsp;
     <a href="https://liker.land/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/likecoin.png" width="100px" alt="">
     </a>&nbsp;
