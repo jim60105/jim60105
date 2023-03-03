@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="530" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="464" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,51 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">Recorder-moe/LivestreamRecorderService</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#750788f</div>
-                                        <div class="message">不要在檢查RSS時反覆下載封面圖，只在建立、狀態更新等時候下載圖片</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e830e94</div>
-                                        <div class="message">Fix premiere video record as live stream #141</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6186886</div>
-                                        <div class="message">調整logging</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d1ffdb</div>
-                                        <div class="message">在檢查到直播開始時直接啟動ACI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f36cf3</div>
-                                        <div class="message">在啟動ytarchive ACI以前先檢查ACI是否存在
-
-解決以下情形:
-1. ACI啟動時間過長 (Youtube抽風時會發生)
-2. 檢測到ACI不存在，把狀態調整回Scheduled
-3. 五分鐘後啟動錄影，在這五分間ACI完成啟動
-4. ACI已存在，409 Conflict
-
-錯誤資訊:
-Azure.RequestFailedException: Unable to edit or replace deployment 'ytarchivecdrautermhy': previous deployment from '3/1/2023 1:11:48 PM' is still active (expiration time is '3/8/2023 1:03:26 PM'). Please see https://aka.ms/arm-deploy-resources for usage details.
-Status: 409 (Conflict)
-ErrorCode: DeploymentActive
-
-Content:
-{"error":{"code":"DeploymentActive","message":"Unable to edit or replace deployment 'ytarchivecdrautermhy': previous deployment from '3/1/2023 1:11:48 PM' is still active (expiration time is '3/8/2023 1:03:26 PM'). Please see https://aka.ms/arm-deploy-resources for usage details."}}
-   at Azure.ResourceManager.Resources.DeploymentsRestOperations.CreateOrUpdateAtScopeAsync(String scope, String deploymentName, ArmDeploymentContent content, CancellationToken cancellationToken)
-   at Azure.ResourceManager.Resources.ArmDeploymentCollection.CreateOrUpdateAsync(WaitUntil waitUntil, String deploymentName, ArmDeploymentContent content, CancellationToken cancellationToken)
-   at LivestreamRecorderService.SingletonServices.ACIService.CreateAzureContainerInstanceAsync(String template, Object parameters, String deploymentName, CancellationToken cancellation) in /src/SingletonServices/ACIService.cs:line 59
-   at LivestreamRecorderService.Workers.RecordWorker.CreateACIStartRecordAsync(VideoService videoService, CancellationToken stoppingToken) in /src/Workers/RecordWorker.cs:line 189
-   at LivestreamRecorderService.Workers.RecordWorker.ExecuteAsync(CancellationToken stoppingToken) in /src/Workers/RecordWorker.cs:line 103
-   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)</div>
+                                        <div class="sha">#8283238</div>
+                                        <div class="message">Fix the yellow marker disappears on the stream author's chat</div>
                                     </div>
                                 </div>
                             </section>
@@ -78,31 +42,19 @@ Content:
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">Recorder-moe/LivestreamRecorderBackend</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">Recorder-moe/OpenGraphTagBuilder</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a216ff6</div>
-                                        <div class="message">Merge branch 'dev'</div>
+                                        <div class="sha">#e661fed</div>
+                                        <div class="message">Update github workflow, npm packages</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">dev</span>
-                                        in
-                                        <span class="repo">Recorder-moe/LivestreamRecorderBackend</span>
+                                    <div class="commit">
+                                        <div class="sha">#6faac53</div>
+                                        <div class="message">Add first modify</div>
                                     </div>
                                 </div>
                             </section>
@@ -115,14 +67,14 @@ Content:
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">YoutubeClipPlaylist/Playlists</span>
+                                        <span class="repo">Recorder-moe/OpenGraphTagBuilder</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">NayukiViVy</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#649e8f1</div>
-                                        <div class="message">json syntax fix</div>
+                                        <div class="sha">#f6fff0b</div>
+                                        <div class="message">Fix error</div>
                                     </div>
                                 </div>
                             </section>
@@ -134,25 +86,35 @@ Content:
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">YoutubeClipPlaylist/Playlists</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Recorder-moe/OpenGraphTagBuilder</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9fc971e</div>
-                                        <div class="message">Merge pull request #431 from YoutubeClipPlaylist/QuonTama
-
-Quon tama</div>
+                                        <div class="sha">#c16da79</div>
+                                        <div class="message">Fix error</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed5101b</div>
-                                        <div class="message">2023/2/26 私たちの歌を聴け〜！<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/><path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/></svg></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Recorder-moe/OpenGraphTagBuilder</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ffb32e1</div>
-                                        <div class="message">久遠たま &amp; Kattarina Qutie</div>
+                                        <div class="sha">#1c84057</div>
+                                        <div class="message">Update github workflow, npm packages</div>
                                     </div>
                                 </div>
                             </section>
@@ -175,14 +137,14 @@ Quon tama</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.64292593280877" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="168.64292593280877" y="0" width="75.42981094529317" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="244.07273687810195" y="0" width="73.41408825924388" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="317.4868251373459" y="0" width="65.21455748982994" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="382.7013826271758" y="0" width="30.07424369893337" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="412.7756263261092" y="0" width="17.804308211387962" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="430.57993453749714" y="0" width="17.471968050881348" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="448.0519025883785" y="0" width="11.94809741162157" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.65107960028388" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="168.65107960028388" y="0" width="75.42770003174104" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="244.07877963202492" y="0" width="73.41203375596618" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="317.49081338799107" y="0" width="65.21273245153968" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="382.70354583953076" y="0" width="30.073402067119652" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="412.77694790665043" y="0" width="17.803809955393163" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="430.5807578620436" y="0" width="17.47147909547129" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="448.0522369575148" y="0" width="11.94776304248512" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
