@@ -29,15 +29,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[個人專案] Recorder.moe 錄影服務，讓你再也不會錯過 Vtuber 直播</div>
-                                <div class="date">14 Apr 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">在 Azure Blob Storage 啟用 206 Partial Content 以支援 mp4 串流播放</div>
                                 <div class="date">15 Jan 2023</div>
                             </div>
@@ -58,6 +49,15 @@
                             <div class="infos">
                                 <div class="title">將網頁原樣保存以製作Writing NFT (適用於Blogger和其它平台)</div>
                                 <div class="date">18 Dec 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">在Blogger或其它寫作平台放置LikeCoin Button、Writing NFT widget (半自動化)</div>
+                                <div class="date">14 Dec 2022</div>
                             </div>
                         </div>
                     </section>
