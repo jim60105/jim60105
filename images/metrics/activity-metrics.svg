@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="546" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="467" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Recorder-moe/LivestreamRecorderFrontend_dist</span>
+                                        <span class="repo">Recorder-moe/.github</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#65f8a3d</div>
-                                        <div class="message">Update from https://github.com/Recorder-moe/LivestreamRecorderFrontend/commit/4a804dbbe97fa0abf376101783154d1238c2b99e</div>
+                                        <div class="sha">#e930a5e</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,82 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#00851f4</div>
-                                        <div class="message">Update from https://github.com/Recorder-moe/LivestreamRecorderFrontend/commit/45fe7aea9dd5cb80d5249ffc54791e98e76b5b0c</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">Recorder-moe/LivestreamRecorderBackend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2a4b730</div>
-                                        <div class="message">Merge branch 'dev'</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">Recorder-moe/LivestreamRecorderBackend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7762593</div>
-                                        <div class="message">feat: Implement Discord OAuth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#638a282</div>
-                                        <div class="message">refactor: Use interfaces for authentication services</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64f151b</div>
-                                        <div class="message">feat: Implement Github, Microsoft OAuth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bd2659</div>
-                                        <div class="message">feat: Implement Google OAuth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#141b5c1</div>
-                                        <div class="message">feat: Add DI
-
-https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection#register-services</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ad1fcb</div>
-                                        <div class="message">chore: DB查詢效能調整</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e24b710</div>
-                                        <div class="message">Dockerfile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#141116d</div>
-                                        <div class="message">VSCode settings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7874cf0</div>
-                                        <div class="message">feat: add AutoUpdateInfo on channel about adding new channel</div>
+                                        <div class="sha">#5b16684</div>
+                                        <div class="message">Update from https://github.com/Recorder-moe/LivestreamRecorderFrontend/commit/7c34ee87882e82c910cd38d0fb4e5065d76c16f7</div>
                                     </div>
                                 </div>
                             </section>
@@ -137,7 +63,59 @@ https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-depende
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">aspnet-contrib/AspNet.Security.OAuth.Providers</span>
+                                        <span class="repo">guangzhengli/k8s-tutorials</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Recorder-moe/LivestreamRecorderFrontend_dist</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#afa1c45</div>
+                                        <div class="message">Update from https://github.com/Recorder-moe/LivestreamRecorderFrontend/commit/92c8eb522c88ad4899888a6d056fd1a50794b7d4</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">Recorder-moe/AzureFileShares2BlobContainers</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cae1117</div>
+                                        <div class="message">Create LICENSE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#308239f</div>
+                                        <div class="message">bug: 修正filename傳輸至blob storage後不相同</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4200ee</div>
+                                        <div class="message">refactor: Use environment variable for share name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74980b2</div>
+                                        <div class="message">chore: Search file with filename prefix</div>
                                     </div>
                                 </div>
                             </section>
