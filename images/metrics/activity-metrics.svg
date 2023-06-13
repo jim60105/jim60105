@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="464" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="511" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,58 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Recorder-moe/LivestreamRecorderFrontend_dist</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9268f16</div>
+                                        <div class="message">Update from https://github.com/Recorder-moe/LivestreamRecorderFrontend/commit/867d2c143e10105bcd7e76562964a1c19ae4114b</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">Recorder-moe/LivestreamRecorderService</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#793b964</div>
+                                        <div class="message">feat: Add KubernetesServices, NFS Options</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28cb729</div>
+                                        <div class="message">Refactor: Rename ACI functions to match Kubernetes function names.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb74334</div>
+                                        <div class="message">refactor: Refactor settings of AzureFileShares2BlobContainers URL</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c08339</div>
+                                        <div class="message">feat: Try to handled internet issues for fc2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -72,46 +124,6 @@ AutoGenerator to master auto PR</div>
                                 <div class="details">
                                     <div> in <span class="repo">YoutubeClipPlaylist/Playlists</span></div>
                                     <div>7 files changed <span class="code">++883 --589</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Recorder-moe/LivestreamRecorderService</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3133367</div>
-                                        <div class="message">refactor: Refactor settings of AzureFileShares2BlobContainers URL</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Recorder-moe/LivestreamRecorderService</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#50f8c63</div>
-                                        <div class="message">feat: Try to handled internet issues</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
