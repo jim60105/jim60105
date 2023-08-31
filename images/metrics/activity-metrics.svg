@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="836" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="448" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,53 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/docker-whisperX</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#caa5806</div>
-                                        <div class="message">chore: Improve build time cacheing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1faee93</div>
-                                        <div class="message">chore(CI): Update fail-fast strategy in docker workflow
-
-Prevents GitHub from canceling all in-progress jobs if any matrix job fails</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#200 V3 sentence segement issue</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by seset in <span class="repo">m-bain/whisperX</span></div>
-                                    <div class="comment">
-                                        <i>
-                                        </i>
-                                        <i>After few months waiting , Whisperx is still the fastest and best!
-My temp solution for verbose segment issue as below:
-step 1: install whisperx in editable mode:
-$ git clone https://github.com/m-bain/whisperX.git $ cd whisperX $ pip install -e .
-step 2: fix segement duration problem edit below line in "asr.py" , change "30" into "8", i tried 5-10 seconds , the length of subs will be all acceptable. suggest @m-bain to add argument for this...
-vad_segments = merge_chunks(vad_segments, 30)
-https://github.com/m-bain/whisperX/blame/1b092de19a1878a8f138f665b1467ca21b076e7e/whisperx/asr.py#L263
-step3: use "--no_align" to fix extra empty space between when transcribe zh, ja or other language , or to edit "transribe.py" to set it as default. because i don't see that much break lines when not useing alignment, totally acceptable..</i>
-                                        @seset The
-                                        <code>--chunk_size</code>
-                                        argument is added at #445. Please check if this issue is resolved.
-And the ja, ch space issue is also resolved #248.
+                                        <div class="sha">#3738369</div>
+                                        <div class="message">feat(CI): Add quay.io</div>
                                     </div>
                                 </div>
                             </section>
@@ -80,40 +42,54 @@ And the ja, ch space issue is also resolved #248.
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#43113b0</div>
-                                        <div class="message">chore(CI): Disable workflow on PR</div>
+                                        <div class="sha">#a1f3ffe</div>
+                                        <div class="message">chore(no_model): Improve build time caching</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#78b37de</div>
-                                        <div class="message">feat: Add align model hi</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5e67c0d</div>
-                                        <div class="message">Revert "chore(CI): Disable CI"
-
-This reverts commit ff0bf10e28798fbb640e5ca8110a499e5d931fc3.</div>
+                                        <div class="sha">#6e1e1bd</div>
+                                        <div class="message">chore(CI): Try to run docker build matrix with no parallel limited</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#58f2dd8</div>
-                                        <div class="message">Revert "chore(CI): Disable cache"
-
-This reverts commit aa14eaf8164147474f828b2b09881c0928e90ef4.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#234f38c</div>
-                                        <div class="message">Revert "chore(CI): Use self-hosted runners"
-
-This reverts commit 47883621a3689a035a3a99a4dc28aeaf8e668e2e.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#412e965</div>
+                                        <div class="sha">#c882c2c</div>
                                         <div class="message">chore(whisperX): Update submodule</div>
                                     </div>
                                 </div>
@@ -126,121 +102,15 @@ This reverts commit 47883621a3689a035a3a99a4dc28aeaf8e668e2e.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">jim60105/whisperX</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f505702</div>
-                                        <div class="message">chore(writer): Join words without spaces for ja, zh
-
-fix #248, fix #310</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#adf455a</div>
-                                        <div class="message">Merge pull request #445 from jim60105/add-merge-chunk-size-as-argument
-
-feat: Add merge chunks chunk_size as arguments.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9647f60</div>
-                                        <div class="message">Merge branch 'main' into add-merge-chunk-size-as-argument</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8bfac6</div>
-                                        <div class="message">Merge pull request #427 from awerks/main
-
-Update alignment.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d414e2</div>
-                                        <div class="message">Merge pull request #438 from invisprints/fix-speaker-missing
-
-fix missing speaker prefix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c7b039</div>
-                                        <div class="message">Merge pull request #430 from dotgrid/dotgrid-docs-patch
-
-Document --compute_type command line option</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb771cf</div>
-                                        <div class="message">feat: Add merge chunks chunk_size as arguments.
-
-Suggest from https://github.com/m-bain/whisperX/issues/200#issuecomment-1666507780</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc81ab7</div>
-                                        <div class="message">fix missing prefix
-
-Fixed missing the speaker part when enable --highlight_words</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1197c4</div>
-                                        <div class="message">Document --compute_type command line option</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e28492</div>
-                                        <div class="message">Update alignment.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6cb7267</div>
-                                        <div class="message">Update alignment.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abbb66b</div>
-                                        <div class="message">Update alignment.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea7bb91</div>
-                                        <div class="message">Update asr.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2d840f</div>
-                                        <div class="message">Update utils.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb3ed4a</div>
-                                        <div class="message">Update transcribe.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6568820</div>
-                                        <div class="message">Update alignment.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72685d0</div>
-                                        <div class="message">Update asr.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bb4839</div>
-                                        <div class="message">Update alignment.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4acb5b3</div>
-                                        <div class="message">Update asr.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14e593f</div>
-                                        <div class="message">Update alignment.py</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">add-merge-chunk-size-as-argument</span>
-                                        in
-                                        <span class="repo">jim60105/whisperX</span>
+                                        <div class="sha">#eb36902</div>
+                                        <div class="message">doc: Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -263,14 +133,14 @@ Fixed missing the speaker part when enable --highlight_words</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="159.11910440691148" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="159.11910440691148" y="0" width="73.3925505864903" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="232.51165499340178" y="0" width="70.76324575633915" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="303.27490074974094" y="0" width="63.73030144081235" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="367.00520219055323" y="0" width="32.191500173358165" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="399.1967023639114" y="0" width="31.73120834856291" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="430.92791071247433" y="0" width="17.32916149342938" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="448.25707220590374" y="0" width="11.74292779409628" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="159.11937277730124" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="159.11937277730124" y="0" width="73.39267437041606" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="232.51204714771728" y="0" width="70.76336510567758" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="303.2754122533949" y="0" width="63.73040892838212" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="367.005821181777" y="0" width="32.19155446756426" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="399.1973756493412" y="0" width="31.7312618664405" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="430.9286375157817" y="0" width="17.32841488449195" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="448.25705240027366" y="0" width="11.742947599726289" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
