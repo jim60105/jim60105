@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Base metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: images/metrics/base-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -30,7 +30,7 @@ jobs:
           config_order: base.header, isocalendar, notable, base.repositories, base.activity, base.community, gist, base.metadata
           config_padding: 6%
       - name: Activity metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: images/metrics/activity-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -50,7 +50,7 @@ jobs:
           config_order: activity, language
           config_padding: 6%
       - name: Habits metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: images/metrics/habits-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -66,7 +66,7 @@ jobs:
           config_timezone: Asia/Taipei
           config_padding: 6%
       - name: Blog metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: images/metrics/blog.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -80,7 +80,7 @@ jobs:
           config_timezone: Asia/Taipei
           config_padding: 6%
       - name: wakatime metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: images/metrics/wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -99,7 +99,7 @@ jobs:
           config_timezone: Asia/Taipei
           config_padding: 6%
       - name: Achievements metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@v3.34
         with:
           filename: images/metrics/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
