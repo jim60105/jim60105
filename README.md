@@ -32,7 +32,7 @@
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/facebook.png" width="100px" alt="">
     </a>&nbsp;
     <a href="https://twitter.com/jim60105" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/twitter.png" width="100px" alt="">
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/x.png" width="100px" alt="">
     </a>&nbsp;
     <a href="https://www.plurk.com/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/plurk.png" width="100px" alt="">
