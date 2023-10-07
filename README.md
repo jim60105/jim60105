@@ -33,9 +33,6 @@
     </a>&nbsp;
     <a href="https://x.com/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/x.png" width="100px" alt="">
-    </a>&nbsp;
-    <a href="https://www.plurk.com/jim60105" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/plurk.png" width="100px" alt="">
     </a><br>
     <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/github.png" width="100px" alt="">
