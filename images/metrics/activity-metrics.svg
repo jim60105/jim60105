@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="524" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="578" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,7 +29,83 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e0a7b34</div>
+                                        <div class="sha">#8c4c375</div>
+                                        <div class="message">feat: Add YouTube embed to button modal
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00d89c6</div>
+                                        <div class="message">feat: Implement ShareService for centralized sharing functionalities
+
+- New 'ShareService' added to handle sharing functionalities.
+- Sharing functionalities in the 'context-menu.component.ts' file earlier handled manually have been moved to the 'ShareService'.
+- The new service is added to the 'app.module.ts' file to be available to the entire application.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75c0b9c</div>
+                                        <div class="message">feat: Add context menu for audio controls
+
+- Add a context menu trigger to the audio control buttons
+- Import 'ContextMenuComponent' in 'audio-control.component.ts'
+- Add initialization for 'menu' with 'ContextMenuComponent'
+- Move volume initialization above the constructor in 'AudioControlComponent' class
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">sound-buttons/sound-buttons</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ed7c30e</div>
+                                        <div class="message">fix: fix toc list not syncing properly.
+
+- Add `headingsOffset` and `scrollSmoothOffset` to the sound buttons configuration
+- Remove `disableTocScrollSync` from the sound buttons configuration
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0e9675</div>
+                                        <div class="message">feat: integrate new animations into audio control component
+
+- Add "Animista" and "cssanimista" to the recognized words in the vscode settings
+- Change the class of the shuffle button in the audio control component to include "jello-horizontal" animation
+- Update the class of the play and pause buttons in the audio control component to include a "blink-2" animation
+- Incorporate "jello-horizontal" and "blink-2" animation styles into the CSS of the audio control component.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9160253</div>
+                                        <div class="message">style: refactor header search typeahead UI
+
+- Remove the right padding in the header's navigation bar
+- Increase the left padding in the header's navigation bar
+- Remove the `adaptivePosition` attribute in the search input
+- Make search results box scrollable and limit the visible options to 20
+- Add a max width to the typeahead-container with responsiveness for smaller screens
+- Remove a `ps-0` class from divs in the header component's HTML.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f05cd3b</div>
                                         <div class="message">refactor: refactor and clean up UploadComponent code
 
 - Removed the unused `fakeFunction` from UploadComponent
@@ -39,60 +115,12 @@
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e04841a</div>
-                                        <div class="message">feat: "Improve UI interaction and testing robustness"
+                                        <div class="sha">#c053b24</div>
+                                        <div class="message">fix(upload): Block the page scrolling when scrolling on number input.
 
 - Add event.stopPropagation() on wheel events to both `start` and `end` form controls in the Upload Component.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eff363</div>
-                                        <div class="message">Revert "fix: [Violation] Added non-passive event listener to a scroll-blocking &lt;some&gt; event."
-
-This reverts commit ed18fdf96852ce3e8b983db9fec82ee1af5f9e56.
-
-This solution breaks the number input scrolling at upload page.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">sound-buttons/sound-buttons</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#25b788a</div>
-                                        <div class="message">refactor: refactor and clean up UploadComponent code
-
-- Removed the unused `fakeFunction` from UploadComponent
-- Stopped adding a fake event listener for 'wheel' on document in UploadComponent constructor
-- Cleaned up the OnDestroy function by removing the 'wheel' event listener removal
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01ee04d</div>
-                                        <div class="message">feat: "Improve UI interaction and testing robustness"
-
-- Add event.stopPropagation() on wheel events to both `start` and `end` form controls in the Upload Component.
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2be4596</div>
-                                        <div class="message">Revert "fix: [Violation] Added non-passive event listener to a scroll-blocking &lt;some&gt; event."
-
-This reverts commit ed18fdf96852ce3e8b983db9fec82ee1af5f9e56.</div>
                                     </div>
                                 </div>
                             </section>
@@ -111,8 +139,15 @@ This reverts commit ed18fdf96852ce3e8b983db9fec82ee1af5f9e56.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a23084f</div>
-                                        <div class="message">doc: Update README.md</div>
+                                        <div class="sha">#0a38ea1</div>
+                                        <div class="message">feat: integrate new animations into audio control component
+
+- Add "Animista" and "cssanimista" to the recognized words in the vscode settings
+- Change the class of the shuffle button in the audio control component to include "jello-horizontal" animation
+- Update the class of the play and pause buttons in the audio control component to include a "blink-2" animation
+- Incorporate "jello-horizontal" and "blink-2" animation styles into the CSS of the audio control component.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -125,14 +160,22 @@ This reverts commit ed18fdf96852ce3e8b983db9fec82ee1af5f9e56.</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">sound-buttons/.github</span>
+                                        <span class="repo">sound-buttons/sound-buttons</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cae7bbb</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#5eabf28</div>
+                                        <div class="message">feat: "Integrate new CSS animations for player controls"
+
+- Add "Animista" and "cssanimista" to the cSpell.words array in `.vscode/settings.json`.
+- Change the CSS class for the shuffle button from "bi bi-shuffle" to "bi bi-collection-play jello-horizontal".
+- Modify the CSS classes for play and pause buttons to add "blink-2" for animation effects.
+- Add a new CSS animation called "jello-horizontal" for horizontal jello-like movement.
+- Introduce "blink-2" CSS animation for blinking effect.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -145,14 +188,23 @@ This reverts commit ed18fdf96852ce3e8b983db9fec82ee1af5f9e56.</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">sound-buttons/.github</span>
+                                        <span class="repo">sound-buttons/sound-buttons</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c178a9b</div>
-                                        <div class="message">doc: Update README.md</div>
+                                        <div class="sha">#7c91c4d</div>
+                                        <div class="message">style: refactor header search typeahead UI
+
+- Remove the right padding in the header's navigation bar
+- Increase the left padding in the header's navigation bar
+- Remove the `adaptivePosition` attribute in the search input
+- Make search results box scrollable and limit the visible options to 20
+- Add a max width to the typeahead-container with responsiveness for smaller screens
+- Remove a `ps-0` class from divs in the header component's HTML.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
