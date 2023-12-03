@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,20 +23,16 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-whisperX</span>
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a446032</div>
-                                        <div class="message">chore: update Trivy scan workflow to generate HTML report
+                                        <div class="sha">#0352deb</div>
+                                        <div class="message">chore: Disable arm64 workflow as they failed to build on GitHub free runners
 
-- Add `html.tpl` file for generating HTML report for Trivy scan results
-- Modify `.github/workflows/scan.yml` to use the new `html.tpl` template for generating HTML report
-- Change the output file name for Trivy scan results from `trivy-results-python.sarif` to `trivy-results-python.html`
-- Add an artifact named `artifact` with the path `trivy-results-python.html` for storing the Trivy scan results
-- Add the same changes for scanning Red Hat UBI base image
+- Commented out the steps for building and pushing arm64 and UBI arm64 images in the Docker Publish workflow
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -51,20 +47,18 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-whisperX</span>
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ece1db</div>
-                                        <div class="message">chore: update Trivy scan workflow to generate HTML report
+                                        <div class="sha">#bdf83e1</div>
+                                        <div class="message">chore: Split docker build platform into different actions
 
-- Add `html.tpl` file for generating HTML report for Trivy scan results
-- Modify `.github/workflows/scan.yml` to use the new `html.tpl` template for generating HTML report
-- Change the output file name for Trivy scan results from `trivy-results-python.sarif` to `trivy-results-python.html`
-- Add an artifact named `artifact` with the path `trivy-results-python.html` for storing the Trivy scan results
-- Add the same changes for scanning Red Hat UBI base image
+- Update the `platforms` property for the `Build and push` step to only include `linux/amd64`
+- Add a new step `Build and push arm64` with the `platforms` property set to `linux/arm64`
+- Add a new step `Build and push UBI arm64` with the `platforms` property set to `linux/arm64`
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -79,20 +73,17 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-whisperX</span>
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#790bd66</div>
-                                        <div class="message">chore: update Trivy scan workflow to generate HTML report
+                                        <div class="sha">#fbe7cc6</div>
+                                        <div class="message">chore: add QEMU setup step and Docker build target specification
 
-- Add `html.tpl` file for generating HTML report for Trivy scan results
-- Modify `.github/workflows/scan.yml` to use the new `html.tpl` template for generating HTML report
-- Change the output file name for Trivy scan results from `trivy-results-python.sarif` to `trivy-results-python.html`
-- Add an artifact named `artifact` with the path `trivy-results-python.html` for storing the Trivy scan results
-- Add the same changes for scanning Red Hat UBI base image
+- Added a step to set up QEMU
+- Added a target specification for Docker build step
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -107,20 +98,18 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-whisperX</span>
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8c1a65a</div>
-                                        <div class="message">chore: update Trivy scan workflow to generate HTML report
+                                        <div class="sha">#23ff158</div>
+                                        <div class="message">feat: add Docker meta-ubi job to workflow
 
-- Add `html.tpl` file for generating HTML report for Trivy scan results
-- Modify `.github/workflows/scan.yml` to use the new `html.tpl` template for generating HTML report
-- Change the output file name for Trivy scan results from `trivy-results-python.sarif` to `trivy-results-python.html`
-- Add an artifact named `artifact` with the path `trivy-results-python.html` for storing the Trivy scan results
-- Add the same changes for scanning Red Hat UBI base image
+- Add Docker meta-ubi job to the workflow
+- Add step to set up Docker Buildx
+- Add build and push UBI step to the workflow
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -135,20 +124,19 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-whisperX</span>
+                                        <span class="repo">jim60105/YoutubeLiveChatToDiscord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f19a0cd</div>
-                                        <div class="message">chore: update Trivy scan workflow to generate HTML report
+                                        <div class="sha">#128d06e</div>
+                                        <div class="message">docs: Add English readme
 
-- Add `html.tpl` file for generating HTML report for Trivy scan results
-- Modify `.github/workflows/scan.yml` to use the new `html.tpl` template for generating HTML report
-- Change the output file name for Trivy scan results from `trivy-results-python.sarif` to `trivy-results-python.html`
-- Add an artifact named `artifact` with the path `trivy-results-python.html` for storing the Trivy scan results
-- Add the same changes for scanning Red Hat UBI base image
+- Add .prettierrc file with overrides for markdown files
+- Add .vscode/settings.json file with cSpell words
+- Add README-zh.md file with translated content
+- Update README.md file with translated content
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -173,14 +161,14 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.551859713732" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="157.551859713732" y="0" width="72.54033215923498" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="230.09219187296694" y="0" width="70.24681296322656" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="300.33900483619345" y="0" width="62.95861838819891" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="363.2976232243924" y="0" width="35.61770601903534" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="398.9153292434277" y="0" width="32.23091384015854" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="431.14624308358634" y="0" width="17.2194053276677" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="448.365648411254" y="0" width="11.634351588745984" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.56308651051694" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="157.56308651051694" y="0" width="72.53320182947132" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="230.09628833998826" y="0" width="70.23990807423083" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="300.33619641421905" y="0" width="62.95242989005988" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="363.2886263042789" y="0" width="35.61420498751563" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="398.90283129179454" y="0" width="32.22774571234022" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="431.13057700413475" y="0" width="17.236215002150345" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="448.36679200628515" y="0" width="11.633207993714851" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
