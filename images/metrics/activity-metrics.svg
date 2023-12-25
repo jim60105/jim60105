@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="493" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="502" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.stackoverflow{margin-left:38px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,8 +29,10 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2859a21</div>
-                                        <div class="message">fix: Also fix the same Youtube iframe issue in button preview.
+                                        <div class="sha">#f5d679d</div>
+                                        <div class="message">feat: add YouTube video embed at button display only when source exists
+
+- Add YouTube video embed when button source has a videoId
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -41,16 +43,72 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#24 The `start` parameter of the Youtube iframe does not working, it will force a jump back to the user's last viewing position.</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">sound-buttons/sound-buttons</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by leadra in <span class="repo">sound-buttons/sound-buttons</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#559cd87</div>
+                                        <div class="message">chore: improve asset regex for worker and frontEnd files
+
+- Modify the file `worker/worker.js`
+- Add a new file type `ico` to the `image` asset regex
+- Add a new file type `map` to the `frontEnd` asset regex
+- Modify the regex for the `main.json` asset to match the exact path
+- Modify the regex for the `json` asset to match any file type with the extension `.json`
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b0acdf</div>
+                                        <div class="message">feat: improve caching and handling of static assets
+
+- Add caching for specific assets in the `worker.js` file
+- Handle requests for static assets in the `HandleStaticRequest` function
+- Update the cache TTL for different HTTP status code ranges in the `HandleStaticRequest` function
+- Log the static request URL and cache TTL in the console
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">sound-buttons/sound-buttons</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#08326c8</div>
+                                        <div class="message">chore: fix typos
+
+- Fix a typo in the file `.github/workflows/azure-static-web-apps-red-tree-089840f00.yml`
+- Change `Github` to `GitHub` in the file `src/app/footer/footer.component.html`
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90c50fe</div>
+                                        <div class="message">docs: update footer logo with multiple format support
+
+- Add new footer logo with multiple format support (avif, webp, png)
+- Link the logo to the project's GitHub repository
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -68,10 +126,11 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#400d1b1</div>
-                                        <div class="message">fix: Youtube iframe will force a jump back to the user's last viewing position.
+                                        <div class="sha">#3f291bf</div>
+                                        <div class="message">feat: add filter buttons for submitting and clearing filters
 
-Close #24
+- Add functionality to clear the search field by clicking a button with a close icon
+- Add functionality to submit the search filter by clicking a button with a funnel icon
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -82,84 +141,22 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#24 預覽會跳回最後觀看處</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">sound-buttons/sound-buttons</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by leadra in <span class="repo">sound-buttons/sound-buttons</span></div>
-                                    <div class="comment">
-                                        <i>This is a translation for newcomers, the content is the same as the previous comment which wrote in Chinese.</i>
-                                        The problem lies in YouTube's memory of the user's last viewing history and its attempt to start playing from the last viewed position. This conflicts with the purpose of the start parameter in iframes, and I believe it is a bug on YouTube's side.
-From the perspective of sound-buttons, the solution is to block iframe access to cookies so that there won't be any issues without user information.
-                                        <i>Note: https://stackoverflow.com/a/59292044 ``</i>
-                                        When using only
-                                        <code>sandbox="allow-scripts"</code>
-                                        , it also blocks iframe access to
-                                        <code>document.caches</code>
-                                        , causing YouTube to malfunction directly. It needs to be added with
-                                        <code>sandbox="allow-scripts allow-same-origin"</code>
-                                        . However,
-                                        <code>allow-same-origin</code>
-                                        also allows it to use cookies, so this method cannot solve our issue.
-The solution is to use
-                                        <code>credentialless</code>
-                                        on iframes.
-                                        <code class="language-html"></code>
-                                        This will made this iframe excute in a separate new context. It can access what was mentioned above but within a new context, similar to using an incognito window (strictly speaking not exactly the same, but you can understand it simply like that).
-Please note that this feature has limited cross-browser support. You can test whether your environment supports it on this webpage: https://iframe-credentialless.glitch.me/
-There are two exceptions:
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#52fb0d1</div>
+                                        <div class="message">chore: add preconnect link for view-counter to improve performance
 
-Brave browser does not support iframe credentialless in actual testing. Brave users has to enable Shields on YouTube and setup to block third-party cookies.
+- Add a preconnect link to 'view-counter.sound-buttons.click' in index.html
 
-Safari does not support iframe credentialless. However, Safari blocks all third-party cookies, so there is no problem in our usage scenario.
-
-Note that Chrome plans to phase out third-party cookies by 2024 Q3.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#24 預覽會跳回最後觀看處</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by leadra in <span class="repo">sound-buttons/sound-buttons</span></div>
-                                    <div class="comment">
-                                        問題是出在 Youtube 會記憶使用者上次的觀看記錄，並試圖從上次的觀看位置開始播放。這跟 iframe 的 start 參數用途衝突，我認為是一個 (Youtube方面的) bug。
-從 sound-buttons 的角度來說，解決方案是阻擋 iframe 存取 cookies，沒有用戶資訊就不會有被記錄的問題。
-                                        <i>筆記 https://stackoverflow.com/a/59292044 ``</i>
-                                        僅使用
-                                        <code>sandbox="allow-scripts"</code>
-                                        時同時會阻擋 iframe 存取
-                                        <code>document.caches</code>
-                                        導致Youtube直接罷工，需加上
-                                        <code>sandbox="allow-scripts allow-same-origin"</code>
-                                        。而
-                                        <code>allow-same-origin</code>
-                                        也會允許它使用 cookies，所以這個方法無法解決問題。
-解決方案是在 iframe 上使用
-                                        <code>credentialless</code>
-                                        <code class="language-html"></code>
-                                        這會使這個 iframe 被開啟在一個獨立的新的執行環境。它可以訪問前述需要的東西，但是是在一個新的環境，就像是使用無痕視窗(嚴格來說並不相同，但你可以簡單的如此理解)。
-需要注意的是它的支援性並不完整。在此網頁上可以測試自己的環境是否支援: https://iframe-credentialless.glitch.me/
-有兩特例:
-
-Brave 瀏覧器實測並不支援 iframe credentialless。Brave 用戶請在 Youtube 頁面上啟用 Shields 並設定阻擋第三方 cookies。
-
-Safari 不支援 iframe credentialless。但是 Safari 阻擋所有的第三方 cookies，所以在我的使用情境中並沒有問題。
-
-附註，Chrome預計於 2024 Q3 全面停用第三方 cookies。
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -182,14 +179,14 @@ Safari 不支援 iframe credentialless。但是 Safari 阻擋所有的第三方 
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="160.64983897162048" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="160.64983897162048" y="0" width="72.9466817143329" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="233.59652068595335" y="0" width="70.72267334636241" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="304.31919403231575" y="0" width="63.31129400754219" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="367.63048803985794" y="0" width="35.99284318313193" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="403.62333122298986" y="0" width="26.7856533348014" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="430.40898455779126" y="0" width="17.979465440832392" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="448.3884499986236" y="0" width="11.61155000137631" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="160.8651415193399" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="160.8651415193399" y="0" width="72.89421604547601" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="233.7593575648159" y="0" width="70.67180725796382" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="304.43116482277975" y="0" width="63.26575842856534" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="367.696923251345" y="0" width="35.966955938540615" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="403.6638791898856" y="0" width="26.766388206012092" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="430.4302673958977" y="0" width="17.966534013961784" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="448.39680140985945" y="0" width="11.603198590140456" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
