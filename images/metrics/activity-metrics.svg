@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="451" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="540" class="">
     <defs>
         <style/>
     </defs>
@@ -23,67 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Recorder-moe/LivestreamRecorderFrontend_dist</span>
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9f2bb81</div>
-                                        <div class="message">Update from https://github.com/Recorder-moe/LivestreamRecorderFrontend/commit/c463bd1a734412e90042c1700d865d0b8022081e</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Recorder-moe/k8s-recorder.moe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cc3128d</div>
-                                        <div class="message">Release 0.3.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab8f60c</div>
-                                        <div class="message">chore: fix allowPrivilegeEscalation</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Recorder-moe/k8s-recorder.moe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#97ef20e</div>
-                                        <div class="message">Release 0.3.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0a213f</div>
-                                        <div class="message">feat: enhance security and adjust ports in Recordermoe deployments
-
-- Added `allowPrivilegeEscalation: false` to the security context of the backend, frontend, and service deployments in Recordermoe for enhanced security.
-- Adjusted the frontend deployment's security context to include `runAsUser: 101`, `runAsGroup: 0`, and `fsGroup: 0`.
-- Changed the container port of the frontend deployment from `80` to `8080`.
-- Correspondingly updated the targetPort of the frontend service from `80` to `8080`.
+                                        <div class="sha">#05b33f1</div>
+                                        <div class="message">ci: Add the missing build-args: GIT_SHA in first no_module build step
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -94,11 +41,44 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">devfile/developer-images</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">jim60105/docker-whisperX</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e5577d9</div>
+                                        <div class="message">doc: Update REDME.md
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4e9c7f</div>
+                                        <div class="message">ci: Add SHA matches in the cache and test stages.
+
+- Introduce a step to get the short SHA of the current commit.
+- Include the short SHA in the cache tag used by the Build and push job.
+- Use the short SHA in the tag for testing the large-v3-zh docker image.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cd70ba</div>
+                                        <div class="message">ci: enhance CI security scans and artifact handling
+
+- Update Trivy action used in vulnerability scans to 0.16.1 in both Python and UBI workflows
+- Ensure Trivy action always exits with code '1' on identified vulnerabilities in both Python and UBI workflows
+- Add `ignore-unfixed` flag to Trivy configuration to ignore unresolved vulnerabilities in both Python and UBI workflows
+- Bump `upload-artifact` action version to v4 and rename artifact for better differentiation in both Python and UBI workflows
+- Add conditional execution (`if: always()`) to ensure artifacts are always uploaded even if preceding steps fail
+- Introduce a new SARIF format Trivy vulnerability scan and upload the results to the GitHub Security tab for the UBI image
+- Modify the GitHub actions badge in the `README.md` to point to the Docker publish workflow instead of the scan workflow
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -111,14 +91,93 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/Dockerfile-template</span>
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bc2daed</div>
-                                        <div class="message">feat: Rewrite Nginx</div>
+                                        <div class="sha">#c30854d</div>
+                                        <div class="message">ci: Add SHA matches in the cache and test stages.
+
+- Introduce a step to get the short SHA of the current commit.
+- Include the short SHA in the cache tag used by the Build and push job.
+- Use the short SHA in the tag for testing the large-v3-zh docker image.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jim60105/docker-whisperX</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fa5bfed</div>
+                                        <div class="message">ci: Add SHA marches in the cache and test stages.
+
+- Introduce a step to get the short SHA of the current commit.
+- Include the short SHA in the cache tag used by the Build and push job.
+- Use the short SHA in the tag for testing the large-v3-zh docker image.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#824389f</div>
+                                        <div class="message">ci: enhance CI security scans and artifact handling
+
+- Update Trivy action used in vulnerability scans to 0.16.1 in both Python and UBI workflows
+- Ensure Trivy action always exits with code '1' on identified vulnerabilities in both Python and UBI workflows
+- Add `ignore-unfixed` flag to Trivy configuration to ignore unresolved vulnerabilities in both Python and UBI workflows
+- Bump `upload-artifact` action version to v4 and rename artifact for better differentiation in both Python and UBI workflows
+- Add conditional execution (`if: always()`) to ensure artifacts are always uploaded even if preceding steps fail
+- Introduce a new SARIF format Trivy vulnerability scan and upload the results to the GitHub Security tab for the UBI image
+- Modify the GitHub actions badge in the `README.md` to point to the Docker publish workflow instead of the scan workflow
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jim60105/docker-whisperX</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f604dfd</div>
+                                        <div class="message">doc: Update REDME.md
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#620a2fc</div>
+                                        <div class="message">chore: Add GIT_SHA tagging
+
+- Add SHA-tagged suffix to image tag types in docker-reused-setup-steps action
+- Introduce GIT_SHA as a build argument in docker_publish workflow for ubi.Dockerfile builds
+- Include GIT_SHA as a build argument for multiple targets (no_model, load_whisper) in docker_publish workflow
+- Change NO_MODEL_STAGE and LOAD_WHISPER_STAGE to use SHA-tagged images in docker_publish workflow
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -141,14 +200,14 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="159.34974011021035" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="159.34974011021035" y="0" width="72.23665843800788" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="231.58639854821823" y="0" width="70.03889107372152" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="301.62528962193977" y="0" width="62.66355999260842" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="364.28884961454816" y="0" width="36.23891381703948" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="400.52776343158763" y="0" width="26.511610937640665" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="427.0393743692283" y="0" width="21.467872694277688" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="448.507247063506" y="0" width="11.492752936494023" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="159.26420345100865" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="159.26420345100865" y="0" width="72.19788283391586" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="231.4620862849245" y="0" width="70.00129519968688" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="301.4633814846114" y="0" width="62.6299230907111" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="364.0933045753225" y="0" width="36.21946128690757" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="400.31276586223004" y="0" width="26.497379884435983" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="426.8101457466661" y="0" width="21.703270462083207" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="448.5134162087493" y="0" width="11.48658379125075" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
