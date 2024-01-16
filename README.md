@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />Hi, I'm Jim 陳鈞,
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=from+Taiwan!;a+professional+C%23+developer.;an+advocate+for+open+source.;familiar+with+containerization.;know+a+bit+about+Typescript,+Angular,+and+Vuejs.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=from+Taiwan!;a+professional+C%23+developer.;an+advocate+for+open+source.;familiar+with+Docker.;know+a+bit+about+Typescript.)](https://git.io/typing-svg)
 
 ### ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 
