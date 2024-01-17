@@ -1,10 +1,10 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />Hi, I'm Jim 陳鈞,
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=from+Taiwan!;a+professional+C%23+developer.;an+advocate+for+open+source.;familiar+with+Docker.;know+a+bit+about+Typescript.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hailing+from+Taiwan!;a+professional+C%23+developer.;an+advocate+for+open+source.;familiar+with+Docker.;know+a+bit+about+frontend+frameworks.;have+several+cloud+computing+development+experiences.)](https://git.io/typing-svg)
 
 ### ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 
-I'm a C# engineer hailing from Taiwan, with specializing in **Web API backend** and **general application**. Besides relying on it for survival, I also used it in my side projects as well. Feel free to explore my [C# repositories](https://github.com/jim60105?tab=repositories&q=&type=&language=c%23&sort=) and my (biggest) side project [Recorder-moe](https://github.com/Recorder-moe).
+I'm a professional C# developer from Taiwan, with specializing in **Web API backend** and **general application**. Besides relying on it for survival, I also used it in my side projects as well. Feel free to explore my [C# repositories](https://github.com/jim60105?tab=repositories&q=&type=&language=c%23&sort=) and my (biggest) side project [Recorder-moe](https://github.com/Recorder-moe).
 
 ### ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -20,7 +20,7 @@ To be conservative, I know a bit about **frontend frameworks**. As a backend dev
 
 I gotta talk about **cloud computing services**, man. I have delve into both Cloudflare Workers and Azure Functions. They are truly a blessing for those on a tight budget! Thanks to them, I managed to slash the operational costs of [Sound Buttons](https://github.com/sound-buttons/sound-buttons_upload-backend) to practically nothing on the backend servers.
 
-By the way, Cloudflare workers are great for [generating open graph meta tags](https://github.com/Recorder-moe/OpenGraphTagBuilder) in front of an Angular SPA. Additionally, it is well-suited for [cloud-based web applications that experience high traffic](https://github.com/jim60105/simple-poll-system). I have written a few [blog posts](https://blog.maki0419.com/search/label/Cloudflare) on this topic (in Chinese).
+Furthermore, Cloudflare workers are great for [generating open graph meta tags](https://github.com/Recorder-moe/OpenGraphTagBuilder) in front of the SPA and also well-suited for [web applications that experience high traffic](https://github.com/jim60105/simple-poll-system). I have written a few [blog posts](https://blog.maki0419.com/search/label/Cloudflare) on this topic (in Chinese).
 
 <hr>
 
