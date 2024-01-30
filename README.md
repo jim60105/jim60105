@@ -1,5 +1,6 @@
 ### Hi, I'm Jim 陳鈞,
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+hailing+from+Taiwan!;💼+a+professional+C%23+developer.;❤️+an+advocate+for+open+source!;🐋+familiar+with+Docker.;🌐+know+a+bit+about+frontend+frameworks.;☁️+have+several+cloud+computing+development+experiences.&width=650&pause=1500)](https://git.io/typing-svg)
 
 ### ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -51,24 +52,24 @@ Feel free to find me in the following places, and I mainly lives in [Mastodon](h
 </p>
 
 [![img](https://github.com/jim60105/jim60105/raw/master/images/banner.png)](https://blog.maki0419.com/2020/03/niz-atom68-micro82.html)
+[![img](https://github.com/jim60105/jim60105/raw/master/images/stat.svg)](https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c)
 
 <!-- prettier-ignore -->
-<table>
-<thead>
-<tr>
-<th width="500px"><img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/base-metrics.svg"/><br><img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/achievements.svg" /></th>
-<th width="500px"><a href="https://github.com/jim60105?tab=repositories"><img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/activity-metrics.svg"/><br><img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/habits-metrics.svg" /></a><a href="https://blog.maki0419.com/"><img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/blog.svg" /></a></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
-<p align='center'>
-<img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/wakatime.svg" /><br>
-<img src="https://github.com/jim60105/jim60105/raw/master/images/stat.svg"/>
-</p>
-<p align='right'>
-    <a href="https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c" title="Total time coded since Feb 26 2021"><img src="https://wakatime.com/badge/user/9646c960-8448-40df-9125-0c72a729c33c.svg" alt="Total time coded since Feb 26 2021" /></a><br>
+<details>
+    <summary>More info</summary>
+    
+<div align='right' style='float: right'>
+    <a href="https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c" title="Total time coded since Feb 26 2021"><img src="https://wakatime.com/badge/user/9646c960-8448-40df-9125-0c72a729c33c.svg?style=flat-square" alt="Total time coded since Feb 26 2021" /></a><br>
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jim60105/jim60105?label=Last%20Update&style=flat-square">
-</p>
+</div>
+    <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/base-metrics.svg"/>
+    <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/achievements.svg" />
+    <a href="https://github.com/jim60105?tab=repositories">
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/activity-metrics.svg"/>
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/habits-metrics.svg" />
+    </a>
+    <a href="https://blog.maki0419.com/">
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/blog.svg" />
+    </a>
+    <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/wakatime.svg" />
+</details>
