@@ -61,9 +61,6 @@ Feel free to find me in the following places, and I mainly lives in [Mastodon](h
 <!-- prettier-ignore -->
 <details>
     <summary>More info</summary>
-<div align='right' style='float: right'>
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jim60105/jim60105?label=Last%20Update&style=flat-square">
-</div>
     <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/base-metrics.svg"/>
     <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/achievements.svg" />
     <a href="https://github.com/jim60105?tab=repositories">
