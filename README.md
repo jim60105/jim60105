@@ -1,6 +1,5 @@
 ### Hi, I'm Jim 陳鈞,
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+hailing+from+Taiwan!;💼+a+professional+C%23+developer.;❤️+an+advocate+for+open+source!;🐋+familiar+with+Docker.;🌐+know+a+bit+about+frontend+frameworks.;☁️+have+several+cloud+computing+development+experiences.&width=650&pause=1500)](https://git.io/typing-svg)
 
 ### ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -19,7 +18,7 @@ To be conservative, I know a bit about **frontend frameworks**. As a backend dev
 
 ### ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
 
-I gotta talk about **cloud computing services**, man. I have delve into both Cloudflare Workers and Azure Functions. They are truly a blessing for those on a tight budget! Thanks to them, I managed to slash the operational costs of [Sound Buttons](https://github.com/sound-buttons/sound-buttons_upload-backend) to practically nothing on the backend servers.
+I gotta talk about **cloud computing services**. I have delve into both Cloudflare Workers and Azure Functions. They are truly a blessing for those on a tight budget! Thanks to them, I managed to slash the operational costs of [Sound Buttons](https://github.com/sound-buttons/sound-buttons_upload-backend) to practically nothing on the backend servers.
 
 Furthermore, Cloudflare workers are great for [generating open graph meta tags](https://github.com/Recorder-moe/OpenGraphTagBuilder) in front of the SPA and also well-suited for [web applications that experience high traffic](https://github.com/jim60105/simple-poll-system). I have written a few [blog posts](https://blog.maki0419.com/search/label/Cloudflare) on this topic (in Chinese).
 
