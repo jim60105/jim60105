@@ -51,14 +51,17 @@ Feel free to find me in the following places, and I mainly lives in [Mastodon](h
 </p>
 
 [![img](https://github.com/jim60105/jim60105/raw/master/images/banner.png)](https://blog.maki0419.com/2020/03/niz-atom68-micro82.html)
+
+<div align='right' style='float: right'>
+    <a href="https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c" title="Total time coded since Feb 26 2021"><img src="https://wakatime.com/badge/user/9646c960-8448-40df-9125-0c72a729c33c.svg?style=flat-square" alt="Total time coded since Feb 26 2021" /></a>
+</div>
+
 [![img](https://github.com/jim60105/jim60105/raw/master/images/stat.svg)](https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c)
 
 <!-- prettier-ignore -->
 <details>
     <summary>More info</summary>
-    
 <div align='right' style='float: right'>
-    <a href="https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c" title="Total time coded since Feb 26 2021"><img src="https://wakatime.com/badge/user/9646c960-8448-40df-9125-0c72a729c33c.svg?style=flat-square" alt="Total time coded since Feb 26 2021" /></a><br>
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jim60105/jim60105?label=Last%20Update&style=flat-square">
 </div>
     <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/base-metrics.svg"/>
@@ -70,5 +73,4 @@ Feel free to find me in the following places, and I mainly lives in [Mastodon](h
     <a href="https://blog.maki0419.com/">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/blog.svg" />
     </a>
-    <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/wakatime.svg" />
 </details>
