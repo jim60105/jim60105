@@ -10,7 +10,7 @@ I'm a professional C# developer from Taiwan, with specializing in **Web API back
 
 I'm pretty well-versed in **containerization technology** and have a knack for creating advanced containers. If you're interested, you can find some of the cool stuff I've worked on in [this Dockerfile-template project](https://github.com/jim60105/Dockerfile-template).
 
-I've got some basic knowledge about **kubernetes** too. In my home lab, I'm running a cluster with bare-metal Talos Linux for my personal services.
+I've got some basic knowledge about **kubernetes** too. In my home lab, I'm running a cluster with bare-metal Talos Linux for my personal services. It was quite a challenge for me to build it, but I gained a wealth of knowledge along the way.
 
 ### ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
