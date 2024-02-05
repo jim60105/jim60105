@@ -14,7 +14,9 @@ I've got some basic knowledge about **kubernetes** too. In my home lab, I'm runn
 
 ### ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-To be conservative, I know a bit about **frontend frameworks**. As a backend developer, I prefer a function-oriented approach and I must admit that my UI designs could use some improvement. Please take a look at these small websites - [Sound Buttons](https://github.com/sound-buttons) and [Unfair Spin Wheel](https://github.com/jim60105/UnfairSpinWheel). They get the job done, but far from eye-catching.
+To be conservative, I know a bit about **frontend frameworks**. As a backend developer, I prefer a function-oriented approach and I must admit that my UI designs could use some improvement. Please take a look at these simple websites - [Sound Buttons](https://github.com/sound-buttons) (Angular) and [Unfair Spin Wheel](https://github.com/jim60105/UnfairSpinWheel) (Vue.js). They may not be visually stunning, but they serve their purpose.
+
+Apart from that, I've been experimenting with web development for years and familiar with the tech stack, I can collaborate effectively with a UI/UX designer who can help strengthen my weak area.
 
 ### ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
 
