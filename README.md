@@ -16,7 +16,7 @@ I've got some basic knowledge about **kubernetes** too. In my home lab, I'm runn
 
 To be conservative, I know a bit about **frontend frameworks**. As a backend developer, I prefer a function-oriented approach and I must admit that my UI designs could use some improvement. Please take a look at these simple websites - [Sound Buttons](https://github.com/sound-buttons) (Angular) and [Unfair Spin Wheel](https://github.com/jim60105/UnfairSpinWheel) (Vue.js). They may not be visually stunning, but they serve their purpose.
 
-Apart from that, I've been experimenting with web development for years and familiar with the tech stack, I can collaborate effectively with a UI/UX designer who can help strengthen my weak area.
+Apart from that, I've been experimenting with web development for years and familiar with the tech stack. I see myself as a **"backend developer with knowledge of frontend"**, which allows me to approach problems from a full stack perspective.
 
 ### ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
 
