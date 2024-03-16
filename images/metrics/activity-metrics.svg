@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="502" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="359" class="">
     <defs>
         <style/>
     </defs>
@@ -19,6 +19,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">antfu/qrcode-toolkit</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">Bing-su/adetailer</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -29,64 +55,10 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fd2b8be</div>
-                                        <div class="message">doc: Update README about forge
+                                        <div class="sha">#7cfb9ea</div>
+                                        <div class="message">chore: bind `data/models` to `/app/models`
 
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fe5bc56</div>
-                                        <div class="message">doc: Update README about forge
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96c268b</div>
-                                        <div class="message">feat: add docker compose for Forge
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f80c63</div>
-                                        <div class="message">chore: change data/outputs to data/output, align with the default of SD webUI
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ebad83</div>
-                                        <div class="message">doc: add "Switch between different versions/branches"
+Because some extension does not respect --data-dir settings.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -107,8 +79,10 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8b1bedf</div>
-                                        <div class="message">chore: change data/outputs to data/output, align with the default of SD webUI
+                                        <div class="sha">#48cd310</div>
+                                        <div class="message">chore: bind `data/extensions` to `/app/extensions`
+
+Because some extension does not respect --data-dir settings.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -119,20 +93,11 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c442382</div>
-                                        <div class="message">doc: add "Switch between different versions/branches"
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                        Starred
+                                        <span class="repo">OpenTalker/SadTalker</span>
                                     </div>
                                 </div>
                             </section>
@@ -155,14 +120,14 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="144.44451506715183" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="144.44451506715183" y="0" width="69.42061441039642" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="213.86512947754824" y="0" width="65.4742027298778" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="279.3393322074261" y="0" width="59.8338753506829" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="339.17320755810897" y="0" width="56.80578743543301" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="395.97899499354196" y="0" width="32.85064478412535" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="428.8296397776673" y="0" width="20.74412092802532" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="449.5737607056926" y="0" width="10.426239294307369" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.1026327643648" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="127.1026327643648" y="0" width="104.61076898426116" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="231.71340174862598" y="0" width="61.0860360850611" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="292.7994378336871" y="0" width="58.10729153440113" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="350.90672936808824" y="0" width="50.03388643000961" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="400.9406157980978" y="0" width="28.90662506726647" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="429.84724086536426" y="0" width="18.644727971364134" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="448.49196883672835" y="0" width="11.5080311632716" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -170,6 +135,12 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                             <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C#
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -182,12 +153,6 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
