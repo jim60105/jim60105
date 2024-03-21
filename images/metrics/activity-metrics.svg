@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="469" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,43 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#6 無法更新FFmpeg</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by s3840jeff in <span class="repo">jim60105/YoutubeSegmentDownloader</span></div>
+                                    <div class="comment">
+                                        <i>您好，再度叨擾 回報近期使用狀況 近期使用YSD下載影片時，即高機率會程式關閉(直接消失) 如果是抓短片還有機會在程式當機(消失)前下載完成 但我時常需要抓自己實況VOD檔，基本上都數小時起跳，一定會遇到程式當機 偏偏YT能提供的後台下載影片只有720P 30FPS 做後製剪接不好用 只好再次和您回報問題，希望能尋求解方。</i>
+                                        我開了新 issue 追蹤此問題 #7
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#7 Crash when the download time is too long</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">jim60105/YoutubeSegmentDownloader</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -102,49 +139,6 @@ Node.js 16 actions are deprecated. Please update the following actions to use No
 - Update `docker/setup-buildx-action` from version 2 to version 3 in the `docker-reused-setup-steps/action.yml` workflow.
 - Update `docker/login-action` from version 2 to version 3 in the `docker-reused-setup-steps/action.yml` workflow.
 - Update `docker/build-push-action` from version 4 to version 5 in the `docker_publish.yml` workflow.
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2109 The template for Runpod does not work</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by nvjob in <span class="repo">bmaltais/kohya_ss</span></div>
-                                    <div class="comment">Perhaps having rsync print the status would be a solution?
-https://askubuntu.com/a/907717
-The user is experiencing difficulty due to not being aware of the current state. Providing information about the status can help in preventing similar issues in the future, and saves your time.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-whisperX</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c946f05</div>
-                                        <div class="message">ci: use registry caching in Docker build workflows
-
-The CI will failed because the cache was not found. This happened because GitHub limits caches to 10GB and does not update the indexed.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
