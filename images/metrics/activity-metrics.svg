@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="788" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="712" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.licenses{display:flex}.licenses .column{align-items:flex-start;font-size:12px;color:#666;flex-shrink:0}.licenses .column:nth-child(1){margin-left:13px;width:25%}.licenses .column:nth-child(2){width:25%}.licenses .column:nth-child(3){width:50%}.licenses .column svg{height:12px;width:12px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,18 +23,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-infinite-image-browsing</span>
+                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#48929a5</div>
-                                        <div class="message">build: Enhance Nuitka compiler with LTO and UPX plugin
+                                        <div class="sha">#98fbc1a</div>
+                                        <div class="message">ci: refine triggers for `docker_publish` workflow
 
-- Enable Link Time Optimization (LTO) in the Python to C++ compiler (Nuitka)
-- Add a UPX plugin in Nuitka compiler
-- Leave a note about potential failure of UPX plugin when file size exceeds 768MB
+- Removed the trigger for the `docker_publish` workflow on push to `master` branch
+- Retained the trigger for the `docker_publish` workflow on the push of tags that match the pattern `v*` and on the schedule (7:00 AM every Sunday)
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -48,25 +47,29 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-infinite-image-browsing</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7f997e5</div>
-                                        <div class="message">chore: refactor Dockerfile for optional Nuitka compilation
+                                        <div class="sha">#75d494c</div>
+                                        <div class="message">chore: bump ffmpeg 7.0-1
 
-- Changed the target in the docker publish workflow from 'final' to 'final_nuitka'
-- Removed the Nuitka compilation in Dockerfile and added a base stage
-- Reordered and organized Dockerfile with comments to differentiate between stages
-- Changed build stage, installing build-essential only, removed specific patchelf
-- Removed Nuitka installation from requirements
-- Added a cleanup process removing all byte-compiled Python files
-- Added stages 'prepare_final', 'compile_nuitka', 'report_nuitka', 'final_nuitka', and redefined the 'final' stage
-- Accommodated the changes in Docker building with either Nuitka compiled or normal Python execution as options
-- Readability and maintainability of Dockerfile improved by reorganizing and commenting stages
+- Upgrade the `ffmpeg` version from `6.1.1` to `7.0-1` in Dockerfile.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33744f3</div>
+                                        <div class="message">build: optimize Dockerfile for smaller size and OpenShift compatibility
+
+- Change Dockerfile comment to indicate final stage with requirements not installed for slower start but smaller size.
+- Add new Docker stage `final_requirements_not_installed` from `prepare_final`.
+- Add code to copy dependencies and Stable Diffusion web UI code with parameters to support arbitrary user ID for OpenShift best practice.
+- Introduce dumb-init as PID 1 to handle signals properly.
+- Set the application to listen on port 7860 with data directory /data, and to transform and allow code with new CMD entry.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -87,7 +90,84 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/Nuitka-compilation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a06c342</div>
+                                        <div class="sha">#d82b5e3</div>
+                                        <div class="message">fix: using upx to compress files in dist directory
+
+- Separate the running of `launch.py` and `upx` into two different steps for testing in Dockerfile
+- Implement a new run command to find and compress certain files within the `/launch.dist` directory using `upx`
+- Add `--skip-torch-cuda-test` argument to the ENTRYPOINT declaration in the Dockerfile.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/Nuitka-compilation</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4591dfd</div>
+                                        <div class="message">feat: refactor Dockerfile for enhanced testing and compression
+
+- Separate the running of `launch.py` and `upx` into two different steps for testing in Dockerfile
+- Implement a new run command to find and compress certain files within the `/launch.dist` directory using `upx`
+- Add `--skip-torch-cuda-test` argument to the ENTRYPOINT declaration in the Dockerfile.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 13 commits in
+                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">personal-usage</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4b41785</div>
+                                        <div class="message">chore: Transition to Nuitka build target in docker compose
+
+- Change the build target in the `docker-compose.yml` file from `final` to `final_nuitka`
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bff7cbb</div>
+                                        <div class="message">chore: refactor docker-compose configurations for data paths
+
+- Un-comment and enable `--pin-shared-memory`, `--cuda-malloc`, and `--cuda-stream` flags in `docker-compose.forge.yml`.
+- Add `context` and `cache_from` fields under `build`, changing its structure from a single line comment to a multi-line comment with values in `docker-compose.yml`.
+- Change data locations: map AI data paths to D: drive and ensure Stable-diffusion model data resides under repository SSD.
+- Modify volume mappings to reflect these changes.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eeb03a4</div>
+                                        <div class="message">fix: add issing ARGs
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afeebf1</div>
                                         <div class="message">chore(Nuitka): refactor Dockerfile for improved package handling
 
 - Add nofollow imports for certain packages (torch, numba, xformers, triton, llvmlite) in the Dockerfile configuration
@@ -97,174 +177,106 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 81 commits in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/Nuitka-compilation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b40667</div>
-                                        <div class="message">ci: implement new automated GitHub actions
+                                        <div class="sha">#ba73b93</div>
+                                        <div class="message">chore(Nuitka): enhance Nuitka caching and enable specific plugins
 
-- Add a new GitHub action to automatically approve and merge PRs if they are created by 'jim60105' in the 'jim60105/docker-stable-diffusion-webui' repository.
-- Introduce a new GitHub action for weekly automated updating of submodules, with PRs to be automatically labeled for merging.
+- Define the environment variables to control where caches live including `CCACHE`, `DOWNLOADS`, `CLCACHE`, `BYTECODE`, and `DLL_DEPENDENCIES`.
+- Add additional dependencies in the Dockerfile including `ccache`, `clang`, `libfuse-dev`, and `upx` to the `apt-get install` command.
+- An additional cache mount has been added for Nuitka using the `--mount` and `id=nuitka-$TARGETARCH$TARGETVARIANT` options.
+- Changes to the `python3 -m nuitka` command include new flags and plugins like `--python-flag=nosite,-O`, `--clang`, `--lto=yes`, `--enable-plugins=implicit-imports`, `--enable-plugins=matplotlib`, `--enable-plugins=multiprocessing`, `--enable-plugins=pkg-resources`, and `--enable-plugins=upx`.
+- The `--disable-cache=all` flag has been removed from `python3 -m nuitka` command.
+- The `ENTRYPOINT` has been updated to include the `--skip-torch-cuda-test` flag for the `launch.bin` command, used to skip testing in the webui that is not compatible with Nuitka.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#df205d1</div>
-                                        <div class="message">doc: fix ghcr links
+                                        <div class="sha">#588d5f6</div>
+                                        <div class="message">feat: add Nuitka compilation CI
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4867b87</div>
-                                        <div class="message">doc: update README.md
+                                        <div class="sha">#e074f7a</div>
+                                        <div class="message">chore: expanded the list of included data files during Nuitka compilation
+
+- Changed a comment within the Dockerfile to specify stage usage
+- Added additional comments to specify size and details of several Python packages during installation (`torch`, `xformers`, `facexlib`)
+- Expanded the list of included data files during `nuitka` invocation to include all `requirements*`, `.html`, `.js` and `.css` files
+- Added a link command that creates a symbolic link between `/usr/local/bin/python` and `/app/python3` in the final stage for `nuitka`
+- Excluded the action of copying dependencies from the `build_big` stage to the `final_nuitka` stage, effectively changing how dependencies and code are handled in the final stage for `nuitka`
+- Added a section to report stage for `nuitka` to copy `compilationreport.xml`
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9795043</div>
-                                        <div class="message">chore: change to use requirements_versions.txt instead of requirements.txt
+                                        <div class="sha">#7c69780</div>
+                                        <div class="message">feat: implement Nuitka compilation in Dockerfile
+
+- Add a new stage to compile code with Nuitka in the Dockerfile
+- Add launch parameters and support for arbitrary uid for OpenShift best practice in final stage for Nuitka
+- Use dumb-init as PID 1 to handle signals properly and copy scripts from data/scripts to app/scripts in Dockerfile
+- Include additional commands for Nuitka compilation, including no-qt and transformers plugins, and the inclusion of several data directories and files
+- Add Nuitka report stage, copying the Compilation Report from the compile_nuitka stage
+- Add install build dependencies and Nuitka in compile_nuitka stage with cache management for better performance.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c5439be</div>
-                                        <div class="message">chore: fix the first CMD argument is missing
+                                        <div class="sha">#7375ed2</div>
+                                        <div class="message">fix: add issing ARGs
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;
+
+# Conflicts:
+#	Dockerfile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77394b7</div>
+                                        <div class="message">chore: add `device_ids` field to the docker-compose file
+
+- Added `device_ids` field to the docker-compose file with the value set to `all`.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1d8e9d9</div>
-                                        <div class="message">chore: fix permissions of home directory for arbitrary uid
+                                        <div class="sha">#402687e</div>
+                                        <div class="message">chore: refactor Dockerfile for enhanced modularity and efficiency
+
+- Split the Dockerfile into multiple stages: base, build_big, build, prepare_final and final
+- Updated the list of runtime/buildtime dependencies
+- Created a distinct stage for the installation of larger packages, with additional package 'numba'
+- Replaced 'Pillow' with 'Pillow-simd'
+- Added an additional VOLUME mount for "/tmp"
+- Adjusted PATH and PYTHONPATH environment variables
+- Moved copy of dependencies and code, and the base ENTRYPOINT command to the 'final' stage
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#35b9878</div>
-                                        <div class="message">feat: Add tmpfs to /tmp
+                                        <div class="sha">#df14b3a</div>
+                                        <div class="message">chore: refactor Docker workflows and enhance permission settings
 
-- Add a tmpfs configuration for `/tmp` in the Docker Compose to use in-memory storage.
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#063bc66</div>
-                                        <div class="message">feat: refactor command options
-
-- Add comments about the pre-configured command options in the Docker service command section.
-- Include new command options `--xformers`, `--no-half-vae`, `--opt-sdp-attention`, `--opt-sdp-no-mem-attention`, and `--opt-channelslast` for the Docker service.
-- Remove the `--xformers` and `--enable-insecure-extension-access` options from the Docker service command.
-- Re-add the `--enable-insecure-extension-access` option later in the Docker service command list with additional advice on usage.
-- Provide a reference to the full list of command-line arguments and settings for the stable diffusion web UI in the comments.
+- Rename the `docker-reused-setup-steps` workflow file to `docker-reused-steps`
+- In `docker_publish.yml`, remove old docker building and pushing actions and replace with use of new `docker-reused-steps`
+- Set specific `GITHUB_TOKEN` permissions in `docker_publish.yml` for actions in the job
+- Remove `CR_PAT` as an input in workflows, indicating that the GitHub token is now used instead during Docker logging step
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2bab062</div>
-                                        <div class="message">chore: fix /app/scripts/*.py not loaded
+                                        <div class="sha">#2f34651</div>
+                                        <div class="message">chore: install Pillow dependencies explicitly
 
-- Create a new directory `/data/scripts` with specific permissions in the Docker image
-- Modify the Docker image entrypoint to copy scripts from `/data/scripts` to `/app/scripts` before executing the application
-- Remove the volume mapping for `/app/scripts` from `docker-compose.yml`, as it's now handled within the Dockerfile entrypoint
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57aac79</div>
-                                        <div class="message">refactor: update ignore files
+- Redefined Docker stages as base, build, and final
+- Installed Pillow dependencies explicitly
+- Moved working directory to '/source'
+- Integrated Pillow and pillow-simd installation process
+- Removed libjpeg62 runtime dependency
+- Added UID and caching to docker-compose.yml build arguments
+- Included explicit cache mounts for multi-architecture support in build stage.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#094383a</div>
-                                        <div class="message">chore: refactor Dockerfile structure and dependencies
-
-- Remove the installation of `libcairo2-dev` and `fonts-dejavu-core` packages from Dockerfile.
-- Rearrange Dockerfile instructions to move the copying of licenses above the section where dependencies and code are copied.
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#705690b</div>
-                                        <div class="message">doc: Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d109452</div>
-                                        <div class="message">chore: user master branch as latest image tag
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52b0145</div>
-                                        <div class="message">chore: Remove scan workflow and update README.md
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2c51e0</div>
-                                        <div class="message">doc: Update README.md
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c685b7d</div>
-                                        <div class="message">feat: ignore docker-compose.override.yml
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b899ca</div>
-                                        <div class="message">feat: Add docker CI
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12e0e76</div>
-                                        <div class="message">feat: Add fonts dejavu
-
-Settings: Font for image grids that have text: DejaVuSans.ttf
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6cb093a</div>
-                                        <div class="message">chore: fix "No module named 'launch'"
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c854597</div>
-                                        <div class="message">Initial commit
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">feat/Nuitka-compilation</span>
-                                        in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
                                     </div>
                                 </div>
                             </section>
@@ -287,14 +299,14 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="137.07889348777076" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="137.07889348777076" y="0" width="76.16392876049292" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="213.24282224826368" y="0" width="65.64776581048676" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="278.89058805875044" y="0" width="62.446577172240666" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="341.3371652309911" y="0" width="53.75906439208492" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="395.096229623076" y="0" width="31.065288802583424" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="426.16151842565944" y="0" width="21.293214694229633" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="447.45473311988906" y="0" width="12.54526688011092" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="137.05729663136194" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="137.05729663136194" y="0" width="76.15192909087845" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="213.20922572224038" y="0" width="65.63742296823224" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="278.84664869047265" y="0" width="62.43673867904819" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="341.2833873695208" y="0" width="53.750594621394434" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="395.0339819909152" y="0" width="31.06039444894154" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="426.0943764398568" y="0" width="21.36233319385236" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="447.4567096337091" y="0" width="12.54329036629084" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
