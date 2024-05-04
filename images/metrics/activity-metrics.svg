@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="505" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="524" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.people{padding:0 10px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,6 +22,65 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">personal-usage</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#72d0b63</div>
+                                        <div class="message">feat: enable forge optimization flags
+
+- Uncommmented flags `--pin-shared-memory`, `--cuda-malloc`, and `--cuda-stream` in the Docker compose file for Forge.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ef5462</div>
+                                        <div class="message">feat: change the bind mount for my personal usage
+
+- Added new mount points to the Docker compose file including locations for models and output data on HDD(D:), as well as a location for stable-diffusion models under the SSD repository.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d36a5a2</div>
+                                        <div class="message">feat: use `runtime-deps` image
+
+The packages data installed with `pip install` is stored in `/home/1001/.local`. We can preserve this path in a volume to maintain it between containers.
+
+It's important to note that this is ***NOT*** a safe practice for most containerize Python applications. The reason we are able to do this is because the `stable-diffusion-webui` project has implemented a dependency check before each startup.
+
+- Change the image source for the service `stable-diffusion-webui-forge` in  `docker-compose.yml` and `docker-compose.forge.yml` to `runtime-deps` image
+- Add new volume `local` for `stable-diffusion-webui` and `stable-diffusion-webui-forge` service
+- Add the volume binding `local:/home/1001/.local`
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5376f7</div>
+                                        <div class="message">docs: refine `runtime-deps` documentation
+
+- Move explanation about `SKIP_REQUIREMENTS_INSTALL=true` to a more prominent location
+- Specify that `runtime-deps` images are available in recent versions
+- Reorder the explanation of `runtime-deps` features for clarity
+- Add advice to keep and reuse the `/home/1001/.local` directory via a volume
+- Mention the community's contribution to this utilization idea
+- Perform similar updates on the Chinese (zh) version of the README file.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">jim60105/docker-stable-diffusion-webui</span>
                                     </div>
@@ -29,19 +88,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#21fdded</div>
-                                        <div class="message">
-                                            docs: It seems that I am gradually drifting away from the original design of "simple"
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <circle fill="#FFCB4C" cx="18" cy="17.018" r="17"/>
-                                                <path fill="#65471B" d="M14.524 21.036c-.145-.116-.258-.274-.312-.464-.134-.46.13-.918.59-1.021 4.528-1.021 7.577 1.363 7.706 1.465.384.306.459.845.173 1.205-.286.358-.828.401-1.211.097-.11-.084-2.523-1.923-6.182-1.098-.274.061-.554-.016-.764-.184z"/>
-                                                <ellipse fill="#65471B" cx="13.119" cy="11.174" rx="2.125" ry="2.656"/>
-                                                <ellipse fill="#65471B" cx="24.375" cy="12.236" rx="2.125" ry="2.656"/>
-                                                <path fill="#F19020" d="M17.276 35.149s1.265-.411 1.429-1.352c.173-.972-.624-1.167-.624-1.167s1.041-.208 1.172-1.376c.123-1.101-.861-1.363-.861-1.363s.97-.4 1.016-1.539c.038-.959-.995-1.428-.995-1.428s5.038-1.221 5.556-1.341c.516-.12 1.32-.615 1.069-1.694-.249-1.08-1.204-1.118-1.697-1.003-.494.115-6.744 1.566-8.9 2.068l-1.439.334c-.54.127-.785-.11-.404-.512.508-.536.833-1.129.946-2.113.119-1.035-.232-2.313-.433-2.809-.374-.921-1.005-1.649-1.734-1.899-1.137-.39-1.945.321-1.542 1.561.604 1.854.208 3.375-.833 4.293-2.449 2.157-3.588 3.695-2.83 6.973.828 3.575 4.377 5.876 7.952 5.048l3.152-.681z"/>
-                                                <path fill="#65471B" d="M9.296 6.351c-.164-.088-.303-.224-.391-.399-.216-.428-.04-.927.393-1.112 4.266-1.831 7.699-.043 7.843.034.433.231.608.747.391 1.154-.216.405-.74.546-1.173.318-.123-.063-2.832-1.432-6.278.047-.257.109-.547.085-.785-.042zm12.135 3.75c-.156-.098-.286-.243-.362-.424-.187-.442.023-.927.468-1.084 4.381-1.536 7.685.48 7.823.567.415.26.555.787.312 1.178-.242.39-.776.495-1.191.238-.12-.072-2.727-1.621-6.267-.379-.266.091-.553.046-.783-.096z"/>
-                                            </svg>
-                                            Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;
-                                        </div>
+                                        <div class="sha">#b5376f7</div>
+                                        <div class="message">docs: refine `runtime-deps` documentation
+
+- Move explanation about `SKIP_REQUIREMENTS_INSTALL=true` to a more prominent location
+- Specify that `runtime-deps` images are available in recent versions
+- Reorder the explanation of `runtime-deps` features for clarity
+- Add advice to keep and reuse the `/home/1001/.local` directory via a volume
+- Mention the community's contribution to this utilization idea
+- Perform similar updates on the Chinese (zh) version of the README file.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#73057c3</div>
+                                        <div class="message">docs: refine `runtime-deps` documentation
+
+- Move explanation about `SKIP_REQUIREMENTS_INSTALL=true` to a more prominent location
+- Specify that `runtime-deps` images are available in recent versions
+- Reorder the explanation of `runtime-deps` features for clarity
+- Add advice to keep and reuse the `/home/1001/.local` directory via a volume
+- Mention the community's contribution to this utilization idea
+- Perform similar updates on the Chinese (zh) version of the README file.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -60,97 +146,35 @@
                                 <div class="details">
                                     <div>on branch <span class="code">personal-usage</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2aa625f</div>
-                                        <div class="message">chore: modify docker compose
+                                        <div class="sha">#1d5b9d8</div>
+                                        <div class="message">feat: enable forge optimization flags
 
 - Uncommmented flags `--pin-shared-memory`, `--cuda-malloc`, and `--cuda-stream` in the Docker compose file for Forge.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36cf013</div>
+                                        <div class="message">feat: change the bind mount for my personal usage
+
 - Added new mount points to the Docker compose file including locations for models and output data on HDD(D:), as well as a location for stable-diffusion models under the SSD repository.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#161270b</div>
-                                        <div class="message">docs: maintain zh readme
+                                        <div class="sha">#0434e83</div>
+                                        <div class="message">feat: use `runtime-deps` image
 
-- Added v1.9.3 tag to the Docker image tag list
-- Added a section on `runtime-deps` versions, which explains their purpose, benefits, and drawbacks
-- Provided a note about using the build parameter `SKIP_REQUIREMENTS_INSTALL=true`
-- Removed the comments regarding uncommenting `# build: .` in the `docker-compose.yml` file before building the image.
+The packages data installed with `pip install` is stored in `/home/1001/.local`. We can preserve this path in a volume to maintain it between containers.
 
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d31bb0</div>
-                                        <div class="message">fix: correct_permissions is skipped when the webui exits on its own.
+It's important to note that this is ***NOT*** a safe practice for most containerize Python applications. The reason we are able to do this is because the `stable-diffusion-webui` project has implemented a dependency check before each startup.
 
-- Extract the process of correcting user data permissions into its own function `correct_permissions`
-- Call the new `correct_permissions` function in place of directly executing permission correction commands
-- Call `correct_permissions` function after Web UI has stopped
+- Change the image source for the service `stable-diffusion-webui-forge` in  `docker-compose.yml` and `docker-compose.forge.yml` to `runtime-deps` image
+- Add new volume `local` for `stable-diffusion-webui` and `stable-diffusion-webui-forge` service
+- Add the volume binding `local:/home/1001/.local`
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#161270b</div>
-                                        <div class="message">docs: maintain zh readme
-
-- Added v1.9.3 tag to the Docker image tag list
-- Added a section on `runtime-deps` versions, which explains their purpose, benefits, and drawbacks
-- Provided a note about using the build parameter `SKIP_REQUIREMENTS_INSTALL=true`
-- Removed the comments regarding uncommenting `# build: .` in the `docker-compose.yml` file before building the image.
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d31bb0</div>
-                                        <div class="message">fix: correct_permissions is skipped when the webui exits on its own.
-
-- Extract the process of correcting user data permissions into its own function `correct_permissions`
-- Call the new `correct_permissions` function in place of directly executing permission correction commands
-- Call `correct_permissions` function after Web UI has stopped
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#38 version where you don't uninstall pip plz!</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by whillas-yabble in <span class="repo">jim60105/docker-whisperX</span></div>
-                                    <div class="comment">Yes, it is one of the most complex dockerfile I have ever written.
-Why does it look like this? I didn't make it like this to mess with people.
-My goal is to achieve the functionality mentioned in the readme and trigger CI weekly on GitHub Free runner while synchronizing builds nearly 200 docker images with a capacity of 10GB, as well as reusing docker layers as much as possible and manage cache write and read order to reduce build failures, and decrease image size and build time.
-Then, for my personal preference, implement it according to best practices and industry standards/policies as much as possible.
-The "ease of reading the dockerfile" is not the main consideration; as long as I can maintain it, there's no problem.
-I've also provided instructions on how to extend it above; in my opinion, there are no technical issues with that.
-If you think it doesn't meet your "functional and simple" requirements, you can always write one yourself.
-This is not an official image repository or anything like that; I have no intention nor ability to make it meet everyone's needs.
-Thank you for your feedback, but this is in line with my design.</div>
                                 </div>
                             </section>
                         </div>
@@ -163,7 +187,7 @@ Thank you for your feedback, but this is in line with my design.</div>
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v1.8.0</span>
+                                        <span class="code">v1.9.3</span>
                                         in
                                         <span class="repo">jim60105/docker-stable-diffusion-webui</span>
                                     </div>
@@ -188,14 +212,14 @@ Thank you for your feedback, but this is in line with my design.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="136.892122353613" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="136.892122353613" y="0" width="76.0601547731593" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="212.9522771267723" y="0" width="65.55832018276551" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="278.5105973095378" y="0" width="62.3614931907029" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="340.8720905002407" y="0" width="53.68581721907162" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="394.5579077193123" y="0" width="31.022962087835655" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="425.58086980714796" y="0" width="21.69665239470116" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="447.27752220184914" y="0" width="12.72247779815085" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="160.79840578954125" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="160.79840578954125" y="0" width="77.00715855948431" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="237.80556434902556" y="0" width="72.62946826383079" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="310.43503261285633" y="0" width="63.00058763405477" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="373.43562024691107" y="0" width="36.47103716815171" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="409.9066574150628" y="0" width="24.774113421709494" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="434.6807708367723" y="0" width="13.378509934397934" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.0592807711702" y="0" width="11.940719228829751" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -203,12 +227,6 @@ Thank you for your feedback, but this is in line with my design.</div>
                             <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C#
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -239,6 +257,12 @@ Thank you for your feedback, but this is in line with my design.</div>
                             <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Dockerfile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
