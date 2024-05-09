@@ -8,13 +8,13 @@ I'm a professional C# developer from Taiwan, with specializing in **Web API back
 
 ### ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
-I'm pretty well-versed in **containerization technology** and have a knack for creating advanced containers. If you're interested, you can find some of the cool stuff I've worked on in [this Dockerfile-template project](https://github.com/jim60105/Dockerfile-template).
+I'm pretty well-versed in **containerization technology** and have a knack for creating advanced containers. I can create images that are well-designed, prioritize security, minimal, highly reusable layer caches, and following industry best practices. I have spent a lot of time and effort on this technology, and I believe that what I produce is top-notch. You can find those cool stuff I've worked on in [my Dockerfile-template project](https://github.com/jim60105/Dockerfile-template).
 
 I've got some basic knowledge about **kubernetes** too. In my home lab, I'm running a cluster with bare-metal Talos Linux for my personal services. It was quite a challenge for me to build it, but I gained a wealth of knowledge along the way.
 
 ### ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-To be conservative, I know a bit about **frontend frameworks**. As a backend developer, I prefer a function-oriented approach and I must admit that my UI designs could use some improvement. Please take a look at these simple websites - [Sound Buttons](https://github.com/sound-buttons) (Angular) and [Unfair Spin Wheel](https://github.com/jim60105/UnfairSpinWheel) (Vue.js). They may not be visually stunning, but they serve their purpose.
+To be conservative, I'm not good at **frontend frameworks**. As a backend developer, I prefer a function-oriented approach and I must admit that my UI designs could use some improvement. Please take a look at my simple websites - [Sound Buttons](https://sound-buttons.click/) (Angular) and [Unfair Spin Wheel](https://unfair.spin-wheel.click/) (Vue.js). They may not be visually stunning, but they serve their purpose.
 
 Apart from that, I've been experimenting with web development for years and familiar with the tech stack. I see myself as a **"backend developer with knowledge of frontend"**, which allows me to approach problems from a full stack perspective.
 
