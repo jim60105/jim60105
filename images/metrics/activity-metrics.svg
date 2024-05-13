@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="324" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="540" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,30 +19,53 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v1.9.3</span>
-                                        in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      tag
-                                        <span class="code">v1.9.3</span>
-                                        in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6041772</div>
+                                        <div class="message">docs: refactor README.md labels
+
+- Change the labels of GitHub Workflow Status and Last Commit from uppercase to proper case in the README.md file
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b952f8e</div>
+                                        <div class="message">ci: refactor scan workflow and update README badges
+
+- Rename the job `scan-python` to `scan` in the scan workflow
+- Change the output file name and the artifact name from `trivy-results-python` to `trivy-results`
+- Remove the `scan-ubi` job from the scan workflow
+- Add a new separate workflow `scan_ubi` which includes the job removed from the scan workflow
+- Add the badge for the UBI image scan in the README file
+- Fix the alt text for the docker build and image scan badges in the README file
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dbfed7a</div>
+                                        <div class="message">ci: use GitHub token instead of PAT and push sbom, provenance to registry
+
+- The Docker workflow file name has been changed from `docker-reused-setup-steps/action.yml` to `docker-reused-steps/action.yml`.
+- The docker workflow title and description has been updated to indicate it is reusable.
+- Removed `token` input from docker workflow.
+- Added a comment about requirement of additional space due to large image size.
+- Updated docker image login mechanism to use GitHub token instead of personal access token.
+- Comment about GitHub Actions access management added.
+- Reference to the setup file in `docker_publish.yml` updated to reflect filename change.
+- Permissions for GitHub token have been defined in `docker_publish.yml`.
+- Option to cache to registry instead of gha, in order to avoid capacity limit, has been added.
+- Incorporated a flag for software bill of materials (`sbom`) and software provenance.
+- Removed comments on potentially unneeded tools during disk space free up process.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -55,19 +78,16 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4f3d9c6</div>
-                                        <div class="message">docs: Update commit links in README files
+                                        <div class="sha">#1c00a28</div>
+                                        <div class="message">docs: refactor README.md labels
 
-- Update the recommended tag version in Docker instructions from `v1.7.0` to `v1.8.0` in both README files.
-- Update the reference commit links for power user tips in both README files.
-- Update the instructions for file permission settings in the Chinese README file.
-- Use a Docker command instead of a shell command for adjusting file permissions in the Chinese README file.
+- Change the labels of GitHub Workflow Status and Last Commit from uppercase to proper case in the README.md file
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -78,14 +98,27 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v1.8.0</span>
-                                        in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/docker-whisperX</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#761a88c</div>
+                                        <div class="message">ci: refactor scan workflow and update README badges
+
+- Rename the job `scan-python` to `scan` in the scan workflow
+- Change the output file name and the artifact name from `trivy-results-python` to `trivy-results`
+- Remove the `scan-ubi` job from the scan workflow
+- Add a new separate workflow `scan_ubi` which includes the job removed from the scan workflow
+- Add the badge for the UBI image scan in the README file
+- Fix the alt text for the docker build and image scan badges in the README file
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -94,14 +127,94 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      tag
-                                        <span class="code">v1.8.0</span>
-                                        in
-                                        <span class="repo">jim60105/docker-stable-diffusion-webui</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/docker-whisperX</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a37e667</div>
+                                        <div class="message">ci: use GitHub token instead of PAT and push sbom, provenance to registry
+
+- The Docker workflow file name has been changed from `docker-reused-setup-steps/action.yml` to `docker-reused-steps/action.yml`.
+- The docker workflow title and description has been updated to indicate it is reusable.
+- Removed `token` input from docker workflow.
+- Added a comment about requirement of additional space due to large image size.
+- Updated docker image login mechanism to use GitHub token instead of personal access token.
+- Comment about GitHub Actions access management added.
+- Reference to the setup file in `docker_publish.yml` updated to reflect filename change.
+- Permissions for GitHub token have been defined in `docker_publish.yml`.
+- Option to cache to registry instead of gha, in order to avoid capacity limit, has been added.
+- Incorporated a flag for software bill of materials (`sbom`) and software provenance.
+- Removed comments on potentially unneeded tools during disk space free up process.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">jim60105/docker-whisperX</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#041c30f</div>
+                                        <div class="message">feat(ubi): upgrade ffmpeg and remove unnecessary build requirements
+
+- Update the `PYTHON_VERSION` to `3.11`.
+- Add two new `ARG` commands: `PIP_NO_COMPILE=true` and `PIP_DISABLE_PIP_VERSION_CHECK=true` for pip usage.
+- Update the `pip3.11 install` command to include `-U --force-reinstall pip setuptools wheel` options and remove `dumb-init` from the list of packages to install.
+- Remove the copying of `ffmpeg` and `ffprobe` binaries from `mwader/static-ffmpeg:6.1.1`
+- Add copying of `ffmpeg` and `dumb-init` binaries from `ghcr.io/jim60105/static-ffmpeg-upx:7.0-1`
+- Update the `PYTHONPATH` variable setting and `COPY --link` commands with ownership and permissions changes.
+- Add the `chown` command to the `COPY --link` command used to copy `LICENSE` and `whisperX/LICENSE`.
+- Added a missing colon in the environment variable setting for `ENV WHISPER_MODEL=`.
+- Consolidate command lines in the `COPY --link --chown=$UID:0 --chmod=775 --from=load_align ${CACHE_HOME} ${CACHE_HOME}` command.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d10f317</div>
+                                        <div class="message">feat: upgrade ffmpeg and remove unnecessary build requirements
+
+- Added an ignore rule for `DL3008` in `.hadolint.yml`.
+- Implemented mount cache for multi-arch in Dockerfile.
+- Optimized docker build stage by using `--mount` cache and updating `apt-get` command.
+- Made several Environment variables explicitly declared as `ARG` for better configurability.
+- Removed `dumb-init` pip installation and handled it separately.
+- Refactored installation of `ffmpeg` and `dumb-init` by fetching them from a different source.
+- Changed ownership and permission for some copy commands for OpenShift compatibility.
+- Fixed `PYTHONPATH` order in environment variable.
+- Updated comment pattern for more readability in Dockerfile.
+- Pre-loaded `fast-whisper` in Dockerfile `load_whisper` stage.
+- Improved Dockerfile `COPY` commands for `load_align` and `final` stages.
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbc1f99</div>
+                                        <div class="message">docs: enhance README.md with style updates and expanded content
+
+- Change the style and icon of badges in README.md
+- Add a new project's objective paragraph in README.md, explaining the project's goal and its weekly GitHub Free runner schedule
+- Incorporate emojis to section headings to enhance readability in README.md
+- Specify the use of Red Hat Universal Base Image and its advantages in README.md
+- Change the license section's heading in README.md to include an emoji for visual interest
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -124,14 +237,14 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.84797160484445" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="158.84797160484445" y="0" width="76.0730859000988" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="234.92105750494324" y="0" width="71.74849561349532" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="306.6695531184385" y="0" width="62.23641028307856" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="368.9059634015171" y="0" width="36.02865493622079" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="404.9346183377379" y="0" width="30.041793154826685" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="434.9764114925646" y="0" width="13.229005357740794" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.20541685030537" y="0" width="11.794583149694605" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.79700397755593" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="158.79700397755593" y="0" width="76.04867724917509" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="234.84568122673105" y="0" width="71.7254745415484" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="306.5711557682794" y="0" width="62.216441238897296" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="368.7875970071767" y="0" width="36.01709485749933" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="404.80469186467604" y="0" width="30.17974864405779" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="434.9844405087338" y="0" width="13.224760726804314" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.20920123553816" y="0" width="11.790798764461835" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
