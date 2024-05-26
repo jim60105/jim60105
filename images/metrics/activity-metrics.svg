@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="502" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="486" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap,.organization.name{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.number{color:#2777aa}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,22 +22,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Recorder-moe/azure-uploader</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">Recorder-moe/k8s-recorder.moe</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#214fcb1</div>
-                                        <div class="message">chore: minor fixes for Dockerfile
-
-- Remove a mounting line under the RUN --mount instruction in Dockerfile
-- Modify the `COPY --chown` command for dumb-init to include `--link` in Dockerfile
-- Modify the `COPY --chown` command for the shell script to include `--link` in Dockerfile
-- Update the summary text in the LABEL instruction from `Recorder-moe: A feature-rich command-line audio/video downloader.` to `azure-uploader: This script automates the process of uploading *.mp4 files from a local folder to Azure Blob Storage and delete them from the local folder.` in Dockerfile
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                        <div class="sha">#d68b799</div>
+                                        <div class="message">Release 0.4.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#298264b</div>
+                                        <div class="message">chore(backend): Migrate from in-process to isolated</div>
                                     </div>
                                 </div>
                             </section>
@@ -50,37 +47,21 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">Recorder-moe/s3-uploader</span>
+                                        <span class="repo">Recorder-moe/LivestreamRecorderBackend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e69cd05</div>
-                                        <div class="message">ci: refactor GitHub Actions and Docker build-push-action settings
+                                        <div class="sha">#93e646d</div>
+                                        <div class="message">Update LivestreamRecorder.DB: chore: update .NET 8 and nuget package
 
-- Add a new docker setup workflow to GitHub actions
-- Clean up `docker_publish` workflow by reusing the docker setup steps
-- Update permissions for the `docker_publish` job to write packages
-- Replace hard-coded parts with variables (such as `DOCKERHUB_USERNAME` and `DOCKERHUB_TOKEN`)
-- Set `VERSION` to be `latest` by default in `Dockerfile`
-- Modify the docker build and push step in the GitHub action to include more options such as caching to registry, sbom, and provenance
-- Change the docker image source to `minio/mc:$VERSION` from `minio/mc` for version control
-- Add support for multi-arch in the compression stage of Dockerfile.
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+- Update the .NET target framework from `net6.0` to `net8.0` in the `LivestreamRecorder.DB.csproj` file
+- Update the version of the `Microsoft.EntityFrameworkCore.Cosmos` package from `6.0.30` to `8.0.5`</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c77b883</div>
-                                        <div class="message">feat: rewrite Dockerfiles and update README.md for efficiency
-
-- Remove `**/LICENSE` from `.dockerignore`
-- Creation of a new file `.hadolint.yml` with specific exceptions made for linting `Dockerfile`
-- Introduce additional build arguments and several new build stages (`compress` and `final`) to the `Dockerfile`
-- Changes made to file permissions and method of copying files in the `Dockerfile`
-- Introduction of additional metadata labels in the `Dockerfile`
-- Updated the `README.md` section regarding the AGPLv3 license requirements and also provided some clarifications
-- Changes in `docker-compose.yml` to include a build context, target stage, build arguments and cache options.
+                                        <div class="sha">#ee80427</div>
+                                        <div class="message">chore: Migrate from in-process to isolated, and upgrade to .NET 8.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -95,16 +76,21 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Recorder-moe/azure-uploader</span>
+                                        <span class="repo">Recorder-moe/LivestreamRecorderBackend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c7886e8</div>
-                                        <div class="message">docs: fix the wrong LICENSE
+                                        <div class="sha">#61abdf3</div>
+                                        <div class="message">refactor: Refactored `Program.cs` file by encapsulating contents within new `Program` class and `LivestreamRecorderBackend` namespace.
 
-I originally wanted to use GPL, but I mistakenly included the AGPL files.
+- Refactored `Program.cs` file by encapsulating contents within new `Program` class and `LivestreamRecorderBackend` namespace.
+- Upgraded `UserAgent` .NET version from `6.0` to `8.0` in HttpClient configuration.
+- Minor adjustments to improve readability in several sections of code, such as splitting chained method calls and parameters into multiple lines.
+- Modified logger instantiation from `LivestreamRecorderBackend.Helper.Log.MakeLogger()` to `Helper.Log.MakeLogger()`.
+- Rearranged the addition of `IVideoRepository`, `IUserRepository`, and `IChannelRepository` to the services collection for improved readability.
+- Changed the addition of `IMinioClient` instance to services, removing the explicit interface moniker.
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -119,24 +105,17 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Recorder-moe/azure-uploader</span>
+                                        <span class="repo">Recorder-moe/LivestreamRecorderBackend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f40e57b</div>
-                                        <div class="message">ci: refactor GitHub Actions and Docker build-push-action settings
+                                        <div class="sha">#f199e38</div>
+                                        <div class="message">Update LivestreamRecorder.DB: chore: update .NET 8 and nuget package
 
-- Add a new GitHub Actions workflow `docker-reused-setup-steps/action.yml` for setting up docker, which allows logging into DockerHub and GitHub Container Registry
-- The new workflow needs DockerHub organization name, DockerHub username, DockerHub token, and a tag as inputs and provides tags and labels as outputs
-- In the existing `docker_publish.yml` workflow, update the permissions provided to the GITHUB_TOKEN
-- Remove individual `Docker meta`, `Set up QEMU`, `Set up Docker Buildx`, and docker hub/registry login steps, and replace them with the newly created reusable docker setup action
-- Update the `Build and push` step to include build arguments for assigning the version and release number
-- Add caching to registry to avoid the GitHub Actions capacity limit, along with enabling of Software Bill of Materials (sbom) and Provenance
-- Extend the target platforms to include both linux/amd64 and linux/arm64.
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+- Update the .NET target framework from `net6.0` to `net8.0` in the `LivestreamRecorder.DB.csproj` file
+- Update the version of the `Microsoft.EntityFrameworkCore.Cosmos` package from `6.0.30` to `8.0.5`</div>
                                     </div>
                                 </div>
                             </section>
@@ -148,40 +127,18 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Recorder-moe/azure-uploader</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Recorder-moe/LivestreamRecorderService</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d67838f</div>
-                                        <div class="message">ci: refactor GitHub Actions and Docker build-push-action settings
+                                        <div class="sha">#d0378b9</div>
+                                        <div class="message">Update LivestreamRecorder.DB: chore: update .NET 8 and nuget package
 
-- Add a new GitHub Actions workflow `docker-reused-setup-steps/action.yml` for setting up docker, which allows logging into DockerHub and GitHub Container Registry
-- The new workflow needs DockerHub organization name, DockerHub username, DockerHub token, and a tag as inputs and provides tags and labels as outputs
-- In the existing `docker_publish.yml` workflow, update the permissions provided to the GITHUB_TOKEN
-- Remove individual `Docker meta`, `Set up QEMU`, `Set up Docker Buildx`, and docker hub/registry login steps, and replace them with the newly created reusable docker setup action
-- Update the `Build and push` step to include build arguments for assigning the version and release number
-- Add caching to registry to avoid the GitHub Actions capacity limit, along with enabling of Software Bill of Materials (sbom) and Provenance
-- Extend the target platforms to include both linux/amd64 and linux/arm64.
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61d4707</div>
-                                        <div class="message">feat: rewrite Dockerfiles and update README.md for efficiency
-
-- Remove **/LICENSE from .dockerignore
-- Dockerfile: Add new ARGUMENTS for VERSION, RELEASE and TARGETVARIANT
-- Create a new user and setup directory permissions in Dockerfile
-- Update installation and dumb-init handler method in Dockerfile
-- Update the shell script copy process and environmental variables in Dockerfile
-- Add new LABEL details in Dockerfile
-- In README.md, rearrange some content about LICENSE display
-- In docker-compose.yml, add new build context, target, args, and cache details.
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+- Update the .NET target framework from `net6.0` to `net8.0` in the `LivestreamRecorder.DB.csproj` file
+- Update the version of the `Microsoft.EntityFrameworkCore.Cosmos` package from `6.0.30` to `8.0.5`</div>
                                     </div>
                                 </div>
                             </section>
