@@ -24,7 +24,17 @@ I gotta talk about **cloud computing services**. I have delve into both Cloudfla
 
 Furthermore, Cloudflare workers are great for [generating open graph meta tags](https://github.com/Recorder-moe/OpenGraphTagBuilder) in front of the SPA and also well-suited for [web applications that experience high traffic](https://github.com/jim60105/simple-poll-system). I have written a few [blog posts](https://blog.maki0419.com/search/label/Cloudflare) on this topic (in Chinese).
 
-<hr>
+---
+
+Check out what I've got:
+
+<p align='center'>
+    <a href="https://learn.microsoft.com/zh-tw/users/jim60105/credentials/10e1317911550c2" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/jim60105/jim60105/assets/16995691/9a8ecdaa-cb5f-42c2-908a-ada3200a5ce9" height="100px" alt="AZ204">
+    </a>
+</p>
+
+---
 
 Feel free to find me in the following places, and I mainly lives in [Mastodon](https://liker.social/@jim60105).
 
