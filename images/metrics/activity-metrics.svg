@@ -29,6 +29,66 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#18f7454</div>
+                                        <div class="message">Bump the npm_and_yarn group across 1 directory with 4 updates (#2)
+
+Bumps the npm_and_yarn group with 2 updates in the / directory: [wrangler](https://github.com/cloudflare/workers-sdk/tree/HEAD/packages/wrangler) and [braces](https://github.com/micromatch/braces).
+
+
+Updates `wrangler` from 3.13.1 to 3.19.0
+- [Release notes](https://github.com/cloudflare/workers-sdk/releases)
+- [Changelog](https://github.com/cloudflare/workers-sdk/blob/main/packages/wrangler/CHANGELOG.md)
+- [Commits](https://github.com/cloudflare/workers-sdk/commits/wrangler@3.19.0/packages/wrangler)
+
+Updates `braces` from 3.0.2 to 3.0.3
+- [Changelog](https://github.com/micromatch/braces/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/micromatch/braces/compare/3.0.2...3.0.3)
+
+Updates `miniflare` from 3.20231010.0 to 3.20231030.3
+- [Release notes](https://github.com/cloudflare/workers-sdk/releases)
+- [Changelog](https://github.com/cloudflare/workers-sdk/blob/main/packages/miniflare/CHANGELOG.md)
+- [Commits](https://github.com/cloudflare/workers-sdk/commits/miniflare@3.20231030.3/packages/miniflare)
+
+Updates `undici` from 5.26.3 to 5.28.4
+- [Release notes](https://github.com/nodejs/undici/releases)
+- [Commits](https://github.com/nodejs/undici/compare/v5.26.3...v5.28.4)
+
+---
+updated-dependencies:
+- dependency-name: wrangler
+  dependency-type: direct:development
+  dependency-group: npm_and_yarn
+- dependency-name: braces
+  dependency-type: indirect
+  dependency-group: npm_and_yarn
+- dependency-name: miniflare
+  dependency-type: indirect
+  dependency-group: npm_and_yarn
+- dependency-name: undici
+  dependency-type: indirect
+  dependency-group: npm_and_yarn
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sound-buttons/worker-click-counter</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#390cb0b</div>
                                         <div class="message">Bump ws from 8.14.2 to 8.17.1 (#1)
 
@@ -98,103 +158,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 </div>
                                 <div class="details">
                                     <div>opened by C0RE1312 in <span class="repo">jim60105/docker-whisperX</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sound-buttons/sound-buttons</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8d1d269</div>
-                                        <div class="message">chore(deps-dev): bump express from 4.18.2 to 4.19.2 (#27) (#30)
-
-Bumps [express](https://github.com/expressjs/express) from 4.18.2 to 4.19.2.
-- [Release notes](https://github.com/expressjs/express/releases)
-- [Changelog](https://github.com/expressjs/express/blob/master/History.md)
-- [Commits](https://github.com/expressjs/express/compare/4.18.2...4.19.2)
-
----
-updated-dependencies:
-- dependency-name: express
-  dependency-type: indirect
-...
-
-
-
-
-chore(deps): bump ws and socket.io (#29)
-
-Bumps [ws](https://github.com/websockets/ws) and [socket.io](https://github.com/socketio/socket.io). These dependencies needed to be updated together.
-
-Updates `ws` from 8.11.0 to 8.17.1
-- [Release notes](https://github.com/websockets/ws/releases)
-- [Commits](https://github.com/websockets/ws/compare/8.11.0...8.17.1)
-
-Updates `socket.io` from 4.6.2 to 4.7.5
-- [Release notes](https://github.com/socketio/socket.io/releases)
-- [Changelog](https://github.com/socketio/socket.io/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/socketio/socket.io/compare/4.6.2...4.7.5)
-
----
-updated-dependencies:
-- dependency-name: ws
-  dependency-type: indirect
-- dependency-name: socket.io
-  dependency-type: indirect
-...
-
-
-
-
-chore(deps-dev): bump braces from 3.0.2 to 3.0.3 (#28)
-
-Bumps [braces](https://github.com/micromatch/braces) from 3.0.2 to 3.0.3.
-- [Changelog](https://github.com/micromatch/braces/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/micromatch/braces/compare/3.0.2...3.0.3)
-
----
-updated-dependencies:
-- dependency-name: braces
-  dependency-type: indirect
-...
-
-
-
-
-chore(deps): bump ws and socket.io-adapter
-
-Bumps [ws](https://github.com/websockets/ws) and [socket.io-adapter](https://github.com/socketio/socket.io-adapter). These dependencies needed to be updated together.
-
-Updates `ws` from 8.11.0 to 8.17.1
-- [Release notes](https://github.com/websockets/ws/releases)
-- [Commits](https://github.com/websockets/ws/compare/8.11.0...8.17.1)
-
-Updates `socket.io-adapter` from 2.5.2 to 2.5.5
-- [Release notes](https://github.com/socketio/socket.io-adapter/releases)
-- [Changelog](https://github.com/socketio/socket.io-adapter/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/socketio/socket.io-adapter/compare/2.5.2...2.5.5)
-
----
-updated-dependencies:
-- dependency-name: ws
-  dependency-type: indirect
-- dependency-name: socket.io-adapter
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
