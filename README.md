@@ -26,13 +26,11 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
 
 ---
 
-Check out what I've got:
+What I've got:
 
-<p align='center'>
-    <a href="https://learn.microsoft.com/zh-tw/users/jim60105/credentials/10e1317911550c2" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/assets/16995691/9a8ecdaa-cb5f-42c2-908a-ada3200a5ce9" height="100px" alt="AZ204">
-    </a>
-</p>
+|　　　　　　　　||
+:--:|:--:
+![AZ204](https://github.com/jim60105/jim60105/assets/16995691/9a8ecdaa-cb5f-42c2-908a-ada3200a5ce9)|[Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/zh-tw/users/jim60105/credentials/10e1317911550c2)
 
 ---
 
