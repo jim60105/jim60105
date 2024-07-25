@@ -20,17 +20,17 @@ To be honest, I have some experience but I'm not skilled in frontend development
 
 Apart from that, I've been experimenting with web development for years and familiar with the tech stack. I see myself as a **"backend developer with knowledge of frontend",** which allows me to approach problems from a full stack perspective.
 
-### ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
-
-I gotta talk about **cloud computing services.** I have delve into both Cloudflare Workers and Azure Functions. They are truly a blessing for those on a tight budget! Thanks to them, I managed to slash the operational costs of [Sound Buttons](https://github.com/sound-buttons/sound-buttons_upload-backend) to practically nothing on the backend servers.
-
-Furthermore, Cloudflare workers are great for [generating open graph meta tags](https://github.com/Recorder-moe/OpenGraphTagBuilder) in front of the SPA and also well-suited for [web applications that experience high traffic](https://github.com/jim60105/simple-poll-system). I have written a few [blog posts](https://blog.maki0419.com/search/label/Cloudflare) on this topic (in Chinese).
-
 ### ![GitHub Workflows](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitLab Pipelines](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![Azure Pipelines](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 I heavily rely on GitHub Workflows for automating tasks in my open source projects. I also utilize Azure Pipelines and GitLab Pipelines at work and have experience in setting up agents/runners and customizing workloads. In essence, **I am able to setup CI/CD across all three platforms.**
 
 Oh, and I am fully familiar with GitOps, which seems to go without saying.
+
+### ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+
+I gotta talk about **cloud computing services.** I have delve into both Cloudflare Workers and Azure Functions. They are truly a blessing for those on a tight budget! Thanks to them, I managed to slash the operational costs of [Sound Buttons](https://github.com/sound-buttons/sound-buttons_upload-backend) to practically nothing on the backend servers.
+
+Furthermore, Cloudflare workers are great for [generating open graph meta tags](https://github.com/Recorder-moe/OpenGraphTagBuilder) in front of the SPA and also well-suited for [web applications that experience high traffic](https://github.com/jim60105/simple-poll-system). I have written a few [blog posts](https://blog.maki0419.com/search/label/Cloudflare) on this topic (in Chinese).
 
 ---
 
