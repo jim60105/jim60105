@@ -22,7 +22,7 @@ Apart from that, I've been experimenting with web development for years and fami
 
 ### ![GitHub Workflows](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitLab Pipelines](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![Azure Pipelines](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-I heavily rely on GitHub Workflows for automating tasks in my open source projects. I also utilize Azure Pipelines and GitLab Pipelines at work and have experience in setting up agents/runners and customizing workloads. In essence, **I am able to setup CI/CD across all three platforms.**
+I heavily rely on GitHub Workflows for automating tasks in my open source projects. I also utilize Azure Pipelines and GitLab Pipelines at work and have experience in setting up agents/runners and customizing workloads. In essence, **I am able to setup CI/CD across all three platforms.** Check [this](https://github.com/jim60105/docker-whisperX/actions/runs/9924038326) if you want some true example.
 
 Oh, and I am fully familiar with GitOps, which seems to go without saying.
 
