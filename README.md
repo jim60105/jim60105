@@ -6,7 +6,7 @@
 
 I'm a professional C# developer from Taiwan, with specializing in **Web API backend** and **general application.** Besides relying on it for survival, I also used it in my side projects as well. Feel free to explore my [C# repositories](https://github.com/jim60105?tab=repositories&q=&type=&language=c%23&sort=) and my (biggest) side project [Recorder-moe](https://github.com/Recorder-moe).
 
-I have extensive experience in C#, both collaborating with large teams and working independently on small projects. C# is my main programming language, and recently I've been exploring other areas such as:
+I have extensive experience in C#, both collaborating with large teams and working independently on small projects. C# is my main programming language, and recently I've been exploring other areas, such as:
 
 ### ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
