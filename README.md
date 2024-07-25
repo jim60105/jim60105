@@ -6,11 +6,13 @@
 
 I'm a professional C# developer from Taiwan, with specializing in **Web API backend** and **general application**. Besides relying on it for survival, I also used it in my side projects as well. Feel free to explore my [C# repositories](https://github.com/jim60105?tab=repositories&q=&type=&language=c%23&sort=) and my (biggest) side project [Recorder-moe](https://github.com/Recorder-moe).
 
-### ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+I have extensive experience in C#, both collaborating with large teams and working independently on small projects. C# is my main programming language, and recently I've been exploring other areas such as:
+
+### ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 I'm pretty well-versed in **containerization technology** and have a knack for creating advanced containers. I can create images that are well-designed, prioritize security, minimal, highly reusable layer caches, and following industry best practices. I have spent a lot of time and effort on this technology, and I believe that what I produce is top-notch. You can find those cool stuff I've worked on in my [Dockerfile-template project](https://github.com/jim60105/Dockerfile-template).
 
-I've got some basic knowledge about **kubernetes** too. In my home lab, I'm running a cluster with bare-metal Talos Linux for my personal services. It was quite a challenge for me to build it, but I gained a wealth of knowledge along the way.
+I've got some basic knowledge about **kubernetes** too. In my home lab, I'm running a cluster with bare-metal Talos Linux for my personal services. It was quite a challenge for me to build it and I gained a wealth of knowledge along the way.
 
 ### ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
