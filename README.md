@@ -26,6 +26,12 @@ I gotta talk about **cloud computing services**. I have delve into both Cloudfla
 
 Furthermore, Cloudflare workers are great for [generating open graph meta tags](https://github.com/Recorder-moe/OpenGraphTagBuilder) in front of the SPA and also well-suited for [web applications that experience high traffic](https://github.com/jim60105/simple-poll-system). I have written a few [blog posts](https://blog.maki0419.com/search/label/Cloudflare) on this topic (in Chinese).
 
+### ![GitHub Workflows](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitLab Pipelines](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![Azure Pipelines](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+I heavily rely on GitHub Workflows for automating tasks in my open source projects. I also utilize Azure Pipelines and GitLab Pipelines at work and have experience in setting up agents/runners and customizing workloads. In essence, I am able to setup CI/CD across all three platforms.
+
+Oh, I am fully familiar with GitOps, which seems to go without saying.
+
 ---
 
 What I've got:
