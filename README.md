@@ -30,7 +30,7 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
 
 I heavily rely on GitHub Workflows for automating tasks in my open source projects. I also utilize Azure Pipelines and GitLab Pipelines at work and have experience in setting up agents/runners and customizing workloads. In essence, **I am able to setup CI/CD across all three platforms.**
 
-Oh, I am fully familiar with GitOps, which seems to go without saying.
+Oh, and I am fully familiar with GitOps, which seems to go without saying.
 
 ---
 
