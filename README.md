@@ -56,9 +56,12 @@ Feel free to find me in the following places, and I mainly lives in [Mastodon](h
     </a>&nbsp;
     <a href="https://x.com/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/x.png" width="80px" alt="">
-    </a>
+    </a>&nbsp;
     <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/github.png" width="80px" alt="">
+    </a>&nbsp;
+    <a href="https://www.coze.com/user/7376660011738809345" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/coze.png" width="80px" alt="">
     </a>&nbsp;
     <a href="https://liker.land/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/likecoin.png" width="80px" alt="">
