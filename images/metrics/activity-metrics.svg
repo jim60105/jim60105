@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="746" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="454" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .items{padding-left:11px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,38 +22,84 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">sound-buttons/sound-buttons</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ccd4431</div>
-                                        <div class="message">feat: configure API proxy for local development
+                                        <div class="sha">#b3660ba</div>
+                                        <div class="message">fix: GtHub page handle 404 page with status code 404 not 200
 
-- Add `proxyConfig` option to `serve` section in `angular.json`
-- Create `proxy.conf.json` to configure API proxy to `http://localhost:7071`
-- Update API endpoint in `environment.ts` from `http://localhost:7071/api` to `https://localhost:4200/api`
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9e868d</div>
-                                        <div class="message">chore: refactor health check endpoint to use "/healthz"
-
-- Add "healthz" to the list of allowed keywords in VS Code settings
-- Change the API wake endpoint to use "/healthz" instead of "/wake" in the upload component
+- Remove check for response status OK in `HandlePageRequest`
+- Add handling to change 404 responses to 200 in `HandlePageRequest`
+- Change variable declaration from `const` to `let` for `newResponse` in `HandlePageRequest`
+- Remove check for response status OK in `HandleButtonRequest`
+- Add handling to change 404 responses to 200 in `HandleButtonRequest`
+- Change variable declaration from `const` to `let` for `newResponse` in `HandleButtonRequest`
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sound-buttons/sound-buttons_configs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e40771</div>
-                                        <div class="message">chore: update config submodule to latest version
-
-- Update submodule `src/assets/configs` to a new commit
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                        <div class="sha">#06c2701</div>
+                                        <div class="message">fix</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sound-buttons/sound-buttons_configs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b6e2be5</div>
+                                        <div class="message">Update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">sound-buttons/sound-buttons_configs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3f8ba06</div>
+                                        <div class="message">Update</div>
                                     </div>
                                 </div>
                             </section>
@@ -72,241 +118,15 @@ Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1398d03</div>
-                                        <div class="message">build: add Helm chart for Kubernetes deployment
+                                        <div class="sha">#493549a</div>
+                                        <div class="message">refactor: refactor JSON serialization for Unicode
 
-- Enable cache for build process in `docker-compose.yml`
-- Add `.helmignore` file with patterns to ignore during Helm package build
-- Create Helm chart metadata in `Chart.yaml`
-- Define template helpers in `_helpers.tpl` for Helm chart
-- Add Kubernetes deployment configuration for backend in `backend-deployment.yaml`
-- Add Kubernetes service configuration for backend in `backend-service.yaml`
-- Add Kubernetes ingress configuration in `ingress.yaml`
-- Provide Helm chart values in `values.yaml` for host, Seq logging, Azure storage, OpenAI, and Kubernetes settings
+- Add `System.Text.Encodings.Web` namespace import
+- Move pragma restore directive for CA1869
+- Refactor `JsonSerializerOptions` initialization for clarity
+- Add `JsonSerializerOptions` instance reuse for JSON serialization
 
 Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">NET-8-migration</span>
-                                        in
-                                        <span class="repo">sound-buttons/sound-buttons_upload-backend</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#4 undefined 上傳失敗，伺服器錯誤</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">sound-buttons/sound-buttons_upload-backend</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 17 commits in
-                                        <span class="repo">sound-buttons/sound-buttons_upload-backend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#84b71af</div>
-                                        <div class="message">Merge pull request #5 from sound-buttons/NET-8-migration
-
-Net 8 migration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1246307</div>
-                                        <div class="message">ci: migrate CI/CD from Deploying Azure Functions to Docker Build
-
-- Add a GitHub workflow for Docker publishing, triggered on push to master branch and tags
-- Remove Azure Functions deployment workflow for SoundButtonsEastAsia
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a539ea</div>
-                                        <div class="message">feat: use 140 when 251 not exists
-
-- Modify `Format` option to support both `251` and `140`
-- Change argument from array to list in `RunAsync` method calls
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77f7ff3</div>
-                                        <div class="message">refactor: standardize naming
-
-- Fix the casing of `OpenAIService` to `OpenAiService` in multiple files
-- Add a pragma warning disable/restore for naming style in `OpenAiService.cs`
-- Update yt-dlp argument list syntax in `ProcessAudioService.cs`
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4903ba</div>
-                                        <div class="message">fix: fix cleanup path issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0690aa</div>
-                                        <div class="message">refactor: refactor and optimize for .NET 8 and Resharper advice
-
-- Add `.editorconfig` file with settings for C# and VB files
-- Add `.editorconfig` to the solution items in `SoundButtons.sln`
-- Add pragma warnings for CA1869 in `ProcessJson.cs`
-- Fix `Buttons` initialization in `ProcessJson.cs`
-- Update `SoundButtons` class to partial and make several methods static
-- Change condition for file size check in `SoundButtons.cs`
-- Refactor regex patterns into generated methods in `SoundButtons.cs`
-- Simplify initialization of `ButtonGroup` in `ButtonGroup.cs`
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75e602f</div>
-                                        <div class="message">refactor: Remove `Xabe.FFmpeg.Downloader` package reference
-
-- Remove `Xabe.FFmpeg.Downloader` package reference
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37ef025</div>
-                                        <div class="message">feat: implement JSON serialization with source generation
-
-- Create `SourceGenerationContext` class for JSON serialization
-- Add JSON serialization options with `JsonSourceGenerationOptions` attribute
-- Include `JsonRoot`, `Text`, and `string` types for JSON serialization
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6395f70</div>
-                                        <div class="message">refactor: switch to System.Text.Json for serialization
-
-- Replace `Newtonsoft.Json` with `System.Text.Json` for JSON serialization and deserialization
-- Modify `ProcessJson` to use `System.Text.Json` with appropriate serialization options
-- Ensure `GetBoundary` method in `SoundButtons` no longer returns a nullable string
-- Add non-nullable enforcement using `!` for `Request` in `RunOrchestrator`
-- Refactor `Button`, `ButtonGroup`, `Color`, `JsonRoot`, `Link`, `OpenAI`, `Request`, `Source`, and `Text` classes to use `JsonPropertyName` attributes from `System.Text.Json`
-- Update `OpenAIService` to deserialize using `System.Text.Json`
-- Remove `Newtonsoft.Json` package reference from the project file
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ca8c3e</div>
-                                        <div class="message">fix: Fix FFmpeg executables path
-
-- Add log information for tempPath in ProcessAudioAsync
-- Use FileHelper.PrepareTempDir() to create the temporary directory in YoutubeDLHelper
-- Fix FFmpeg executables path by getting the directory name in ProcessAudioService
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8aeefb7</div>
-                                        <div class="message">fix: Change authorization level from `Function` to `Anonymous`
-
-- Change authorization level from `Function` to `Anonymous` in the `HttpTrigger` attribute
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94eadfc</div>
-                                        <div class="message">chore: enhance logging configuration in Docker and solution
-
-- Add `local.settings.json` and `.csproj.user` files to `.dockerignore`
-- Set default logging level to Information in Dockerfile
-- Add `docker-compose.yml` to solution items in SoundButtons.sln
-- Add conditional Serilog debugging in Program.cs for non-release builds
-- Change `Logger` to `Log.Logger` and add startup and shutdown logs in Program.cs
-- Update Azure Storage Blobs package to `12.21.2` in SoundButtons.csproj
-- Update various Microsoft and Serilog package versions in SoundButtons.csproj
-- Set default logging level to Debug in docker-compose.yml
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc55868</div>
-                                        <div class="message">chore: remove CORS that is not working
-
-- Add `.env` to `.gitignore`
-- Create `.prettierrc` file with tab width set to 2 and tabs disabled
-- Add custom spelling words configuration in VSCode settings
-- Remove CORS environment variables from Dockerfile
-- Add `docker-compose.yml` for setting up services and Azure Storage Emulator
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5313024</div>
-                                        <div class="message">feat: refactor audio processing and Linux usage
-
-- Add `*.exe` files to `.dockerignore`
-- Include `.dockerignore` and `Dockerfile` in the solution items of `SoundButtons.sln`
-- Inject `ProcessAudioService` into `ProcessAudio` and `SoundButtons` classes
-- Replace `ProcessAudioHelper` method calls with `ProcessAudioService` method calls
-- Make `CleanUp` method in `SoundButtons` class static
-- Simplify `PrepareTempDir` method in `FileHelper.cs`
-- Remove `ProcessAudioHelper.cs` and its methods
-- Create `YoutubeDLHelper.cs` to locate `yt-dlp` and `ffmpeg` executables
-- Add `ProcessAudioService.cs` to handle audio downloading and processing
-- Define OS-specific constants in the project file and conditionally include executable files
-- Add `ffmpeg.exe` and `ffprobe.exe` to the project for Windows
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca2bf28</div>
-                                        <div class="message">chore: refactor health check endpoint to use "/healthz"
-
-- Add entry to the user dictionary for the word "healthz"
-- Change the route in the Wake function from "wake" to "healthz"
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f3b79a</div>
-                                        <div class="message">build: add Docker support
-
-- Add .dockerignore file to exclude unnecessary files and directories from Docker build context
-- Add .hadolint.yml file to ignore specific Dockerfile linting rules
-- Update .vscode settings to change the deployment path from net6.0 to net8.0
-- Update .vscode tasks to change the working directory from net6.0 to net8.0
-- Add Dockerfile for building and deploying the SoundButtons application with Azure Functions and various tools (ffmpeg, yt-dlp, curl, etc.)
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7f810b</div>
-                                        <div class="message">feat: Migrate from in-process to isolated, and upgrade to .NET 8.</div>
                                     </div>
                                 </div>
                             </section>
