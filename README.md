@@ -57,10 +57,6 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
 
 ---
 
-[![img](https://github.com/jim60105/jim60105/raw/master/images/stat.svg)](https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c)
-
----
-
 [![Made with FLUX.1 dev](https://github.com/jim60105/jim60105/raw/master/images/banner2.png)](https://civitai.com/images/32930515 "Made with FLUX.1 dev")
 
 <p align='center'>
