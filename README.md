@@ -32,17 +32,36 @@ I gotta talk about **cloud computing services.** I have delve into both Cloudfla
 
 Furthermore, Cloudflare workers are great for [generating open graph meta tags](https://github.com/Recorder-moe/OpenGraphTagBuilder) in front of the SPA and also well-suited for [web applications that experience high traffic](https://github.com/jim60105/simple-poll-system). I have written a few [blog posts](https://blog.maki0419.com/search/label/Cloudflare) on this topic (in Chinese).
 
+<!-- prettier-ignore -->
+<details>
+    <summary>More info</summary>
+    <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/base-metrics.svg"/>
+    <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/achievements.svg" />
+    <a href="https://github.com/jim60105?tab=repositories">
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/activity-metrics.svg"/>
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/habits-metrics.svg" />
+    </a>
+    <a href="https://blog.maki0419.com/">
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/blog.svg" />
+    </a>
+</details>
+
 ---
 
-What I've got:
-
-|　　　　　　　　||
-:--:|:--:
-![AZ204](https://github.com/jim60105/jim60105/assets/16995691/9a8ecdaa-cb5f-42c2-908a-ada3200a5ce9)|[Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/zh-tw/users/jim60105/credentials/10e1317911550c2)
+<table  align='center'>
+  <tr>
+    <td><img src="https://github.com/jim60105/jim60105/assets/16995691/9a8ecdaa-cb5f-42c2-908a-ada3200a5ce9" alt="AZ204" width="150px" /></td>
+    <td><a href="https://learn.microsoft.com/zh-tw/users/jim60105/credentials/10e1317911550c2">Microsoft Certified: Azure Developer Associate (AZ-204)</a></td>
+  </tr>
+</table>
 
 ---
 
-Feel free to find me in the following places, and I mainly lives in [Mastodon](https://liker.social/@jim60105).
+[![img](https://github.com/jim60105/jim60105/raw/master/images/stat.svg)](https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c)
+
+---
+
+[![Made with FLUX.1 dev](https://github.com/jim60105/jim60105/raw/master/images/banner2.png)](https://civitai.com/images/32930515 "Made with FLUX.1 dev")
 
 <p align='center'>
     <a href="http://blog.maki0419.com" target="_blank" rel="noopener noreferrer">
@@ -71,27 +90,6 @@ Feel free to find me in the following places, and I mainly lives in [Mastodon](h
     </a>&nbsp;
     <a href="https://go-find.me/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/gofind.png" width="80px" alt="">
-    </a>
+    </a><br>
+    <span>Feel free to find me here, and I mainly lives in <a href="https://liker.social/@jim60105">Mastodon.</a></span>
 </p>
-
-![img](https://github.com/jim60105/jim60105/raw/master/images/banner2.png)
-
-<div align='right' style='float: right'>
-    <a href="https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c" title="Total time coded since Feb 26 2021"><img src="https://wakatime.com/badge/user/9646c960-8448-40df-9125-0c72a729c33c.svg?style=flat-square" alt="Total time coded since Feb 26 2021" /></a>
-</div>
-
-[![img](https://github.com/jim60105/jim60105/raw/master/images/stat.svg)](https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c)
-
-<!-- prettier-ignore -->
-<details>
-    <summary>More info</summary>
-    <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/base-metrics.svg"/>
-    <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/achievements.svg" />
-    <a href="https://github.com/jim60105?tab=repositories">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/activity-metrics.svg"/>
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/habits-metrics.svg" />
-    </a>
-    <a href="https://blog.maki0419.com/">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/blog.svg" />
-    </a>
-</details>
