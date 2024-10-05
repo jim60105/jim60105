@@ -74,7 +74,7 @@ Feel free to find me in the following places, and I mainly lives in [Mastodon](h
     </a>
 </p>
 
-[![img](https://github.com/jim60105/jim60105/raw/master/images/banner.png)](https://blog.maki0419.com/2020/03/niz-atom68-micro82.html)
+![img](https://github.com/jim60105/jim60105/raw/master/images/banner.png)
 
 <div align='right' style='float: right'>
     <a href="https://wakatime.com/@9646c960-8448-40df-9125-0c72a729c33c" title="Total time coded since Feb 26 2021"><img src="https://wakatime.com/badge/user/9646c960-8448-40df-9125-0c72a729c33c.svg?style=flat-square" alt="Total time coded since Feb 26 2021" /></a>
