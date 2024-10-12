@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="591" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="553" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,45 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">jim60105/blog</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c905c63</div>
-                                        <div class="message">feat: add AI/writes-article-with-claude</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8c71fd</div>
-                                        <div class="message">refactor: update frontmatter field names
-
-Update the field names in the frontmatter.json file to improve clarity and consistency. Renamed "Archived" to "Archived message", "Trigger" to "Trigger Warning message", and "Disclaimer" to "Disclaimer message".</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/blog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f4b2e1c</div>
-                                        <div class="message">chore: disable estimated read time since it's not for Chinese</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c829409</div>
-                                        <div class="message">chore: always use dark theme</div>
+                                        <div class="sha">#07a4383</div>
+                                        <div class="message">chore: use double whitespace instead of back-slash</div>
                                     </div>
                                 </div>
                             </section>
@@ -79,8 +49,11 @@ Update the field names in the frontmatter.json file to improve clarity and consi
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8cb1a75</div>
-                                        <div class="message">feat: add whisperx</div>
+                                        <div class="sha">#d4d57f3</div>
+                                        <div class="message">feat: add featured and hot flags to AI content
+
+- Added the "featured" flag to the automated-prompt-engineering and say-goodbye-to-ai-hallucinations-a-simple-method-to-Improve-the-accuracy-of-your-rag-system articles.
+- Added the "hot" flag to the unlocking-ai-translation-barrier-free-reading-experience-of-japanese-web-novels and whisperx articles.</div>
                                     </div>
                                 </div>
                             </section>
@@ -92,41 +65,59 @@ Update the field names in the frontmatter.json file to improve clarity and consi
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">jim60105/blog</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6bb49e1</div>
-                                        <div class="message">chore: update description</div>
+                                        <div class="sha">#b2a9234</div>
+                                        <div class="message">fix: fix table of handshake-blockchain-domain-how-to-setup</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">jim60105/blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#88b582d</div>
+                                        <div class="message">feat: add handshake-blockchain-domain-how-to-setup</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2045550</div>
-                                        <div class="message">feat: add my-novel-list</div>
+                                        <div class="sha">#f257be9</div>
+                                        <div class="message">feat: add handshake-blockchain-domain-auction</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c047824</div>
-                                        <div class="message">chore: change code highlighting theme to "visual-studio-dark"</div>
+                                        <div class="sha">#b4a7010</div>
+                                        <div class="message">refactor: add 盤古之白 to devcontainer and extensions.json</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1087cde</div>
-                                        <div class="message">feat: add AI/unlocking-ai-translation-barrier-free-reading-experience-of-japanese-web-novels</div>
+                                        <div class="sha">#d57ab7f</div>
+                                        <div class="message">feat: add Blockchain/blockchain-domain/blockchain-domains-handshake-unstoppable-domains-ethereum-name-service</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#34f8332</div>
-                                        <div class="message">feat: add AI/trash-novel-generator</div>
+                                        <div class="sha">#cd739ce</div>
+                                        <div class="message">feat: add Blockchain/likecoin-writing-nft-widget-on-blogger</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a51e530</div>
-                                        <div class="message">chore: update preconnect links</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e10ee48</div>
-                                        <div class="message">feat: add mastodon post id for comments in AI/quill-sage
+                                        <div class="sha">#bf61c2d</div>
+                                        <div class="message">refactor: update frontmatter field names and add card image for SEO
 
-This commit adds the mastodon post id for comments in the AI/quill-sage section. The post id is set to "113154728161931893". This allows for better integration and tracking of comments related to the quill-sage article.</div>
+- Update frontmatter field names in frontmatter.json
+- Add card image for SEO in the AI/unlocking-ai-translation-barrier-free-reading-experience-of-japanese-web-novels/index.md file
+- Add card image for SEO in the Blockchain/archive-page-for-writing-nft/index.md file</div>
                                     </div>
                                 </div>
                             </section>
@@ -145,12 +136,12 @@ This commit adds the mastodon post id for comments in the AI/quill-sage section.
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aa566d7</div>
-                                        <div class="message">feat: add AI/quill-sage</div>
+                                        <div class="sha">#fcc33a8</div>
+                                        <div class="message">chore: move section from 區塊鏈 to Blockchain</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5357143</div>
-                                        <div class="message">feat: always enable toc</div>
+                                        <div class="sha">#93e2ea5</div>
+                                        <div class="message">feat: add 區塊鏈/archive-page-for-writing-nft</div>
                                     </div>
                                 </div>
                             </section>
@@ -173,14 +164,14 @@ This commit adds the mastodon post id for comments in the AI/quill-sage section.
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.38428824467772" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="156.38428824467772" y="0" width="77.27223278335642" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="233.65652102803415" y="0" width="71.21760173244814" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="304.8741227604823" y="0" width="61.27158320796652" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="366.1457059684488" y="0" width="35.58461090109821" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="401.73031686954704" y="0" width="33.422219833547466" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="435.1525367030945" y="0" width="13.220295478037912" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.3728321811324" y="0" width="11.627167818867617" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.32250764871574" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="156.32250764871574" y="0" width="77.24170590213164" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="233.5642135508474" y="0" width="71.189466771274" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="304.7536803221214" y="0" width="61.24737748392218" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="366.00105780604355" y="0" width="35.570552976908886" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="401.57161078295246" y="0" width="33.59074206668624" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="435.1623528496387" y="0" width="13.215072717218433" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.3774255668571" y="0" width="11.62257443314286" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
