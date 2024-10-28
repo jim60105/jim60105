@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="661" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="451" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.category,.field.language.details&gt;*{flex:1 1 0}.category{display:flex;flex-direction:column;align-items:center}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.rss{align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,215 +19,141 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2184 ForgeUi adding incorrect model hashes to generated images. Issue seems to be prevalent on in the "New forge", and is not present in "Old Forge"</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by reaper9037 in <span class="repo">lllyasviel/stable-diffusion-webui-forge</span></div>
-                                    <div class="comment">I have encountered the same problem. The generated checkpoint hash does not match the one on Civitai, causing the resources not detected. 
-Hope it gets fixed</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Recorder-moe/LivestreamRecorderService</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a5f1ede</div>
-                                        <div class="message">feat: hide Discord msg for hidden channels
-
-- Add check to ensure `channel.Hide` is not true before sending start recording message in `FC2Service.cs`
-- Add check to ensure `channel.Hide` is not true before sending start recording message in `TwitcastingService.cs`
-- Add check to ensure `channel.Hide` is not true before sending deleted message in `TwitcastingService.cs`
-- Add check to ensure `channel.Hide` is not true before sending start recording message in `TwitchService.cs`
-- Add check to ensure `channel.Hide` is not true before sending skipped message in `YoutubeService.cs`
-- Add check to ensure `channel.Hide` is not true before sending deleted message in `YoutubeService.cs`
-- Add check to ensure `channel.Hide` is not true before sending archived message in `YoutubeService.cs`
-- Retrieve channel data before processing finished video in `RecordService.cs`
-- Add check to ensure `channel.Hide` is not true before sending archived message in `RecordService.cs`
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7795ed6</div>
-                                        <div class="message">chore: Resharper code cleanup
-
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">jim60105/discord-duotify-bot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7ef14aa</div>
-                                        <div class="message">chore: remove unused get_owner module from Discord utility
-
-- Remove `get_owner` module from `util.rs`
-- Delete the `get_owner.rs` file containing the `get_owner` function and its dependencies
-
-Signed-off-by: 陳鈞 Jim &lt;jim@miniasp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d17c9f5</div>
-                                        <div class="message">feat: add bot reboot command and graceful shutdown handling
-
-- Add a new `CancellationToken` field to the `Data` struct
-- Pass `CancellationToken` to the `init` function and framework data
-- Include `reboot` command in the list of commands
-- Create a new `reboot.rs` file to define the `/reboot` command for restarting the bot
-- Move the Discord bot initialization code to after the graceful shutdown handling
-- Ensure the `CancellationToken` is passed to the `init` function during Discord bot initialization
-
-Signed-off-by: 陳鈞 Jim &lt;jim@miniasp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#257a810</div>
-                                        <div class="message">feat: enhance add_course with URL encoding and admin check
-
-- Add `url` crate to dependencies in `Cargo.toml`
-- Adjust required permissions for `add_course` command to include `MANAGE_CHANNELS`
-- Import `form_urlencoded` from `url` crate in `add_course.rs`
-- Encode course name for URL in `add_course.rs`
-- Change return type of `create_course_data` function to return course ID
-- Move `user_has_admin_role` function to a new module `user_has_admin_role.rs`
-- Add new utility module `user_has_admin_role`
-
-Signed-off-by: 陳鈞 Jim &lt;jim@miniasp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbc3bd5</div>
-                                        <div class="message">chore: remove unused role permission placeholders
-
-- Reorder import statements for better readability
-- Remove outdated TODO comments about adding the "多奇小夥伴" role
-
-Signed-off-by: 陳鈞 Jim &lt;jim@miniasp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f13235c</div>
-                                        <div class="message">feat: remove owner check before deleting join channel messages
-
-- Remove unused import of `get_owner` function.
-- Simplify condition to remove non-ephemeral messages in join channel.
-- Remove redundant error message about missing "Manage Messages" permission.
-
-Signed-off-by: 陳鈞 Jim &lt;jim@miniasp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e73e01d</div>
-                                        <div class="message">refactor: refactor notify admin role on bot mention in messages
-
-- Add `discord_admin_role_id` to the environment variables returned by `get_discord_env`
-- Modify the event handler to use the new `discord_admin_role_id` directly from `get_discord_env`
-- Simplify the construction of the message for notifying the admin role when someone mentions the bot
-- Update the example in the comments to include `discord_admin_role_id`
-
-Signed-off-by: 陳鈞 Jim &lt;jim@miniasp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3529a2</div>
-                                        <div class="message">refactor: disable message delete logging in event handler
-
-- Remove unused import `send_to_log_channel_raw`
-- Comment out `FullEvent::MessageDelete` event handler logic
-
-Signed-off-by: 陳鈞 Jim &lt;jim@miniasp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dea80e6</div>
-                                        <div class="message">feat: implementing add course command WIP
-
-- Replace `ClaimHandler` with `CourseService`
-- Add role creation for new courses
-- Create course data after role creation
-- Add functions for creating course-related channels and assigning permissions
-- Add a function to create a category for the course channels
-- Add functions to create an announcement channel and a chat channel with specific permissions
-
-Signed-off-by: 陳鈞 Jim &lt;jim@miniasp.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#162 local variable 'errormodules' referenced before assignment</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">hako-mikan/sd-webui-lora-block-weight</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">jim60105/blog</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cc129d0</div>
-                                        <div class="message">chore: expand taxonomyDb with new tech tags
+                                        <div class="sha">#0be6eaf</div>
+                                        <div class="message">chore: update my template for Duckquill theme v5.4.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3941025</div>
+                                        <div class="message">chore: update Duckquill theme submodule to v5.4.0
 
-- Add `ArgoCD`, `Azure`, `Container`, `K8s`, `Linux`, and `RHEL` tags to the taxonomy database
-- Update tags for Docker Stable Diffusion WebUI article to include `Container`
-- Update tags for Docker Nextcloud article to include `Container`
-- Update description for Docker Opencart article to provide more details about Opencart
-- Update tags for Docker Op
+- Update submodule `themes/duckquill` to the latest commit
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e901a4d</div>
+                                        <div class="message">refactor: introduce twig formatting</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ed32524</div>
+                                        <div class="message">feat: add "read more" for rss feed truncation
+
+- Add `&lt;!--more--&gt;` comments for article previews in multiple files
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Automated Prompt Engineering" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Batch Webpage Summary Assistant" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Quill Sage" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Say Goodbye to AI Hallucinations" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Trash Novel Generator" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Unlocking AI Translation" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "WhisperX" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Writes Article with Claude" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Serilog Doesn't Work with Single File Deployment" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Archive Page for Writing NFT" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Blockchain Domains" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Handshake Blockchain Domain Auction" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Handshake Blockchain Domain Access" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Handshake Blockchain Domain Setup" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "LikeCoin Writing NFT Widget" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Cloudflare Pages" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Cloudflare Worker DDOS" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Cloudflare Workers Introduction" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "MinIO StatObject Insufficient Permissions" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "ArgoCD ConfigMap" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Azure CLI to REST API" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Docker Stable Diffusion WebUI Kohya's GUI" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Install Docker on RHEL8 Air Gap Network" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Linux Docker Setup Reverse Proxy" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Nextcloud" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "OpenCart" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Sudo in Docker Container" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Azure Blob Storage 206 Partial Content" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "Media Autoplay on Browser" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "View Counter Badge Cloudflare Workers D1" article
+- Add `&lt;!--more--&gt;` comment to introduce a teaser break in the "My Novel List" page
 
 Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#2532429</div>
-                                        <div class="message">feat: add Frontend/azure-blob-storage-206-partial-content</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/blog</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9013486</div>
-                                        <div class="message">feat: add Container/sudo-in-docker-container-env-not-passed-in</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af43478</div>
-                                        <div class="message">feat: add Container/opencart</div>
+                                        <div class="sha">#5a08071</div>
+                                        <div class="message">feat: add Atom feed template for copyrights and &lt;!--more--&gt;
+
+- Create a new Atom XML template for generating Atom feeds with Zola
+
+Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -250,14 +176,14 @@ Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.30745014573532" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="156.30745014573532" y="0" width="77.23426572455051" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="233.54171587028583" y="0" width="71.18260956546142" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="304.72432543574723" y="0" width="61.24147793316087" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="365.9658033689081" y="0" width="35.56712670313986" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="401.532930072048" y="0" width="33.58750649487773" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="435.1204365669257" y="0" width="13.21379979753579" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.3342363644615" y="0" width="11.66576363553849" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.2361112396893" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="156.2361112396893" y="0" width="77.4089604606597" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="233.64507170034904" y="0" width="71.15012173784243" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="304.79519343819146" y="0" width="61.21352724983567" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="366.00872068802715" y="0" width="35.55089382423462" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="401.55961451226176" y="0" width="33.57217711698868" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="435.1317916292504" y="0" width="13.207769003601218" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.33956063285166" y="0" width="11.660439367148372" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
