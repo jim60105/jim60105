@@ -178,7 +178,7 @@ Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="155.0666763144203" height="8" fill="#178600"/>
                     <rect mask="url(#languages-bar)" x="155.0666763144203" y="0" width="79.76463156492306" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="234.83130787934337" y="0" width="71.02447887773654" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="305.8557867570799" y="0" width="60.75534100789163" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="305.8557867570799" y="0" width="60.75534100789163" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="366.6111277649715" y="0" width="35.284793647183946" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="401.8959214121555" y="0" width="33.422009971642495" height="8" fill="#384d54"/>
                     <rect mask="url(#languages-bar)" x="435.31793138379794" y="0" width="13.108908207366978" height="8" fill="#3572A5"/>
@@ -205,7 +205,7 @@ Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
