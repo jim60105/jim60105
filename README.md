@@ -60,8 +60,8 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
 [![Made with FLUX.1 dev](https://github.com/jim60105/jim60105/raw/master/images/banner2.png)](https://civitai.com/images/32930515 "Made with FLUX.1 dev")
 
 <p align='center'>
-    <a href="http://blog.maki0419.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/blogger.png" width="80px" alt="">
+    <a href="https://琳.tw" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/rss.png" width="80px" alt="">
     </a>&nbsp;
     <a rel="me" href="https://liker.social/@jim60105" target="_blank" rel="noopener">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/mastodon.png" width="80px" alt="">
@@ -83,9 +83,6 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
     </a>&nbsp;
     <a href="https://liker.land/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/likecoin.png" width="80px" alt="">
-    </a>&nbsp;
-    <a href="https://go-find.me/jim60105" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/gofind.png" width="80px" alt="">
     </a><br>
     <span>Feel free to find me here, and I mainly lives in <a href="https://liker.social/@jim60105">Mastodon.</a></span>
 </p>
