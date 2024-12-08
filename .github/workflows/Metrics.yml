@@ -74,7 +74,7 @@ jobs:
           config_twemoji: yes
           plugin_rss: yes
           plugin_rss_limit: 5
-          plugin_rss_source: https://blog.maki0419.com/feeds/posts/default
+          plugin_rss_source: https://琳.tw/atom.xml
           base: ""
           repositories_forks: yes
           config_timezone: Asia/Taipei
