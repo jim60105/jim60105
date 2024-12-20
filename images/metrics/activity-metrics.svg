@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="515" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="464" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.track{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.track{align-items:center;justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,10 +29,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c34df58</div>
-                                        <div class="message">docs: base change step name from "Setup and login to Quay" to "Build and push toolbx"
+                                        <div class="sha">#e444d3a</div>
+                                        <div class="message">fix: fix desktop entry for RustRover and Rider
 
-- Change step name from "Setup and login to Quay" to "Build and push toolbx" in the GitHub Actions workflow.
+- Add commands to copy RustRover icon and desktop files to local directories
+- Remove unnecessary quotes from the Exec command in JetBrains Rider desktop entry
+- Remove unnecessary quotes from the Exec command in RustRover desktop entry
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -53,19 +55,20 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#269baa5</div>
-                                        <div class="message">chore: update Rustup and Git Credential Manager installation
+                                        <div class="sha">#cdeffb6</div>
+                                        <div class="message">feat: enhance Rider setup with desktop integration files
 
-- Change installation of Rust from using `rustup-init` to just `dnf -y install rustup`
-- Update installation method for git-credential-manager to use a script from a URL
+- Add commands to copy Rider icon and desktop entry to local directories in README.
+- Add desktop entry file for JetBrains Rider to the repository.
+- Update `rider.Containerfile` to copy desktop files to the appropriate directory.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#610486a</div>
-                                        <div class="message">ci: fix base image to Fedora Toolbox 41 in CI workflow
+                                        <div class="sha">#dc9a17c</div>
+                                        <div class="message">build: add xdg-utils installation to Dockerfile build process
 
-- Change the base image from `quay.io/jim60105/toolbx:latest` to `registry.fedoraproject.org/fedora-toolbox:41` in the GitHub workflow.
+- Add installation of `xdg-utils` to the container build process
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -86,50 +89,12 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#730ee04</div>
-                                        <div class="message">docs: Update README.md
+                                        <div class="sha">#f2d8ff2</div>
+                                        <div class="message">feat: add Rider toolbox
 
-Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">jim60105/toolbx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bc9cc19</div>
-                                        <div class="message">ci: streamline workflows with reusable container actions
-
-- Add a new GitHub Actions workflow `build-base` for building and pushing container images.
-- Remove the `build-fedora` workflow.
-- Add a new GitHub Actions workflow `build-sourcegit` for building and pushing container images, with a dependency on the `build-base` workflow.
-- Modify the `build-video` workflow to use a reusable step and add a dependency on the `build-base` workflow.
-- Add a new GitHub Actions workflow `build-vscode` for building and pushing container images, with a dependency on the `build-base` workflow.
-- Update the `container-reused-steps` action to include new inputs and steps for building and pushing container images.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53f4ab9</div>
-                                        <div class="message">feat: split vscode and sourcegit toolbox to different container</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#116de85</div>
-                                        <div class="message">build: rename Containerfile for broader base image support
-
-- Update workflow to track `base.Containerfile` instead of `fedora.Containerfile`
-- Rename `fedora.Containerfile` to `base.Containerfile`
+- Add a GitHub Actions workflow to build and push a Rider container image
+- Update README to include instructions for setting up a Rider toolbox
+- Add a new `rider.Containerfile` for building a Rider container, including stages for downloading and setting up JetBrains Rider
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -143,26 +108,41 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">jim60105/toolbx</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d41b74f</div>
-                                        <div class="message">docs: enhance README with YouTube video script example
+                                        <div class="sha">#c8f3637</div>
+                                        <div class="message">docs: rename video toolbox alias for clarity and consistency
 
-- Add a JavaScript script to open the current webpage in mpv and pause any playing video.
+- Rename toolbox creation alias from `vid` to `video` for video editing and player image.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/toolbx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#50dca3e</div>
-                                        <div class="message">ci: expand Workflow Trigger Paths for Fedora and Video
+                                        <div class="sha">#52885bc</div>
+                                        <div class="message">fix: fix icon path in RustRover container setup
 
-- Update path specification in `build-fedora.yml` to include all files in the `fedora` directory recursively
-- Update path specification in `build-video.yml` to include all files in the `video` directory recursively
+- Fix path for copying `rustrover.svg` to the correct directory
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -187,14 +167,14 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="154.19393625149468" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="154.19393625149468" y="0" width="80.44059538806094" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="234.63453163955563" y="0" width="70.81954369418808" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="305.4540753337437" y="0" width="60.413400228643994" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="365.8674755623877" y="0" width="35.08620518343485" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="400.95368074582257" y="0" width="34.23250193867727" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="435.18618268449984" y="0" width="13.305792504999445" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.4919751894993" y="0" width="11.508024810500721" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="154.0841271779608" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="154.0841271779608" y="0" width="80.38330969013525" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="234.4674368680961" y="0" width="70.76910961960509" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="305.23654648770116" y="0" width="60.37037687980544" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="365.6069233675066" y="0" width="35.06121857385294" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="400.6681419413595" y="0" width="34.53571188090676" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="435.2038538222663" y="0" width="13.296316796789851" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.5001706190561" y="0" width="11.499829380943849" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
