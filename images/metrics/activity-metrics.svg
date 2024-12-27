@@ -23,6 +23,58 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
+                                        <span class="repo">jim60105/toolbx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#23f2f70</div>
+                                        <div class="message">chore: update Rustrover to version 2024.3.2
+
+- Update `RUSTROVER_VERSION` from `2024.3.1` to `2024.3.2` in the Containerfile.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#668bd32</div>
+                                        <div class="message">fix: add fissing development tools to RustRover
+
+- Add installation of development tools and OpenSSL development libraries to the final stage of the container.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/DuotifyDiscordAutomation.VerifyLog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6248f94</div>
+                                        <div class="message">update test</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
                                         <span class="repo">jim60105/blog</span>
                                     </div>
                                 </div>
@@ -101,62 +153,6 @@ Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/blog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e83fa6d</div>
-                                        <div class="message">feat: publish Guide for Transparent Video in OBS Studio
-
-- Publish article by removing the draft status
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/blog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#266dbf3</div>
-                                        <div class="message">feat: add Uncategorized/how-to-export-import-videos-with-transparent-background-in-obs-studio
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e535d4</div>
-                                        <div class="message">feat: enhance color shortcode with optional halo effect
-
-- Set a default HTML element to "span" if no element is provided.
-- Add support for a "halo" effect with text-shadow styling when the halo is specified.
-- Use a consistent variable for the HTML element throughout the template.
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -175,14 +171,14 @@ Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.76074950362377" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="153.76074950362377" y="0" width="80.26112908879742" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="234.0218785924212" y="0" width="70.62058588453368" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="304.64246447695484" y="0" width="60.24367705399084" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="364.8861415309457" y="0" width="35.297876987981965" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="400.1840185189277" y="0" width="34.98763529483848" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="435.17165381376617" y="0" width="13.268411703113145" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.44006551687926" y="0" width="11.559934483120703" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.75371026666545" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="153.75371026666545" y="0" width="80.257454697849" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="234.01116496451448" y="0" width="70.61735284203239" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="304.6285178065469" y="0" width="60.240919071089536" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="364.8694368776364" y="0" width="35.317320044095005" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="400.1867569217314" y="0" width="34.986033545001504" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.17279046673286" y="0" width="13.267804269198182" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.44059473593103" y="0" width="11.559405264068948" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
