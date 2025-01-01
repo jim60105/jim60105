@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="559" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="464" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.categories,.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories{align-items:center;justify-content:space-around;margin-top:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,85 +22,6 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">jim60105/blog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#32de47e</div>
-                                        <div class="message">style: hide Buttons in right corner for Cleaner UI
-
-- Add a new `#buttons-container` element and set its visibility to hidden in the stylesheet.
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe1368a</div>
-                                        <div class="message">feat: update AI badge image to purple-blue variant
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#546a815</div>
-                                        <div class="message">feat: integrate AI co-authorship note into article metadata
-
-- Add collaborative creation note with Quill Sage and Claude 3.5 Sonnet to multiple articles.
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d85433</div>
-                                        <div class="message">refactor: refine tooltip animation for smoother appearance
-
-- Update tooltip positioning logic by changing bottom position from `-13em` to `10px` when hovered.
-- Replace tooltip transition from opacity to bottom position, extending transition duration to `1s`.
-- Remove tooltip visibility and opacity properties in favor of bottom position transition.
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2cb31c</div>
-                                        <div class="message">feat: add AI badge with tooltip to articles
-
-- Add a new import for `with-ai` module in `style.scss`.
-- Add a new `with-ai.scss` file with styles for a fixed position AI badge and tooltip.
-- Include a new partial `with_ai.html` in `article.html`.
-- Create a new `with_ai.html` file to conditionally display an AI badge with tooltip based on `page.extra.withAI`.
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4a42e7</div>
-                                        <div class="message">feat: add AI collaboration metadata to frontmatters
-
-- Add a `withAI` field to indicate AI involvement in the posts.
-- Remove duplicate content about AI collaboration from two markdown files.
-- Include new metadata entry for AI collaboration in `frontmatter.json`.
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d2766f</div>
-                                        <div class="message">refactor: refactor: Rename `raw_path` to `no_srcset` in docs and code
-
-- Rename `raw_path` parameter to `no_srcset` in `README.md` and update references accordingly.
-- Replace `raw_path=true` with `no_srcset=true` in image configurations in multiple markdown files.
-- Change logic in `image.html` template to use `no_srcset` instead of `raw_path`.
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">jim60105/blog</span>
                                     </div>
@@ -108,19 +29,64 @@ Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#877d3de</div>
-                                        <div class="message">feat: add ai-badge
+                                        <div class="sha">#9b88421</div>
+                                        <div class="message">perf: optimize banner image handling for faster loading
+
+- Replace the banner image source with a call to a partial in `article.html`.
+- Create a new partial template `banner.html` to handle image metadata and resizing.
+- Add conditional preload for the banner image in `head.html` when a banner is present.
 
 Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7468ea6</div>
-                                        <div class="message">chore: normalize line endings and set binary file handling
+                                        <div class="sha">#c32cf14</div>
+                                        <div class="message">feat: favicon add web app manifest and update head for better PWA support
 
-- Add a new `.gitattributes` file to normalize line endings automatically across all text files.
-- Configure binary treatment for common image file formats like JPG, PNG, GIF, WEBP, and SVG.
-- Provide commented suggestions for handling merge conflicts in various Visual Studio project files by treating them as binary.
-- Include commented suggestions for handling common document formats by converting them to text before diffing.
+Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/Containerfile-template</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7922350</div>
+                                        <div class="message">docs: enhance README: Add Podman documentation links
+
+- Add two new references under the Podman section in the README file.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c8f0c92</div>
+                                        <div class="message">feat: favicon add web app manifest and update head for better PWA support
 
 Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                                     </div>
@@ -141,39 +107,17 @@ Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#71ccf8d</div>
-                                        <div class="message">fix: fix srcset generation for images smaller than default
+                                        <div class="sha">#4be3649</div>
+                                        <div class="message">perf: improve Page Load with Font Optimization and Preconnect
 
-- Add a condition to set the `image_default_size` to `width` if the `width` is not greater than the default size.
-
-Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/blog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1583507</div>
-                                        <div class="message">feat: add responsive image support and update media content
-
-- Add new content categories and entries in `mediaDb.json`.
-- Update `.vscode/settings.json` to include `srcset` in the spell-checker dictionary.
-- Introduce a new image shortcode in `README.md` and `templates/shortcodes/image.html` for responsive images with `srcset`.
-- Add configuration for default image settings in `config.toml`.
-- Replace image markdown with new shortcode in multiple content files for consistency and responsive image support.
-- Convert several images from PNG to WebP format for optimized web performance.
+- Add "preconnect" to VS Code settings.
+- Update README to remove goat counter and add webp format for cards.
+- Remove "tracking.js" from scripts in config.toml.
+- Create `sass/fonts.scss` for custom font definitions.
+- Move font-face and font-family definitions from `sass/style.scss` to `sass/fonts.scss`.
+- Add `partials/card.html` template for generating card URLs.
+- Enhance `partials/head.html` with Open Graph updates and resource preloading/preconnecting optimizations.
+- Remove goat counter script reference and add tracking configuration script in `partials/head.html`.
 
 Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                                     </div>
@@ -188,17 +132,17 @@ Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/blog</span>
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#66b8c01</div>
-                                        <div class="message">chore: ignore processed images to streamline version control
+                                        <div class="sha">#be9888c</div>
+                                        <div class="message">build: enable multi-arch cache mount in Docker build
 
-- Add `static/processed_images` to the `.gitignore` file
-- Delete multiple binary image files from `static/processed_images` directory
+- Add multi-architecture support arguments `TARGETARCH` and `TARGETVARIANT` to base and build stages.
+- Move cache mount for multi-architecture setup to earlier in the build stage.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -223,14 +167,14 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.55097005061282" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="153.55097005061282" y="0" width="80.69446311537588" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="234.2454331659887" y="0" width="70.5242365370832" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="304.7696697030719" y="0" width="60.16148517042787" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="364.93115487349974" y="0" width="35.314905635785586" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="400.24606050928537" y="0" width="34.93990083062709" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="435.18596133991247" y="0" width="13.269875670930917" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.45583701084337" y="0" width="11.544162989156606" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.4344366923232" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="153.4344366923232" y="0" width="80.9643435759523" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="234.3987802682755" y="0" width="70.47071407400942" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="304.8694943422849" y="0" width="60.1158272374022" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="364.9853215796871" y="0" width="35.30608756684614" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="400.2914091465333" y="0" width="34.91338413730528" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.20479328383857" y="0" width="13.259804857470675" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.4645981413092" y="0" width="11.53540185869077" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
