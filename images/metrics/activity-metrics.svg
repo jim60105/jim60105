@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="511" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="527" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,68 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/prompt</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bd2b5bc</div>
+                                        <div class="message">docs(trash-novel-generator): add readme
+
+- Add "Trash Novel Generator" to the README as a new project entry.
+- Introduce a new README file for "Trash Novel Generator" with detailed features, usage instructions, and limitations, focusing on automated Chinese novel creation.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jim60105/prompt</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#349fba1</div>
+                                        <div class="message">docs(trash-novel-generator): add readme
+
+- Add "Trash Novel Generator" to the README as a new project entry.
+- Introduce a new README file for "Trash Novel Generator" with detailed features, usage instructions, and limitations, focusing on automated Chinese novel creation.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2dff3da</div>
+                                        <div class="message">feat(trash-novel-generator): add novel worker part
+
+- Add a new prompt template `0_check_contain_code.prompty` to identify if user input contains code with a boolean response.
+- Add a new prompt template `4_novel_worker.prompty` to generate novel chapters based on detailed outlines and requirements, following literary and structural guidelines.
+- Add a new prompt template `5_novel_rewrite.prompty` to rewrite novel chapters with enhanced storytelling, applying critical reviews, and integrating cultural and narrative elements.
+- Implement system prompts and constraints for strict JSON responses across all templates.
+- Introduce comprehensive narrative and stylistic techniques, including cultural motifs and advanced narrative structures, in the novel-related prompts.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -119,58 +181,6 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
 - Update the output specifications in `2_summary.prompty` to include a "summary" field and a new "has_new_memory" boolean field.
 - Replace "your_reply_to_user" output with "summarized_memories" in `3_summary_long-term_memory.prompty`, storing daily summaries as JSON objects.
 - Add a README file for "AI Waifu," detailing its features, usage, and technical highlights.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/toolbx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c511772</div>
-                                        <div class="message">chore: replace Lens with OpenLens in Kubernetes toolbox
-
-- Replace Lens with OpenLens in the Kubernetes toolbox and associated documentation.
-- Update the Kubernetes Containerfile to install OpenLens from its RPM release instead of Lens.
-- Rename the `lens.desktop` file to `open-lens.desktop` and update its contents to reflect OpenLens.
-- Remove the `lens` runner script and add a new runner script for OpenLens.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/prompt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8dc8d62</div>
-                                        <div class="message">chore(ai-rpg-master): enhance game start logic with assistant reply
-
-- Update the prompt to ensure responses strictly conform to JSON format.
-- Add a new assistant response for starting a gameplay session, following RPJB guidelines and prioritizing the user's OOC (Out of Character) input.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
