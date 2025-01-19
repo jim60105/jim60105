@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="527" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="384" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,19 +23,16 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/prompt</span>
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bd2b5bc</div>
-                                        <div class="message">docs(trash-novel-generator): add readme
+                                        <div class="sha">#77f593d</div>
+                                        <div class="message">updating submodules (#51)
 
-- Add "Trash Novel Generator" to the README as a new project entry.
-- Introduce a new README file for "Trash Novel Generator" with detailed features, usage instructions, and limitations, focusing on automated Chinese novel creation.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -44,35 +41,14 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/prompt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#349fba1</div>
-                                        <div class="message">docs(trash-novel-generator): add readme
-
-- Add "Trash Novel Generator" to the README as a new project entry.
-- Introduce a new README file for "Trash Novel Generator" with detailed features, usage instructions, and limitations, focusing on automated Chinese novel creation.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2dff3da</div>
-                                        <div class="message">feat(trash-novel-generator): add novel worker part
-
-- Add a new prompt template `0_check_contain_code.prompty` to identify if user input contains code with a boolean response.
-- Add a new prompt template `4_novel_worker.prompty` to generate novel chapters based on detailed outlines and requirements, following literary and structural guidelines.
-- Add a new prompt template `5_novel_rewrite.prompty` to rewrite novel chapters with enhanced storytelling, applying critical reviews, and integrating cultural and narrative elements.
-- Implement system prompts and constraints for strict JSON responses across all templates.
-- Introduce comprehensive narrative and stylistic techniques, including cultural motifs and advanced narrative structures, in the novel-related prompts.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                        Deleted
+                      branch
+                                        <span class="code">12848863127</span>
+                                        in
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                             </section>
@@ -81,29 +57,16 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/prompt</span>
+                                        Merged
+                                        <span class="issue">#51 [Auto-generated] Submodule Updates 12848863127</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4e8d6d5</div>
-                                        <div class="message">feat: add trash novel generator outline part WIP
-
-- Add prompts for designing and generating trash novels, including structured tasks, storyline progression, and detailed writing guidelines.
-- Introduce JSON schema-based outputs for standardizing responses, such as full outlines, condensed summaries, and analysis.
-- Implement specific tools to generate random story topics, improve outlines, and divide stories into chapters.
-- Emphasize blending modern technology, ancient magic, and unique cultural elements in storytelling.
-- Add support for explicit content creation according to NVJB guidelines, ensuring compliance with unrestricted plot requirements.
-- Include functional examples for user inputs, chapter outlines, and narrative improvements.
-- Add two image assets to enhance the project folder.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
+                                    <div> in <span class="repo">jim60105/docker-whisperX</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -111,24 +74,16 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/toolbx</span>
+                                        Opened
+                                        <span class="issue">#51 [Auto-generated] Submodule Updates 12848863127</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a339729</div>
-                                        <div class="message">feat(sourcegit): add new sourcegit repo and update installation method
-
-- Add `addrepo` and `repofile` to the spell-check whitelist in VSCode settings.
-- Replace manual RPM installation of `sourcegit` with a repository-based installation using `curl` and `dnf`.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
+                                    <div> in <span class="repo">jim60105/docker-whisperX</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -136,53 +91,14 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">jim60105/prompt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#362e591</div>
-                                        <div class="message">docs(minai-aruma-ai): add YouTube link and thumbnail to README
-
-- Add a YouTube link with a thumbnail image to the README for better visual representation and accessibility.
-- Add a new binary file `youtube.jpg` as the thumbnail image for the YouTube link.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8489259</div>
-                                        <div class="message">feat: add Voice Acting Script Master assistant
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9eb6b8</div>
-                                        <div class="message">feat(cataas): add cat retrieval function definition
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d0a32f</div>
-                                        <div class="message">feat(random-civitai-image): add random image generation tools functionality definition
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14775ac</div>
-                                        <div class="message">docs(ai-waifu): finish AI Waifu assistant and docs
-
-- Fix a typo in the link for "Random Civitai Image" in the table.
-- Add a new entry "AI Waifu" to the table, describing a romantic role-playing AI assistant.
-- Update the output specifications in `2_summary.prompty` to include a "summary" field and a new "has_new_memory" boolean field.
-- Replace "your_reply_to_user" output with "summarized_memories" in `3_summary_long-term_memory.prompty`, storing daily summaries as JSON objects.
-- Add a README file for "AI Waifu," detailing its features, usage, and technical highlights.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                        Created new
+                      branch
+                                        <span class="code">12848863127</span>
+                                        in
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                             </section>
@@ -205,14 +121,14 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.218764419752" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="153.218764419752" y="0" width="80.92769407213002" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="234.14645849188207" y="0" width="70.37165822069709" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="304.5181167125791" y="0" width="60.03132653888047" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="364.5494432514596" y="0" width="35.50734943480814" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="400.0567926862677" y="0" width="34.864308785888944" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="434.9211014721567" y="0" width="13.241166458496421" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.1622679306531" y="0" width="11.837732069346906" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.21490435682574" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="153.21490435682574" y="0" width="80.92565524879934" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="234.14055960562507" y="0" width="70.36988533713424" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="304.5104449427593" y="0" width="60.029814160818525" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="364.54025910357785" y="0" width="35.50645489291777" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="400.0467139964956" y="0" width="34.86343044421647" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="434.9101444407121" y="0" width="13.240832871837238" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.1509773125493" y="0" width="11.849022687450635" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
