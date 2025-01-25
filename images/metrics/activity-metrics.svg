@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="432" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="416" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,68 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/prompt</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#73e05f8</div>
+                                        <div class="message">chore(trash-novel-generator): clarify chapter boundaries and eliminate future foreshadowing
+
+- Refine language to emphasize clear chapter boundaries, explicitly prohibiting foreshadowing or groundwork for future storylines.
+- Add stricter and more precise instructions for outlining chapters, emphasizing clarity and eliminating ambiguity.
+- Reinforce the limit of four main plots per chapter and simplify overly complex plots as needed.
+- Mandate concise and high-level story requirements, avoiding vague terms and focusing on direct instructions.
+- Highlight the importance of adhering to token limits while maintaining precise content.
+- Repeat and stress the rule of avoiding foreshadowing multiple times for clarity.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/prompt</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9470e4d</div>
+                                        <div class="message">refactor(trash-novel-generator): refine prompts
+
+- Refine chapter structure requirements to ensure a minimum of 15 paragraphs per chapter, with at least three sentences per paragraph and a maximum of 2,200 Chinese characters.
+- Clarify and emphasize the importance of maintaining clear boundaries between chapters to avoid overlap or conflict in collaborative writing.
+- Add flexibility to adjust plots for pacing while limiting each chapter to a maximum of four main plots.
+- Modify guidelines to use continuous natural language for writing requirements without bullet points, ensuring concise and high-level instructions.
+- Strengthen JSON output requirements, including strict adherence to valid JSON format and schema conformity.
+- Update instructions for rewriting outlines to allow broader modifications when improvement suggestions are general while preserving specific edits for targeted parts.
+- Enhance focus on plot and pacing adjustments to balance content evenly across chapters.
+- Adjust narrative tone to prioritize smooth readability and avoid over-embellished prose while maintaining modern Chinese literary styles.
+- Emphasize the integration of Chinese cultural motifs and idioms subtly within the text to enrich the narrative.
+- Reiterate the importance of maintaining narrative coherence and smooth transitions between scenes to avoid abruptness.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -69,79 +131,6 @@ Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
 
 - Rename `2_evaluate.prompty` to `2_evaluator.prompty` for consistency.
 - Update the README to reflect the new name `2_evaluator.prompty`.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">2025.01.15</span>
-                                        in
-                                        <span class="repo">jim60105/docker-yt-dlp</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">jim60105/prompt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#972772d</div>
-                                        <div class="message">chore(scoring-criteria-maker): fix typo
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26b7d5a</div>
-                                        <div class="message">feat: add Automated Prompt Engineering
-
-- Add a new word `OPRO` to the spell-check dictionary in `.vscode/settings.json`.
-- Update the README to include a new section for "Automated Prompt Engineering" with sub-tools for "Scoring Criteria Maker" and "Simple Prompt Maker".
-- Introduce a new tool, `Automated Prompt Engineering`, including multiple `.prompty` files for tasks like basic setup, target generation, evaluation, and optimization.
-- Add a detailed README for the `Automated Prompt Engineering` tool, explaining its purpose, methodology, and related links.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8c8d79</div>
-                                        <div class="message">feat: add Simple Prompt Maker
-
-- Add "Simple Prompt Maker" as a new tool in the README table with links to its documentation and Coze Store page.
-- Add a new image file related to the Simple Prompt Maker.
-- Create a README file for the Simple Prompt Maker, detailing its purpose, workflow, usage, and adherence to the CO-STAR framework.
-- Add a `basic.prompty` file defining the bot's structure, functionality, and expected output format, including step-by-step guidance for prompt generation.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72d0e81</div>
-                                        <div class="message">feat: add Scoring Criteria Maker
-
-- Add a new entry for "Scoring Criteria Maker" in the README with links and descriptions.
-- Introduce a new file `1_basic.prompty` for generating scoring criteria, including JSON-based outputs and detailed goal analysis.
-- Add a file `2_is-score-complete.prompty` to validate whether scoring rubrics cover the full range from 0 to 100.
-- Create a file `3_scoring-rubric.prompty` to rewrite and adapt scoring rubrics to a 0-100 range with 5-point increments.
-- Add a binary file (`7376660011738809345_1727621085215838351.jpeg`) related to the "Scoring Criteria Maker."
-- Provide a README for the "Scoring Criteria Maker" with an overview, features, and usage instructions.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
