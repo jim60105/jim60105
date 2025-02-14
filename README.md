@@ -36,7 +36,7 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
 
 By 2025, I plan to include an AI section in this space. Rest assured, I’m keeping up with the latest trends. I've developed dozens of AI agents [on the Coze platform.](https://www.coze.com/user/7376660011738809345) I possess a solid understanding of various technologies associated with AI applications, such as prompt engineering, function and tool calling, workflow concepts, RAG, and more. Plus, I've compiled all my prompt works in my [prompt repository.](https://github.com/jim60105/prompt)
 
-I’ve also written a bunch of blog posts on this subject. The standout ones are "[*Say Goodbye to AI Hallucinations: A Simple Method to Improving the Accuracy of Your RAG System*](https://xn--jgy.tw/AI/say-goodbye-to-ai-hallucinations-a-simple-method-to-improve-the-accuracy-of-your-rag-system/)" and "[*🤖 AI can cosplay too? A beginner's guide to LLM character role-playing*](https://xn--jgy.tw/AI/design-roleplay-llm-prompts/)". You can check out [all my AI-related writings on my blog.](https://xn--jgy.tw/AI/)
+I've also written a bunch of blog posts on this subject. The standout ones are "[*Say Goodbye to AI Hallucinations: A Simple Method to Improving the Accuracy of Your RAG System*](https://xn--jgy.tw/AI/say-goodbye-to-ai-hallucinations-a-simple-method-to-improve-the-accuracy-of-your-rag-system/)" and "[*🤖 AI can cosplay too? A beginner's guide to LLM character role-playing*](https://xn--jgy.tw/AI/design-roleplay-llm-prompts/)". You can check out [all my AI-related writings on my blog.](https://xn--jgy.tw/AI/)
 
 <!-- prettier-ignore -->
 <details>
