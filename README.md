@@ -14,7 +14,7 @@ I'm pretty well-versed in **containerization technology** and have a knack for c
 
 I've got some basic knowledge about **kubernetes** too. In my home lab, I'm running a cluster with bare-metal Talos Linux for my personal services. It was quite a challenge for me to build it and I gained a wealth of knowledge along the way.
 
-### ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+### ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 To be honest, I have some experience but I'm not skilled in frontend development. As a backend developer, I prefer a function-oriented approach and I must admit that my UI designs could use some improvement. Please take a look at my simple websites - [Sound Buttons](https://sound-buttons.click/) (Angular) and [Unfair Spin Wheel](https://unfair.spin-wheel.click/) (Vue.js). They may not be visually stunning, but they serve their purpose.
 
