@@ -81,7 +81,7 @@ I've also written a bunch of blog posts on this subject. The standout ones are "
     <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/github.png" width="80px" alt="">
     </a>&nbsp;
-    <a href="https://civitai.com/user/jim60105" target="_blank" rel="noopener noreferrer">
+    <a href="https://civitai.green/user/jim60105" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/social/civitai.png" width="80px" alt="">
     </a>&nbsp;
     <a href="https://www.coze.com/user/7376660011738809345" target="_blank" rel="noopener noreferrer">
