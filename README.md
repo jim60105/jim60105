@@ -1,3 +1,5 @@
+[![Made with FLUX.1 dev](https://github.com/jim60105/jim60105/raw/master/images/banner2.png)](https://civitai.com/images/32930515 "Made with FLUX.1 dev")
+
 ### Hi, I'm Jim 陳鈞,
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+hailing+from+Taiwan!;💼+a+professional+C%23+developer.;❤️+an+advocate+for+open+source!;🐋+familiar+with+Docker.;☁️+have+several+cloud+computing+development+experiences.&width=650&pause=1500)](https://git.io/typing-svg)
@@ -54,65 +56,23 @@ I've also written a bunch of blog posts on this subject. The standout ones are "
 
 ---
 
-<table align='center'>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/ca918d1e-1172-40ab-9b57-d9a29cb3b0a2" alt="AZ204"
-           width="100px" /></td>
-    <td><a
-         href="https://learn.microsoft.com/api/credentials/share/zh-tw/jim60105/10E1317911550C2?sharingId=7CA322B4CB39EA6C">Microsoft
-        Certified: Azure Developer Associate (AZ-204)</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/0e7fb36e-0780-49dd-8a4a-8035d4cc6366" alt="AI102"
-           width="100px" /></td>
-    <td><a
-         href="https://learn.microsoft.com/api/credentials/share/zh-tw/jim60105/D9BA40F56F41CEF9?sharingId=7CA322B4CB39EA6C">Microsoft
-        Certified: Azure AI Engineer Associate (AI-102)</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/367e1ef3-171b-49fd-a8c8-11c0000183bb" alt="AI900"
-           width="100px" /></td>
-    <td><a
-         href="https://learn.microsoft.com/api/credentials/share/zh-tw/jim60105/4D11F25D5846BBFA?sharingId=7CA322B4CB39EA6C">Microsoft
-        Certified: Azure AI Fundamentals (AI-900)</a></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/a073b6b2-0c2f-4eb6-a43f-a0dc088204e7"
-           alt="GitHubFoundations" width="100px" /></td>
-    <td><a href="https://www.credly.com/badges/518fb85e-714f-4acd-ba9b-41264fd21136/public_url">GitHub Foundations</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <a href="https://learn.microsoft.com/api/credentials/share/zh-tw/jim60105/10E1317911550C2?sharingId=7CA322B4CB39EA6C" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/ca918d1e-1172-40ab-9b57-d9a29cb3b0a2" height="125px" alt="AZ204"></a>&nbsp;
+    <a href="https://learn.microsoft.com/api/credentials/share/zh-tw/jim60105/D9BA40F56F41CEF9?sharingId=7CA322B4CB39EA6C" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/0e7fb36e-0780-49dd-8a4a-8035d4cc6366" height="125px" alt="AI102"></a>&nbsp;
+    <a href="https://learn.microsoft.com/api/credentials/share/zh-tw/jim60105/4D11F25D5846BBFA?sharingId=7CA322B4CB39EA6C" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/367e1ef3-171b-49fd-a8c8-11c0000183bb" height="125px" alt="AI900"></a>&nbsp;
+    <a href="https://www.credly.com/badges/518fb85e-714f-4acd-ba9b-41264fd21136/public_url" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/a073b6b2-0c2f-4eb6-a43f-a0dc088204e7" height="125px" alt="GitHubFoundations"></a>
+</p>
 
 ---
 
-[![Made with FLUX.1 dev](https://github.com/jim60105/jim60105/raw/master/images/banner2.png)](https://civitai.com/images/32930515 "Made with FLUX.1 dev")
-
 <p align='center'>
-    <a href="https://琳.tw" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/blog.png" width="80px" alt="">
-    </a>&nbsp;
-    <a rel="me" href="https://liker.social/@jim60105" target="_blank" rel="noopener">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/mastodon.png" width="80px" alt="">
-    </a>&nbsp;
-    <a href="https://www.facebook.com/jim60105/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/facebook.png" width="80px" alt="">
-    </a>&nbsp;
-    <a href="https://x.com/jim60105" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/x.png" width="80px" alt="">
-    </a>&nbsp;
-    <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/github.png" width="80px" alt="">
-    </a>&nbsp;
-    <a href="https://civitai.green/user/jim60105" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/civitai.png" width="80px" alt="">
-    </a>&nbsp;
-    <a href="https://www.coze.com/user/7376660011738809345" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/coze.png" width="80px" alt="">
-    </a>&nbsp;
-    <a href="https://liker.land/jim60105" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/social/likecoin.png" width="80px" alt="">
-    </a><br>
+    <a href="https://琳.tw" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/blog.png" width="80px" alt="blog"></a>&nbsp;
+    <a rel="me" href="https://liker.social/@jim60105" target="_blank" rel="noopener"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/mastodon.png" width="80px" alt="mastodon"></a>&nbsp;
+    <a href="https://www.facebook.com/jim60105/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/facebook.png" width="80px" alt="facebook"></a>&nbsp;
+    <a href="https://x.com/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/x.png" width="80px" alt="x"></a>&nbsp;
+    <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/github.png" width="80px" alt="github"></a>&nbsp;
+    <a href="https://civitai.green/user/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/civitai.png" width="80px" alt="civitai"></a>&nbsp;
+    <a href="https://www.coze.com/user/7376660011738809345" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/coze.png" width="80px" alt="coze"></a>&nbsp;
+    <a href="https://liker.land/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/likecoin.png" width="80px" alt="likecoin"></a><br>
     <span>Feel free to find me here, and I mainly lives in <a href="https://liker.social/@jim60105">Mastodon.</a></span>
 </p>
