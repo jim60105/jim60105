@@ -1,4 +1,4 @@
-[![Made with FLUX.1 dev](https://github.com/jim60105/jim60105/raw/master/images/banner2.png)](https://civitai.com/images/32930515 "Made with FLUX.1 dev")
+[![Made with FLUX.1 dev](https://xn--jgy.tw/card.avif)](https://civitai.com/images/32930515 "Made with FLUX.1 dev")
 
 ### Hi, I'm Jim 陳鈞,
 
