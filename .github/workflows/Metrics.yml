@@ -99,7 +99,8 @@ jobs:
           config_timezone: Asia/Taipei
           config_padding: 6%
       - name: Achievements metrics
-        uses: lowlighter/metrics@v3.34
+        # Issud: https://github.com/lowlighter/metrics/issues/1706
+        uses: stalomeow/metrics@projects-v2
         with:
           filename: images/metrics/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -109,7 +110,7 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: B
-          plugin_achievements_ignored: contributor, manager
+          plugin_achievements_ignored: contributor
           base: ""
           repositories_forks: yes
           config_timezone: Asia/Taipei
