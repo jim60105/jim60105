@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-04-22T01:12:32.562761</dc:date>
+    <dc:date>2025-04-23T01:13:02.710433</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -36,7 +36,7 @@ L 574.022321 27.358125
 L 574.022321 44.158125 
 L 42.59375 44.158125 
 z
-" clip-path="url(#pc5afd875a7)" style="fill: #dea584; stroke: #dea584; stroke-linejoin: miter"/>
+" clip-path="url(#p6799459ef9)" style="fill: #dea584; stroke: #dea584; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 42.59375 48.358125 
@@ -44,7 +44,7 @@ L 196.766838 48.358125
 L 196.766838 65.158125 
 L 42.59375 65.158125 
 z
-" clip-path="url(#pc5afd875a7)" style="fill: #842a57; stroke: #842a57; stroke-linejoin: miter"/>
+" clip-path="url(#p6799459ef9)" style="fill: #16de49; stroke: #16de49; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 42.59375 69.358125 
@@ -52,7 +52,7 @@ L 147.427775 69.358125
 L 147.427775 86.158125 
 L 42.59375 86.158125 
 z
-" clip-path="url(#pc5afd875a7)" style="fill: #178600; stroke: #178600; stroke-linejoin: miter"/>
+" clip-path="url(#p6799459ef9)" style="fill: #178600; stroke: #178600; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 42.59375 90.358125 
@@ -60,7 +60,7 @@ L 113.708154 90.358125
 L 113.708154 107.158125 
 L 42.59375 107.158125 
 z
-" clip-path="url(#pc5afd875a7)" style="fill: #429c64; stroke: #429c64; stroke-linejoin: miter"/>
+" clip-path="url(#p6799459ef9)" style="fill: #99f6a9; stroke: #99f6a9; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
     <path d="M 42.59375 111.358125 
@@ -68,19 +68,19 @@ L 91.197781 111.358125
 L 91.197781 128.158125 
 L 42.59375 128.158125 
 z
-" clip-path="url(#pc5afd875a7)" style="fill: #50e02c; stroke: #50e02c; stroke-linejoin: miter"/>
+" clip-path="url(#p6799459ef9)" style="fill: #ef0ff0; stroke: #ef0ff0; stroke-linejoin: miter"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m849c84e032" d="M 0 0 
+       <path id="m38f34e1c77" d="M 0 0 
 L -3.5 0 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m849c84e032" x="42.59375" y="35.758125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m38f34e1c77" x="42.59375" y="35.758125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
@@ -200,7 +200,7 @@ z
     <g id="ytick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m849c84e032" x="42.59375" y="56.758125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m38f34e1c77" x="42.59375" y="56.758125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
@@ -301,7 +301,7 @@ z
     <g id="ytick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m849c84e032" x="42.59375" y="77.758125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m38f34e1c77" x="42.59375" y="77.758125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
@@ -375,7 +375,7 @@ z
     <g id="ytick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m849c84e032" x="42.59375" y="98.758125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m38f34e1c77" x="42.59375" y="98.758125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
@@ -429,7 +429,7 @@ z
     <g id="ytick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m849c84e032" x="42.59375" y="119.758125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m38f34e1c77" x="42.59375" y="119.758125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
@@ -712,7 +712,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- From 14 April, 2025 to 21 April, 2025: 1 hr 28 mins -->
+    <!-- From 15 April, 2025 to 22 April, 2025: 1 hr 28 mins -->
     <g style="fill: #586069" transform="translate(168.498125 16.318125) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-46" d="M 628 4666 
@@ -874,7 +874,7 @@ z
      <use xlink:href="#DejaVuSans-6d" x="150.314453"/>
      <use xlink:href="#DejaVuSans-20" x="247.726562"/>
      <use xlink:href="#DejaVuSans-31" x="279.513672"/>
-     <use xlink:href="#DejaVuSans-34" x="343.136719"/>
+     <use xlink:href="#DejaVuSans-35" x="343.136719"/>
      <use xlink:href="#DejaVuSans-20" x="406.759766"/>
      <use xlink:href="#DejaVuSans-41" x="438.546875"/>
      <use xlink:href="#DejaVuSans-70" x="506.955078"/>
@@ -892,7 +892,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="1056.173828"/>
      <use xlink:href="#DejaVuSans-20" x="1117.355469"/>
      <use xlink:href="#DejaVuSans-32" x="1149.142578"/>
-     <use xlink:href="#DejaVuSans-31" x="1212.765625"/>
+     <use xlink:href="#DejaVuSans-32" x="1212.765625"/>
      <use xlink:href="#DejaVuSans-20" x="1276.388672"/>
      <use xlink:href="#DejaVuSans-41" x="1308.175781"/>
      <use xlink:href="#DejaVuSans-70" x="1376.583984"/>
@@ -924,7 +924,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pc5afd875a7">
+  <clipPath id="p6799459ef9">
    <rect x="42.59375" y="22.318125" width="558" height="110.88"/>
   </clipPath>
  </defs>
