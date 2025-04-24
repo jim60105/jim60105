@@ -1,5 +1,3 @@
-[![Made with FLUX.1 dev](https://xn--jgy.tw/card.avif)](https://civitai.com/images/32930515 "Made with FLUX.1 dev")
-
 ### Hi, I'm Jim 陳鈞,
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+hailing+from+Taiwan!;💼+a+professional+C%23+developer.;❤️+an+advocate+for+open+source!;🐋+familiar+with+Docker.;☁️+have+several+cloud+computing+development+experiences.&width=650&pause=1500)](https://git.io/typing-svg)
