@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="432" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="763" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap,.organization.name{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.repository,footer{display:flex;flex-direction:column}.repository{width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,101 +29,302 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#6235b74</div>
+                                        <div class="message">docs: Create LICENSE
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/WeatherForecastHubDemo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c615e90</div>
+                                        <div class="message">docs: Create LICENSE</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/WeatherForecastHubDemo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6b47573</div>
+                                        <div class="message">docs: revise the project README to improve clarity and learning guidance
+
+- Mark all frontend development tasks in the TODO instructions as completed.
+- Revise the project README to improve clarity and learning guidance, including renaming the project and reorganizing sections.
+- Add detailed explanations and learning tips for frontend and backend technologies, project structure, and API usage.
+- Update technical details such as API endpoints, database connection strings, and external weather API integration info.
+- Clarify project limitations and suggest advanced features for learners to explore after completing the basics.
+- Provide a recommended step-by-step learning workflow and relevant external learning resources.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 21 commits in
+                                        <span class="repo">jim60105/WeatherForecastHubDemo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fdfe44d</div>
+                                        <div class="message">chore: update footer copyright and source link to official data platform
+
+- Update footer copyright to include author name and link to Central Weather Bureau open data platform.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#313bc65</div>
+                                        <div class="message">fix: handle 204 No Content responses gracefully in API calls
+
+- Add handling for 204 No Content responses by returning early without parsing JSON
+- Keep existing error handling and response status checks intact
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b12254</div>
+                                        <div class="message">feat: display detailed multi-metric weather charts on forecast page
+
+- Add Chart.js library to the HTML to enable chart rendering.
+- Replace the previous city info display with a layout that includes four line charts for temperature, humidity, wind speed, and rain probability.
+- Implement line charts for temperature, humidity, wind speed, and rain probability using Chart.js with appropriate labels, colors, and axis titles.
+- Remove the display of individual forecast cards in favor of graphical visualization.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#169a6dc</div>
+                                        <div class="message">feat: add frontend UI and API integration for weather and city management
+
+- Add frontend files including HTML, CSS, and JavaScript to provide a weather forecast UI with city management and weather display features.
+- Implement a new API service class in JavaScript to handle backend API interactions for cities and weather data.
+- Create city management module for rendering, adding, selecting, and deleting cities with UI updates and API calls.
+- Develop weather forecast module to fetch and display weather data with loading states, error handling, and weather icons based on conditions.
+- Modify the server program to redirect the root URL to the frontend index page and preserve the Swagger UI route.
+- Update .gitignore to include SQLite database auxiliary files for WeatherForecast.db.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44aca09</div>
+                                        <div class="message">refactor: remove obsolete LocationId and add forecast Id to Weather DTOs
+
+- Add an Id property to WeatherForecastDto and populate it in the WeatherController.
+- Remove the LocationId property from WeatherForecastDto and its assignment in the controller.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da913f2</div>
+                                        <div class="message">refactor: remove no-op authentication handler to simplify security setup
+
+- Remove the NoAuthHandler authentication handler and its related configuration.
+- Eliminate the authentication and authorization middleware from the application pipeline.
+- Simplify the startup by no longer setting up a default authentication scheme that bypasses actual authentication.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37c96d6</div>
+                                        <div class="message">refactor: consolidate city and weather HTTP requests into main file
+
+- Move all city and weather API request examples from cities.http into WeatherForecastHub.http
+- Remove the locationId field from city create and update request examples
+- Delete the redundant cities.http file
+- Rename the host address variable for consistency
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50a3750</div>
+                                        <div class="message">feat: implement backend API and database for managing cities and fetching weather forecasts
+
+- Add detailed multi-phase development plan and instructions for a weather forecast POC project, covering backend setup, database, API implementation, frontend development, testing, and deployment
+- Refactor logging calls across controllers, repositories, and services to use explicit named parameters for better clarity
+- Improve code formatting and variable typing in CitiesController and WeatherController for consistency
+- Introduce comprehensive DTO classes for parsing Central Weather Agency (CWA) API responses
+- Replace old CwbApiModels service code with updated, detailed models reflecting actual CWA API structure
+- Update WeatherService to use IHttpClientFactory with named HttpClient, improving API request handling and response parsing
+- Enhance weather data parsing logic to correctly extract multiple weather elements and time points from API response
+- Modify WeatherData and WeatherForecastDto models to unify date/time handling with a single DateTime property named Datetime
+- Configure HttpClient in Program.cs with base address and JSON headers using appsettings configuration for CWA API
+- Ensure database context and EF Core setup support SQLite with appropriate constructors and DbSet properties
+- Add richer project documentation and instructions, including API paths, frontend/backend architecture, data models, and external API integration details
+- Include static files and API routing configurations to serve frontend assets and unify API under /api path
+- Remove unused or outdated code files related to CwbApiModels service
+- Add project files and instructions to .csproj for better project management and documentation integration
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb1328f</div>
+                                        <div class="message">refactor: remove LocationId from city data and update weather API usage
+
+- Remove the LocationId property from City model, DTOs, database context, and related code.
+- Update CitiesController to no longer handle LocationId when creating, updating, or returning city data.
+- Modify CityService and CityRepository to remove validation and assignment of LocationId.
+- Change WeatherService to fetch weather data using city name instead of LocationId and adjust related API request and data processing accordingly.
+- Add a new migration to drop the LocationId column from the Cities table.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fb27ae</div>
+                                        <div class="message">chore: enable user secrets and configure IDE settings for WeatherForecastHub
+
+- Add IntelliJ IDEA project configuration files and a .gitignore for IDE-specific files to the repository.
+- Update project file to target .NET 9.0 and enable nullable reference types and implicit usings.
+- Add UserSecretsId to the project for managing user secrets securely.
+- Include package references for OpenAPI support, SQLite database, and Entity Framework Core with version 9.0.4.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e237c5f</div>
+                                        <div class="message">feat: ensure database and tables exist at app startup
+
+- Add code to ensure the database and tables are created at application startup.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5a4b6b</div>
+                                        <div class="message">chore: ignore WeatherForecast database file to prevent commits
+
+- Add WeatherForecast.db to the .gitignore file to exclude it from version control
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcf35b9</div>
+                                        <div class="message">feat: add no-op authentication handler to bypass auth errors
+
+- Add WeatherForecast.db to the .gitignore to exclude the database file from version control
+- Introduce a NoAuthHandler authentication scheme that always succeeds without actual authentication, preventing authentication-related exceptions
+- Configure the application to use the NoAuth authentication scheme by default without enforcing authorization on controllers
+- Update the HTTP request testing host URL from HTTPS on port 7173 to HTTP on port 5105
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7a6e63</div>
+                                        <div class="message">feat: implement city management and weather forecast APIs with full CRUD and external data integration
+
+- Complete all backend tasks for city and weather data management, including repository, service, and controller layers.
+- Remove the previous WeatherForecastController and replace it with focused CitiesController and WeatherController implementations.
+- Implement full CRUD operations for managing cities via CitiesController with validation and error handling.
+- Add WeatherController to fetch weather forecasts for a given city, integrating with the Central Weather Bureau API.
+- Define DTO classes for city and weather data to structure API input/output.
+- Create repository and service layers for city data with logging and validation.
+- Implement WeatherService to retrieve and parse weather data from the external API, including error handling and logging.
+- Register repositories, services, and HttpClient in the application’s dependency injection container.
+- Add HTTP request examples for all city and weather-related API endpoints in a new cities.http file.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7721966</div>
+                                        <div class="message">feat: initialize .NET 9 API with EF Core and Swagger setup
+
+- Add .gitattributes to enforce consistent line endings for different file types and mark binary files
+- Complete initial backend setup tasks in TODO instructions, marking them as done
+- Prefix WeatherForecastController route with "/api" and add response type annotation for GET endpoint
+- Implement WeatherDbContext with DbSet for City and configure SQLite database and entity model
+- Add City model with Id, Name, and LocationId properties
+- Configure Program.cs to use SQLite database, enable lowercase URLs, serve static files, set API route prefix to "/api", require authorization on controllers, and redirect root to Swagger UI
+- Update project dependencies to include Microsoft.Data.Sqlite and Swashbuckle.AspNetCore packages with specific versions
+- Add Entity Framework Core initial migration files to create Cities table with Id, Name, and LocationId columns
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#689467f</div>
+                                        <div class="message">設定專案結構與資料庫連接</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64117bb</div>
+                                        <div class="message">新增 GlobalUsings.cs、.gitignore、.gitattributes 和 .editorconfig 檔案
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
+
+# Conflicts:
+#	.gitignore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5985b72</div>
+                                        <div class="message">安裝 Entity Framework Core 相關套件和 EF Core Power Tools CLI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eab28c4</div>
+                                        <div class="message">初始化 Web API 專案</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d23bb8</div>
+                                        <div class="message">docs: rename and add GitHub instructions
+
+- Rename and restructure prompt files under .github/prompts to .github/instructions for better organization.
+- Add detailed instructions for initializing a C# .NET 9 Web API project, including environment setup, EF Core installation, global usings, and git configuration.
+- Provide step-by-step guide on creating API controllers with best practices for DI, DTO usage, OpenAPI annotations, and testing.
+- Introduce instructions for generating .gitignore files using templates and curl commands.
+- Add guidance for initializing EF Core DbContext using EF Core Power Tools with build verification.
+- Add comprehensive web design guidelines focusing on simplicity, responsiveness, Tailwind CSS usage, semantic HTML, accessibility, and modular VanillaJS implementation with example code.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/WeatherForecastHubDemo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#7365550</div>
                                         <div class="message">temp
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">luhengshiwo/LLMForEverybody</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/toolbx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#af79645</div>
-                                        <div class="message">fix(base): set XMODIFIERS to enable fcitx input for Jetbrains IDEs
-
-- Set the XMODIFIERS environment variable to use fcitx as the input method, which is useful for JetBrains IDE support.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#82fa38d</div>
-                                        <div class="message">chore: update toolbox widgets to use Fedora 42 containers
-
-- Update fedora-toolbox version from 41 to 42 in the upgrade command within the widgets configuration.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/toolbx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#501e1f8</div>
-                                        <div class="message">chore: bump Jetbrains to 2025.1.1
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83b4f30</div>
-                                        <div class="message">docs: add upgrade instructions for JetBrains Rider DataGrip RustRover
-
-- Add detailed instructions for upgrading JetBrains software versions in Containerfiles without building the container.
-- Include guidance on checking the latest version, updating Containerfiles, and committing changes with proper messages.
-- Add "Containerfiles" to the VSCode spell checker dictionary for improved code editing experience.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -148,14 +349,14 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="146.10743896348728" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="146.10743896348728" y="0" width="77.16725723217547" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="223.27469619566276" y="0" width="67.02977617603248" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="290.3044723716952" y="0" width="57.18049685331996" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="347.4849692250152" y="0" width="34.76301640251561" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="382.2479856275308" y="0" width="33.208636453061395" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="415.45662208059224" y="0" width="23.662675034752922" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="439.11929711534515" y="0" width="20.880702884654884" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.52093927530316" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="147.52093927530316" y="0" width="76.53449111764213" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="224.0554303929453" y="0" width="68.72981633141043" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="292.7852467243558" y="0" width="56.4017896514404" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="349.18703637579614" y="0" width="34.23714010071633" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="383.42417647651246" y="0" width="32.70627397900206" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="416.13045045551456" y="0" width="23.30471875461109" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="439.4351692101256" y="0" width="20.56483078987437" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
