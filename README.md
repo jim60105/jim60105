@@ -42,7 +42,7 @@ I've also written a bunch of blog posts on this subject. The standout ones are "
 <details>
     <summary>More info</summary>
     <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/base-metrics.svg"/>
-    <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/achievements.svg" />
+    <!--img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/achievements.svg" /-->
     <a href="https://github.com/jim60105?tab=repositories">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/activity-metrics.svg"/>
         <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/habits-metrics.svg" />
