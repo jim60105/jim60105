@@ -112,6 +112,6 @@ jobs:
       #     plugin_achievements_threshold: B
       #     plugin_achievements_ignored: contributor
       #     base: ""
-          repositories_forks: yes
-          config_timezone: Asia/Taipei
-          config_padding: 6%
+      #     repositories_forks: yes
+      #     config_timezone: Asia/Taipei
+      #     config_padding: 6%
