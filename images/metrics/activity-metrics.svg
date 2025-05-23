@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="289" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="438" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,12 +19,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">IllusionMods/KKS_VR</span>
+                                        Commented on
+                                        <span class="issue">#3242 Using RTX5060 Ti solution ?</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zz64 in <span class="repo">bmaltais/kohya_ss</span></div>
+                                    <div class="comment">Perhaps give this guide a chance? Although it is written for Windows.</div>
                                 </div>
                             </section>
                         </div>
@@ -36,7 +40,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">microsoft/NLWeb</span>
+                                        <span class="repo">readest/readest</span>
                                     </div>
                                 </div>
                             </section>
@@ -45,14 +49,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">7.1.3</span>
-                                        in
-                                        <span class="repo">jim60105/docker-streamlink</span>
+                                        Starred
+                                        <span class="repo">B00TK1D/copilot-prompts</span>
                                     </div>
                                 </div>
                             </section>
@@ -61,14 +62,65 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">7.3.0</span>
-                                        in
-                                        <span class="repo">jim60105/docker-streamlink</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">jim60105/YoutubeSegmentDownloaderRs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#83b6255</div>
+                                        <div class="message">docs: clarify project AI tooling with Copilot and Codex CLI
+
+- Update the note to mention that both GitHub Copilot and Codex CLI were used in developing the project.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2e9861</div>
+                                        <div class="message">docs(instructions): update setup guides to use pnpm over npm
+
+- Update the project setup instructions to use pnpm instead of npm, provide additional Linux dependency installation steps, refine directory structure descriptions, and format commands and configuration blocks for clarity.
+- The instruction for installing Vue I18n has been changed from using npm to pnpm.
+- Replaced the detailed task instructions with links to separate instruction files for each task, greatly reducing the file's length and centralizing the detailed instructions elsewhere.
+- Update README instructions to use pnpm instead of npm for installing dependencies, developing, and building the project.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfe6ec9</div>
+                                        <div class="message">chore(gitignore): add rules for IDE, Node, Rust, and build files
+
+- Add a comprehensive .gitignore file to exclude files and directories related to JetBrains IDEs, Node.js, Yarn, Rust, and various common build, cache, and environment artifacts from version control.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d9490e</div>
+                                        <div class="message">docs: add comprehensive guidelines and copilot instructions set
+
+- Add detailed Copilot instructions outlining coding standards for HTML, JavaScript, and Rust, as well as project-specific guidelines for converting a .NET WinForm project to a Tauri + Rust app using Vue.js, Tailwind CSS, and certain backend libraries, with a note on referencing but not modifying specific code.
+- Add a comprehensive project initialization instruction file in Traditional Chinese detailing the conversion of a legacy .NET WinForm app to a Tauri + Rust project using Vue.js and Tailwind, requirements for dependency handling, UI design, logging, i18n, error handling, and other project specifications clarified via Q&amp;A format.
+- Add a new instruction file detailing steps to create a Tauri project with Vue and Tailwind, including tool installation, project setup, framework integration, Tailwind configuration, directory structure, and basic app configuration.
+- Add instructions in Chinese for building the foundational components of the project, including layout structure, main window, input form elements with validation, and a log display component, all leveraging Pinia store for state management and Tailwind CSS for layout.
+- Add detailed instructions (in Chinese) for integrating yt-dlp and ffmpeg dependencies, including system checks, download automation, Tauri command interfaces, frontend communication, and required dependencies for Cargo.toml.
+- Add a detailed task instruction file outlining requirements for implementing YouTube video and clip URL parsing, video information extraction using yt-dlp, time format conversion functions, and relevant regular expressions for parsing YouTube-related information.
+- Add detailed instructions in Chinese for implementing video downloading and processing core functionalities, including tasks for downloader creation, progress reporting, file naming, segmentation, and temporary file management.
+- Add detailed instructions (in Chinese) for implementing core UI features, including video URL input and parsing, time range selection, format selection, output directory selection, and download/cancel button functionality, with specific component breakdowns and validation requirements.
+- Add detailed instructions for implementing real-time UI feedback, including download progress, live log updates, dependency status display, and error message handling features.
+- Add a new instruction file outlining advanced user experience enhancements, including features like opening the download folder automatically, download notifications, global UI state management using a Pinia store, and real-time input validation with visual feedback.
+- Add instructions detailing the implementation of user settings, including storing and loading configuration with Tauri Store, remembering output directories and format selections, and persisting detailed logging options.
+- Add detailed instructions (in Chinese) for setting up a basic i18n infrastructure in a Vue project, including installing Vue I18n, configuring language files, and implementing a language switcher component.
+- Add instructions for implementing multilingual resources, detailing steps for English and Chinese translations and ensuring that all UI elements support internationalization and localization.
+- Add instructions in Mandarin for writing Rust backend unit tests, including the use of mocks for network and filesystem operations.
+- Add instructions for configuring Tauri application packaging, including versioning, update mechanism, icon preparation, metadata, and installer details.
+- Add Chinese-language instructions detailing the steps to set up CI/CD workflows using GitHub Actions, including build and release automation for both Windows and Linux (Flatpak) targets.
+- Add a detailed implementation plan in Traditional Chinese for converting the YoutubeSegmentDownloader.NET project to a Tauri + Rust version, outlining project initialization, core backend and frontend development, testing, packaging, internationalization, and deployment steps.
+- Add a new web design guideline document outlining general design principles, Tailwind CSS usage, HTML best practices, and VanillaJS recommendations, along with a sample component example.
+- Add the GNU General Public License version 3 (GPLv3) as the project's license.
+- Add initial README with project overview, features, usage instructions, development setup, and licensing information for the Youtube Segment Downloader in Rust.
+- Add a new icon file named YoutubeSegmentDownloader.ico to the project.</div>
                                     </div>
                                 </div>
                             </section>
@@ -77,14 +129,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">7.2.0</span>
-                                        in
-                                        <span class="repo">jim60105/docker-streamlink</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/toolbx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f831522</div>
+                                        <div class="message">ci: stop pushing attestations to registry in workflow
+
+- Remove the push-to-registry option from Add attestations steps, so attestations are no longer pushed to registries as part of the workflow.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -107,14 +167,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.27615915937983" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="127.27615915937983" y="0" width="92.92082812844441" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="220.19698728782424" y="0" width="65.96059960320376" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="286.157586891028" y="0" width="59.77794474244985" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="345.93553163347786" y="0" width="49.24964361819384" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="395.1851752516717" y="0" width="28.217885223014182" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="423.4030604746859" y="0" width="18.656297303255197" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.05935777794105" y="0" width="17.940642222058933" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.2596076489427" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="127.2596076489427" y="0" width="92.90874432526594" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="220.16835197420866" y="0" width="65.95202181801618" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="286.1203737922248" y="0" width="59.770170974897084" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="345.8905447671219" y="0" width="49.24323899382622" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="395.1337837609481" y="0" width="28.214215654220887" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="423.347999415169" y="0" width="18.65387116232219" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.0018705774912" y="0" width="17.998129422508793" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
