@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="759" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="492" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,230 +22,17 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 26 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">jim60105/subx-cli</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7ddab16</div>
-                                        <div class="message">feat: enhance parallel processing system with comprehensive stress testing
+                                        <div class="sha">#23c2018</div>
+                                        <div class="message">docs(README): change HTML structure for project description section
 
-- Add high concurrency stress test with 50 tasks across all priority levels
-- Add mixed batch and individual task execution test
-- Verify proper task scheduling and completion under various load scenarios
-- Ensure queue and worker metrics remain accurate under stress
-- Validate priority-based scheduling works correctly with concurrent submissions
-
-The parallel processing system now includes:
-- Continuous background scheduling loop with BinaryHeap priority queue
-- Robust semaphore-based concurrency control
-- Comprehensive test coverage including stress testing
-- Proper cleanup and metrics tracking
-- Support for mixed execution patterns (batch + individual tasks)
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcb0a86</div>
-                                        <div class="message">feat: implement parallel processing system for batch operations
-
-- Add TaskScheduler for managing concurrent task execution with priority queues
-- Implement Worker and WorkerPool for resource management and load balancing
-- Create Task trait and FileProcessingTask for various file operations
-- Add parallel processing configuration options to config system
-- Integrate parallel execution into match command for batch file processing
-- Include comprehensive test coverage for scheduler, workers, and integration scenarios
-- Support for CPU-intensive, IO-intensive, and mixed workload optimization
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a663d7b</div>
-                                        <div class="message">feat: Backlog #16.4 - Implement file encoding detection
-
-Add automatic encoding detection, conversion, statistical analysis modules, configure settings integration and CLI command.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#336f0a5</div>
-                                        <div class="message">feat: implement dialogue detection feature (Backlog #16.1)
-
-- 新增對話檢測模組 (EnergyAnalyzer, DialogueDetector, DialogueSegment)
-- 整合至同步命令，依配置啟用並列印檢測結果
-- 更新配置系統，新增 dialogue_merge_gap_ms 與 enable_dialogue_detection
-- 新增錯誤處理輔助方法於 SubXError
-- 補充單元測試與配置部分測試
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#965514c</div>
-                                        <div class="message">feat: add backlog #17 for audio processing migration to aus crate
-
-This comprehensive backlog outlines the migration strategy from the current
-custom audio processing implementation (based on Symphonia) to the mature
-'aus' crate ecosystem. The migration will provide:
-
-- Enhanced spectral analysis capabilities using aus::analysis module
-- Improved dialogue detection with multi-feature speech activity detection
-- Better maintainability by leveraging proven audio processing algorithms
-- Performance optimizations through aus::spectrum FFT/STFT implementations
-
-The plan includes 5 phases with detailed implementation steps, testing
-strategies, and compatibility measures to ensure smooth transition while
-maintaining API backward compatibility.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#953fd6d</div>
-                                        <div class="message">feat(audio): implement audio service TODOs for sample rate detection and quality assessment
-
-- Implement load_audio_file to decode audio files to AudioData
-- Add detect_sample_rate and detect_from_data in SampleRateDetector
-- Implement calculate_snr, calculate_dynamic_range, stub frequency response in QualityAssessor
-- Stub calculate_spectral_centroid in SampleRateOptimizer
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bb5135</div>
-                                        <div class="message">feat(audio/resampler): implement dynamic audio sample rate configuration
-
-Implement dynamic audio sample rate detection, resampling, quality assessment, optimization, and integration with unified config. Add detector, converter, quality, and optimizer modules; update AudioAnalyzer and config to support dynamic sample rate.\n\nCloses Backlog #16.3.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce7ef60</div>
-                                        <div class="message">docs(backlog): restructure missing features for clarity and focus
-
-- This commit significantly rewrites and restructures the backlog: long implementation sections and code samples for missing feature modules are removed, and replaced with a concise overview and child-backlog breakdown. Each missing feature is linked to a separate, focused sub-backlog, streamlining the main document to prioritize cross-module dependencies, implementation order, high-level requirements, and quality standards.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70b0444</div>
-                                        <div class="message">docs: update backlog #16 missing features implementation
-
-- Updated implementation plan to align with unified config system
-- Refined technical specifications for dialogue detection
-- Enhanced parallel processing system design
-- Improved audio resampling integration approach
-- Strengthened encoding detection implementation
-- Added comprehensive testing and quality assurance sections
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a7c5c2</div>
-                                        <div class="message">feat(config): support custom OpenAI base_url configuration
-
-- Extend PartialAIConfig and AIConfig with base_url fields
-- Add environment variable OPENAI_BASE_URL support in EnvSource
-- Refactor OpenAIClient to accept base_url and validate URL format
-- Enhance AIConfigValidator to enforce base_url syntax checks
-- Adjust ConfigManager merge order for correct priority precedence
-- Update README with OPENAI_BASE_URL usage and config examples
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f27cfc8</div>
-                                        <div class="message">docs: update backlog #15 to align with unified config system
-
-- Updated configuration structure to leverage unified config system
-- Modified implementation approach to use PartialConfig and ConfigManager
-- Aligned with current codebase architecture established in backlog #14
-- Removed outdated implementation details replaced by unified system
-- Maintained all functional requirements while using modern config architecture
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50dfe92</div>
-                                        <div class="message">feat: unify configuration system integration
-
-Integrate unified configuration management across config, convert, match, and sync commands; add integration tests and Codex work report for config system integration.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3f8400</div>
-                                        <div class="message">docs(backlog): overhaul unified config integration plan
-
-- Rewrite and greatly expand the backlog plan for unified config system integration, providing detailed implementation steps, rationale, technical architecture, code migration instructions, module-level design, phased delivery schedule, acceptance criteria, full risk management, final delivery checklist, and a project summary. This includes a precise step-by-step development and migration guide for moving from the legacy config load pattern to a global multi-source config manager, along with test strategies and validation steps.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ee6c0e</div>
-                                        <div class="message">refactor: streamline backlog #14 for unified config system integration
-
-- Simplified technical architecture section, removing complex diagrams
-- Condensed implementation plan with cleaner task lists
-- Reduced file length from 277 to 229 lines while maintaining clarity
-- Removed redundant technical details and file references
-- Improved focus on product requirements over implementation details
-- Maintained all essential epics, user stories, and acceptance criteria
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#111c732</div>
-                                        <div class="message">docs(backlogs): change backlog 14 to 16
-
-- Renamed the product backlog document from number 14 to 16 and updated the corresponding heading.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db4c355</div>
-                                        <div class="message">fix: correct report dates to match git history
-
-- Updated all report files in .github/codex/ with accurate creation dates
-- Converted date format from YYYY-MM-DD to ISO 8601 format (YYYY-MM-DDTHH:MM:SSZ)
-- Used git log history to find the first commit date for each report
-- Updated REPORT_TEMPLATE.md to use ISO 8601 format for future reports
-
-Dates now accurately reflect when each report was first created according to git history,
-ensuring consistency and traceability of project documentation timeline.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f9289a</div>
-                                        <div class="message">test(config): add unit tests for config manager modules and update README docs
-
-- 新增 src/config/tests.rs，涵蓋 FileSource、EnvSource、ArgsSource、ConfigManager、ConfigCache、AIConfigValidator、SyncConfigValidator 測試
-- 在 README.md 新增統一配置管理系統使用範例
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fea7416</div>
-                                        <div class="message">feat(config): add dynamic configuration support with file watching
-
-Implement ConfigChangeEvent, subscribe_changes, and ConfigManager::watch using notify crate for hot-reload of file-based configuration.\n\nAdd watch_paths to ConfigSource trait and update FileSource to expose path. Introduce notify dependency in Cargo.toml.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7076ec7</div>
-                                        <div class="message">feat(config): add validators and cache for unified config management
-
-\n- Implement AIConfigValidator, SyncConfigValidator, FormatsConfigValidator, GeneralConfigValidator\n- Add ConfigCache with get/set/update/clear/cleanup_expired\n- Extend ConfigError with ParseError, InvalidValue, ValidationError\n- Update ConfigSource error mapping and submodule declarations\n- Add corresponding unit tests
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f598c5a</div>
-                                        <div class="message">feat(config): establish core config management module
-
-完成 Backlog #13 階段1：配置管理核心模組之基礎結構與功能實作
+- Move the closing div tag to after the project description and badges, fixing HTML structure in the README.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -259,17 +46,111 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/dotfiles</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">jim60105/subx-cli</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5ed5ba</div>
-                                        <div class="message">feat(install): apply Chezmoi config after submodule init
+                                        <div class="sha">#c4ad1de</div>
+                                        <div class="message">feat: add animated SVG logo for SubX CLI
 
-- Add a step to apply Chezmoi configuration after initializing git submodules in the installation script.
+- Create stunning animated SVG logo with gradient background
+- Include AI brain icon with neural network nodes and animations
+- Display main title with glow effects and serif typography
+- Add three feature icons (AI matching, format conversion, time sync)
+- Include command line visualization with blinking cursor
+- Add floating particles and decorative elements for visual appeal
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06ffb02</div>
+                                        <div class="message">test(coverage): implement Backlog #18 phase3 tests for services and core modules
+
+- Add tests for AICache in src/services/ai/cache.rs
+- Extend WorkerPool tests in src/core/parallel/worker.rs
+- Extend ConfigValidator tests in src/config/validator.rs
+- Add phase3 work report in .github/codex/59-test-coverage-enhancement-phase3-report.md
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abacf45</div>
+                                        <div class="message">test: enhance test coverage for convert and match commands (phase 2 backlog #18)
+
+- Add unit tests for convert_command.rs: srt to vtt conversion, batch processing, unsupported format handling.
+- Add unit test for match_command.rs: no files scenario.
+- Update CLI integration tests: remove obsolete config show basic test.
+- Add work report for backlog #18 phase 2 in .github/codex.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c97826c</div>
+                                        <div class="message">docs: clarify report numbering and style date tips
+
+- Clarify that report file numbers are sequential integers unrelated to task or backlog identifiers and recommend checking existing reports to determine the next available number.
+- Convert the plain date-command reminder into a formatted tip block and add a note instructing users to omit that tip from their final report.
+- Convert the date reminder into a styled TIP block and add a note instructing users not to include that tip in their final report.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1890506</div>
+                                        <div class="message">test: implement backlog #18 CLI test enhancements
+
+- add integration tests for main CLI commands
+- add unit tests for match_args and convert_args modules
+- enforce confidence range validation (0-100)
+
+Report: add work report for backlog #18 CLI test enhancement
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e4b537</div>
+                                        <div class="message">docs(review): add code review for bug #14 fix
+
+This code review confirms that the race condition fix in commit add1c9a
+effectively resolves the config integration test failures. The solution
+uses serial test execution and global state reset to ensure proper test
+isolation.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">modelcontextprotocol/servers</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#add1c9a</div>
+                                        <div class="message">fix(test): resolve config integration test race condition (bug #14)
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -283,66 +164,51 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/dotfiles</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">jim60105/subx-cli</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c449678</div>
-                                        <div class="message">fix(install): ensure git submodules update recursively
+                                        <div class="sha">#28d1175</div>
+                                        <div class="message">feat: add bug report for config test race condition
 
-- Add a step to update git submodules recursively after running chezmoi in the installation script.
+Add detailed bug report #14 addressing the intermittent failure of
+test_full_config_integration due to race conditions in parallel test
+execution. The report includes comprehensive analysis of the root cause
+and provides a focused solution using test isolation enhancement with
+unique file naming and environment variable cleanup mechanisms.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c39007b</div>
-                                        <div class="message">chore(gitmodules): update path to external_copilot-prompt
+                                        <div class="sha">#d822cd8</div>
+                                        <div class="message">docs: add Product Backlog #18 for test coverage enhancement
 
-- Rename the copilot-prompt submodule to external_copilot-prompt and update its path accordingly.
-- The file copilot-prompt was renamed to external_copilot-prompt without any content changes.
+- Create comprehensive test coverage improvement plan
+- Target overall coverage ≥50% and core modules ≥70%
+- Focus on CLI layer, command layer, and service layer testing
+- Include detailed implementation examples and CI/CD automation
+- 6-day implementation roadmap with specific coverage targets
+- Automated coverage monitoring and quality assurance measures
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/copilot-prompt</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8f0ee06</div>
-                                        <div class="message">docs(readme): update submodule and chezmoi integration info
+                                        <div class="sha">#24eeae7</div>
+                                        <div class="message">docs(prompts) add Traditional Chinese AI planning prompt
 
-- Update the README to note that the repository is now managed as a submodule in a dotfiles setup using chezmoi, replacing the previous user data location instruction.
+- Introduce a new prompt that directs an AI agent to deeply research and generate a detailed development plan in Traditional Chinese under .github/plans using specified tools, stressing planning before implementation and prohibiting the term “newbies.”
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0471b8a</div>
+                                        <div class="message">docs: update coverage commands to use JSON summary output
+
+- Update the recommended command for generating code coverage reports to use JSON output with summary only, instead of HTML.
+- Update the recommended code coverage command to use JSON output with summary-only and quiet mode flags instead of generating HTML reports.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -357,74 +223,12 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    28 Languages
+                    16 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
-                    <mask id="languages-bar">
-                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
-                    </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="117.09393822472778" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="117.09393822472778" y="0" width="114.27538079923772" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="231.36931902396552" y="0" width="59.79516518862802" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="291.16448421259355" y="0" width="54.99564895031454" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="346.1601331629081" y="0" width="45.46697351327023" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="391.62710667617836" y="0" width="25.960425982045184" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="417.5875326582235" y="0" width="25.08380059162107" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="442.67133324984457" y="0" width="17.328666750155442" height="8" fill="#89e051"/>
-                </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Rust
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
-                    </div>
                 </div>
             </section>
         </div>
