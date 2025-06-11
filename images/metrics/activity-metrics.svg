@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="492" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="610" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,148 +22,6 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/subx-cli</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#23c2018</div>
-                                        <div class="message">docs(README): change HTML structure for project description section
-
-- Move the closing div tag to after the project description and badges, fixing HTML structure in the README.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">jim60105/subx-cli</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c4ad1de</div>
-                                        <div class="message">feat: add animated SVG logo for SubX CLI
-
-- Create stunning animated SVG logo with gradient background
-- Include AI brain icon with neural network nodes and animations
-- Display main title with glow effects and serif typography
-- Add three feature icons (AI matching, format conversion, time sync)
-- Include command line visualization with blinking cursor
-- Add floating particles and decorative elements for visual appeal
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06ffb02</div>
-                                        <div class="message">test(coverage): implement Backlog #18 phase3 tests for services and core modules
-
-- Add tests for AICache in src/services/ai/cache.rs
-- Extend WorkerPool tests in src/core/parallel/worker.rs
-- Extend ConfigValidator tests in src/config/validator.rs
-- Add phase3 work report in .github/codex/59-test-coverage-enhancement-phase3-report.md
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abacf45</div>
-                                        <div class="message">test: enhance test coverage for convert and match commands (phase 2 backlog #18)
-
-- Add unit tests for convert_command.rs: srt to vtt conversion, batch processing, unsupported format handling.
-- Add unit test for match_command.rs: no files scenario.
-- Update CLI integration tests: remove obsolete config show basic test.
-- Add work report for backlog #18 phase 2 in .github/codex.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c97826c</div>
-                                        <div class="message">docs: clarify report numbering and style date tips
-
-- Clarify that report file numbers are sequential integers unrelated to task or backlog identifiers and recommend checking existing reports to determine the next available number.
-- Convert the plain date-command reminder into a formatted tip block and add a note instructing users to omit that tip from their final report.
-- Convert the date reminder into a styled TIP block and add a note instructing users not to include that tip in their final report.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1890506</div>
-                                        <div class="message">test: implement backlog #18 CLI test enhancements
-
-- add integration tests for main CLI commands
-- add unit tests for match_args and convert_args modules
-- enforce confidence range validation (0-100)
-
-Report: add work report for backlog #18 CLI test enhancement
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e4b537</div>
-                                        <div class="message">docs(review): add code review for bug #14 fix
-
-This code review confirms that the race condition fix in commit add1c9a
-effectively resolves the config integration test failures. The solution
-uses serial test execution and global state reset to ensure proper test
-isolation.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">modelcontextprotocol/servers</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/subx-cli</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#add1c9a</div>
-                                        <div class="message">fix(test): resolve config integration test race condition (bug #14)
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">jim60105/subx-cli</span>
                                     </div>
@@ -171,44 +29,272 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#28d1175</div>
-                                        <div class="message">feat: add bug report for config test race condition
+                                        <div class="sha">#95f6327</div>
+                                        <div class="message">chore(scripts/check_docs): streamline test and doc output with conditional display
 
-Add detailed bug report #14 addressing the intermittent failure of
-test_full_config_integration due to race conditions in parallel test
-execution. The report includes comprehensive analysis of the root cause
-and provides a focused solution using test isolation enhancement with
-unique file naming and environment variable cleanup mechanisms.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d822cd8</div>
-                                        <div class="message">docs: add Product Backlog #18 for test coverage enhancement
-
-- Create comprehensive test coverage improvement plan
-- Target overall coverage ≥50% and core modules ≥70%
-- Focus on CLI layer, command layer, and service layer testing
-- Include detailed implementation examples and CI/CD automation
-- 6-day implementation roadmap with specific coverage targets
-- Automated coverage monitoring and quality assurance measures
+- Add a function to run tests with conditional output, showing test output only on failure unless verbose mode is enabled
+- Refactor documentation examples, unit tests, and integration tests to use the new conditional output function
+- Replace static documentation output file with a temporary file, ensuring cleanup after use
+- Improve handling of documentation generation output and warnings
+- Remove redundant cleanup of documentation output file at the end, since cleanup now happens in place
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#24eeae7</div>
-                                        <div class="message">docs(prompts) add Traditional Chinese AI planning prompt
+                                        <div class="sha">#c3d822f</div>
+                                        <div class="message">docs(scripts): document license and usage details in all scripts
 
-- Introduce a new prompt that directs an AI agent to deeply research and generate a detailed development plan in Traditional Chinese under .github/plans using specified tools, stressing planning before implementation and prohibiting the term “newbies.”
+- Add GPLv3 license headers and copyright information to both scripts
+- Add script descriptions and usage comments at the top of both files
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0471b8a</div>
-                                        <div class="message">docs: update coverage commands to use JSON summary output
+                                        <div class="sha">#3a9dece</div>
+                                        <div class="message">docs(readme): add GPLv3 license to English/Chinese READMEs
 
-- Update the recommended command for generating code coverage reports to use JSON output with summary only, instead of HTML.
-- Update the recommended code coverage command to use JSON output with summary-only and quiet mode flags instead of generating HTML reports.
+- Add a GPLv3 license section to the README, featuring a license badge image, summary of the GPLv3 terms, and a link to the full GNU General Public License.
+- Add a GPLv3 license section to the Chinese README, including the license header, badge image, link to the full text, and the standard GPL disclaimer and redistribution terms.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6fa0b5</div>
+                                        <div class="message">feat(coverage): add GPLv3 header and table/file flags
+
+- Added a GPLv3 license header and introduced two new options—`-T/--table` to print a color-coded coverage table for all files and `-f/--file` to search and display coverage for a specific file—backed by helper functions for consistent percentage formatting.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b8bcb09</div>
+                                        <div class="message">docs: create GPLv3 LICENSE
+
+Signed-off-by: 陳鈞 &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0ae33cf</div>
+                                        <div class="message">refactor: relocate unit tests from tests/ to implementation files
+
+- Move AI retry tests to src/services/ai/retry.rs
+- Move encoding analyzer tests to src/core/formats/encoding/analyzer.rs
+- Move encoding detector tests to src/core/formats/encoding/detector.rs
+- Move audio analyzer tests to src/services/audio/analyzer.rs
+- Fix race condition in encoding detector tests by removing global config dependency
+- Remove duplicate test files from tests/ directory
+- All tests now follow Rust conventions with unit tests in implementation files
+- Tests run without infinite loops or timeouts after race condition fix
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f7d498</div>
+                                        <div class="message">feat(bench): fix and optimize AI retry mechanism performance benchmarks
+
+- Fix compilation errors in retry_performance.rs benchmark
+- Update imports to use correct SubXError type instead of non-existent RetryError
+- Correct RetryConfig field name from initial_delay to base_delay
+- Fix retry_with_backoff function parameter order
+- Use AtomicUsize to resolve Fn trait closure limitations
+- Add missing benchmark configuration in Cargo.toml
+- Implement thread-safe counter mechanism for retry scenarios
+- Add comprehensive performance evaluation guidelines
+
+Performance results:
+- Immediate success: ~72.9ns (excellent, &lt;100ns threshold)
+- Retry with failures: ~5.18ms (excellent, &lt;10ms threshold)
+- Actual retry overhead: ~5.11ms (within expected range)
+
+The benchmark now provides reliable performance metrics for AI retry
+mechanism monitoring and system optimization.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f048f78</div>
+                                        <div class="message">docs: add medium priority tests report (Backlog #19.2)
+
+Add Codex work report for Test #19.2 - 中期優先級測試實作
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5551231</div>
+                                        <div class="message">docs(agents): move commit instruction after report template
+
+- Reorder the guidelines in AGENTS.md by moving the Git commit instruction to appear after the report file template bullet.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98c8032</div>
+                                        <div class="message">test: implement medium priority tests (Backlog #19.2)
+
+- Add integration tests for encoding analyzer to improve coverage for ByteAnalyzer and StatisticalAnalyzer
+- Add integration tests for EncodingDetector, initializing config manager in each test
+- Add integration tests for AI retry mechanism with exponential backoff and performance benchmarks
+- Add Criterion benchmarks for retry performance in benches/retry_performance.rs
+- Ignore audio analyzer tests temporarily due to known audio parsing issues pending code refactor
+- Add Criterion as dev-dependency in Cargo.toml
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80ebdd7</div>
+                                        <div class="message">test: add CLI args and UI module tests for backlog #19.1
+
+- add tests for config_args and detect_encoding_args parsing scenarios
+- add tests for create_match_table, create_progress_bar, display_ai_usage in ui module
+- allow clippy::needless_borrows_for_generic_args in convert_args.rs and match_args.rs to suppress pre-existing lints
+
+Reviewed-by: ChatGPT
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1c1722</div>
+                                        <div class="message">docs: standardize all documentation and comments to English
+
+- Convert all Chinese comments and documentation to English
+- Update error messages for consistency across modules
+- Preserve Chinese content in test data where appropriate
+- Ensure compliance with Backlog #20 documentation standards
+- All quality checks pass: cargo fmt, clippy, tests, and docs
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa1b1ba</div>
+                                        <div class="message">refactor: remove Chinese content from source code
+
+- Replace all Chinese documentation comments with English equivalents
+- Translate error messages and user-facing strings to English
+- Update AI prompt templates to use English format
+- Convert progress messages and status updates to English
+- Ensure all inline comments use English terminology
+- Add comprehensive work report documenting changes
+
+This change addresses Backlog #20 requirements for English-only
+documentation and improves international accessibility.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d448e53</div>
+                                        <div class="message">docs(codex): add Test #19.1 report for command module tests
+
+This report documents the Test #19.1 work of adding command module unit tests as implemented in commit 3e588e1a4bfad807a9a81c5b00c03458bd58d17f.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e588e1</div>
+                                        <div class="message">test: add command module tests for backlog #19.1
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8628d22</div>
+                                        <div class="message">docs: prioritize scripts/check_coverage.sh in test backlogs
+
+Update all test-related backlog documents to emphasize using
+scripts/check_coverage.sh as the primary coverage checking tool.
+
+Changes:
+- Add coverage checking guidelines in all backlog documents
+- Standardize coverage verification workflows
+- Include coverage monitoring in success criteria
+- Update CI/CD integration recommendations
+
+This ensures consistent coverage checking practices across
+the entire test development process.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b27cb19</div>
+                                        <div class="message">fix: resolve test race condition in match_command tests
+
+- Add serial_test annotations to prevent parallel test execution
+- Implement reset_test_environment() helper function to clean global state
+- Clean up cache files and environment variables between tests
+- Apply same fixes to convert_command tests for consistency
+- All tests now pass reliably without race conditions
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#19e841a</div>
+                                        <div class="message">fix: resolve test race condition in match_command tests
+
+- Add serial_test annotations to prevent parallel test execution
+- Implement reset_test_environment() helper function to clean global state
+- Clean up cache files and environment variables between tests
+- Apply same fixes to convert_command tests for consistency
+- All tests now pass reliably without race conditions
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
