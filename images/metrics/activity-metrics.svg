@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="748" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="766" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,179 +19,21 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">LukeMathWalker/wiremock-rs</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 10 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">jim60105/subx-cli</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1e71c9e</div>
-                                        <div class="message">refactor: extract show_overall_coverage function to eliminate code duplication
+                                        <div class="sha">#1726518</div>
+                                        <div class="message">docs(testing): add Wiremock integration testing framework section
 
-- Extract common coverage display logic into reusable function
-- Add overall coverage summary to table mode for consistency
-- Simplify table and default mode handling with unified logic
-- Improve code maintainability by reducing duplication by ~40 lines
-- Ensure both modes return correct exit codes for CI integration
-
-The show_overall_coverage function now handles:
-- Coverage data parsing and validation
-- Threshold comparison and status reporting
-- Conditional detailed information display
-- Consistent color coding and formatting
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#266ea93</div>
-                                        <div class="message">feat: add cross mark display for failed file operations
-
-- Add ✗ symbol display when file operations fail (copy, move, rename)
-- Display meaningful error messages when target files don't exist after operations
-- Enhance user feedback with clear visual indicators for both success and failure
-- Add comprehensive unit tests for error message format validation
-- Add integration tests for file operation error display functionality
-- Maintain backward compatibility with existing success indicators (✓)
-
-This enhancement provides better user experience by showing clear feedback
-when file operations encounter issues, helping users identify and resolve
-problems more effectively.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e817fe</div>
-                                        <div class="message">feat: add success check mark display after file operations
-
-- Add ✓ symbol display after successful file rename operations
-- Add ✓ symbol display after successful file copy operations
-- Add ✓ symbol display after successful file move operations
-- File existence is verified before displaying success indicator
-- Added comprehensive test for rename operation success display
-- Follows user requirement to show ✓ only after verifying file exists
-
-This enhancement improves user feedback by providing clear visual confirmation
-that file operations have completed successfully and the target files exist
-on the filesystem.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d49d58</div>
-                                        <div class="message">docs: update README with copy/move functionality
-
-Update README.md to document the new --copy/-c and --move/-m parameters
-for the match command, including:
-
-- Enhanced feature list with file organization capability
-- Updated usage examples with copy/move operations
-- Extended folder structure examples showing distributed media scenarios
-- Comprehensive command reference for new parameters
-- Additional troubleshooting section for file organization issues
-
-These updates align with Product Backlog #25 implementation.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6254e0f</div>
-                                        <div class="message">style: format integration test code
-
-Apply cargo fmt to fix formatting issues in match copy/move
-integration tests.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e59104b</div>
-                                        <div class="message">docs: add implementation report for backlog #25
-
-Add comprehensive implementation report for Product Backlog #25,
-documenting the addition of --copy/-c and --move/-m parameters
-to the match command, including technical details, code changes,
-and test results.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5408d71</div>
-                                        <div class="message">feat: implement copy/move-to-video-folder functionality for match command
-
-Add support for --copy/-c and --move/-m options to automatically
-relocate matched subtitle files to their corresponding video directories.
-
-Features implemented:
-- CLI arguments validation with mutual exclusion
-- File relocation modes (Copy/Move/None) in match engine
-- Conflict resolution strategies (Skip/AutoRename/Prompt)
-- Parallel processing support for copy/move operations
-- Dry-run mode integration with relocation preview
-- Backup functionality for both source and target files
-- Comprehensive error handling and logging
-
-Technical changes:
-- Extended MatchArgs with copy/move_files boolean parameters
-- Updated MatchConfig and MatchOperation structures
-- Implemented relocation logic in MatchEngine and FileProcessingTask
-- Added new ProcessingOperation variants for copy/move
-- Enhanced UI to display relocation operations in dry-run mode
-- Fixed all clippy warnings and documentation examples
-- Added comprehensive integration tests for copy/move functionality
-
-This completes Product Backlog #25 requirements including CLI options,
-mutual exclusion validation, dry-run support, backup integration,
-conflict resolution, and parallel processing capabilities.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41d927d</div>
-                                        <div class="message">docs: add implementation lessons learned to Backlog #25
-
-Document key failures and lessons learned from the reverted implementation
-attempts (commits 67a44b3, bfdbc59) to guide future development:
-
-- Architectural design errors (bypassing AI matching core functionality)
-- Parameter validation integration failures
-- Insufficient testing strategy and coverage
-- Specification understanding gaps
-
-Include comprehensive guidance for proper re-implementation approach
-with design principles, staged development plan, and quality assurance
-guidelines to prevent similar issues in future attempts.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e8ad5f</div>
-                                        <div class="message">Revert "feat: implement Backlog #25 match command copy/move to video folder"
-
-This reverts commit 67a44b3c43240677dba5b60de9c6f528294fa90b.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcd1863</div>
-                                        <div class="message">Revert "feat(match): implement FileRelocationTask for copy/move and add related tests"
-
-This reverts commit bfdbc59d61da14401775d30c9f5d24bd01c4c4cf.
+- describe MockOpenAITestHelper, MatchResponseGenerator and macros
+- update test directory structure
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -205,465 +47,246 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 23 commits in
+                                        Pushed 14 commits in
                                         <span class="repo">jim60105/subx-cli</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7b2026f</div>
-                                        <div class="message">feat: complete migration to dependency injection config system
+                                        <div class="sha">#965d368</div>
+                                        <div class="message">fix: remove clippy::await_holding_lock warnings in tests
 
-- Remove all legacy global config manager code and static variables
-- Implement comprehensive dependency injection pattern throughout codebase
-- Update all command and core modules to use ConfigService interface
-- Refactor config_legacy.rs to contain only type definitions and new-style loading
-- Rewrite config validator to use SubXError and Result patterns
-- Update all integration tests to use TestConfigService and TestConfigBuilder
-- Fix all type mismatches and missing fields in config structures
-- Update documentation examples to use new configuration API
-- Ensure all tests pass with new architecture
-- Complete system-wide cleanup and modernization
+Replace std::sync::Mutex with tokio::sync::Mutex in test isolation
+mechanism to resolve clippy warnings. This change improves async
+compatibility and follows Rust async best practices while maintaining
+test isolation functionality.
 
-This migration establishes a clean, testable, and maintainable
-configuration architecture that supports proper dependency injection
-and eliminates global state dependencies.
+Changes:
+- Replace std::sync::Mutex with tokio::sync::Mutex in TEST_MUTEX
+- Remove #[allow(clippy::await_holding_lock)] annotations
+- Update lock usage from .unwrap() to .await for async compatibility
+- Preserve test isolation to prevent environment variable conflicts
 
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c27cb71</div>
-                                        <div class="message">docs: add comprehensive report for test infrastructure and system refactoring
-
-This report documents the successful implementation of Backlog #19.4 (Test Infrastructure Optimization) and #21.4 (Test System Refactoring), including:
-
-- Modern test infrastructure with CLI helpers, file managers, validators, and mock generators
-- Dependency injection configuration system with ConfigService trait
-- Complete test isolation mechanism supporting parallel execution
-- Migration of 5 major integration test files to new DI patterns
-- Significant improvements in test execution time (40%+), code readability (60%+), and test stability (80%+)
-
-The implementation establishes a solid foundation for future module migrations and eliminates implicit dependencies between tests while maintaining backward compatibility.
+Files modified:
+- tests/match_cache_reuse_tests.rs: Updated mutex implementation
+- .github/codex/115-clippy-await-holding-lock-warning-fix-report.md: Added work report
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e339169</div>
-                                        <div class="message">
-                                            feat: complete test infrastructure optimization and system refactoring
+                                        <div class="sha">#52b6111</div>
+                                        <div class="message">docs: add code review report for Backlog #27 Wiremock integration testing framework
 
-Implement both #19.4 (test infrastructure optimization) and #21.4 (test system refactoring):
+Comprehensive code review evaluation of the Wiremock integration testing framework implementation (Backlog #27). The review covers:
 
-## Test Infrastructure Tools (#19.4)
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Enhanced CLITestHelper with dependency injection support
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            TestFileManager for parallel-safe file operations
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            OutputValidator with regex pattern matching
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            AudioMockGenerator and SubtitleGenerator for test data
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            All tools support complete test isolation
+- Complete functional requirements fulfillment
+- High-quality code implementation (8.3/10 overall score)
+- Excellent architectural design with proper separation of concerns
+- Comprehensive test coverage (77.62%, exceeding 75% threshold)
+- Successful elimination of external OpenAI API dependencies
+- Significant performance improvements in test execution speed
+- Proper bug fixes and stability enhancements
 
-## Test System Refactoring (#21.4)
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Removed all #[serial] annotations across codebase
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Eliminated reset_global_config_manager() calls in tests
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Replaced init_config_manager() with dependency injection
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Added EncodingDetector::with_config() and with_defaults()
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Refactored encoding tests to use new constructors
+Key achievements:
+- Zero external service dependencies and API costs
+- Complete test isolation with mutex-based serialization
+- Support for multiple test scenarios (success, error, delayed responses)
+- Modular design with MockOpenAITestHelper and MatchResponseGenerator
+- Performance testing with load scenarios and memory stability validation
 
-## Key Achievements
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
-                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
-                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
-                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
-                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
-                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
-                                            </svg>
-                                            100% parallel test execution capability
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#8899A6" d="M27.989 19.977c-.622 0-1.225.078-1.806.213L15.811 9.818c.134-.581.212-1.184.212-1.806C16.023 3.587 12.436 0 8.012 0 7.11 0 5.91.916 6.909 1.915l2.997 2.997s.999 1.998-.999 3.995-3.996.998-3.996.998L1.915 6.909C.916 5.91 0 7.105 0 8.012c0 4.425 3.587 8.012 8.012 8.012.622 0 1.225-.078 1.806-.212l10.371 10.371c-.135.581-.213 1.184-.213 1.806 0 4.425 3.588 8.011 8.012 8.011.901 0 2.101-.916 1.102-1.915l-2.997-2.997s-.999-1.998.999-3.995 3.995-.999 3.995-.999l2.997 2.997c1 .999 1.916-.196 1.916-1.102 0-4.425-3.587-8.012-8.011-8.012z"/>
-                                            </svg>
-                                            Complete test isolation with zero shared state
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M32.938 15.651C32.792 15.26 32.418 15 32 15H19.925L26.89 1.458c.219-.426.106-.947-.271-1.243C26.437.071 26.218 0 26 0c-.233 0-.466.082-.653.243L18 6.588 3.347 19.243c-.316.273-.43.714-.284 1.105S3.582 21 4 21h12.075L9.11 34.542c-.219.426-.106.947.271 1.243.182.144.401.215.619.215.233 0 .466-.082.653-.243L18 29.412l14.653-12.655c.317-.273.43-.714.285-1.106z"/>
-                                            </svg>
-                                            Significantly improved test performance
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#CCD6DD" d="M33 3c-7-3-15-3-15-3S10 0 3 3C0 18 3 31 18 36c15-5 18-18 15-33z"/>
-                                                <path fill="#55ACEE" d="M18 33.884C6.412 29.729 1.961 19.831 4.76 4.444 11.063 2.029 17.928 2 18 2c.071 0 6.958.04 13.24 2.444 2.799 15.387-1.652 25.285-13.24 29.44z"/>
-                                                <path fill="#269" d="M31.24 4.444C24.958 2.04 18.071 2 18 2v31.884c11.588-4.155 16.039-14.053 13.24-29.44z"/>
-                                            </svg>
-                                            Enhanced test reliability and maintainability
-
-## Test Results
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Config tests: 31/31 passed
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Encoding tests: 27/27 passed
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            All integration test suites passing
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Parallel test stability verified
-
-This establishes a modern, scalable test infrastructure foundation
-for the SubX project with industry-leading parallel testing capabilities.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
-                                        </div>
+Recommendation: Approve for merge and adopt as standard integration testing framework for SubX project.
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ebe8a8d</div>
-                                        <div class="message">feat(test): implement test infrastructure optimization and system refactoring
+                                        <div class="sha">#993c1fa</div>
+                                        <div class="message">fix(cache): resolve Wiremock integration test cache reuse issues
 
-- Complete implementation of backlog #19.4 test infrastructure tools:
-  * CLITestHelper for CLI testing with dependency injection
-  * TestFileManager for parallel-safe file management
-  * OutputValidator for test output validation
-  * AudioMockGenerator for audio testing simulation
-  * SubtitleGenerator for subtitle file generation
-  * ValidationResult for structured test validation
+- Fix cache reuse test failures in both copy and move modes
+- Implement proper test isolation using static mutex for environment variables
+- Ensure each test uses dedicated cache paths to prevent interference
+- Modify get_cache_file_path to support XDG_CONFIG_HOME for testing
+- Add debug logging for cache validation (later cleaned up)
+- Resolve file ID mismatch issues between mock expectations and actual IDs
+- Clean up compilation warnings with #[allow(dead_code)] annotations
 
-- Complete implementation of backlog #21.4 test system refactoring:
-  * Remove all #[serial] annotations from tests
-  * Eliminate reset_global_config_manager() and init_config_manager() calls
-  * Remove serial_test dependencies
-  * Implement isolated test configurations using TestConfigBuilder
-  * Enable parallel test execution for improved CI/CD performance
-
-- Refactored test files:
-  * tests/config_basic_integration.rs
-  * tests/sync/integration_tests.rs
-  * tests/encoding_integration_tests.rs
-  * tests/config_integration_tests.rs
-  * tests/parallel_processing_integration_tests.rs
-  * tests/audio_aus_integration_tests.rs
-
-- All tests now use isolated configurations for parallel safety
-- Removed global state dependencies in test execution
-- Updated Cargo.toml with regex dev-dependency for output validation
-- Fixed test compilation errors and type mismatches
-- Maintained backward compatibility with existing test functionality
-
-This implementation enables true test isolation and parallel execution,
-significantly improving test suite performance and reliability.
+The cache logic now correctly preserves operations across multiple calls,
+reducing unnecessary AI API requests when directory snapshots and
+configuration hashes match. Tests now pass consistently in both isolated
+and parallel execution scenarios.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#adbf795</div>
-                                        <div class="message">docs: clarify doc check timeout and coverage command usage
+                                        <div class="sha">#96bd5d0</div>
+                                        <div class="message">docs: add comprehensive code review report for Backlog #27 Wiremock integration testing framework
 
-- Update the doc instructions to require running the documentation check script with a 20-second timeout and provide guidance for getting more details if it times out, and change the code coverage check command to use the -T flag.
+This report provides a detailed technical assessment of the Wiremock integration
+testing framework implementation across phases 1-5, including:
 
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf708f3</div>
-                                        <div class="message">
-                                            feat: implement configuration service system with dependency injection
+- Requirements compliance evaluation (85% complete)
+- Code quality analysis with identified issues
+- Critical bug identification in cache testing logic
+- Architecture design assessment
+- Performance and stability evaluation
+- Maintenance and security analysis
+- Actionable improvement recommendations
 
-Complete implementation of Backlog #21.3 featuring:
+Key findings:
+- Core framework architecture is excellent with proper test isolation
+- Critical cache test failure due to file ID mismatch needs immediate fix
+- 15 compilation warnings require cleanup
+- Some planned refactoring work remains incomplete
 
-- Dependency injection pattern with ConfigService trait
-- Production and test environment config service implementations
-- Comprehensive test infrastructure with isolated, parallel-safe testing
-- Full backward compatibility with legacy config system
-- Command modules refactored to support both DI and legacy patterns
-- Test macros for convenient configuration in test scenarios
-- Integration tests verifying DI functionality and thread safety
-
-This refactoring eliminates global configuration state, improves testability,
-and provides a solid foundation for future architectural improvements.
-
-All tests pass (270+ tests) with 76.75% code coverage.
-Quality checks: cargo fmt, clippy, and documentation validation all pass.
-
-Co-authored-by:
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            GitHub Copilot &lt;github-copilot[bot]@users.noreply.github.com&gt;
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f55d51</div>
-                                        <div class="message">docs: update Chinese comments to English in config and analyzer modules
-
-- Convert Chinese comments in config_legacy.rs to English for consistency
-- Update encoding analyzer test comments to English
-- Maintain code functionality while improving international accessibility
-- Ensure consistent documentation language across the codebase
+Overall score: 83/100 - Good implementation requiring key issue resolution.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a1d39af</div>
-                                        <div class="message">feat: implement configuration service system with dependency injection
+                                        <div class="sha">#a1573a3</div>
+                                        <div class="message">feat(test): implement phase4 and phase5 for Wiremock integration testing framework (#27)
 
-- Add ConfigService trait for dependency injection architecture
-- Implement ProductionConfigService with config crate integration
-- Create TestConfigService for isolated testing environments
-- Build fluent TestConfigBuilder API for configuration creation
-- Add test helper macros for convenient testing
-- Refactor App structure to support dependency injection
-- Update main.rs with fallback mechanism for compatibility
-- Restructure config module to avoid conflicts
-- Maintain 100% backward compatibility with legacy APIs
-- Add comprehensive integration tests (13 tests passing)
-- Achieve 77.72% code coverage (exceeds 75% requirement)
-
-This implementation provides the foundation for eliminating unsafe
-code and enabling parallel test execution. Part of config system
-modernization initiative (Backlog #21.3).
+- Add performance and stability integration tests (high load &amp; memory stability)
+- Extend MockOpenAITestHelper with delayed response support and define response structs
+- Introduce test macros for integration tests to simplify setup and teardown
+- Update common mod to export macros and helper structs
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#160dfad</div>
-                                        <div class="message">docs: update backlog #21.4 with explicit dependency on #19.4
+                                        <div class="sha">#ee56bd5</div>
+                                        <div class="message">test: enable parallel test config and robust AI error handling
 
-- Add clear documentation of dependency on #19.4 test infrastructure tools
-- Include specific tool requirements: CLITestHelper, TestFileManager, OutputValidator, etc.
-- Update code examples to demonstrate usage of #19.4 testing utilities
-- Define coordination timeline for parallel execution of #19.4 and #21.4
-- Ensure proper test refactoring implementation with infrastructure support
-
-This ensures that #21.4 test system refactoring properly leverages the
-test infrastructure optimization tools provided by #19.4.
+- Add with_parallel_settings method to TestConfigBuilder for configuring parallel test execution
+- Add setup_error_response method to MockOpenAITestHelper to simulate AI service error responses
+- Add integration tests for parallel match operations and confidence threshold filtering
+- Add integration tests for AI service error handling (401, 429, 500 responses)
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fa274ae</div>
-                                        <div class="message">feat: implement config crate integration and basic foundation
+                                        <div class="sha">#7333280</div>
+                                        <div class="message">chore: add Backlog #27 phase2 Wiremock integration testing report and refactor tests
 
-This commit implements Backlog #21.2 - config crate integration and basic implementation,
-replacing the legacy global config manager with unsafe code with a new system based on
-the config crate, providing backward compatibility and robust testing.
-
-Key changes:
-- Add config = "0.15" dependency to Cargo.toml
-- Implement new config loading functions using config crate:
-  - create_config_from_sources(): loads config with layered priority
-  - create_config_with_overrides(): supports dynamic CLI overrides
-  - create_test_config(): builds config for test scenarios
-- Add backward compatibility functions (deprecated):
-  - init_config_manager_new(): compatible with old initialization interface
-  - load_config_new(): compatible with old loading interface
-- Add config::ConfigError to SubXError conversion in error handling
-- Create comprehensive test suite with 8 test functions covering:
-  - Basic config loading, environment variable mapping
-  - CLI override priority, performance testing
-  - Backward compatibility validation
-
-This implementation provides a foundation for eliminating unsafe code,
-supporting parallel test execution, and maintaining robust error handling
-while preserving full backward compatibility during the migration period.
+- Add Backlog #27 Wiremock integration testing framework phase 2 report
+- Refactor integration tests (match cache reuse, copy behavior, copy/move, parallel processing) to use Wiremock mock server and ensure cache isolation
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#330652a</div>
-                                        <div class="message">docs: complete config manager problem analysis and design
+                                        <div class="sha">#643dfef</div>
+                                        <div class="message">feat(test): add Wiremock integration testing framework (phase 1)
 
-- Analyzed current unsafe configuration system problems
-- Identified memory safety risks in reset_global_config_manager()
-- Evaluated test complexity issues requiring #[serial] annotations
-- Designed config crate + dependency injection solution
-- Created comprehensive migration strategy with risk assessment
-- Established success metrics and implementation phases
-
-Part of Backlog #21.1 for eliminating unsafe config manager.
+- Added initial Wiremock basic integration test in tests/wiremock_basic_integration.rs
+- Introduced common test utilities: mock_openai_helper, test_data_generators, command_helpers
+- Updated tests/common/mod.rs
+- Extended src/config/builder.rs to support Wiremock configuration
+- Added work report .github/codex/108-backlog-27-wiremock-integration-testing-framework-phase1-report.md
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a786d65</div>
-                                        <div class="message">docs: align test infrastructure optimization with config system refactoring
+                                        <div class="sha">#5f87bd9</div>
+                                        <div class="message">fix: correct copy mode implementation in match command
 
-- Update 19.4 backlog to support dependency injection configuration
-- Add comprehensive Backlog #21 series for eliminating unsafe config manager
-- Enhance test tools to support parallel testing and isolation
-- Coordinate execution between test infrastructure and config refactoring
-- Add detailed sub-tasks for complete config system migration
+Fix critical logic error in copy mode where original files were
+incorrectly renamed, violating copy operation semantics.
 
-The changes ensure test infrastructure optimization works with the new
-configuration system design while maintaining backward compatibility.
+Changes:
+- Replace execute_copy_then_rename with execute_copy_operation
+- Add execute_local_copy for same-directory copy operations
+- Ensure original files remain unchanged in copy mode
+- Update test expectations to match correct copy semantics
 
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a26442</div>
-                                        <div class="message">feat: complete comprehensive test implementation for sync and parallel modules
+Copy mode now properly:
+- Creates copies at target locations without modifying originals
+- Preserves original file names and locations
+- Only copies content, never renames source files
 
-- Implement full test suite for sync/engine.rs with offset calculation, correlation analysis, and edge cases
-- Add comprehensive tests for sync/dialogue/detector.rs covering speech ratio, segment optimization, and detection algorithms
-- Complete parallel/worker.rs tests including pool management, error recovery, and performance scenarios
-- Implement parallel/scheduler.rs tests with priority handling, load balancing, and concurrency
-- Add parallel/task.rs tests covering lifecycle management, error handling, and operation variants
-- Fix race conditions and infinite loop issues in test execution
-- Ensure all tests pass with timeout protection (178 passed, 0 failed)
-- Achieve 77.47% line coverage, exceeding 75% target requirement
-- Excellent coverage for key modules: sync/engine (84.84%), dialogue/detector (94.98%), parallel/scheduler (95.47%)
-- Address test stability issues with global config management and worker pool capacity
-- Implement proper error handling and edge case testing throughout sync and parallel workflows
+Resolves the core issue in Bug #16 where copy mode violated
+its semantic contract by modifying source files.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bfd1047</div>
-                                        <div class="message">feat(devcontainer): install bc and set locale to C
+                                        <div class="sha">#b781f4e</div>
+                                        <div class="message">docs: add code review report for Bug #16 fix
 
-- Install `bc` as part of the devcontainer’s postCreateCommand by running `sudo apt update &amp;&amp; sudo apt install -y bc` before cloning and building, and set the container’s locale to `C` by adding `LC_ALL` to the environment.
+Add comprehensive code review report analyzing the implementation
+of Bug #16 fix for match command cache reuse and copy mode issues.
 
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69eae00</div>
-                                        <div class="message">test: strengthen parallel and sync test infrastructure
+Key findings:
+- Cache reuse mechanism correctly fixed
+- Copy mode logic contains critical error that violates copy semantics
+- Tests are ignored and cannot validate the fix
+- Immediate attention needed for copy mode implementation
 
-- Add a detailed job report documenting the completion of sync and parallel testing infrastructure, including test module and directory creation
-- Update backlog to clarify test coverage goals, test locations, and expand on test case descriptions for sync and parallel modules
-- Add parallel_helpers module with helper functions for generating test tasks and simulating parallel workloads
-- Import the new parallel_helpers module in the common test utilities
-- Add initial integration and performance test skeletons for parallel and sync modules with placeholder tests marked as #[ignore]
-- Create fixture directories for sync and parallel test data with .gitkeep placeholders to ensure directory structure in version control
+The review identifies that while cache reuse was properly implemented,
+the copy mode still incorrectly renames original files, contradicting
+the copy operation semantics.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#832f747</div>
-                                        <div class="message">docs: add comprehensive documentation for missing API elements
+                                        <div class="sha">#35f9acc</div>
+                                        <div class="message">docs: enhance wiremock integration testing framework plan
 
-Complete documentation coverage for all public APIs:
-- Add field documentation for config structs (PartialParallelConfig, ConversionConfig, etc.)
-- Document ASS format structs (AssStyle, Color) with detailed field descriptions
-- Add function documentation for constructors (EnvSource::new, CliSource::new, etc.)
-- Document module exports and verification request structures
-- Convert all Chinese test comments to English for consistency
-- Ensure all public APIs have proper rustdoc annotations
-
-All documentation follows rustdoc guidelines and passes quality checks.
-Fixes missing documentation warnings and improves API discoverability.
+- Add comprehensive analysis of all existing match-related integration tests
+- Include modification instructions for 4 test files that currently depend on real OpenAI services
+- Categorize test files into those requiring refactoring vs those already using mocks
+- Update implementation checklist to reflect actual codebase state
+- Provide detailed step-by-step refactoring instructions for each affected test file
+- Clarify that existing tests need modification, not creation of new test files
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#74450b0</div>
-                                        <div class="message">chore(devconatiner): enable automatic chat tool approvals
+                                        <div class="sha">#abacf44</div>
+                                        <div class="message">docs: accelerate API testing with modular Wiremock integration
 
-- Enable automatic approval for chat tools by adding `"chat.tools.autoApprove": true` to the VSCode settings.json.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b2d68c</div>
-                                        <div class="message">docs(sync): translate Chinese comments to English in sync module tests
-
-Translate all Chinese documentation comments to English in the sync engine
-and dialogue detection modules, following the SubX Rustdoc guidelines.
+- Add a comprehensive plan to implement a Wiremock-based integration testing framework for simulating the OpenAI API.
+- Outline technical design for modular mock server helpers, data generators, and test macros to enable isolated, controllable, and fast tests.
+- Propose step-by-step implementation phases, including infrastructure setup, test refactoring, advanced scenarios, performance, and stability testing.
+- Specify required extensions to test configuration and mock helpers for error handling, delayed responses, and parallelism.
+- Include detailed checklists for must-have and optional improvements, ensuring test isolation, resource cleanup, and backward compatibility.
+- Quantify expected benefits such as test speedup, cost elimination, and improved reliability, with qualitative gains for developer experience and CI/CD stability.
+- Address risk assessment and mitigation strategies, and define clear completion criteria for the migration to mock-based testing.
+- Suggest future directions for expanding the mock framework to other AI providers and automated performance/error testing.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a2eb363</div>
-                                        <div class="message">docs(prompts): standardize tool names and add Rustdoc rewrite guides
+                                        <div class="sha">#024aa54</div>
+                                        <div class="message">fix(matcher): support cache reuse in copy mode for match command
 
-- Update the prompt to use a new set of tool names and formats, replacing the old ones with updated tool identifiers in the header.
-- Update the tool list in the prompt to use a new set of standardized tool names and formats.
-- Add a new prompt for guiding an agent to rewrite Rust documentation comments in English according to specified guidelines, including detecting non-English comments, searching for Chinese characters, and adhering to documentation standards.
-- Add a new prompt file to guide the creation of comprehensive work reports for the SubX project, specifying requirements and instructions in Chinese.
+Updates core matcher cache and engine to properly reuse cache entries when using the copy mode in the match command. Adds tests to cover cache reuse and copy behavior, and includes the work report for bug fix 16.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7a7a525</div>
-                                        <div class="message">test(sync): add synchronization and parallel processing tests and job report
+                                        <div class="sha">#9f5fa32</div>
+                                        <div class="message">docs: add bug fix plan for match command cache and copy mode issues
 
-Add tests for synchronization engine, dialogue detector, and energy analyzer in Backlog #19.3, along with sync_helpers utility and corresponding job report.
+This comprehensive bug fix plan addresses two critical issues in the match command:
+
+1. Cache reuse ignoring copy/move parameters - When using cached dry-run results,
+   the system incorrectly skips copy/move operations and only performs renaming.
+
+2. Copy mode incorrectly renaming source files - In copy mode, the original subtitle
+   files are being renamed instead of being preserved as expected.
+
+The plan includes detailed root cause analysis, specific code fixes for the cache
+reuse logic and copy operation flow, comprehensive testing strategy, and implementation
+timeline with risk mitigation measures.
+
+Key fixes:
+- Enhance cache reuse logic to recalculate relocation requirements
+- Implement separate copy-then-rename operation flow
+- Add comprehensive unit and integration tests
+- Establish clear acceptance criteria and delivery timeline
+
+This addresses user-reported issues with the match command's copy functionality
+and ensures reliable behavior across different execution modes.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -674,11 +297,27 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">microsoft/mcp-for-beginners</span>
+                                        Commented on
+                                        <span class="issue">#12234 Couldn't use copilot in vscode suddenly without any obvious reason</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by YuanShiKai524 in <span class="repo">microsoft/vscode-copilot-release</span></div>
+                                    <div class="comment">
+                                        The issue resolved
+                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                            <path fill="#FFCC4D" d="M36 18c0 9.941-8.059 18-18 18-9.94 0-18-8.059-18-18C0 8.06 8.06 0 18 0c9.941 0 18 8.06 18 18"/>
+                                            <path fill="#664500" d="M18 22c-3.623 0-6.027-.422-9-1-.679-.131-2 0-2 2 0 4 4.595 9 11 9 6.404 0 11-5 11-9 0-2-1.321-2.132-2-2-2.973.578-5.377 1-9 1z"/>
+                                            <path fill="#FFF" d="M9 23s3 1 9 1 9-1 9-1-2 4-9 4-9-4-9-4z"/>
+                                            <path fill="#664500" d="M6.001 20c-.304 0-.604-.138-.801-.4-.332-.441-.242-1.068.2-1.399.143-.107 2.951-2.183 6.856-2.933C9.781 14.027 7.034 14 6.999 14c-.552-.002-.999-.45-.998-1.002 0-.551.447-.998.999-.998.221 0 5.452.038 8.707 3.293.286.286.372.716.217 1.09-.155.374-.52.617-.924.617-4.613 0-8.363 2.772-8.4 2.8-.18.135-.391.2-.599.2zm23.998-.001c-.208 0-.418-.064-.598-.198C29.363 19.772 25.59 17 21 17c-.404 0-.77-.243-.924-.617-.155-.374-.069-.804.217-1.09C23.549 12.038 28.779 12 29 12c.552 0 .998.447.999.998.001.552-.446 1-.997 1.002-.036 0-2.783.027-5.258 1.268 3.905.75 6.713 2.825 6.855 2.933.441.331.531.956.201 1.398-.196.261-.496.4-.801.4z"/>
+                                        </svg>
+                                        It appears to be a temporary problem.
+                                        <code class="language-multiline" xml:space="preserve">2025-06-12 15:46:55.631 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-06-12 15:46:55.631 [info] Successfully registered GitHub PR title and description provider.
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
                                     </div>
                                 </div>
                             </section>
@@ -687,11 +326,145 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">bheisler/criterion.rs</span>
+                                        Commented on
+                                        <span class="issue">#12234 Couldn't use copilot in vscode suddenly without any obvious reason</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by YuanShiKai524 in <span class="repo">microsoft/vscode-copilot-release</span></div>
+                                    <div class="comment">Same here, this is the extension output.
+2025-06-12 15:35:59.240 [info] Can't use the Electron fetcher in this environment.
+2025-06-12 15:35:59.240 [info] Using the Node fetch fetcher.
+2025-06-12 15:35:59.240 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-06-12 15:35:59.240 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-06-12 15:35:59.240 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-06-12 15:35:59.240 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-06-12 15:35:59.571 [info] Logged in as jim60105
+2025-06-12 15:36:02.200 [info] Got Copilot token for jim60105
+2025-06-12 15:36:02.204 [info] activationBlocker from 'languageModelAccess' took for 2862ms
+2025-06-12 15:36:02.431 [info] copilot token chat_enabled: true, sku: free_educational
+2025-06-12 15:36:02.442 [info] Registering default platform agent...
+2025-06-12 15:36:02.443 [info] activationBlocker from 'conversationFeature' took for 3103ms
+2025-06-12 15:36:02.520 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-06-12 15:36:02.520 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-06-12 15:36:02.520 [info] Successfully registered GitHub PR title and description provider.
+2025-06-12 15:36:02.520 [info] Successfully registered GitHub PR reviewer comments provider.
+2025-06-12 15:36:02.751 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-12 15:36:12.855 [error] TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at processImmediate (node:internal/timers:453:9)
+    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
+    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
+    at HA.getAllChatModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:1943)
+    at rV.getAllChatEndpoints (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:12578)
+    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:892)
+    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
+  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
+      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
+      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
+      at processImmediate (node:internal/timers:485:21): Failed to fetch models (a3382930-d602-4836-b6ad-c8245cb1f826)
+2025-06-12 15:36:12.858 [error] TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
+    at kO._doRefreshRemoteAgents (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:829:9274)
+  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
+      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
+      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
+      at processImmediate (node:internal/timers:485:21): Failed to load remote copilot agents
+2025-06-12 15:36:23.502 [error] TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
+    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
+    at HA.getChatModelFromFamily (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:2720)
+    at rV.getChatEndpoint (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:11341)
+    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:1050)
+    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
+  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
+      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
+      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
+      at processImmediate (node:internal/timers:485:21): Failed to fetch models (3c277463-0316-4a29-aab2-07b6e917b4cc)
+2025-06-12 15:36:23.503 [error] TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
+    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
+    at HA.getChatModelFromFamily (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:2720)
+    at rV.getChatEndpoint (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:11341)
+    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:1050)
+    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
+  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
+      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
+      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
+      at processImmediate (node:internal/timers:485:21): [LanguageModelAccess] FAILED to update language models
+2025-06-12 15:36:34.277 [error] TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
+    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
+    at HA.getAllChatModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:1943)
+    at rV.getAllChatEndpoints (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:12578)
+    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:892)
+    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
+  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
+      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
+      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
+      at processImmediate (node:internal/timers:485:21): Failed to fetch models (64d1be48-ec6e-4a11-b5f1-e6dc351236ed)
+2025-06-12 15:36:44.957 [error] TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
+    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
+    at HA.getChatModelFromFamily (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:2720)
+    at rV.getChatEndpoint (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:11341)
+    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:1050)
+    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
+  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
+      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
+      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
+      at processImmediate (node:internal/timers:485:21): Failed to fetch models (4f21e8e6-fef7-4e4f-b104-bb92f4cc5017)
+2025-06-12 15:36:44.957 [error] TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
+    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
+    at HA.getChatModelFromFamily (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:2720)
+    at rV.getChatEndpoint (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:11341)
+    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:1050)
+    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
+  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
+      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
+      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
+      at processImmediate (node:internal/timers:485:21): [LanguageModelAccess] FAILED to update language models</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#44411fc</div>
+                                        <div class="message">chore(submodule): update external copilot prompt version
+
+- Update the submodule to a new commit version.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -704,12 +477,74 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    16 Languages
+                    29 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
+                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
+                    <mask id="languages-bar">
+                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
+                    </mask>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="105.22208489747369" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="105.22208489747369" y="0" width="102.68929376234138" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="207.91137865981509" y="0" width="67.58000921550646" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="275.4913878753216" y="0" width="53.732687134162774" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="329.22407500948435" y="0" width="49.419781506841616" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="378.64385651632597" y="0" width="40.857193972439134" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="419.50105048876515" y="0" width="23.32836514060026" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="442.8294156293654" y="0" width="17.17058437063467" height="8" fill="#89e051"/>
+                </svg>
                 <div class="field center horizontal-wrap fill-width">
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C#
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Rust
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Shell
+                    </div>
                 </div>
             </section>
         </div>
