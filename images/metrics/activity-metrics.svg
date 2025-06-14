@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="766" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="530" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,221 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5cb5e41</div>
+                                        <div class="message">bump: release version 0.5.0
+
+This release introduces significant improvements including:
+
+### Major Features
+- Wiremock integration testing framework for comprehensive mock testing
+- Copy/move-to-video-folder functionality for match command
+- ConfigService architecture replacing legacy config system
+- Success/failure indicators for file operations
+
+### AI Model Updates
+- Default AI model upgraded to gpt-4.1-mini for better performance
+
+### Bug Fixes
+- Critical copy mode logic error preserving source files
+- Cache reuse mechanism supporting copy/move parameters
+- Test isolation improvements with proper mutex handling
+
+### Developer Experience
+- Complete English documentation conversion
+- Enhanced testing framework with 77.71% code coverage
+- All quality checks passing (compilation, formatting, clippy, docs)
+
+This represents a major milestone with comprehensive testing infrastructure
+and improved user experience while maintaining backward compatibility.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#369784f</div>
+                                        <div class="message">fix(config): correct help hint and add TODO for config set
+
+- Add a TODO reminder to implement setting configuration values through the ConfigService in the ConfigAction::Set branch.
+- Update the configuration error hint to reference the correct CLI command by changing `subx config --help` to `subx-cli config --help`.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.5.0</span>
+                                        in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#28d9cd7</div>
+                                        <div class="message">fix(config): correct help hint and add TODO for config set
+
+- Add a TODO reminder to implement setting configuration values through the ConfigService in the ConfigAction::Set branch.
+- Update the configuration error hint to reference the correct CLI command by changing `subx config --help` to `subx-cli config --help`.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#232a1c5</div>
+                                        <div class="message">docs: refine project description and standardize docs
+
+- Refine the project description in Cargo.toml and both README files to “AI subtitle processing CLI tool, which automatically matches, renames, and converts subtitle files.”
+- Remove the “early development” Note section from English and Chinese READMEs.
+- Standardize feature list entries and icons for File Organization, Format Conversion, Batch/Bulk Processing, and Cache Management in both READMEs.
+- Update the heading for installation Method 3 in the Chinese README to “使用 Cargo 安裝” for consistency.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4e9a2f</div>
+                                        <div class="message">chore: upgrade default AI model to gpt-4.1-mini
+
+- Bump the default AI model to “gpt-4.1-mini” in README, config examples, and the `Default` implementation.
+- Update all test cases, mocks, CLI/config commands, and code examples to use “gpt-4.1” or “gpt-4.1-mini” instead of “gpt-4” or “gpt-4o-mini.”
+- Refresh the hardcoded `ai_model_used` field in cache metadata to reflect the new “gpt-4.1-mini” model.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28d57d8</div>
+                                        <div class="message">docs: translate Cargo.toml comments to English
+
+- Translate package description from Chinese to English
+- Convert all dependency section comments from Chinese to English
+- Improve code maintainability for international contributors
+- Maintain consistent English documentation across the project
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#55142d9</div>
+                                        <div class="message">chore: increase docs check timeout to prevent CI failures
+
+- Increase the timeout for running scripts/check_docs.sh from 20 to 30 seconds in both Copilot instructions and AGENTS documentation.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27f6df9</div>
+                                        <div class="message">docs: convert comments to English and document paths
+
+- Convert all Chinese inline and documentation comments to English across TestConfigBuilder, CacheData, and matcher engine tests for clarity.
+- Add missing doc comments describing source and target PathBuf fields in CopyToVideoFolder and MoveToVideoFolder operations.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cef00be</div>
+                                        <div class="message">test: convert tests to English
+
+- Convert all test comments and docstrings from Chinese to English for consistency
+- Replace Chinese literals in tests (e.g. “預覽模式”, “檔案”, “編碼”, “信心值”) with English equivalents (“preview mode”, “File”, “Encoding”, “Confidence”)
+- Translate and standardize comments in common test utilities (file managers, mock generators, integration macros, validators) to English
+- Update TODOs, debug messages, and assertion descriptions to English without changing test logic
+- Ensure all new English messages and patterns align across CLI, audio, config, encoding, match, parallel, sync, and wiremock tests
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1399536</div>
+                                        <div class="message">test(config): add ConfigService integration tests and finalize migration
+
+- Add integration tests for get_config_value in tests/config_value_integration_tests.rs
+- Add integration tests for file I/O and reset_to_defaults in tests/config_service_file_integration_tests.rs
+- Refactor ProductionConfigService::get_config_file_path to use EnvironmentProvider for SUBX_CONFIG_PATH injection
+- Add phase 4-5 job report file
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#001d3c1</div>
+                                        <div class="message">refactor(config): update config_command to use ConfigService
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a7453a</div>
+                                        <div class="message">feat: replace legacy config with unified ConfigService
+
+- Add a new codex job report detailing the complete removal of the legacy config system and migration to the new ConfigService.
+- Expand the backlog plan with a clear five-milestone roadmap for migrating from `config_legacy.rs` to dependency-injected ConfigService.
+- Delete the entire `config_legacy.rs` module and inline all configuration type definitions (Config, AIConfig, FormatsConfig, SyncConfig, GeneralConfig, ParallelConfig, OverflowStrategy) in `src/config/mod.rs` with updated documentation.
+- Enhance the ConfigService trait by adding methods for save_config, save_config_to_file, get_config_file_path, get_config_value, and reset_to_defaults, and implement these in both ProductionConfigService and TestConfigService.
+- Refactor the config_command logic to remove manual Config struct manipulation—Set now returns an unsupported-operation error, while Get, List, and Reset use ConfigService methods.
+- Update validator logic in `validator.rs` to use `as_deref` instead of unwrapping Option for safer API key checks.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b15cea3</div>
+                                        <div class="message">docs: add comprehensive config legacy migration completion plan
+
+- Create detailed migration plan for complete removal of config_legacy.rs
+- Define 7-phase migration strategy with ConfigService integration
+- Include comprehensive code examples with Rustdoc-compliant documentation
+- Specify acceptance criteria and quality validation steps
+- Estimate 4-day timeline with risk mitigation strategies
+- Plan unified config type definitions in mod.rs structure
+- Design enhanced ConfigService trait with all legacy functionality</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -40,435 +255,6 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">jim60105/subx-cli</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#965d368</div>
-                                        <div class="message">fix: remove clippy::await_holding_lock warnings in tests
-
-Replace std::sync::Mutex with tokio::sync::Mutex in test isolation
-mechanism to resolve clippy warnings. This change improves async
-compatibility and follows Rust async best practices while maintaining
-test isolation functionality.
-
-Changes:
-- Replace std::sync::Mutex with tokio::sync::Mutex in TEST_MUTEX
-- Remove #[allow(clippy::await_holding_lock)] annotations
-- Update lock usage from .unwrap() to .await for async compatibility
-- Preserve test isolation to prevent environment variable conflicts
-
-Files modified:
-- tests/match_cache_reuse_tests.rs: Updated mutex implementation
-- .github/codex/115-clippy-await-holding-lock-warning-fix-report.md: Added work report
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52b6111</div>
-                                        <div class="message">docs: add code review report for Backlog #27 Wiremock integration testing framework
-
-Comprehensive code review evaluation of the Wiremock integration testing framework implementation (Backlog #27). The review covers:
-
-- Complete functional requirements fulfillment
-- High-quality code implementation (8.3/10 overall score)
-- Excellent architectural design with proper separation of concerns
-- Comprehensive test coverage (77.62%, exceeding 75% threshold)
-- Successful elimination of external OpenAI API dependencies
-- Significant performance improvements in test execution speed
-- Proper bug fixes and stability enhancements
-
-Key achievements:
-- Zero external service dependencies and API costs
-- Complete test isolation with mutex-based serialization
-- Support for multiple test scenarios (success, error, delayed responses)
-- Modular design with MockOpenAITestHelper and MatchResponseGenerator
-- Performance testing with load scenarios and memory stability validation
-
-Recommendation: Approve for merge and adopt as standard integration testing framework for SubX project.
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#993c1fa</div>
-                                        <div class="message">fix(cache): resolve Wiremock integration test cache reuse issues
-
-- Fix cache reuse test failures in both copy and move modes
-- Implement proper test isolation using static mutex for environment variables
-- Ensure each test uses dedicated cache paths to prevent interference
-- Modify get_cache_file_path to support XDG_CONFIG_HOME for testing
-- Add debug logging for cache validation (later cleaned up)
-- Resolve file ID mismatch issues between mock expectations and actual IDs
-- Clean up compilation warnings with #[allow(dead_code)] annotations
-
-The cache logic now correctly preserves operations across multiple calls,
-reducing unnecessary AI API requests when directory snapshots and
-configuration hashes match. Tests now pass consistently in both isolated
-and parallel execution scenarios.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96bd5d0</div>
-                                        <div class="message">docs: add comprehensive code review report for Backlog #27 Wiremock integration testing framework
-
-This report provides a detailed technical assessment of the Wiremock integration
-testing framework implementation across phases 1-5, including:
-
-- Requirements compliance evaluation (85% complete)
-- Code quality analysis with identified issues
-- Critical bug identification in cache testing logic
-- Architecture design assessment
-- Performance and stability evaluation
-- Maintenance and security analysis
-- Actionable improvement recommendations
-
-Key findings:
-- Core framework architecture is excellent with proper test isolation
-- Critical cache test failure due to file ID mismatch needs immediate fix
-- 15 compilation warnings require cleanup
-- Some planned refactoring work remains incomplete
-
-Overall score: 83/100 - Good implementation requiring key issue resolution.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1573a3</div>
-                                        <div class="message">feat(test): implement phase4 and phase5 for Wiremock integration testing framework (#27)
-
-- Add performance and stability integration tests (high load &amp; memory stability)
-- Extend MockOpenAITestHelper with delayed response support and define response structs
-- Introduce test macros for integration tests to simplify setup and teardown
-- Update common mod to export macros and helper structs
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee56bd5</div>
-                                        <div class="message">test: enable parallel test config and robust AI error handling
-
-- Add with_parallel_settings method to TestConfigBuilder for configuring parallel test execution
-- Add setup_error_response method to MockOpenAITestHelper to simulate AI service error responses
-- Add integration tests for parallel match operations and confidence threshold filtering
-- Add integration tests for AI service error handling (401, 429, 500 responses)
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7333280</div>
-                                        <div class="message">chore: add Backlog #27 phase2 Wiremock integration testing report and refactor tests
-
-- Add Backlog #27 Wiremock integration testing framework phase 2 report
-- Refactor integration tests (match cache reuse, copy behavior, copy/move, parallel processing) to use Wiremock mock server and ensure cache isolation
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#643dfef</div>
-                                        <div class="message">feat(test): add Wiremock integration testing framework (phase 1)
-
-- Added initial Wiremock basic integration test in tests/wiremock_basic_integration.rs
-- Introduced common test utilities: mock_openai_helper, test_data_generators, command_helpers
-- Updated tests/common/mod.rs
-- Extended src/config/builder.rs to support Wiremock configuration
-- Added work report .github/codex/108-backlog-27-wiremock-integration-testing-framework-phase1-report.md
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f87bd9</div>
-                                        <div class="message">fix: correct copy mode implementation in match command
-
-Fix critical logic error in copy mode where original files were
-incorrectly renamed, violating copy operation semantics.
-
-Changes:
-- Replace execute_copy_then_rename with execute_copy_operation
-- Add execute_local_copy for same-directory copy operations
-- Ensure original files remain unchanged in copy mode
-- Update test expectations to match correct copy semantics
-
-Copy mode now properly:
-- Creates copies at target locations without modifying originals
-- Preserves original file names and locations
-- Only copies content, never renames source files
-
-Resolves the core issue in Bug #16 where copy mode violated
-its semantic contract by modifying source files.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b781f4e</div>
-                                        <div class="message">docs: add code review report for Bug #16 fix
-
-Add comprehensive code review report analyzing the implementation
-of Bug #16 fix for match command cache reuse and copy mode issues.
-
-Key findings:
-- Cache reuse mechanism correctly fixed
-- Copy mode logic contains critical error that violates copy semantics
-- Tests are ignored and cannot validate the fix
-- Immediate attention needed for copy mode implementation
-
-The review identifies that while cache reuse was properly implemented,
-the copy mode still incorrectly renames original files, contradicting
-the copy operation semantics.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35f9acc</div>
-                                        <div class="message">docs: enhance wiremock integration testing framework plan
-
-- Add comprehensive analysis of all existing match-related integration tests
-- Include modification instructions for 4 test files that currently depend on real OpenAI services
-- Categorize test files into those requiring refactoring vs those already using mocks
-- Update implementation checklist to reflect actual codebase state
-- Provide detailed step-by-step refactoring instructions for each affected test file
-- Clarify that existing tests need modification, not creation of new test files
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abacf44</div>
-                                        <div class="message">docs: accelerate API testing with modular Wiremock integration
-
-- Add a comprehensive plan to implement a Wiremock-based integration testing framework for simulating the OpenAI API.
-- Outline technical design for modular mock server helpers, data generators, and test macros to enable isolated, controllable, and fast tests.
-- Propose step-by-step implementation phases, including infrastructure setup, test refactoring, advanced scenarios, performance, and stability testing.
-- Specify required extensions to test configuration and mock helpers for error handling, delayed responses, and parallelism.
-- Include detailed checklists for must-have and optional improvements, ensuring test isolation, resource cleanup, and backward compatibility.
-- Quantify expected benefits such as test speedup, cost elimination, and improved reliability, with qualitative gains for developer experience and CI/CD stability.
-- Address risk assessment and mitigation strategies, and define clear completion criteria for the migration to mock-based testing.
-- Suggest future directions for expanding the mock framework to other AI providers and automated performance/error testing.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#024aa54</div>
-                                        <div class="message">fix(matcher): support cache reuse in copy mode for match command
-
-Updates core matcher cache and engine to properly reuse cache entries when using the copy mode in the match command. Adds tests to cover cache reuse and copy behavior, and includes the work report for bug fix 16.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f5fa32</div>
-                                        <div class="message">docs: add bug fix plan for match command cache and copy mode issues
-
-This comprehensive bug fix plan addresses two critical issues in the match command:
-
-1. Cache reuse ignoring copy/move parameters - When using cached dry-run results,
-   the system incorrectly skips copy/move operations and only performs renaming.
-
-2. Copy mode incorrectly renaming source files - In copy mode, the original subtitle
-   files are being renamed instead of being preserved as expected.
-
-The plan includes detailed root cause analysis, specific code fixes for the cache
-reuse logic and copy operation flow, comprehensive testing strategy, and implementation
-timeline with risk mitigation measures.
-
-Key fixes:
-- Enhance cache reuse logic to recalculate relocation requirements
-- Implement separate copy-then-rename operation flow
-- Add comprehensive unit and integration tests
-- Establish clear acceptance criteria and delivery timeline
-
-This addresses user-reported issues with the match command's copy functionality
-and ensures reliable behavior across different execution modes.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#12234 Couldn't use copilot in vscode suddenly without any obvious reason</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by YuanShiKai524 in <span class="repo">microsoft/vscode-copilot-release</span></div>
-                                    <div class="comment">
-                                        The issue resolved
-                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                            <path fill="#FFCC4D" d="M36 18c0 9.941-8.059 18-18 18-9.94 0-18-8.059-18-18C0 8.06 8.06 0 18 0c9.941 0 18 8.06 18 18"/>
-                                            <path fill="#664500" d="M18 22c-3.623 0-6.027-.422-9-1-.679-.131-2 0-2 2 0 4 4.595 9 11 9 6.404 0 11-5 11-9 0-2-1.321-2.132-2-2-2.973.578-5.377 1-9 1z"/>
-                                            <path fill="#FFF" d="M9 23s3 1 9 1 9-1 9-1-2 4-9 4-9-4-9-4z"/>
-                                            <path fill="#664500" d="M6.001 20c-.304 0-.604-.138-.801-.4-.332-.441-.242-1.068.2-1.399.143-.107 2.951-2.183 6.856-2.933C9.781 14.027 7.034 14 6.999 14c-.552-.002-.999-.45-.998-1.002 0-.551.447-.998.999-.998.221 0 5.452.038 8.707 3.293.286.286.372.716.217 1.09-.155.374-.52.617-.924.617-4.613 0-8.363 2.772-8.4 2.8-.18.135-.391.2-.599.2zm23.998-.001c-.208 0-.418-.064-.598-.198C29.363 19.772 25.59 17 21 17c-.404 0-.77-.243-.924-.617-.155-.374-.069-.804.217-1.09C23.549 12.038 28.779 12 29 12c.552 0 .998.447.999.998.001.552-.446 1-.997 1.002-.036 0-2.783.027-5.258 1.268 3.905.75 6.713 2.825 6.855 2.933.441.331.531.956.201 1.398-.196.261-.496.4-.801.4z"/>
-                                        </svg>
-                                        It appears to be a temporary problem.
-                                        <code class="language-multiline" xml:space="preserve">2025-06-12 15:46:55.631 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
-2025-06-12 15:46:55.631 [info] Successfully registered GitHub PR title and description provider.
-<span class="token trimmed">(3 more lines were trimmed)</span></code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#12234 Couldn't use copilot in vscode suddenly without any obvious reason</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by YuanShiKai524 in <span class="repo">microsoft/vscode-copilot-release</span></div>
-                                    <div class="comment">Same here, this is the extension output.
-2025-06-12 15:35:59.240 [info] Can't use the Electron fetcher in this environment.
-2025-06-12 15:35:59.240 [info] Using the Node fetch fetcher.
-2025-06-12 15:35:59.240 [info] [GitExtensionServiceImpl] Initializing Git extension service.
-2025-06-12 15:35:59.240 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
-2025-06-12 15:35:59.240 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
-2025-06-12 15:35:59.240 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
-2025-06-12 15:35:59.571 [info] Logged in as jim60105
-2025-06-12 15:36:02.200 [info] Got Copilot token for jim60105
-2025-06-12 15:36:02.204 [info] activationBlocker from 'languageModelAccess' took for 2862ms
-2025-06-12 15:36:02.431 [info] copilot token chat_enabled: true, sku: free_educational
-2025-06-12 15:36:02.442 [info] Registering default platform agent...
-2025-06-12 15:36:02.443 [info] activationBlocker from 'conversationFeature' took for 3103ms
-2025-06-12 15:36:02.520 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
-2025-06-12 15:36:02.520 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
-2025-06-12 15:36:02.520 [info] Successfully registered GitHub PR title and description provider.
-2025-06-12 15:36:02.520 [info] Successfully registered GitHub PR reviewer comments provider.
-2025-06-12 15:36:02.751 [info] BYOK: Copilot Chat known models list fetched successfully.
-2025-06-12 15:36:12.855 [error] TypeError: fetch failed
-    at node:internal/deps/undici/undici:13510:13
-    at processTicksAndRejections (node:internal/process/task_queues:105:5)
-    at runNextTicks (node:internal/process/task_queues:69:3)
-    at processImmediate (node:internal/timers:453:9)
-    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
-    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
-    at HA.getAllChatModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:1943)
-    at rV.getAllChatEndpoints (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:12578)
-    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:892)
-    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
-  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
-      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
-      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
-      at processImmediate (node:internal/timers:485:21): Failed to fetch models (a3382930-d602-4836-b6ad-c8245cb1f826)
-2025-06-12 15:36:12.858 [error] TypeError: fetch failed
-    at node:internal/deps/undici/undici:13510:13
-    at processTicksAndRejections (node:internal/process/task_queues:105:5)
-    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
-    at kO._doRefreshRemoteAgents (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:829:9274)
-  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
-      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
-      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
-      at processImmediate (node:internal/timers:485:21): Failed to load remote copilot agents
-2025-06-12 15:36:23.502 [error] TypeError: fetch failed
-    at node:internal/deps/undici/undici:13510:13
-    at processTicksAndRejections (node:internal/process/task_queues:105:5)
-    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
-    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
-    at HA.getChatModelFromFamily (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:2720)
-    at rV.getChatEndpoint (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:11341)
-    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:1050)
-    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
-  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
-      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
-      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
-      at processImmediate (node:internal/timers:485:21): Failed to fetch models (3c277463-0316-4a29-aab2-07b6e917b4cc)
-2025-06-12 15:36:23.503 [error] TypeError: fetch failed
-    at node:internal/deps/undici/undici:13510:13
-    at processTicksAndRejections (node:internal/process/task_queues:105:5)
-    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
-    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
-    at HA.getChatModelFromFamily (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:2720)
-    at rV.getChatEndpoint (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:11341)
-    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:1050)
-    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
-  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
-      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
-      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
-      at processImmediate (node:internal/timers:485:21): [LanguageModelAccess] FAILED to update language models
-2025-06-12 15:36:34.277 [error] TypeError: fetch failed
-    at node:internal/deps/undici/undici:13510:13
-    at processTicksAndRejections (node:internal/process/task_queues:105:5)
-    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
-    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
-    at HA.getAllChatModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:1943)
-    at rV.getAllChatEndpoints (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:12578)
-    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:892)
-    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
-  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
-      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
-      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
-      at processImmediate (node:internal/timers:485:21): Failed to fetch models (64d1be48-ec6e-4a11-b5f1-e6dc351236ed)
-2025-06-12 15:36:44.957 [error] TypeError: fetch failed
-    at node:internal/deps/undici/undici:13510:13
-    at processTicksAndRejections (node:internal/process/task_queues:105:5)
-    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
-    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
-    at HA.getChatModelFromFamily (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:2720)
-    at rV.getChatEndpoint (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:11341)
-    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:1050)
-    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
-  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
-      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
-      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
-      at processImmediate (node:internal/timers:485:21): Failed to fetch models (4f21e8e6-fef7-4e4f-b104-bb92f4cc5017)
-2025-06-12 15:36:44.957 [error] TypeError: fetch failed
-    at node:internal/deps/undici/undici:13510:13
-    at processTicksAndRejections (node:internal/process/task_queues:105:5)
-    at aN._fetch (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:1039:7812)
-    at HA._fetchModels (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:4182)
-    at HA.getChatModelFromFamily (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:2720)
-    at rV.getChatEndpoint (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:2144:11341)
-    at Object.n [as task] (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:482:1050)
-    at $p._processQueue (/home/vscode/.vscode-server-insiders/extensions/github.copilot-chat-0.28.2025061202/dist/extension.js:475:24577)
-  ConnectTimeoutError: Connect Timeout Error (attempted address: api.individual.githubcopilot.com:443, timeout: 10000ms)
-      at onConnectTimeout (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:912:19)
-      at Immediate._onImmediate (/vscode/vscode-server-insiders/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1-insider/node_modules/undici/lib/core/util.js:881:11)
-      at processImmediate (node:internal/timers:485:21): [LanguageModelAccess] FAILED to update language models</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#44411fc</div>
-                                        <div class="message">chore(submodule): update external copilot prompt version
-
-- Update the submodule to a new commit version.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -477,74 +263,12 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    29 Languages
+                    16 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
-                    <mask id="languages-bar">
-                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
-                    </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="105.22208489747369" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="105.22208489747369" y="0" width="102.68929376234138" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="207.91137865981509" y="0" width="67.58000921550646" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="275.4913878753216" y="0" width="53.732687134162774" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="329.22407500948435" y="0" width="49.419781506841616" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="378.64385651632597" y="0" width="40.857193972439134" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="419.50105048876515" y="0" width="23.32836514060026" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="442.8294156293654" y="0" width="17.17058437063467" height="8" fill="#89e051"/>
-                </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Rust
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
-                    </div>
                 </div>
             </section>
         </div>
