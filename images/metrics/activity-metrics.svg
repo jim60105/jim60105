@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="467" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="502" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.audit.text{min-width:42px}.audit svg{margin:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,228 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#96c1878</div>
+                                        <div class="message">chore: bump version to 0.10.0
+
+- Add configurable HTTP request timeout for AI services
+- Fix critical Bug 21 match cache copy mode issue
+- Simplify CLI help messages and documentation
+- Add comprehensive duplicate rename conflict tests
+- Improve README consistency and clarity
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.10.0</span>
+                                        in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d729eb9</div>
+                                        <div class="message">docs: rewrite Rust documentation comments in tests directory to English
+
+- Convert all Chinese documentation comments to English in tests/ directory
+- Maintain consistency with Rust documentation standards
+- Keep test case string literals in original language as per guidelines
+- Update module-level documentation for better clarity
+- Ensure all function and test comments follow English conventions
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">jim60105/subx-cli</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#45ae487</div>
+                                        <div class="message">docs: streamline README examples and clarify batch mode
+
+- Remove the example setting for `sync.default_method auto` from both English and Chinese READMEs.
+- Simplify all example comments by stripping out “traditional way” qualifiers across match, convert, sync, and detect-encoding sections.
+- Clarify the batch mode comment to read “processes entire directories” instead of the old phrasing.
+- Apply the same comment updates in README.zh-TW.md (switch “批量” to “批次”, add spacing around slashes, and tweak the copy/move descriptions).
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8a9927</div>
+                                        <div class="message">docs: align Chinese README with English version
+
+- Add comprehensive -i parameter usage examples for all commands
+- Add Advanced Workflow section with multi-input scenarios
+- Update sync command options and audio format support details
+- Add detect-encoding command usage examples
+- Enhance configuration options with latest settings
+- Update troubleshooting section with format conversion and performance tuning
+- Improve file organization scenarios with multi-input examples
+- Align all command references and configuration descriptions
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99c539c</div>
+                                        <div class="message">test: add comprehensive tests for duplicate rename conflict resolution
+
+- Add test_multiple_files_rename_to_same_target_with_auto_rename: Verifies that when AI returns multiple matches that would result in the same target filename, the AutoRename conflict resolution correctly applies numeric suffixes sequentially
+- Add test_conflict_resolution_with_existing_target_files: Tests sequential conflict resolution when target files already exist, ensuring new files get higher numeric suffixes
+- Add test_move_mode_with_duplicate_rename_conflicts: Tests move mode with conflict resolution to ensure original files are properly moved with conflict-resolved names
+
+These tests verify the behavior described in the user's question about how SubX handles scenarios where the AI answer list contains multiple files that would rename to the same target name. The tests confirm that:
+1. Operations are processed sequentially to prevent direct conflicts
+2. AutoRename strategy automatically resolves conflicts with numeric suffixes (.1, .2, etc.)
+3. The system correctly handles both copy and move modes
+4. Existing target files are preserved while new files get incremented suffixes
+
+Follows testing guidelines with:
+- Complete test isolation using TestConfigService and TempDir
+- Dependency injection pattern throughout
+- Mock AI responses using wiremock framework
+- Comprehensive verification of file operations and content preservation
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d470af6</div>
+                                        <div class="message">fix: add missing request_timeout_seconds support in TestConfigService
+
+- Add request_timeout_seconds field support in TestConfigService get_config_value method
+- Add request_timeout_seconds field support in TestConfigService validate_and_set_value method
+- Update ai_request_timeout_tests.rs to use correct error message format
+- All tests now pass successfully
+
+The TestConfigService was missing support for the ai.request_timeout_seconds configuration
+field that was already implemented in ProductionConfigService. This fix ensures consistent
+behavior between test and production configuration services.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#086a349</div>
+                                        <div class="message">fix: resolve Bug 21 - match cache copy mode incorrect target directory
+
+When executing  followed by
+(without dry-run), subtitle files were incorrectly copied to the subtitle
+directory instead of the video file directory due to cache not recalculating
+relocation information during cache loading.
+
+Changes:
+- Fix check_file_list_cache() to recalculate requires_relocation and
+  relocation_target_path based on current relocation_mode
+- Add comprehensive test suite for Bug 21 verification
+- Ensure consistency between dry-run and actual execution behavior
+
+The fix reuses existing calculation logic from match_file_list() to maintain
+consistency and reliability. All existing tests pass, confirming no regression
+in functionality.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#725df06</div>
+                                        <div class="message">feat: add bug plan for match command cache copy mode target directory issue
+
+- Identified root cause: cache loading does not recalculate relocation_target_path and requires_relocation
+- Current cache stores complete file paths and original_relocation_mode
+- Solution: recalculate relocation info when loading from cache using current relocation_mode
+- Simplified approach: only modify check_file_list_cache function
+- Estimated completion: 3-4 working days
+- Risk level: low to medium
+
+This bug causes subtitle files to be copied to subtitle directory instead of video directory
+when using cache from dry-run execution followed by actual execution in copy mode.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b52b334</div>
+                                        <div class="message">feat: add configurable HTTP request timeout for AI services
+
+- Add request_timeout_seconds field to AIConfig with default 120s
+- Support timeout configuration via config service get/set methods
+- Enhance OpenAI client retry mechanism with detailed error logging
+- Provide specific guidance for timeout and connection errors
+- Add configuration validation (10-600 seconds range)
+- Update config documentation and usage analysis
+
+This resolves timeout issues reported with slow network connections
+where OpenAI Dashboard shows successful responses but client times out.
+Users can now configure longer timeouts via:
+- Config file: ai.request_timeout_seconds = 180
+- CLI: subx-cli config set ai.request_timeout_seconds 180
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47dc59c</div>
+                                        <div class="message">refactor(cli): simplify help messages and remove excessive documentation
+
+- Simplified all CLI argument documentation comments to be concise
+- Removed verbose examples and detailed explanations from help text
+- Fixed missing documentation for struct fields (command, action)
+- Updated integration test to match new help message format
+- All help messages now display clean, essential information only
+
+The CLI help output is now much more readable and user-friendly while
+maintaining all necessary information for users to understand command usage.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -37,205 +259,6 @@ And the zip file provided above contains a white-black version. Does it fulfill 
                                             <br />
                                             https://twitcasting.tv/helpcenter.php?pid=-1
                                         </i>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">jim60105/subx-cli</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ff6dbc7</div>
-                                        <div class="message">chore: bump version to 0.9.0 and update changelog
-
-This release includes significant enhancements to configuration management,
-VAD CLI support, and comprehensive documentation improvements.
-
-Key highlights:
-- Full VAD configuration CLI support with get/set operations
-- Enhanced sync engine with max_offset_seconds enforcement
-- Cargo package size optimization (~15MB reduction)
-- Complete Chinese-to-English documentation translation
-- Critical configuration consistency fixes
-
-All 30 configuration items now have proper CLI support and validation.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b8a118</div>
-                                        <div class="message">docs: update configuration analysis and validate max_offset_seconds usage
-
-- Verify max_offset_seconds is actually used in sync engine for offset validation
-- Update call trees with accurate line numbers for all AI configuration items
-- Confirm configuration method support completeness (get/set consistency)
-- Update README.md sync command documentation to reflect current parameters
-- Fix error messages to English for consistent user interface
-- Update test assertions to match English error messages
-- All tests passing with proper validation of offset limits
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79061bb</div>
-                                        <div class="message">docs: translate Chinese documentation comments to English
-
-- Replace Chinese error messages in config validator with English equivalents
-- Update sync command error messages to use English
-- Translate Chinese comments in sync engine to English
-- Convert Chinese comments in CLI args to English
-- Preserve Chinese text in test data and language mappings as they are functional requirements
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a644c5</div>
-                                        <div class="message">feat: implement sync.max_offset_seconds enforcement in sync engine and CLI
-
-- Enforce sync.max_offset_seconds limits in both sync engine and CLI
-- Add validation for manual offset in sync command with detailed error messages
-- Update config validation for max_offset_seconds range (0.1-3600.0 seconds)
-- Remove legacy config key support from get/set config methods
-- Ensure get_config_value and set_config_value support identical key sets
-- Add comprehensive integration tests for offset validation
-- Support manual-only sync mode (subtitle without video file)
-- Fix config value consistency tests for float formatting
-
-This implementation ensures that both manual and VAD-based sync operations
-respect the configured maximum offset limits, improving reliability and
-preventing excessive time adjustments.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e901f8</div>
-                                        <div class="message">feat: expose and validate AI sync and VAD settings
-
-- Adjust VAD invalid sample-rate test to use 12345 and update validator to accept 22050Hz
-- Extend TestConfigService::get to expose new AI (max_sample_length, max_tokens, retry_attempts, retry_delay_ms), formats (preserve_styling, encoding_detection_confidence), sync (default_method and all vad fields), general (task_timeout_seconds, enable_progress_bar, worker_idle_timeout_seconds) and parallel (task_queue_size, enable_task_priorities, auto_balance_workers, overflow_strategy) settings
-- Add setter branches in TestConfigService for AI max_tokens, sync.default_method, and every sync.vad parameter with proper validation
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c5f3d42</div>
-                                        <div class="message">feat: backlog-36 cargo package size optimization via exclude settings
-
-Configured Cargo.toml package.exclude to exclude unnecessary files for crate size reduction, updated CHANGELOG and added job report.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dea5a9c</div>
-                                        <div class="message">feat: add backlog for cargo package size optimization
-
-Add detailed implementation plan for reducing published crate size by excluding unnecessary files including assets/, .github/, tests/, and other development-only files using Cargo.toml exclude configuration.
-
-This optimization will reduce package size by approximately 15MB, improving download times and reducing storage requirements for end users.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f5cfc2</div>
-                                        <div class="message">fix(config-cli): add VAD CLI support and align get/set configuration consistency
-
-- Expand get_config_value to support all VAD-related and missing config keys
-- Expand validate_and_set_value to add VAD settings and sync.default_method, remove deprecated keys
-- Add tests for CLI config consistency and VAD get/set/validation
-- Update documentation with VAD CLI examples and remove deprecated config notes
-
-Fixes #20
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f69e409</div>
-                                        <div class="message">docs: Add detailed bug plan for CLI config inconsistency and VAD support
-
-- Add comprehensive bug plan for missing VAD config CLI support
-- Document technical analysis and implementation strategy
-- Include testing and documentation requirements
-- Address CLI/config consistency gaps identified during audit
-
-Refs: Configuration audit and documentation update task
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60d26de</div>
-                                        <div class="message">docs: audit and update configuration usage documentation
-
-- Verified and updated line numbers for all configuration items
-- Added missing max_tokens configuration item to AI config documentation
-- Updated call trees and usage locations for accuracy
-- Identified critical configuration inconsistency issues:
-  * VAD configurations completely missing from config get/set commands
-  * 16 configuration items can be set but not retrieved via CLI
-- Updated configuration item count from 29 to 30 documented items
-- Cross-checked all production code usage excluding test-only references
-
-The documentation now provides accurate, up-to-date information about
-configuration usage throughout the codebase and highlights significant
-gaps in the configuration command interface.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v0.9.0</span>
-                                        in
-                                        <span class="repo">jim60105/subx-cli</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v0.8.0</span>
-                                        in
-                                        <span class="repo">jim60105/subx-cli</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v0.7.0</span>
-                                        in
-                                        <span class="repo">jim60105/subx-cli</span>
                                     </div>
                                 </div>
                             </section>
