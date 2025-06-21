@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="540" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="505" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,23 +19,128 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/voice_activity_detector</span>
+                                        Commented on
+                                        <span class="issue">#50 chore: update to Silero VAD V5 Model and ORT 2.0.0-rc.10</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>opened by jim60105 in <span class="repo">nkeenan38/voice_activity_detector</span></div>
+                                    <div class="comment">I initially picked up your commit =2.0.0-rc.9 (we actually needed it), and only upgraded to 2.0.0-rc.10 at the last minute.
+Reverting the last commit will bring us back to rc.9.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#50 chore: update to Silero VAD V5 Model and ORT 2.0.0-rc.10</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jim60105 in <span class="repo">nkeenan38/voice_activity_detector</span></div>
+                                    <div class="comment">
+                                        v1.16.3 (non RC) 2023/11/13
+                                        <br />
+                                        v2.0.0-rc.9 2024/11/22
+                                        <br />
+                                        v2.0.0-rc.10 2025/06/05
+According to the git logs, this project originally use version 2.0.0-alpha.4 (2023/12/28).
+Given this history, it seems unlikely that a stable v1 version can be reverted to.
+Regarding the comparison between v2.0.0-rc.9 and v2.0.0-rc.10, I believe there isn’t a significant difference from a project management standpoint, simply opt for the newer version.
+The breaking change in this PR is due to upgrading Silero VAD to version 5; the specific version of ORT used should not significantly affect users?
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">jim60105/civitai-shortcut</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/standalone-version</span></div>
                                     <div class="commit">
-                                        <div class="sha">#16256f5</div>
-                                        <div class="message">fix(vad): enforce valid chunk sizes for Silero V5 model
+                                        <div class="sha">#3043229</div>
+                                        <div class="message">feat: enforce report template and renumber bug fix
 
-- The validation for VoiceActivityDetectorConfig was updated to enforce specific chunk sizes for sample rates required by the Silero VAD V5 model, ensuring only supported configurations can be created.
+- Enhance the write-report prompt to enforce strict use of REPORT_TEMPLATE.md and require running commands (e.g. date -u) to populate fields like timestamps.
+- Rename and bump the bug-fix report from #17 to #19, updating its filename, title, and associated date/timestamp fields.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
+                                    <div class="commit">
+                                        <div class="sha">#37ebae4</div>
+                                        <div class="message">fix(util,setting): resolve circular import and startup bug
+
+- Remove global import between util.py and setting.py, use local import for all setting references in util.py
+- EXTENSIONS_NAME now defined in util.py, printD no longer depends on setting.py
+- All util.printD calls in setting.py use local import to avoid import order issues
+- All tests pass, main.py launches and exits cleanly
+
+See .github/reports/17-util-setting-circular-import-bugfix-report.md for details.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a61ddd5</div>
+                                        <div class="message">refactor: harmonize URLs, logging, and error handling
+
+- Add comprehensive debug logging with util.printD across API calls, UI event handlers, and settings initialization for better traceability
+- Introduce Url_* helper functions to centralize Civitai endpoint URLs
+- Standardize error handling by returning None instead of bare returns and remove unused imports
+- Refactor headers into a multiline dictionary and sprinkle debug prints throughout setting.py for compatibility detection, path setup, and configuration loading
+- Enhance util.printD to detect and avoid recursion during setting initialization via stack inspection
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4360d9a</div>
+                                        <div class="message">chore: add install.py to install requirements
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b603a8f</div>
+                                        <div class="message">test: expand dummy managers and enhance test coverage
+
+- Add a new test suite for EnvironmentDetector covering cache reset/force operations, mode checks, environment info for standalone and webui, marker detection via files, dirs, env vars, simulated modules.scripts integration, and error fall-through.
+- Introduce get and set alias shortcuts in DummyConfigManager and extend its tests to verify these methods alongside existing config operations.
+- Expand DummyPathManager with get_base_path, get_extension_path, ensure_directories, and get_model_path methods, remove deprecated validate_path, add_model_folder, and get_all_model_paths, and adjust its tests to match.
+- Add get_txt2img_samplers to DummySamplerProvider and include a test assertion for it.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#50 chore: update to Silero VAD V5 Model and ORT 2.0.0-rc.10</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">nkeenan38/voice_activity_detector</span></div>
+                                    <div>7 files changed <span class="code">++451 --485</span></div>
                                 </div>
                             </section>
                         </div>
@@ -53,175 +158,14 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#495ef25</div>
-                                        <div class="message">fix(vad): enforce valid chunk sizes for Silero V5 model
+                                        <div class="sha">#34babdd</div>
+                                        <div class="message">chore: enable thread-safe ONNX session and upgrade ORT 2.0.0-rc.10
 
-- The validation for VoiceActivityDetectorConfig was updated to enforce specific chunk sizes for sample rates required by the Silero VAD V5 model, ensuring only supported configurations can be created.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/voice_activity_detector</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#226ac42</div>
-                                        <div class="message">fix(vad): enforce valid chunk sizes for Silero V5 model
-
-- The validation for VoiceActivityDetectorConfig was updated to enforce specific chunk sizes for sample rates required by the Silero VAD V5 model, ensuring only supported configurations can be created.
+- Bump exact ort and ort-sys versions in Cargo.toml from =2.0.0-rc.9 to =2.0.0-rc.10 and update the locking rationale comments
+- Wrap the ONNX Session in a Mutex (Arc&lt;Mutex&lt;Session&gt;&gt;) throughout VoiceActivityDetector, DEFAULT_SESSION, and its builder config for safe mutable access
+- Migrate model I/O: use Tensor::from_array instead of ArrayView in ort::inputs!, lock the session before running, and switch from try_extract_tensor to try_extract_array with direct indexing for output probability
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/voice_activity_detector</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b699e53</div>
-                                        <div class="message">docs(readme): add Silero VAD V5 migration note and fix typo
-
-- Updated the README to note migration to the Silero VAD V5 model (https://github.com/snakers4/silero-vad/releases/tag/v5.0), which enforces fixed 256-sample windows at 8 kHz and 512-sample windows at 16 kHz (with support for multiples of 16 kHz) and adds automatic context passing between chunks; also fixed a typo by changing “truncacted” to “truncated.”
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4b24e5</div>
-                                        <div class="message">test(chunk_stream): reduce VAD chunk size to comply with V5 model limitations
-
-- Change the VAD chunk size in the test from 512 to 256.
-
-I reviewed the issue #23 that prompted this test's creation, and there was no indication of the required chunk_size. I think changing it won't impact the test's validity.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">jim60105/voice_activity_detector</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#39587a3</div>
-                                        <div class="message">test(chunk_stream): reduce VAD chunk size
-
-- Change the VAD chunk size in the test from 512 to 256.
-
-Reducing the chunk_size allow this test to pass. Honestly I don't know why.
-I reviewed the issue #23 that prompted this test's creation, and there was no indication of the required chunk_size. I think changing it won't impact the test's validity.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e686c18</div>
-                                        <div class="message">refactor(vad): enable full chunk input for ONNX model
-
-- Removes the code that limited input to a maximum of 480 samples, allowing the full chunk size to be used as input to the ONNX model.
-
-Although the official Rust example has this truncation, I have not found any actual documentation of such a restriction.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1808f6c</div>
-                                        <div class="message">feat: update VAD state and model interface for new Silero VAD ONNX; fix most tests
-
-- Refactored VAD state: merged `h` and `c` into a single `state: ArrayD&lt;f32&gt;` with shape [2, 1, 128] to match new Silero VAD ONNX model interface.
-- Updated all state initialization, reset, and update logic to use the new state.
-- Changed model input/output handling in `predict` to use `input`, `state`, and `sample_rate` as inputs, and `stateN`/`output` as outputs.
-- Ensured input audio is sliced to 480 samples if chunk_size &gt; 480.
-- Ensured sample_rate is passed as a scalar.
-- Confirmed all code compiles and most tests pass, including async and sync tests.
-- Only the async `chunk_stream` test still fails with ONNX input shape error; all other tests pass.
-- Added detailed troubleshooting and root cause analysis in comments and commit message.
-
-Failed test: chunk_stream
-
-failures:
-
----- chunk_stream stdout ----
-
-thread 'chunk_stream' panicked at /var/home/jim60105/repos/voice_activity_detector/src/vad.rs:81:48:
-called `Result::unwrap()` on an `Err` value: Error { code: InvalidArgument, msg: "Non-zero status code returned while running If node. Name:'If_0' Status Message: Non-zero status code returned while running If node. Name:'If_0_else_branch__Inline_0__/decoder/If_1' Status Message: Non-zero status code returned while running LSTM node. Name:'If_0_else_branch__Inline_0__/decoder/rnn/LSTM' Status Message: Input X must have 3 dimensions only. Actual:{1,1,1,128,2}" }
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#733c7e1</div>
-                                        <div class="message">Merge remote-tracking branch 'pr-49/main'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d61a11</div>
-                                        <div class="message">chore: update silero_vad.onnx
-
-(cherry picked from commit aaa23278dfcd9f688682d9da0b392ed25392fa25)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3deac3c</div>
-                                        <div class="message">fix(deps): lock ort and ort-sys to =2.0.0-rc.9 to avoid build failures.
-
-By default, specifying version = "2.0.0-rc.9" allows Cargo to auto-upgrade to compatible pre-release versions like 2.0.0-rc.10.
-
-However, 2.0.0-rc.10 introduces breaking changes that cause this project to fail to compile.
-
-This commit explicitly locks both `ort` and `ort-sys` to version =2.0.0-rc.9 to prevent such automatic upgrades and ensure a stable build.
-
-According to the Semantic Versioning 2.0.0 spec (https://semver.org/), pre-release versions are considered lower precedence than their corresponding release, but version ranges still allow newer pre-releases unless locked with an '='.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e1eb9e</div>
-                                        <div class="message">chore: release v0.2.0 (#46)
-
-Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2341822</div>
-                                        <div class="message">feat!: borrowed sessions and vad(#45)
-
-* ci: trigger actions on pull request
-* feat!: borrowed sessions and vad
-* feat!: use Arc&lt;Session&gt; to simplify VoiceActivityDetector lifetimes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b992d4</div>
-                                        <div class="message">Upgrade ort and add nparray features (#42)
-
-* Bump package version
-
-* Fix conflict of other packages</div>
                                     </div>
                                 </div>
                             </section>
