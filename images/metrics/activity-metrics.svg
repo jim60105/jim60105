@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="661" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="464" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,16 +19,36 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#1133 chore: restrict torch version to below 2.4 in dependencies (fix the libcudnn dependencies common issue)</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by jim60105 in <span class="repo">m-bain/whisperX</span></div>
-                                    <div class="comment">Force-pushed to rebase onto the main branch.</div>
+                                    <div>on branch <span class="code">issue-85-implement-distributed-multi-platform-build</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2a442c6</div>
+                                        <div class="message">docs: update workflow architecture documentation for distributed multi-platform builds
+
+- Update README.md to reflect distributed multi-platform build architecture
+- Document three-stage build process (build → test → merge)
+- Add comprehensive scale breakdown (370 parallel jobs for matrix builds)
+- Document native ARM64 builds eliminating QEMU emulation overhead
+- Add platform-specific monitoring and troubleshooting guidance
+- Include performance metrics and resource optimization strategies
+- Document sophisticated caching hierarchy and selective testing approach
+- Add multi-platform debugging strategies and best practices
+
+The documentation now accurately reflects the revolutionary distributed
+architecture that enables 50-70% build time reduction through massive
+parallelization and native multi-platform builds.
+
+Related to #85
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -44,10 +64,23 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">issue-85-implement-distributed-multi-platform-build</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9ce3544</div>
-                                        <div class="message">bump submodule
+                                        <div class="sha">#99b5ade</div>
+                                        <div class="message">feat: implement distributed multi-platform builds for matrix images workflow
+
+- Transform 04-build-matrix-images.yml to three-stage distributed architecture
+- Expand from 185 serial jobs to 370 parallel jobs (37 langs × 5 models × 2 platforms)
+- Add selective testing strategy for large-scale matrix builds
+- Implement cache-matrix-{model}-{lang} caching strategy to avoid conflicts
+- Use push-by-digest=true with artifact-based manifest list creation
+- Add fail-fast: false to isolate build failures
+- Optimize resource usage with strategic testing selection
+
+This completes the distributed build implementation for all 4 workflows,
+enabling massive parallel builds with 50-70% expected time reduction.
+
+Resolves #85
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -61,72 +94,28 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">jim60105/whisperX</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">issue-85-implement-distributed-multi-platform-build</span></div>
                                     <div class="commit">
-                                        <div class="sha">#adc0cbd</div>
-                                        <div class="message">Revert "docs: add troubleshooting section for libcudnn dependencies in README"
+                                        <div class="sha">#45cfd6b</div>
+                                        <div class="message">feat: implement distributed builds for distil-en workflow
 
-This reverts commit 6fe0a8784a22301e92624691193c26aab96e0c5e.
+- Refactor 03-build-distil-en.yml from single-job multi-platform to distributed builds
+- Implement three-stage build process: build_distil → test_distil → merge_distil
+- Add platform-specific matrix with ubuntu-latest and ubuntu-24.04-arm runners
+- Use digest-based builds with push-by-digest=true for manifest list creation
+- Add distil-specific caching strategy (cache-distil)
+- Include registry pull testing phase to validate built images
+- Configure GitHub Actions artifacts for digest transfer between jobs
+- Maintain all existing functionality (SBOM, attestation, build args)
 
-Revert the commit now that the issue is fixed.
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10f702a</div>
-                                        <div class="message">chore: restrict torch&lt;2.4.0 and onnxruntime v1.19 in dependencies
-
-torch depends on libcudnn9 from version 2.4.0 onward.
-If we restrict torch&lt;2.4.0, there is no need to manually install libcudnn8 and also save about 1GB disk space.
-restrict onnxruntime to version 1.19 for python 3.9 compatibility
-
-- Update torch dependency to be below version 2.4.0 instead of at least 2.5.1
-- Change torchaudio dependency to have no minimum version specified
-- Restrict the onnxruntime dependency to versions &gt;=1.19 and &lt;1.20.0 to avoid potential compatibility issues.
+Related to #85
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#429658d</div>
-                                        <div class="message">chore: bump version to 3.4.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0833da</div>
-                                        <div class="message">Fix: Ensure integer tensor indexing in get_wildcard_emission()</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffedc5c</div>
-                                        <div class="message">fix: speaker embedding bug (#1178)
-
-* fix: improve handling of speaker embeddings in transcribe_task
-
-* chore: bump version to 3.4.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b93e9b6</div>
-                                        <div class="message">chore: bump version to 3.4.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#844736e</div>
-                                        <div class="message">style: minor code formatting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#220fec9</div>
-                                        <div class="message">refactor: update type hints in diarization module (PEP 585)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1631c30</div>
-                                        <div class="message">feat: enhance diarization with optional output of speaker embeddings
-
-- Updated DiarizationPipeline to include a return_embeddings parameter for optional speaker embeddings.
-- Modified assign_word_speakers to accept and process speaker embeddings.
-- Updated CLI to support --speaker_embeddings flag for JSON output.
-- Ensured backward compatibility for existing functionality.</div>
                                     </div>
                                 </div>
                             </section>
@@ -138,60 +127,28 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">jim60105/whisperX</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/docker-whisperX</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">doc</span></div>
+                                    <div>on branch <span class="code">issue-85-implement-distributed-multi-platform-build</span></div>
                                     <div class="commit">
-                                        <div class="sha">#af8774a</div>
-                                        <div class="message">docs: document Docker image usage for WhisperX in README
+                                        <div class="sha">#77e7553</div>
+                                        <div class="message">feat: implement distributed builds for distil-en workflow
 
-- Add a new section to the README describing how to use pre-built Docker images for WhisperX with example commands.
-- Provide a link to the Docker image repository for available tags.
+- Refactor 03-build-distil-en.yml from single-job multi-platform to distributed builds
+- Implement three-stage build process: build_distil → test_distil → merge_distil
+- Add platform-specific matrix with ubuntu-latest and ubuntu-24.04-arm runners
+- Use digest-based builds with push-by-digest=true for manifest list creation
+- Add distil-specific caching strategy (cache-distil)
+- Include registry pull testing phase to validate built images
+- Configure GitHub Actions artifacts for digest transfer between jobs
+- Maintain all existing functionality (SBOM, attestation, build args)
 
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
+Related to #85
 
-# Conflicts:
-#	README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#429658d</div>
-                                        <div class="message">chore: bump version to 3.4.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0833da</div>
-                                        <div class="message">Fix: Ensure integer tensor indexing in get_wildcard_emission()</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffedc5c</div>
-                                        <div class="message">fix: speaker embedding bug (#1178)
-
-* fix: improve handling of speaker embeddings in transcribe_task
-
-* chore: bump version to 3.4.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b93e9b6</div>
-                                        <div class="message">chore: bump version to 3.4.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#844736e</div>
-                                        <div class="message">style: minor code formatting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#220fec9</div>
-                                        <div class="message">refactor: update type hints in diarization module (PEP 585)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1631c30</div>
-                                        <div class="message">feat: enhance diarization with optional output of speaker embeddings
-
-- Updated DiarizationPipeline to include a return_embeddings parameter for optional speaker embeddings.
-- Modified assign_word_speakers to accept and process speaker embeddings.
-- Updated CLI to support --speaker_embeddings flag for JSON output.
-- Ensured backward compatibility for existing functionality.</div>
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -200,14 +157,39 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">issue-46-refactor-ishortcut-modularization</span>
-                                        in
-                                        <span class="repo">jim60105/standalone-civitai-shortcut</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">jim60105/docker-whisperX</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">issue-85-implement-distributed-multi-platform-build</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a4a78b3</div>
+                                        <div class="message">ci: enable submodule fetching in CI workflows
+
+- Add `submodules: true` to the actions/checkout@v4 steps in both build-distil-en and build-matrix-images workflows to ensure submodules are fetched.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#390a53e</div>
+                                        <div class="message">feat: implement distributed builds for model cache workflow
+
+- Refactor 02-build-model-cache.yml from single-job multi-platform to distributed builds
+- Add matrix expansion from 6 models to 6 models × 2 platforms (12 parallel jobs)
+- Implement three-stage build process: build_cache → test_cache → merge_cache
+- Add platform-specific optimization with ubuntu-latest and ubuntu-24.04-arm runners
+- Use digest-based builds with push-by-digest=true for manifest list creation
+- Add model-specific caching strategy (cache-model-{model})
+- Include registry pull testing phase to validate built images
+- Configure GitHub Actions artifacts for digest transfer between jobs
+
+Related to #85
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -230,14 +212,14 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.62192202271004" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="135.62192202271004" y="0" width="89.12769948328767" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="224.74962150599768" y="0" width="77.99388980945822" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="302.7435113154559" y="0" width="45.51393175671773" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="348.25744307217366" y="0" width="41.860712406177285" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="390.11815547835096" y="0" width="34.611436622885414" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="424.72959210123634" y="0" width="19.76014369715025" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="444.4897357983866" y="0" width="15.51026420161339" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.64710223675007" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="135.64710223675007" y="0" width="89.11353040660687" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="224.76063264335693" y="0" width="77.9814907302522" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="302.74212337360916" y="0" width="45.506696179082" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="348.24881955269115" y="0" width="41.854057599114675" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="390.10287715180584" y="0" width="34.605934269493765" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="424.7088114212996" y="0" width="19.757002328160688" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="444.46581374946027" y="0" width="15.534186250539724" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
