@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="464" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="798" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.track{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.track{align-items:center;justify-content:center;margin-bottom:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -27,25 +27,13 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">issue-85-implement-distributed-multi-platform-build</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2a442c6</div>
-                                        <div class="message">docs: update workflow architecture documentation for distributed multi-platform builds
+                                        <div class="sha">#4801248</div>
+                                        <div class="message">fix(ci): split build matrix to avoid exceeding 256 job limit
 
-- Update README.md to reflect distributed multi-platform build architecture
-- Document three-stage build process (build → test → merge)
-- Add comprehensive scale breakdown (370 parallel jobs for matrix builds)
-- Document native ARM64 builds eliminating QEMU emulation overhead
-- Add platform-specific monitoring and troubleshooting guidance
-- Include performance metrics and resource optimization strategies
-- Document sophisticated caching hierarchy and selective testing approach
-- Add multi-platform debugging strategies and best practices
-
-The documentation now accurately reflects the revolutionary distributed
-architecture that enables 50-70% build time reduction through massive
-parallelization and native multi-platform builds.
-
-Related to #85
+Refactor the build matrix in 04-build-matrix-images.yml into two separate jobs (build_matrix_1 and build_matrix_2) to comply with GitHub Actions' 256 job strategy limit. All original image outputs are preserved. This resolves the CI error for exceeding the maximum matrix size.
+Related to pipeline configuration for #file:04-build-matrix-images.yml.
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -59,30 +47,237 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-whisperX</span>
+                                        Pushed 28 commits in
+                                        <span class="repo">jim60105/standalone-civitai-shortcut</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">issue-85-implement-distributed-multi-platform-build</span></div>
+                                    <div>on branch <span class="code">issue-51-decouple-gradio-error-handler</span></div>
                                     <div class="commit">
-                                        <div class="sha">#99b5ade</div>
-                                        <div class="message">feat: implement distributed multi-platform builds for matrix images workflow
-
-- Transform 04-build-matrix-images.yml to three-stage distributed architecture
-- Expand from 185 serial jobs to 370 parallel jobs (37 langs × 5 models × 2 platforms)
-- Add selective testing strategy for large-scale matrix builds
-- Implement cache-matrix-{model}-{lang} caching strategy to avoid conflicts
-- Use push-by-digest=true with artifact-based manifest list creation
-- Add fail-fast: false to isolate build failures
-- Optimize resource usage with strategic testing selection
-
-This completes the distributed build implementation for all 4 workflows,
-enabling massive parallel builds with 50-70% expected time reduction.
-
-Resolves #85
+                                        <div class="sha">#980c8a2</div>
+                                        <div class="message">refactor(http-client): remove Gradio stub for UI decoupling (Phase 3)
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c1d5c1</div>
+                                        <div class="message">fix(http-client): adapt authentication and UI stubs to satisfy Phase 5 tests
+
+* Introduce Gradio UI stub for http_client to support gr.Error and gr.Warning without dependency
+* Guard UI calls in post_json error handlers and stream errors
+* Implement thread-aware _handle_authentication_error: abort in main thread, raise AuthenticationError in background threads
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57b3dbc</div>
+                                        <div class="message">test: implement Phase 5 for error handler UI decoupling
+
+\nPhase 5: Configure silent notification service for tests and add UI decoupling tests for error handling\n- Add autouse fixture to set SilentNotificationService, skipping error handler unit tests\n- Provide console_notification fixture for tests needing console notifications\n- Add tests for error_handler UI decoupling behavior in tests/test_error_handler_ui_decoupling.py\n- Adjust error_handler.with_error_handling to properly handle HTTP 524 cases for HTTPError and APIError\n- Update http_client UI stubs to support gr.Error and gr.Warning without direct dependency\n- Guard gr.Error and gr.Warning in post_json error handlers to avoid NameError
+- Modify _handle_authentication_error to abort in main thread and raise AuthenticationError in background threads
+Resolves #51
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a30686</div>
+                                        <div class="message">refactor: consolidate patch contexts for clearer tests
+
+- Refactored tests to consolidate multiple patch contexts into single grouped with statements using parentheses
+- Added a blank line in test_download_user_gallery_images to separate the import stub from the monkeypatch setup
+- Improved consistency and readability of patch usage across compatibility, environment detector, and model factory tests
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7a2119</div>
+                                        <div class="message">feat(setting,downloader): Phase 4 application-level error handling updates
+
+\nPhase 4: Application-level error handling updates\n\n- Initialize notification service in setting.init()\n- Refactor DownloadNotifier.notify_start to use decorator-based notification\n- Add decorated functions download_file_with_auth_handling, download_file_with_retry, download_file_with_file_handling\n- Update download_file_with_notifications to utilize new handlers\n
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61c6130</div>
+                                        <div class="message">refactor(http_client): decouple HTTP client errors from UI (Phase 3)
+
+Resolves #51
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bd2864</div>
+                                        <div class="message">style(tests): fix flake8 issues in tests
+
+Remove unused imports, fix trailing whitespace, break long import lines to satisfy line-length limit.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efb4753</div>
+                                        <div class="message">fix(notification-service): restore duration support for gr.Error
+
+Revert removal of duration argument for gr.Error to align with updated gradio.Error signature
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38f58f0</div>
+                                        <div class="message">fix(notification-service): remove unsupported duration argument for gr.Error
+
+This change drops the duration parameter when invoking gr.Error, ensuring that the dummy Error in tests receives only the message and DummyError.last_msg is set correctly. Fixes failing tests in test_error_handler.py.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c20d6bb</div>
+                                        <div class="message">test(pytest): ignore PendingDeprecationWarning in config
+
+- Add PendingDeprecationWarning to the list of ignored warnings in the pytest configuration.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53752e4</div>
+                                        <div class="message">Revert "refactor(http_client): remove direct Gradio UI calls and decouple HTTP client (Phase 3)"
+
+This reverts commit a9132e672a08fc4e6ccbed8e0229bab274d4b3ac.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26409f0</div>
+                                        <div class="message">refactor(http_client): remove direct Gradio UI calls and decouple HTTP client (Phase 3)
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29c5aeb</div>
+                                        <div class="message">style(exception): wrap long signatures and shorten docstrings
+
+Wrap multi-parameter signatures in exceptions.py to comply with line length limits and shorten long docstrings.
+
+Resolves #51
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac8a6c4</div>
+                                        <div class="message">feat: extend custom exception hierarchy for HTTP client
+
+Extend custom exception hierarchy to include HTTPError, ConnectionError, TimeoutError, DownloadError, and AuthenticationRequiredError in exceptions.py
+
+Resolves #51
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f74a6be</div>
+                                        <div class="message">refactor: abstract UI notification service and update error handler
+
+Phase 1: Implement UI notification service abstraction and update error handler to use it.\n\nResolves #51.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#083a31c</div>
+                                        <div class="message">feat: centralize auth error handling across downloads
+
+- Introduce a new AuthenticationError subclass to represent all authentication-related failures (401/403, login redirects, 416 range errors)
+- Refactor http_client’s get_stream and response validation to unify 307 redirect and 416 errors under a single authentication handler that raises AuthenticationError when off the main thread
+- Update downloader logic to catch AuthenticationError explicitly, show a general “configure API key” UI error, and avoid duplicate error messages from the HTTP client
+- Enhance ParallelImageDownloader to track per-image AuthenticationError instances and surface the first auth error toast after all downloads finish
+- Change sequential chunked downloads to go through the centralized get_stream path for consistent error treatment
+- Expand unit tests to cover AuthenticationError in both main and background threads, priority between 416 and 307 handling, and behavior with or without an API key configured
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec5ead4</div>
+                                        <div class="message">fix(http_client): prevent download of login pages on 307 redirect
+
+- Disable automatic redirects in get_stream method
+- Add manual redirect handling to detect login pages
+- Block downloads when redirected to login URLs containing 'login'
+- Follow valid redirects manually to maintain download functionality
+- Add comprehensive logging for redirect detection and handling
+
+This prevents corrupted model files when Civitai requires authentication
+and redirects to login pages instead of the actual file content.
+
+Resolves issue where login HTML was written to .safetensors files.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4299182</div>
+                                        <div class="message">build(devcontainer): switch to uv sync for environment setup
+
+- Replaced pip install with a uv sync command in the post-create setup and reordered some postCreateCommand entries.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
+(cherry picked from commit 71121e74126bf1e727db0d70a8195449f5d59441)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c28237e</div>
+                                        <div class="message">chore: enable zh_TW.UTF-8 and drop LC_ALL override
+
+- Add a post-create step to enable the zh_TW.UTF-8 locale in the devcontainer
+- Remove the forced LC_ALL=C environment variable from the container configuration
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
+(cherry picked from commit 6e1a17a52abf5f18c90f91fdacc9b8a03ae34614)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97588ee</div>
+                                        <div class="message">build(requirements): remove optional dev dependencies for lean install
+
+- Remove all optional development dependencies from the requirements file.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
+(cherry picked from commit 0f2056111d345550125b1e2d3b0d2f964b88e206)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">jim60105/standalone-civitai-shortcut</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4299182</div>
+                                        <div class="message">build(devcontainer): switch to uv sync for environment setup
+
+- Replaced pip install with a uv sync command in the post-create setup and reordered some postCreateCommand entries.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
+(cherry picked from commit 71121e74126bf1e727db0d70a8195449f5d59441)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c28237e</div>
+                                        <div class="message">chore: enable zh_TW.UTF-8 and drop LC_ALL override
+
+- Add a post-create step to enable the zh_TW.UTF-8 locale in the devcontainer
+- Remove the forced LC_ALL=C environment variable from the container configuration
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
+(cherry picked from commit 6e1a17a52abf5f18c90f91fdacc9b8a03ae34614)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97588ee</div>
+                                        <div class="message">build(requirements): remove optional dev dependencies for lean install
+
+- Remove all optional development dependencies from the requirements file.
+
+Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;
+(cherry picked from commit 0f2056111d345550125b1e2d3b0d2f964b88e206)</div>
                                     </div>
                                 </div>
                             </section>
@@ -95,58 +290,14 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-whisperX</span>
+                                        <span class="repo">jim60105/standalone-civitai-shortcut</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">issue-85-implement-distributed-multi-platform-build</span></div>
+                                    <div>on branch <span class="code">issue-51-decouple-gradio-error-handler</span></div>
                                     <div class="commit">
-                                        <div class="sha">#45cfd6b</div>
-                                        <div class="message">feat: implement distributed builds for distil-en workflow
-
-- Refactor 03-build-distil-en.yml from single-job multi-platform to distributed builds
-- Implement three-stage build process: build_distil → test_distil → merge_distil
-- Add platform-specific matrix with ubuntu-latest and ubuntu-24.04-arm runners
-- Use digest-based builds with push-by-digest=true for manifest list creation
-- Add distil-specific caching strategy (cache-distil)
-- Include registry pull testing phase to validate built images
-- Configure GitHub Actions artifacts for digest transfer between jobs
-- Maintain all existing functionality (SBOM, attestation, build args)
-
-Related to #85
-
-Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/docker-whisperX</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">issue-85-implement-distributed-multi-platform-build</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#77e7553</div>
-                                        <div class="message">feat: implement distributed builds for distil-en workflow
-
-- Refactor 03-build-distil-en.yml from single-job multi-platform to distributed builds
-- Implement three-stage build process: build_distil → test_distil → merge_distil
-- Add platform-specific matrix with ubuntu-latest and ubuntu-24.04-arm runners
-- Use digest-based builds with push-by-digest=true for manifest list creation
-- Add distil-specific caching strategy (cache-distil)
-- Include registry pull testing phase to validate built images
-- Configure GitHub Actions artifacts for digest transfer between jobs
-- Maintain all existing functionality (SBOM, attestation, build args)
-
-Related to #85
+                                        <div class="sha">#068331c</div>
+                                        <div class="message">test(http_client): remove gr.Warning mock in validate_download_size test
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
@@ -161,33 +312,31 @@ Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">jim60105/docker-whisperX</span>
+                                        <span class="repo">jim60105/standalone-civitai-shortcut</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">issue-85-implement-distributed-multi-platform-build</span></div>
+                                    <div>on branch <span class="code">issue-51-decouple-gradio-error-handler</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a4a78b3</div>
-                                        <div class="message">ci: enable submodule fetching in CI workflows
+                                        <div class="sha">#c7adec5</div>
+                                        <div class="message">fix(http_client): remove gradio deps and migrate to with_error_handling
 
-- Add `submodules: true` to the actions/checkout@v4 steps in both build-distil-en and build-matrix-images workflows to ensure submodules are fetched.
+- Remove all gradio imports and gr.* calls from http_client
+- Decorate public methods with @with_error_handling
+- Remove legacy UI stubs and gr stub class
+- Update ParallelImageDownloader to use NotificationService
+
+Resolves #51
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#390a53e</div>
-                                        <div class="message">feat: implement distributed builds for model cache workflow
+                                        <div class="sha">#da32f32</div>
+                                        <div class="message">Revert "fix(http_client): remove gradio dependencies and decouple UI notifications"
 
-- Refactor 02-build-model-cache.yml from single-job multi-platform to distributed builds
-- Add matrix expansion from 6 models to 6 models × 2 platforms (12 parallel jobs)
-- Implement three-stage build process: build_cache → test_cache → merge_cache
-- Add platform-specific optimization with ubuntu-latest and ubuntu-24.04-arm runners
-- Use digest-based builds with push-by-digest=true for manifest list creation
-- Add model-specific caching strategy (cache-model-{model})
-- Include registry pull testing phase to validate built images
-- Configure GitHub Actions artifacts for digest transfer between jobs
+This reverts commit 5d368d51e0a1bf8cb894c5364cd48e2ab009613a.
 
-Related to #85
+This is a completely incorrect implementation. How can you just remove it without even migrating to the Exception system? You’ve discarded all that logic!!!
 
 Signed-off-by: CHEN, CHUN &lt;jim60105@gmail.com&gt;</div>
                                     </div>
