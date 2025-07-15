@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="527" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="384" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,95 +22,45 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">jim60105/standalone-civitai-shortcut</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">copilot/fix-70</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4387cb6</div>
-                                        <div class="message">feat(testing): Increase test coverage for http and download modules
+                                        <div class="sha">#da80d52</div>
+                                        <div class="message">chore(pyproject): update license authors and add maintainers info
 
-- Increased test coverage for `civitai_manager_libs/http/client.py` to over 85%.
-- Increased test coverage for `civitai_manager_libs/download` to over 88%.
-- Refactored tests to correctly handle `AuthenticationError`.
-- Removed the `@with_error_handling` decorator from `get_stream` to allow exceptions to propagate.
+- Add AGPL-3.0-or-later as the license, update authors, and add a maintainers section with contact information.
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1af6dfe</div>
-                                        <div class="message">test: unify download utilities and expand test suite
+                                        <div class="sha">#b111bc7</div>
+                                        <div class="message">chore(release): bump version to 2.1.0 and update changelog
 
-- Consolidate download utilities imports under a single alias and split get_save_base_name tests into distinct primary-file and fallback scenarios.
-- Expand download_preview_image tests to cover empty data branches and a successful width-adjusted download path.
-- Restructure download_file_thread_async tests into focused cases for missing inputs, version info failure, folder creation failure, and a full-flow scenario with proper start/complete notifications and task scheduling.
-- Refactor file_downloader tests: rename DummyMixin to DummyDownloader, add an autouse fixture for download tracker patching, remove outdated tests, and concentrate on speed calculation and resume-download success and failure behavior.
-- Revise HTTP client tests by disabling real sleep, verify mapping of request exceptions to our error classes, test post_json for immediate success, HTTP-error retries, connection and JSON-decode failures, and assert internal retry logic decisions.
-- Add new HTTP client manager tests to ensure clients are reconfigured with updated settings at runtime and that get_http_client returns a true singleton.
+- Bump version to 2.1.0 (MINOR)
+- Add changelog for parallel download, bugfixes, refactor, and tests
+- Refresh uv lock file
 
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+Resolves #release-management</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#d919dac</div>
-                                        <div class="message">test: add comprehensive download and HTTP client tests
-
-- Add tests for CivitaiHttpClient covering JSON GET/POST success and failure (HTTP errors, JSON decode errors), stream retrieval, and API key header updates.
-- Introduce ParallelImageDownloader tests for empty input, progress callback invocation, correct success count, and authentication error handling.
-- Cover FileDownloadMixin download and resume behavior, speed calculation, range header preparation, cleanup of zero‐byte files, and size validation with warning on mismatch.
-- Add tests for download task manager functions: auth handling, retry logic, file handling, notifications wrapper, and core download_file and download_file_gr utilities.
-- Validate filename utilities and preview image download logic, including duplicate file numbering, save base name fallback, preview image success/failure, and lora model type detection.
-- Ensure synchronous DownloadManager behavior and verify DownloadNotifier logs start, progress, and completion (success/failure) messages.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15e6c6d</div>
-                                        <div class="message">fix: adjust DownloadNotifier to support dynamic get_notification_service patches for tests
-
-Previously, DownloadNotifier imported get_notification_service statically, which prevented test patches from ui.notification_service or notifier module from taking effect. Rework notifier to proxy get_notification_service calls through a wrapper that dynamically delegates to ui.notification_service. This change allows both test_notifier and test_async_download test suites to correctly mock the notification service.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86bd693</div>
-                                        <div class="message">test: boost test coverage for HTTP clients and downloads
-
-- Add tests for client_manager to verify new HTTP client defaults, singleton behavior, and dynamic configuration updates
-- Cover download_task_manager functionalities including wrapper chains, download_file variants, image download edge cases, and DownloadManager start/cancel logic
-- Expand download utilities tests with scenarios for duplicate filenames numbering, base name resolution from version info, preview image handling, LoRA model detection, and asynchronous thread notifications
-- Overhaul file_downloader tests by introducing a DummyMixin, validating streaming download success, resume header preparation, resume positions, total size calculation, speed formatting, and robust error handling with retries and cleanup
-- Enhance HTTP client tests to assert response‐error handling, API key header updates, get_json/post_json success and failure paths, retry behavior, and redirect/stream/authentication error flows
-- Add ParallelImageDownloader tests for empty task lists, successful downloads, and authentication error notification
-- Simplify notifier tests to confirm start, progress, and completion notifications through a patched notification service
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5c817b</div>
-                                        <div class="message">test: improve file download and HTTP client reliability
-
-- Enhance get_save_base_name to accept primary as either a single dict or a list/tuple of dicts, safely extract the name, and use dict.get for fallback folder naming to avoid KeyErrors.
-- Update HTTP client’s _handle_connection_error to match custom exception signatures (remove direct url arg for TimeoutError/ConnectionError) and clarify with an inline comment.
-- Add comprehensive tests for download utilities, covering duplicate‐file numbering, base name extraction, preview image download logic, LoRA model detection, and shortcut creation for downloaded models.
-- Introduce full FileDownloadMixin test suite: header/resume handling, total size computation, resume position detection, download speed tracking, progress callbacks, cleanup on failure, size validation (with tolerance and warnings), and download‐error processing.
-- Revamp HTTP client tests: streamline DummyResponse, prevent real HTTP calls, verify API key header updates, enforce _handle_response_error raising, test connection‐error exception types, JSON POST retry behavior, retry-decision logic, and detailed stream-response validation for redirects and errors.
-- Add tests for DownloadNotifier to confirm info, warning, and error messages are shown correctly on start, progress, and completion.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16ede86</div>
-                                        <div class="message">docs: update for modular HTTP and download refactor
-
-- Updated http_client_guide.md to document new modular structure, usage patterns, and backward compatibility for HTTP and download modules
-- Updated architecture_overview.md to reflect new module layout, architectural benefits, and recent improvements
-- Added details on removed ChunkedDownloader, error handling, and performance enhancements
-
-Resolves #70
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v2.1.0</span>
+                                        in
+                                        <span class="repo">jim60105/standalone-civitai-shortcut</span>
                                     </div>
                                 </div>
                             </section>
@@ -122,80 +72,22 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">jim60105/standalone-civitai-shortcut</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">copilot/fix-70</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ce2aedd</div>
-                                        <div class="message">chore: align coverage configs with new module names
+                                        <div class="sha">#98c0a38</div>
+                                        <div class="message">refactor: Split http_client.py and downloader.py into SRP-focused submodules (#71)
 
-- Rename coverage and pytest module references from http_client to http and from downloader to download in .coveragerc configurations.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;
+Co-authored-by: copilot-swe-agent[bot] &lt;198982749+Copilot@users.noreply.github.com&gt;
+Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;
+Co-authored-by: Codex-CLI &lt;bot@ChenJ.im&gt;
+Co-authored-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c83859</div>
-                                        <div class="message">fix: resolve trailing whitespace and blank-line flake8 issues in download and http modules
-
-- Removed trailing whitespace and ensured newline at EOF in download/__init__.py, notifier.py, task_manager.py and http/file_downloader.py, http/image_downloader.py, http/client_manager.py.\n- Added missing blank line after class in http/client_manager.py to satisfy E305.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b225541</div>
-                                        <div class="message">fix: resolve flake8 issues in download and http modules
-
-- Removed unused 'threading', 'Callable', 'AuthenticationError', and 'config_manager' imports.
-- Added 'CompleteCivitaiHttpClient' to __all__ in http module to maintain backward compatibility and suppress unused import warning.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c63af2</div>
-                                        <div class="message">test: update test module paths for download async and download_file_gr
-
-Updated tests to patch correct module paths after refactoring download utilities.
-- Async download tests now patch civitai, util, DownloadNotifier and DownloadManager from download.utilities and download.task_manager.
-- download_file_gr test now patches get_http_client from download.task_manager.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#71 refactor: Split http_client.py and downloader.py into SRP-focused submodules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Copilot in <span class="repo">jim60105/standalone-civitai-shortcut</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#70 refactor: Refactor and split `http_client.py`, `downloader.py` into submodules to achieve SRP.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">jim60105/standalone-civitai-shortcut</span></div>
                                 </div>
                             </section>
                         </div>
@@ -208,10 +100,27 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">copilot/fix-68</span>
+                                        <span class="code">copilot/fix-70</span>
                                         in
                                         <span class="repo">jim60105/standalone-civitai-shortcut</span>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#70 refactor: Refactor and split `http_client.py`, `downloader.py` into submodules to achieve SRP.</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">jim60105/standalone-civitai-shortcut</span></div>
                                 </div>
                             </section>
                         </div>
@@ -233,14 +142,14 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="149.1051390513039" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="149.1051390513039" y="0" width="83.35384574665184" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="232.45898479795574" y="0" width="80.27066520372857" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="312.7296500016843" y="0" width="42.56545685535681" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="355.29510685704116" y="0" width="39.14889966843278" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="394.4440065254739" y="0" width="32.369245095066915" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="426.8132516205408" y="0" width="18.480045813061533" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="445.2932974336024" y="0" width="14.706702566397661" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="149.7984987670184" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="149.7984987670184" y="0" width="83.16794946449957" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="232.96644823151794" y="0" width="80.09164505062589" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="313.05809328214383" y="0" width="42.47052710008705" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="355.5286203822309" y="0" width="39.06158954094528" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="394.59020992317613" y="0" width="32.297054996753545" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="426.8872649199297" y="0" width="18.438831496194943" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="445.32609641612464" y="0" width="14.673903583875338" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
