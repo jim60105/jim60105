@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="483" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,111 +23,19 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/toolbx</span>
+                                        <span class="repo">jim60105/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b804c85</div>
-                                        <div class="message">feat: drop pnpm support
+                                        <div class="sha">#4af4f33</div>
+                                        <div class="message">fix: point image dataset prep tools at src directory
 
-- Remove pnpm support: drop pnpm from README, strip PNPM_HOME config and install steps in the base build, and delete the pnpm runner script
-- Add global Azurite@3 installation (npm install -g azurite@3) to both rider and vscode Containerfiles
-
-Because pnpm uses hardlinks, I couldn't find an effective way to make it work properly in both the toolbx and the host.
+- Adjust the Image Dataset Preparation Tools PATH to point to the src subdirectory instead of the repository root
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">jim60105/toolbx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#58bc925</div>
-                                        <div class="message">build: switch Node.js installs from pnpm to npm
-
-- Remove pnpm from the Node.js toolkit listing and installation steps
-- Drop pnpm package in the base container’s Node.js install
-- Switch Azurite global install from pnpm to npm and use npm cache mounting
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28f1a23</div>
-                                        <div class="message">Revert "fix(base): install pnpm instead of nodejs-pnpm"
-
-This reverts commit d8a4f441b0f21dd2039836398bd0dc63cb381dc7.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2eeb217</div>
-                                        <div class="message">Revert "feat: standardize pnpm usage and speed Azurite setup"
-
-This reverts commit 136ce3be2e1365a80524a6120183332607f73b6a.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2dcfa0</div>
-                                        <div class="message">Revert "fix: remove global flag from Azurite install"
-
-This reverts commit 3bc5fdc406a476aceb7084da08458560f5b2c6f7.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d19083e</div>
-                                        <div class="message">Revert "fix: fix pnpm global store setup and Azurite install"
-
-This reverts commit 508a4b53017d95b4a4657b93450c01a0aaaae7ac.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6933078</div>
-                                        <div class="message">Revert "build: use host PNPM store and remove Azurite"
-
-This reverts commit 7c19102e5d1c1650e2ee467d34f602f8be606bef.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1182 build: bump torch to 2.7.1 and CUDA 12.8 support</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">m-bain/whisperX</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1182 build: bump torch to 2.7.1 and CUDA 12.8 support</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by jim60105 in <span class="repo">m-bain/whisperX</span></div>
-                                    <div class="comment">Glad to hear it works on Windows; I'll take this line.</div>
                                 </div>
                             </section>
                         </div>
@@ -139,22 +47,134 @@ This reverts commit 7c19102e5d1c1650e2ee467d34f602f8be606bef.</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">jim60105/whisperX</span>
+                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">update-requirements</span></div>
+                                    <div>on branch <span class="code">copilot/fix-9</span></div>
                                     <div class="commit">
-                                        <div class="sha">#251602f</div>
-                                        <div class="message">build: uv lock --upgrade
+                                        <div class="sha">#ab47d12</div>
+                                        <div class="message">ci: fix coverage and move scripts into src
+
+- In the test CI workflow, drop the explicit “coverage” argument from the shellspec --kcov step
+- Enable kcov in .shellspec (add --kcov) and narrow coverage patterns to only the src directory
+- In update-danbooru-data CI, remove the debug ls step and point the scraper invocation at src/scrape_danbooru_aliases.zsh
+- Move fetch_tags.py and all primary zsh scripts into src/, updating load_tag_aliases to use the new ../data path
+- Bulk-update every ShellSpec test to reference the scripts under src/ instead of the project root
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#835f4f4</div>
-                                        <div class="message">build: skip Triton on Windows since it isn't supported
+                                        <div class="sha">#cf7de42</div>
+                                        <div class="message">chore: streamline coverage tracking and ignore files
 
-- Add a platform marker to the triton dependency to skip it on Windows, as triton does not support Windows.
+- Ignore all files under coverage while keeping the .gitkeep placeholder
+- Add an empty .gitkeep to ensure the coverage directory is tracked
+- Simplify the shellspec coverage command by dropping the explicit output path (`../coverage`)
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">copilot/fix-9</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9c4b655</div>
+                                        <div class="message">docs: add comprehensive testing guideline for zsh scripts
+
+- Add detailed testing-guideline.md with ShellSpec BDD patterns
+- Include mocking strategies and test structure templates
+- Provide common test patterns and best practices
+- Add debugging tips and coverage requirements
+- Simplify README.md testing section with link to new guide
+
+This provides clear guidance for writing effective BDD tests
+with 85%+ coverage requirement for all zsh scripts.
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">copilot/fix-9</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#18d8f17</div>
+                                        <div class="message">test(resize): mock magick command for empty directory case
+
+- Add a mock for the magick command in the test for running without parameters in an empty directory.
+- Add a newline at the end of the file for proper formatting.
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">copilot/fix-9</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3ca0082</div>
+                                        <div class="message">chore: remove temp csv
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4be95f</div>
+                                        <div class="message">fix(test): unify ShellSpec heading for all spec/*.sh files
+
+All test scripts now use the standard ShellSpec heading:
+#!/bin/zsh
+
+eval "$(shellspec - -c) exit 1"
+
+This ensures consistent test execution and project style.
+
+Author: GitHub Copilot &lt;bot@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f7138c</div>
+                                        <div class="message">docs: modernize zsh tooling with docs, CI and wordlist
+
+- Expand the VSCode spellchecker word list to include APIKEY, czkawka, Gelbooru, gplv, kcov, magick, and shellspec.
+- Add detailed documentation for validate_dataset.zsh covering requirements (zsh, ImageMagick, czkawka_cli), functionality, usage examples, validation checks, and color-coded output.
+- Enhance scrape_danbooru_aliases.zsh docs with clear requirements, scraping logic, pagination, rate limits, CSV output format, and safety/authentication notes.
+- Clarify testing and CI section by specifying fixtures path, CI triggers (pushes to master, pull requests), coverage threshold enforcement, and zsh-only testing.
+- Consolidate dependency notes and simplify czkawka_cli installation instructions to a single link.
+- Reformat the automated data-update workflow with consistent headings for workflow features and the automated process.
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
