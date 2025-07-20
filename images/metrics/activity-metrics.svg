@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="429" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,17 +22,25 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/dotfiles</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4af4f33</div>
-                                        <div class="message">fix: point image dataset prep tools at src directory
+                                        <div class="sha">#ed9a7cd</div>
+                                        <div class="message">docs(readme): clarify image resizing logic and add 2025 copyright
 
-- Adjust the Image Dataset Preparation Tools PATH to point to the src subdirectory instead of the repository root
+- Update documentation to state that images are resized based on the short side rather than the long side, and add a copyright line for 2025.
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f779962</div>
+                                        <div class="message">docs: enable script execution by adding src to PATH
+
+- Update README instructions to add the `/src/` directory to PATH instead of the project root.
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
@@ -51,26 +59,62 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">copilot/fix-9</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ab47d12</div>
-                                        <div class="message">ci: fix coverage and move scripts into src
+                                        <div class="sha">#9aaa677</div>
+                                        <div class="message">docs: boost README visibility with workflow badges
 
-- In the test CI workflow, drop the explicit “coverage” argument from the shellspec --kcov step
-- Enable kcov in .shellspec (add --kcov) and narrow coverage patterns to only the src directory
-- In update-danbooru-data CI, remove the debug ls step and point the scraper invocation at src/scrape_danbooru_aliases.zsh
-- Move fetch_tags.py and all primary zsh scripts into src/, updating load_tag_aliases to use the new ../data path
-- Bulk-update every ShellSpec test to reference the scripts under src/ instead of the project root
+- Add badges for Zsh, Python, CodeFactor, codecov, shell script testing, and Danbooru data update workflows to the README.
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cf7de42</div>
-                                        <div class="message">chore: streamline coverage tracking and ignore files
+                                        <div class="sha">#481e325</div>
+                                        <div class="message">
+                                            ci: enable manual triggers and improve test coverage
 
-- Ignore all files under coverage while keeping the .gitkeep placeholder
-- Add an empty .gitkeep to ensure the coverage directory is tracked
-- Simplify the shellspec coverage command by dropping the explicit output path (`../coverage`)
+- Add manual workflow_dispatch trigger to the test workflow
+- Simplify the install step by dropping apt-get and kcov build commands and replacing with a debug `pwd`/`tree` listing
+- Introduce steps to configure Git user identity and install bc before tests
+- Switch test execution to run inside the shellspec Docker container with kcov, mount the repo, and fix coverage directory ownership
+- Update the final coverage log to use a
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#CCD6DD" d="M31 2H5C3.343 2 2 3.343 2 5v26c0 1.657 1.343 3 3 3h26c1.657 0 3-1.343 3-3V5c0-1.657-1.343-3-3-3z"/>
+                                                <path fill="#E1E8ED" d="M31 1H5C2.791 1 1 2.791 1 5v26c0 2.209 1.791 4 4 4h26c2.209 0 4-1.791 4-4V5c0-2.209-1.791-4-4-4zm0 2c1.103 0 2 .897 2 2v4h-6V3h4zm-4 16h6v6h-6v-6zm0-2v-6h6v6h-6zM25 3v6h-6V3h6zm-6 8h6v6h-6v-6zm0 8h6v6h-6v-6zM17 3v6h-6V3h6zm-6 8h6v6h-6v-6zm0 8h6v6h-6v-6zM3 5c0-1.103.897-2 2-2h4v6H3V5zm0 6h6v6H3v-6zm0 8h6v6H3v-6zm2 14c-1.103 0-2-.897-2-2v-4h6v6H5zm6 0v-6h6v6h-6zm8 0v-6h6v6h-6zm12 0h-4v-6h6v4c0 1.103-.897 2-2 2z"/>
+                                                <path fill="#5C913B" d="M13 33H7V16c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v17z"/>
+                                                <path fill="#3B94D9" d="M29 33h-6V9c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v24z"/>
+                                                <path fill="#DD2E44" d="M21 33h-6V23c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v10z"/>
+                                            </svg>
+                                            emoji
+- Expose DANBOORU_APIKEY and DANBOORU_LOGIN secrets to the Danbooru scraper step
+- Change ShellSpec kcov options to use `--include-path=./src` and `--exclude-pattern=/.` instead of the old include-pattern
+- Add a pre-test hook script for the Docker container to install and verify zsh, bc, jq, and git before running tests
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5f5a306</div>
+                                        <div class="message">ci: install and verify git in test setup
+
+- Extend the pre-test Docker script to install git alongside zsh, bc, and jq on both Debian (apt-get) and Alpine (apk) images and update the related echo messages.
+- Add a post-install check to verify git is available, exiting with an error if the installation fails.
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
@@ -89,19 +133,12 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">copilot/fix-9</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9c4b655</div>
-                                        <div class="message">docs: add comprehensive testing guideline for zsh scripts
+                                        <div class="sha">#25d93a6</div>
+                                        <div class="message">ci: limit kcov coverage to src directory
 
-- Add detailed testing-guideline.md with ShellSpec BDD patterns
-- Include mocking strategies and test structure templates
-- Provide common test patterns and best practices
-- Add debugging tips and coverage requirements
-- Simplify README.md testing section with link to new guide
-
-This provides clear guidance for writing effective BDD tests
-with 85%+ coverage requirement for all zsh scripts.
+- Adjust kcov integration settings: remove the hard-coded include-pattern, set include-path to ./src, and add an exclude-pattern /.
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
@@ -116,65 +153,14 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
+                                        <span class="repo">jim60105/blog</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">copilot/fix-9</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#18d8f17</div>
-                                        <div class="message">test(resize): mock magick command for empty directory case
-
-- Add a mock for the magick command in the test for running without parameters in an empty directory.
-- Add a newline at the end of the file for proper formatting.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">copilot/fix-9</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3ca0082</div>
-                                        <div class="message">chore: remove temp csv
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4be95f</div>
-                                        <div class="message">fix(test): unify ShellSpec heading for all spec/*.sh files
-
-All test scripts now use the standard ShellSpec heading:
-#!/bin/zsh
-
-eval "$(shellspec - -c) exit 1"
-
-This ensures consistent test execution and project style.
-
-Author: GitHub Copilot &lt;bot@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f7138c</div>
-                                        <div class="message">docs: modernize zsh tooling with docs, CI and wordlist
-
-- Expand the VSCode spellchecker word list to include APIKEY, czkawka, Gelbooru, gplv, kcov, magick, and shellspec.
-- Add detailed documentation for validate_dataset.zsh covering requirements (zsh, ImageMagick, czkawka_cli), functionality, usage examples, validation checks, and color-coded output.
-- Enhance scrape_danbooru_aliases.zsh docs with clear requirements, scraping logic, pagination, rate limits, CSV output format, and safety/authentication notes.
-- Clarify testing and CI section by specifying fixtures path, CI triggers (pushes to master, pull requests), coverage threshold enforcement, and zsh-only testing.
-- Consolidate dependency notes and simplify czkawka_cli installation instructions to a single link.
-- Reformat the automated data-update workflow with consistent headings for workflow features and the automated process.
+                                        <div class="sha">#a73bacf</div>
+                                        <div class="message">chore(socials): update email contact to new address
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
