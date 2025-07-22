@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="448" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.categories,.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories{align-items:center;justify-content:space-around;margin-top:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.licenses{display:flex}.licenses .column{align-items:flex-start;font-size:12px;color:#666;flex-shrink:0}.licenses .column:nth-child(1){margin-left:13px;width:25%}.licenses .column:nth-child(2){width:25%}.licenses .column:nth-child(3){width:50%}.licenses .column svg{height:12px;width:12px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,14 +19,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">copilot/fix-16</span>
-                                        in
-                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Recorder-moe/LivestreamRecorderService</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0e6c80b</div>
+                                        <div class="message">chore(ytdlp): change to use POT provider yt-dlp
+
+- Update the documented ENTRYPOINT to use a shell wrapper that launches the Node app before yt-dlp
+- Prepend `node /app/build/main.js &amp;` to the yt-dlp command in the cookie‐copy hack so the main.js runs alongside downloads
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -38,127 +47,96 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Recorder-moe/yt-dlp</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1899d89</div>
+                                        <div class="sha">#b020ec0</div>
+                                        <div class="message">ci: fetch and use latest yt-dlp tag in Docker build
+
+- Add a workflow step that fetches the latest yt-dlp release tag via GitHub’s API and exposes it as an environment variable
+- Replace the hardcoded VERSION build-arg with the dynamically retrieved $VERSION for the Docker build
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">Recorder-moe/yt-dlp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9e35b2e</div>
+                                        <div class="message">ci: fetch and use latest yt-dlp tag in Docker build
+
+- Add a workflow step that fetches the latest yt-dlp release tag via GitHub’s API and exposes it as an environment variable
+- Replace the hardcoded VERSION build-arg with the dynamically retrieved $VERSION for the Docker build
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87faebf</div>
+                                        <div class="message">ci: migrate workflows to Docker Hub and remove Quay
+
+- Add a DOCKERHUB_ORGANIZATION_NAME input to the reusable docker setup action, drop QUAY_USERNAME/TOKEN, remove quay.io from the image list, and delete the Quay login step
+- Delete the entire docker_publish.yml workflow and its multi‐tag build/publish jobs
+- In docker_publish_latest.yml, rename the job to docker-pot, include DOCKERHUB_ORGANIZATION_NAME, switch the build file to pot.Dockerfile, remove registry cache settings, and drop Quay attestations
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d431956</div>
                                         <div class="message">
-                                            feat: introduce class word support in process_txt_files.zsh (#17)
+                                            feat: add POT provider support for enhanced YouTube bot detection bypass (#3)
 
-This PR introduces class word support to `process_txt_files.zsh`,
-enabling enhanced labeling control for AI training datasets by
-supporting both trigger words and optional class words.
+## 概要
 
-##
+這個 PR 加入了 POT (Proof of Origin Token) provider 支援，用於解決 YouTube
+的機器人檢測問題。當使用者遇到 HTTP 403 錯誤或「確認您不是機器人」訊息時，POT provider 可以自動產生原始證明憑證，讓
+yt-dlp 請求看起來更像是來自合法的瀏覽器。
+
+## 主要變更
+
+###
                                             <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3B88C3" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path d="M1.527 13.121c0-.85.544-1.326 1.275-1.326.323 0 .85.255 1.071.561l5.388 7.191h.034v-6.426c0-.85.544-1.326 1.275-1.326.731 0 1.275.476 1.275 1.326v9.655c0 .85-.544 1.325-1.275 1.325-.323 0-.833-.255-1.071-.561L4.11 16.434h-.033v6.341c0 .85-.544 1.325-1.275 1.325-.731 0-1.275-.476-1.275-1.325v-9.654zm11.067.255c0-.85.425-1.479 1.326-1.479h4.215c.816 0 1.207.578 1.207 1.173 0 .578-.407 1.173-1.207 1.173h-2.992v2.481h2.788c.833 0 1.24.578 1.24 1.173 0 .578-.424 1.173-1.24 1.173h-2.788v2.584h3.145c.816 0 1.206.578 1.206 1.173 0 .578-.407 1.173-1.206 1.173h-4.386c-.748 0-1.309-.51-1.309-1.274v-9.35zm7.31.119c-.051-.221-.068-.34-.068-.578 0-.544.459-1.122 1.207-1.122.816 0 1.207.476 1.359 1.224l1.445 7.224h.034l2.21-7.445c.188-.612.697-1.003 1.326-1.003.629 0 1.139.391 1.326 1.003l2.209 7.445h.033l1.445-7.224c.152-.748.545-1.224 1.359-1.224.748 0 1.207.578 1.207 1.122 0 .238-.016.357-.068.578l-2.158 9.281c-.17.714-.73 1.325-1.682 1.325-.834 0-1.48-.544-1.684-1.24l-1.97-6.561H27.4l-1.972 6.561c-.204.696-.851 1.24-1.683 1.24-.952 0-1.514-.611-1.684-1.325l-2.157-9.281z" fill="#FFF"/>
+                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
+                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
+                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
+                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
+                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
+                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
                                             </svg>
-                                            New Features
+                                            新功能
+- **新增 POT provider Docker 變體**：基於
+`brainicism/bgutil-ytdlp-pot-provider` 建立新的 `pot.Dockerfile`
+- **自動憑證產生**：整合
+[bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider)
+來自動處理 POT 憑證
+- **多架構支援**：支援 `linux/amd64` 和 `linux/arm64` 平台
 
-### Directory Name Format Support
-The script now supports two directory naming formats for auto-detection:
-
-1. **Single trigger word**: `1_hydrangea` → trigger: "hydrangea", no
-class word
-   - Output format: `"hydrangea, {processed_content}"`
-
-2. **Trigger + class word**: `1_hydrangea flower` → trigger:
-"hydrangea", class: "flower"
-   - Output format: `"flower, hydrangea, {processed_content}"`
-
-3. **Three or more words**: `1_hydrangea flower plant` → uses first two
-words (trigger: "hydrangea", class: "flower")
-
-### Enhanced Content Processing
-- **Individual word removal**: Both trigger and class words are removed
-independently from content
-- **Compound word preservation**: Preserves compound words like
-`blue_flower` when class word is `flower`
-- **Smart prefix formatting**: 
-  - With class word: `"class_word, trigger_word, content"`
-  - Without class word: `"trigger_word, content"`
-
-##
+###
                                             <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#CCD6DD" d="M31 32c0 2.209-1.791 4-4 4H5c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h22c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#99AAB5" d="M27 24c0 .553-.447 1-1 1H6c-.552 0-1-.447-1-1 0-.553.448-1 1-1h20c.553 0 1 .447 1 1zm-16 4c0 .553-.448 1-1 1H6c-.552 0-1-.447-1-1 0-.553.448-1 1-1h4c.552 0 1 .447 1 1zM27 8c0 .552-.447 1-1 1H6c-.552 0-1-.448-1-1s.448-1 1-1h20c.553 0 1 .448 1 1zm0 4c0 .553-.447 1-1 1H6c-.552 0-1-.447-1-1 0-.553.448-1 1-1h20c.553 0 1 .447 1 1zm0 4c0 .553-.447 1-1 1H6c-.552 0-1-.447-1-1 0-.553.448-1 1-1h20c.553 0 1 .447 1 1zm0 4c0 .553-.447 1-1 1H6c-.552 0-1-.447-1-1 0-.553.448-1 1-1h20c.553 0 1 .447 1 1z"/>
-                                                <path fill="#66757F" d="M31 6.272c-.827-.535-1.837-.579-2.521-.023l-.792.646-1.484 1.211-.1.08-2.376 1.938-11.878 9.686c-.437.357-.793 1.219-1.173 2.074-.378.85-.969 2.852-1.443 4.391-.148.25-1.065 1.846-.551 2.453.52.615 2.326.01 2.568-.076 1.626-.174 3.731-.373 4.648-.58.924-.211 1.854-.395 2.291-.752.008-.006.01-.018.017-.023l11.858-9.666.792-.646.144-.118V6.272z"/>
-                                                <path fill="#D99E82" d="M18.145 22.526s-1.274-1.881-2.117-2.553c-.672-.843-2.549-2.116-2.549-2.116-.448-.446-1.191-.48-1.629-.043-.437.438-.793 1.366-1.173 2.291-.472 1.146-1.276 4.154-1.768 5.752-.083.272.517-.45.503-.21-.01.187.027.394.074.581l-.146.159.208.067c.025.082.05.154.068.21l.159-.146c.187.047.394.084.58.074.24-.014-.483.587-.21.503 1.598-.493 4.607-1.296 5.752-1.768.924-.381 1.854-.736 2.291-1.174.439-.435.406-1.178-.043-1.627z"/>
-                                                <path fill="#EA596E" d="M25.312 4.351c-.876.875-.876 2.293 0 3.168l3.167 3.168c.876.874 2.294.874 3.168 0l3.169-3.168c.874-.875.874-2.293 0-3.168l-3.169-3.168c-.874-.875-2.292-.875-3.168 0l-3.167 3.168z"/>
-                                                <path fill="#FFCC4D" d="M11.849 17.815l3.17 3.17 3.165 3.166 11.881-11.879-6.337-6.336-11.879 11.879z"/>
-                                                <path fill="#292F33" d="M11.298 26.742s-2.06 1.133-2.616.576c-.557-.558.581-2.611.581-2.611s1.951.036 2.035 2.035z"/>
-                                                <path fill="#CCD6DD" d="M23.728 5.935l3.96-3.96 6.336 6.337-3.96 3.96z"/>
-                                                <path fill="#99AAB5" d="M26.103 3.558l.792-.792 6.336 6.335-.792.792zM24.52 5.142l.791-.791 6.336 6.335-.792.792z"/>
+                                                <path fill="#8899A6" d="M27.989 19.977c-.622 0-1.225.078-1.806.213L15.811 9.818c.134-.581.212-1.184.212-1.806C16.023 3.587 12.436 0 8.012 0 7.11 0 5.91.916 6.909 1.915l2.997 2.997s.999 1.998-.999 3.995-3.996.998-3.996.998L1.915 6.909C.916 5.91 0 7.105 0 8.012c0 4.425 3.587 8.012 8.012 8.012.622 0 1.225-.078 1.806-.212l10.371 10.371c-.135.581-.213 1.184-.213 1.806 0 4.425 3.588 8.011 8.012 8.011.901 0 2.101-.916 1.102-1.915l-2.997-2.997s-.999-1.998.999-3.995 3.995-.999 3.995-.999l2.997 2.997c1 .999 1.916-.196 1.916-1.102 0-4.425-3.587-8.012-8.011-8.012z"/>
                                             </svg>
-                                            Example Usage
+                                            基礎建設改進
+- **CI/CD 整合**：新增 `docker-pot` 工作流程以自動建構和發布 POT 變體
+- **安全掃描**：為 POT 映像檔加入 Trivy 漏洞掃描
+- **映像檔證明**：為所有容器登錄表加入建構證明
 
-```bash
-# Directory: 3_hydrangea flower
-# Input content: "blue_flower, nature, garden, flower_crown"
-# Output: "flower, hydrangea, blue_flower, nature, garden, head_wreath"
-```
-
-Note how:
-- Standalone `flower` is removed from content
-- Compound `blue_flower` is preserved
-- `flower_crown` becomes `head_wreath` via tag aliases
-- Prefix follows `"class, trigger, content"` format
-
-##
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3B88C3" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M22.242 22.242l2.829 2.829c-3.905 3.905-10.237 3.904-14.143-.001-2.247-2.246-3.194-5.296-2.854-8.225l-4.037.367c-.215 3.84 1.128 7.752 4.062 10.687 5.467 5.467 14.333 5.468 19.799 0l2.828 2.828.849-9.334-9.333.849zM27.899 8.1C22.431 2.633 13.568 2.633 8.1 8.1L5.272 5.272l-.849 9.334 9.334-.849-2.829-2.829c3.906-3.905 10.236-3.905 14.142 0 2.248 2.247 3.194 5.297 2.856 8.226l4.036-.366c.216-3.841-1.128-7.753-4.063-10.688z"/>
-                                            </svg>
-                                            Backward Compatibility
-
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            All existing functionality preserved
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Single parameter mode unchanged: `process_txt_files.zsh
-"my_trigger"`
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Auto-detection for single words unchanged: `1_hydrangea` works
-exactly as before
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            All existing tests pass
-
-##
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#CCD6DD" d="M14.563 14.414L25.47 3.505l6.961 6.962-10.908 10.908z"/>
-                                                <path fill="#68E090" d="M8.103 34.399C2.5 34 1.5 30.062 1.635 27.932c.322-5.07 15.601-16.551 15.601-16.551l12.517 1.93c.001 0-17.389 21.392-21.65 21.088z"/>
-                                                <path fill="#8899A6" d="M32.326 3.708C29.405.787 26.104-.649 24.954.502c-.013.013-.022.031-.034.044-.006.006-.015.008-.021.014L2.295 23.164c-1.412 1.412-2.19 3.29-2.19 5.288 0 1.997.778 3.875 2.19 5.287 1.413 1.413 3.291 2.19 5.288 2.19 1.998 0 3.875-.777 5.287-2.189l22.604-22.604c.007-.007.009-.016.015-.023.013-.012.03-.02.043-.033 1.151-1.15-.285-4.451-3.206-7.372zM10.75 31.619c-.846.846-1.97 1.311-3.166 1.311s-2.321-.466-3.167-1.312c-.846-.846-1.312-1.97-1.312-3.167 0-1.196.466-2.32 1.311-3.166L25.412 4.29c.622 1.144 1.56 2.394 2.749 3.584 1.189 1.189 2.44 2.127 3.584 2.749L10.75 31.619z"/>
-                                                <path fill="#17BF63" d="M29.196 13.144c-.058.379-2.627.751-5.691.343-3.063-.408-5.482-1.223-5.403-1.82.08-.597 2.627-.751 5.691-.343s5.495 1.224 5.403 1.82zM10.84 23.247c-.31.31-.813.31-1.123 0-.31-.31-.31-.813 0-1.123.31-.31.813-.31 1.123 0 .31.31.31.813 0 1.123zm3.317 2.615c-.507.507-1.328.506-1.835 0-.506-.506-.506-1.328 0-1.834.507-.507 1.328-.506 1.834 0 .507.506.508 1.327.001 1.834zm1.677-5.324c-.476.476-1.25.476-1.726 0s-.476-1.249 0-1.726c.476-.476 1.249-.477 1.725 0 .478.477.478 1.25.001 1.726zm-6.868 8.858c-.581.581-1.524.581-2.105 0-.582-.582-.581-1.524 0-2.105s1.523-.581 2.105 0c.581.581.582 1.523 0 2.105zm11.396-9.158c-.413.413-1.083.413-1.496 0-.413-.413-.412-1.083.001-1.496.414-.414 1.083-.414 1.496-.001.413.414.413 1.083-.001 1.497zm-1.207-4.288c-.27.27-.708.27-.979 0-.27-.27-.27-.708 0-.979.27-.27.708-.271.979 0 .27.271.27.709 0 .979z"/>
-                                                <ellipse transform="rotate(-45.001 30.817 5.223)" fill="#CCD6DD" cx="30.817" cy="5.223" rx="1.184" ry="4.847"/>
-                                            </svg>
-                                            Testing
-
-- **7 new comprehensive class word tests** covering all functionality
-- **6 existing basic functionality tests** all continue to pass
-- **Updated error handling tests** with improved exit codes
-- **Full manual testing** validated with real examples
-
-##
+###
                                             <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
                                                 <path fill="#553788" d="M15 31c0 2.209-.791 4-3 4H5c-4 0-4-14 0-14h7c2.209 0 3 1.791 3 4v6z"/>
                                                 <path fill="#9266CC" d="M34 33h-1V23h1c.553 0 1-.447 1-1s-.447-1-1-1H10c-4 0-4 14 0 14h24c.553 0 1-.447 1-1s-.447-1-1-1z"/>
@@ -173,194 +151,137 @@ exactly as before
                                                 <path fill="#CCD6DD" d="M35.172 19H16c-2 0-2-5 0-5h19.172c1.104 0 1.104 5 0 5z"/>
                                                 <path fill="#99AAB5" d="M16 16h19.984c-.065-1.062-.334-2-.812-2H16c-1.274 0-1.733 2.027-1.383 3.5.198-.839.657-1.5 1.383-1.5z"/>
                                             </svg>
-                                            Implementation Details
+                                            文件更新
+- **README 更新**：加入 POT provider 的詳細說明和使用指南
+- **建構指令**：更新建構指令範例，包含 POT provider 變體
+- **使用案例說明**：解釋何時和為何使用 POT provider
 
-### Core Functions Added
-- `extract_trigger_and_class_from_path()` - Parses directory names for
-both words
-- `get_trigger_and_class_words()` - Unified logic for
-parameter/auto-detection handling
-- `remove_class_word_from_content()` - Removes class words using
-existing tag logic
-- `add_prefix_to_content()` - Formats output based on word availability
-
-### Updated Functions
-- `process_content()` - Now accepts class word parameter
-- `process_single_file()` - Passes class word through processing
-pipeline
-- `main()` - Handles both trigger and class words throughout execution
-
-### Error Handling Improvements
-- Proper early exit on invalid parameters
-- Consistent error messaging
-- Better validation flow
-
-##
+###
                                             <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#269" d="M32 7H4c-2.209 0-4 1.791-4 4v15c0 2.209 1.791 4 4 4h11.416c.52.596 1.477 1 2.584 1s2.065-.404 2.584-1H32c2.209 0 4-1.791 4-4V11c0-2.209-1.791-4-4-4z"/>
-                                                <path fill="#292F33" d="M20 27c0 1.104-.896 2-2 2s-2-.896-2-2V9c0-1.104.896-2 2-2s2 .896 2 2v18z"/>
-                                                <path fill="#99AAB5" d="M18 26c0 1.104-.896 2-2 2H4c-1.104 0-2-.896-2-2V8c0-1.104.896-2 2-2h12c1.104 0 2 .896 2 2v18z"/>
-                                                <path fill="#E1E8ED" d="M18 26c-.999-1.998-3.657-2-4-2-2 0-5 2-8 2-1 0-2-.896-2-2V8c0-1.104 1-2 2-2 3.255 0 6-2 8-2 3 0 4 1.896 4 3v19z"/>
-                                                <path fill="#99AAB5" d="M34 26c0 1.104-.896 2-2 2H20c-1.104 0-2-.896-2-2V8c0-1.104.896-2 2-2h12c1.104 0 2 .896 2 2v18z"/>
-                                                <path fill="#CCD6DD" d="M18 26c.999-1.998 3.657-2 4-2 2 0 5 2 8 2 1 0 2-.896 2-2V8c0-1.104-1-2-2-2-3.256 0-6-2-8-2-3 0-4 1.896-4 3v19z"/>
+                                                <path fill="#66757F" d="M28.25 8.513c0-.145-.117-.263-.263-.263h-.475c-.145 0-.263.118-.263.263v11.475c0 .145.117.263.263.263h.475c.145 0 .263-.117.263-.263V8.513z"/>
+                                                <g fill="#F19020">
+                                                    <circle cx="27.75" cy="19.75" r="1.5"/>
+                                                    <circle cx="27.75" cy="22.25" r="1"/>
+                                                </g>
+                                                <path fill="#BD2032" d="M33.25 8.25h-4.129L9.946.29 9.944.289h-.001c-.016-.007-.032-.005-.047-.01C9.849.265 9.802.25 9.75.25h-.002c-.066 0-.13.014-.19.038-.045.02-.084.05-.122.082-.012.009-.026.014-.037.025-.047.046-.085.102-.11.164V.56c-.004.009-.003.02-.006.029l-5.541 7.81c-.003.004-.003.01-.006.014-.285.176-.486.477-.486.837v2c0 .552.448 1 1 1h1.495L2.031 34H.25v2h18.958v-2h-1.74l-3.713-21.75H33.25c.553 0 1-.448 1-1v-2c0-.552-.447-1-1-1zm-21.769 4L9.75 13.639 8.02 12.25h3.461zM9.75 21.3l3.667 2.404-3.667 2-3.667-2L9.75 21.3zm-3.639.71l.474-2.784 1.866 1.223-2.34 1.561zm4.938-1.561l1.87-1.225.477 2.789-2.347-1.564zm-1.299-.866l-2.828-1.885 2.828-2.322 2.828 2.322-2.828 1.885zm-2.563-3.887l.362-2.127 1.131.928-1.493 1.199zm3.633-1.198l1.132-.929.364 2.13-1.496-1.201zM5.073 8.25L9.25 2.362V6.25h-2c-.552 0-1 .448-1 1v1H5.073zm.53 16.738l2.73 1.489-3.29 1.794.56-3.283zM15.443 34H4.067l.686-4.024L9.75 27.25l5.006 2.731.687 4.019zm-1.54-9.015l.562 3.291-3.298-1.799 2.736-1.492zM13.25 8.25v-1c0-.552-.448-1-1-1h-2V1.499L26.513 8.25H13.25zm2 3h-1.16v-2h1.16v2zm3 0h-2v-2h2v2zm3 0h-2v-2h2v2zm3 0h-2v-2h2v2zm3 0h-2v-2h2v2zm3 0h-2v-2h2v2zm3-.5c0 .276-.224.5-.5.5h-1.5v-2h1.5c.276 0 .5.224.5.5v1z"/>
+                                                <path fill="#4B545D" d="M12.25 7.25h-2c-.552 0-1 .448-1 1v2c0 .552.448 1 1 1h3v-4h-1z"/>
+                                                <path fill="#CDD7DF" d="M11.25 7.25h2v4h-2z"/>
+                                                <path fill="#66757F" d="M34.844 24v-1H20.656v1h.844v2.469h-.844v1h14.188v-1H34V24z"/>
                                             </svg>
-                                            Documentation
+                                            版本更新
+- 將所有 Dockerfile 中的 yt-dlp 版本統一更新至 `2025.06.30`
 
-Updated README.md with:
-- Comprehensive usage examples
-- Directory naming format explanations  
-- Processing behavior details
-- Complete feature overview
+## 技術細節
 
-Fixes #16.
+### POT Provider 架構
+- 使用 `brainicism/bgutil-ytdlp-pot-provider:1.1.0` 作為基礎映像檔
+- 在背景執行 Node.js POT 服務
+- 使用 `dumb-init` 作為 PID 1 來正確處理訊號
+- yt-dlp 在前景執行，POT 服務在背景提供憑證
+
+### 檔案變更摘要
+- 新增 `pot.Dockerfile` - POT provider 變體的 Dockerfile
+- 更新 `.github/workflows/docker_publish.yml` - 加入 POT 映像檔建構工作流程
+- 更新 `.github/workflows/scan.yml` - 加入 POT 映像檔安全掃描
+- 更新 `README.md` - 加入 POT provider 文件和使用指南
+- 更新所有 Dockerfile 版本號至 `2025.06.30`
+
+## 使用方式
+
+```bash
+# 標準用法
+docker run -it -v ".:/download" ghcr.io/jim60105/yt-dlp:pot [OPTIONS] [--] URL [URL...]
+
+# 建構本地映像檔
+docker build --build-arg BUILD_VERSION=2025.06.30 --build-arg POT_PROVIDER_VERSION=1.1.0 -f ./pot.Dockerfile -t yt-dlp:pot .
+```
+
+## 測試
+
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            本地建構測試通過
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            多架構建構支援
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            CI/CD 工作流程驗證
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            安全掃描整合
+
+## 注意事項
+
+&gt; **警告**: 提供 PO 憑證並不保證能繞過 403 錯誤或機器人檢查，但可能有助於讓流量看起來更像是來自合法的客戶端。
+
+POT provider 作為容器內的背景服務執行，會在需要時自動向 yt-dlp 提供憑證，無需額外設定。
+
+## 相關連結
+
+-
+[bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider)
+- [yt-dlp POT 相關討論](https://github.com/yt-dlp/yt-dlp/issues)
+
+---
+
+這個 PR 為經常遇到 YouTube 機器人檢測問題的使用者提供了一個新的解決方案，同時保持與現有 Docker 映像檔變體的一致性和相容性。
                                         </div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#74bcb29</div>
-                                        <div class="message">refactor: structure process_txt_files specs into dedicated folder
+                                        <div class="sha">#080e654</div>
+                                        <div class="message">build: bump VERSION to 2025.06.30 in all Dockerfiles
 
-- Group all process_txt_files tests under spec/process_txt_files/
-- Rename spec files to match specific behavior categories (basic, parameters, trigger logic, class word, coverage, functional)
-- Updated Describe headers and file paths to reflect new layout
-- Preserved all existing tests and coverage metrics
+- Bump the VERSION build argument from 2024.11.04 to 2025.06.30 across all Dockerfiles.
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c8bb1a0</div>
-                                        <div class="message">test: deduplicate process_txt_files.zsh test cases, keep only unique and coverage-relevant tests
+                                        <div class="sha">#d938925</div>
+                                        <div class="message">feat(pot): pin yt-dlp version for reproducible builds
 
-- Remove redundant empty directory, multi-file, and parentheses tests from basic/functional/spec files
-- Keep only smoke test in process_txt_files_spec.sh and process_txt_files_functional_spec.sh
-- Remove trigger/class word extraction tests already covered elsewhere
-- Ensure coverage remains unchanged at 77.15% with 0 failures
-
-Resolves #16
+- Update the VERSION build argument to a specific date (2025.06.30) and modify the yt-dlp download URL to use this VERSION for reproducible builds.
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bcf40b6</div>
-                                        <div class="message">refactor: remove legacy functions
+                                        <div class="sha">#e3b6611</div>
+                                        <div class="message">docs(readme): add usage and details for POT provider Dockerfile
 
-- Remove legacy trigger-only extraction and prompting functions (`extract_trigger_from_path`, `prompt_for_trigger`, `get_trigger_word`)
-- Simplify path-based parsing by keeping only `extract_trigger_and_class_from_path`
-- Consolidate user input logic under the existing `prompt_for_words`, dropping backward compatibility code
+- Update the README to add details about the new POT provider Dockerfile variant, including its purpose, usage, build arguments, and how it helps bypass YouTube's bot detection, along with updating build instructions, Dockerfile count, and relevant version numbers.
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#68842ea</div>
-                                        <div class="message">test: migrate all process_txt_files.zsh non-error log assertions to stdout
+                                        <div class="sha">#ca9ee3a</div>
+                                        <div class="message">ci: publish pot image and scan for vulnerabilities
 
-- Refactor all related spec files to expect non-error logs in output, not stderr
-- Ensure all ShellSpec tests pass after log redirection and assertion updates
-- Standardize logging and test behavior for future maintainability
-
-Resolves #16
+- Introduce a new docker-pot job in the publish workflow that checks out code (with submodules), reuses setup steps for Docker/Quay credentials, builds and pushes a pot-tagged multi-arch image from pot.Dockerfile with registry caching, SBOM and provenance, and then adds attestations for GHCR, DockerHub and Quay
+- Add a Trivy scan step for the pot image in the security scan workflow to generate a vulnerability report (critical/high)
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d52d298</div>
-                                        <div class="message">fix: resolve all warnings and failures in coverage tests
+                                        <div class="sha">#f7cac80</div>
+                                        <div class="message">feat: provide bgutil-ytdlp in lean Docker image
 
-- Fix 14 warnings by adding proper stdout output expectations to all test cases
-- Fix 7 failures by correcting test logic and expected values:
-  * Fix error handling test expectations for missing aliases file
-  * Fix empty trigger word validation test output expectations
-  * Fix too many parameters test to only check error message
-  * Fix class word removal test to account for tag alias transformations
-  * Fix tag splitting test execution order issues
-  * Fix process_single_file test content expectations
-- All 31 test cases now pass without warnings or failures
-- Ensures comprehensive test coverage for process_txt_files.zsh functionality
-
-Resolves syntax and logic issues in process_txt_files_coverage_spec.sh
+- Extend VSCode spell-checker dictionary by adding “bgutil” and “ytdlp” and fixing the trailing comma after “Trivy”
+- Introduce a new multi-stage Dockerfile that downloads and unpacks the bgutil-ytdlp-pot-provider, then builds a final image from its base, creating a dedicated user and setting directory permissions
+- In the final image, copy licenses, static ffmpeg/ffprobe and dumb-init binaries, install the latest yt-dlp, and configure the entrypoint to launch the provider node script in the background alongside yt-dlp with proper signal handling
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bad2fd</div>
-                                        <div class="message">Fix final test warnings and failures by correcting stdout expectations
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f00b397</div>
-                                        <div class="message">Fix remaining syntax errors and misplaced expectations in class word tests
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#758f753</div>
-                                        <div class="message">Fix stdout expectations and structure in class word tests
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48fb820</div>
-                                        <div class="message">Add systematic stderr and stdout expectations to coverage tests
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#289dc47</div>
-                                        <div class="message">Fix warnings in class word tests by adding stderr expectations
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5227da3</div>
-                                        <div class="message">ci(shellspec): enforce strict warnings and coverage thresholds
-
-- Enable warnings as failures and fail on low coverage in the ShellSpec config.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f71e85c</div>
-                                        <div class="message">ci: fail CI on test warnings to maintain build quality
-
-- Add checklist item requiring no warnings or errors in test output, treating warnings as errors and causing CI to fail.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65ac5ca</div>
-                                        <div class="message">docs: enforce strict docs and shell testing standards
-
-- Emphasize repeatedly that contributors must thoroughly read the relevant language guidelines, warning of high failure risk otherwise.
-- Add instruction to install uv for Python scripts via `curl -LsSf https://astral.sh/uv/install.sh | sh`.
-- Strengthen zsh scripting rules to mandate tests-first (TDD) and explicitly require verifying shellspec &amp; kcov installation, using Docker/podman if needed, and incessantly urge reading the docs.
-- Fix formatting in zsh guidelines by inserting a blank line after the YAML frontmatter.
-- Overhaul zsh testing docs: remove the original pitfalls and checklist, add a new Coverage Guide with a 75% target, report viewing, and uncovered‐line analysis, then reintroduce common pitfalls and a testing checklist at the end.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#399bf48</div>
-                                        <div class="message">Add comprehensive coverage tests for process_txt_files.zsh to reach 80%+ coverage
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e90f4d</div>
-                                        <div class="message">Update README.md with comprehensive class word documentation
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022bd09</div>
-                                        <div class="message">Fix error handling and add comprehensive class word tests
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f15ab63</div>
-                                        <div class="message">Implement class word support in process_txt_files.zsh
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -369,16 +290,15 @@ Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#16 Introduce class word support in process_txt_files.zsh</span>
+                                        Created new
+                      tag
+                                        <span class="code">2025.06.30</span>
+                                        in
+                                        <span class="repo">jim60105/docker-yt-dlp</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by bot0419 in <span class="repo">jim60105/image-dataset-prep-tools</span></div>
                                 </div>
                             </section>
                         </div>
@@ -386,190 +306,14 @@ Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#17 Introduce class word support in process_txt_files.zsh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Copilot in <span class="repo">jim60105/image-dataset-prep-tools</span></div>
-                                    <div>14 files changed <span class="code">++1267 --282</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">jim60105/image-dataset-prep-tools</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">copilot/fix-16</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#74bcb29</div>
-                                        <div class="message">refactor: structure process_txt_files specs into dedicated folder
-
-- Group all process_txt_files tests under spec/process_txt_files/
-- Rename spec files to match specific behavior categories (basic, parameters, trigger logic, class word, coverage, functional)
-- Updated Describe headers and file paths to reflect new layout
-- Preserved all existing tests and coverage metrics
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8bb1a0</div>
-                                        <div class="message">test: deduplicate process_txt_files.zsh test cases, keep only unique and coverage-relevant tests
-
-- Remove redundant empty directory, multi-file, and parentheses tests from basic/functional/spec files
-- Keep only smoke test in process_txt_files_spec.sh and process_txt_files_functional_spec.sh
-- Remove trigger/class word extraction tests already covered elsewhere
-- Ensure coverage remains unchanged at 77.15% with 0 failures
-
-Resolves #16
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcf40b6</div>
-                                        <div class="message">refactor: remove legacy functions
-
-- Remove legacy trigger-only extraction and prompting functions (`extract_trigger_from_path`, `prompt_for_trigger`, `get_trigger_word`)
-- Simplify path-based parsing by keeping only `extract_trigger_and_class_from_path`
-- Consolidate user input logic under the existing `prompt_for_words`, dropping backward compatibility code
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68842ea</div>
-                                        <div class="message">test: migrate all process_txt_files.zsh non-error log assertions to stdout
-
-- Refactor all related spec files to expect non-error logs in output, not stderr
-- Ensure all ShellSpec tests pass after log redirection and assertion updates
-- Standardize logging and test behavior for future maintainability
-
-Resolves #16
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d52d298</div>
-                                        <div class="message">fix: resolve all warnings and failures in coverage tests
-
-- Fix 14 warnings by adding proper stdout output expectations to all test cases
-- Fix 7 failures by correcting test logic and expected values:
-  * Fix error handling test expectations for missing aliases file
-  * Fix empty trigger word validation test output expectations
-  * Fix too many parameters test to only check error message
-  * Fix class word removal test to account for tag alias transformations
-  * Fix tag splitting test execution order issues
-  * Fix process_single_file test content expectations
-- All 31 test cases now pass without warnings or failures
-- Ensures comprehensive test coverage for process_txt_files.zsh functionality
-
-Resolves syntax and logic issues in process_txt_files_coverage_spec.sh
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bad2fd</div>
-                                        <div class="message">Fix final test warnings and failures by correcting stdout expectations
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f00b397</div>
-                                        <div class="message">Fix remaining syntax errors and misplaced expectations in class word tests
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#758f753</div>
-                                        <div class="message">Fix stdout expectations and structure in class word tests
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48fb820</div>
-                                        <div class="message">Add systematic stderr and stdout expectations to coverage tests
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#289dc47</div>
-                                        <div class="message">Fix warnings in class word tests by adding stderr expectations
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5227da3</div>
-                                        <div class="message">ci(shellspec): enforce strict warnings and coverage thresholds
-
-- Enable warnings as failures and fail on low coverage in the ShellSpec config.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f71e85c</div>
-                                        <div class="message">ci: fail CI on test warnings to maintain build quality
-
-- Add checklist item requiring no warnings or errors in test output, treating warnings as errors and causing CI to fail.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65ac5ca</div>
-                                        <div class="message">docs: enforce strict docs and shell testing standards
-
-- Emphasize repeatedly that contributors must thoroughly read the relevant language guidelines, warning of high failure risk otherwise.
-- Add instruction to install uv for Python scripts via `curl -LsSf https://astral.sh/uv/install.sh | sh`.
-- Strengthen zsh scripting rules to mandate tests-first (TDD) and explicitly require verifying shellspec &amp; kcov installation, using Docker/podman if needed, and incessantly urge reading the docs.
-- Fix formatting in zsh guidelines by inserting a blank line after the YAML frontmatter.
-- Overhaul zsh testing docs: remove the original pitfalls and checklist, add a new Coverage Guide with a 75% target, report viewing, and uncovered‐line analysis, then reintroduce common pitfalls and a testing checklist at the end.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#399bf48</div>
-                                        <div class="message">Add comprehensive coverage tests for process_txt_files.zsh to reach 80%+ coverage
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e90f4d</div>
-                                        <div class="message">Update README.md with comprehensive class word documentation
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022bd09</div>
-                                        <div class="message">Fix error handling and add comprehensive class word tests
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f15ab63</div>
-                                        <div class="message">Implement class word support in process_txt_files.zsh
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2d48c0</div>
-                                        <div class="message">feat: add animated SVG banner for project branding
-
-- Add a complex, animated SVG banner to assets/banner.svg
-- Insert banner at the top of README.md using Markdown image syntax
-- Banner visualizes image processing, tag flow, API, and AI pipeline in dark/blue theme
-
-This enhances project identity and visual appeal for new contributors and users.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                        Deleted
+                      tag
+                                        <span class="code">2025.06.30</span>
+                                        in
+                                        <span class="repo">jim60105/docker-yt-dlp</span>
                                     </div>
                                 </div>
                             </section>
@@ -582,74 +326,12 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    28 Languages
+                    14 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
-                    <mask id="languages-bar">
-                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
-                    </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.7577459519981" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="147.7577459519981" y="0" width="81.81146299582015" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="229.56920894781825" y="0" width="78.78533374362627" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="308.3545426914445" y="0" width="41.77782401314197" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="350.1323667045865" y="0" width="38.42448693112298" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.5568536357095" y="0" width="31.770283345373688" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="420.3271369810832" y="0" width="21.53477268063064" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="441.8619096617138" y="0" width="18.13809033828621" height="8" fill="#3178c6"/>
-                </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Rust
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
                 </div>
             </section>
         </div>
