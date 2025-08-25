@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="530" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="418" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.categories,.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories{align-items:center;justify-content:space-around;margin-top:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,188 +19,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
+                                        Closed
+                                        <span class="issue">#9 建立完整測試框架與 TDD 開發流程</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#41fd437</div>
-                                        <div class="message">
-                                            feat: implement complete Rust project infrastructure for POT provider (#3)
-
-This PR establishes the complete Rust project infrastructure for the
-BgUtils POT Provider, setting up the foundation for rewriting the
-TypeScript implementation to Rust.
-
-## What was implemented
-
-### Core Project Structure
-- **Cargo.toml**: Complete project configuration with all necessary
-dependencies (Axum, Tokio, Serde, Clap, etc.)
-- **Module Architecture**: Organized into logical modules matching the
-TypeScript reference implementation:
-  - `config`: Settings management with environment variable support
-  - `error`: Comprehensive error handling using `thiserror`
-  - `types`: Request/response structures matching the existing API
-- `session`: Session manager with caching and placeholder token
-generation
-  - `server`: HTTP server implementation using Axum framework
-  - `utils`: Version information and utility functions
-
-### Binary Entry Points
-- **bgutil-pot-server**: HTTP server mode (default port 4416, equivalent
-to `main.ts`)
-- **bgutil-pot-generate**: Script mode for one-time token generation
-(equivalent to `generate_once.ts`)
-
-Both binaries include proper CLI argument parsing and help
-documentation.
-
-### Development Environment
-- **Testing Infrastructure**: Comprehensive unit and integration tests
-with 25 passing tests
-- **Quality Assurance**: All quality checks pass (compilation,
-formatting, linting, documentation)
-- **Development Tools**: VS Code configuration, Cargo settings, updated
-.gitignore
-- **Documentation**: Complete rustdoc documentation for all public APIs
-
-### API Compatibility
-The Rust implementation maintains API compatibility with the TypeScript
-version:
-
-```rust
-// POST /get_pot endpoint with matching request structure
-{
-  "content_binding": "video_id",
-  "proxy": "http://proxy:8080", 
-  "bypass_cache": false
-}
-
-// Response matches TypeScript format
-{
-  "poToken": "generated_token",
-  "contentBinding": "video_id", 
-  "expiresAt": "2025-01-01T00:00:00Z"
-}
-```
-
-## Quality Metrics
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            All 8 quality checks pass
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            25 unit tests pass
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Zero clippy warnings
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Complete documentation coverage
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            Cargo nextest compatibility
-
-The project is now ready for implementing the actual POT token
-generation logic using BgUtils integration, while maintaining the
-existing API surface and operational modes.
-
-Fixes #2.
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbfbfc3</div>
-                                        <div class="message">build(devcontainer): switch devcontainer base from Python to Rust
-
-- Switches the devcontainer configuration from Python to Rust, updates the base image and installed features accordingly, adjusts mounts for environment files, enhances Rust toolchain setup with additional tools, and updates VS Code extensions to focus on Rust and testing support.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de538b2</div>
-                                        <div class="message">test(nextest): introduce custom profiles for flexible test runs
-
-- Add a nextest configuration file specifying custom test profiles for local development, CI, quick, and full test runs, including timeout, concurrency, retries, and reporting options.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f99b1e</div>
-                                        <div class="message">fix: resolve code formatting and script permissions issues
-
-- Fix Rust code formatting issues in server and session modules
-- Correct import statement ordering in app.rs, handlers.rs, and manager.rs
-- Add execute permissions to install_plugin_dev.sh script
-- Ensure all quality checks pass (8/8 tests passed)
-- Maintain 77.81% test coverage above 75% threshold
-
-All styling and permission issues have been resolved.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b5fdbf</div>
-                                        <div class="message">chore(cargo): update author information to add Brian Le and change the email for Jim Chen
-
-- Update author information to add Brian Le and change the email for Jim Chen.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d3eb63</div>
-                                        <div class="message">chore(rust): update config files and dependencies for 2024 edition
-
-- Remove Cargo.lock from the ignore list and add patterns to ignore environment variable files, log files, and JUnit XML test results.
-- Add a new .llvm-cov.toml configuration file to specify code coverage settings, including file exclusions, output formats, and report directories.
-- Add the Cargo.lock file, capturing all current dependency versions for the Rust project and recording a complete lock of the dependency graph.
-- Update Rust edition to 2024, revise package metadata, expand categories, add exclusions, and enhance documentation and lint configurations. Dependencies are updated to newer versions with additional features, and new development and packaging settings are included.
-- Add rustfmt configuration file setting edition to 2024 and max line width to 100.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90aac58</div>
-                                        <div class="message">feat: implement complete Rust project infrastructure
-
-Set up comprehensive Rust project structure with all core modules,
-binary entry points, configuration, error handling, and testing.
-
-- Create main Cargo.toml with dependencies and metadata
-- Implement core module structure (config, error, types, session, server, utils)
-- Add HTTP server and script mode binary entry points
-- Set up comprehensive test infrastructure with unit and integration tests
-- Configure development environment (.vscode, .cargo, .gitignore)
-- All quality checks pass (cargo check, fmt, clippy, doc, nextest)
-
-Ready for implementation of actual POT token generation logic.
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbe858c</div>
-                                        <div class="message">Initial plan</div>
-                                    </div>
+                                    <div>opened by bot0419 in <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span></div>
                                 </div>
                             </section>
                         </div>
@@ -213,7 +41,7 @@ Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">copilot/fix-2</span>
+                                        <span class="code">copilot/fix-9</span>
                                         in
                                         <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
                                     </div>
@@ -224,16 +52,134 @@ Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#2 設定 Rust 專案基礎架構</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by bot0419 in <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6309540</div>
+                                        <div class="message">feat: Enhance testing framework with professional tools and TDD workflow (#19)
+
+This PR implements a comprehensive testing framework enhancement to
+establish professional TDD practices and improve code quality assurance
+for the Rust POT provider implementation.
+
+## Professional Testing Tools Integration
+
+Added industry-standard testing dependencies to enhance the development
+workflow:
+
+- **wiremock 0.6**: HTTP service mocking for reliable integration
+testing
+- **pretty_assertions 1.4**: Enhanced test output with clear visual
+diffs
+- **rstest 0.22**: Parameterized testing framework for comprehensive
+coverage
+- **fake 2.9**: Test data generation for realistic testing scenarios
+- **serde_path_to_error 0.1**: Improved JSON deserialization error
+diagnostics
+
+## Enhanced Test Infrastructure
+
+Expanded `tests/common/mod.rs` with comprehensive test utilities:
+
+```rust
+// Configuration factories for different scenarios
+let settings = TestConfig::minimal();
+let proxy_settings = TestConfig::with_proxy("http://proxy:8080");
+let offline_settings = TestConfig::offline();
+
+// Mock data generation
+let request = MockData::pot_request();
+let response = MockData::pot_response();
+
+// HTTP service mocking
+let mock_server = MockServerFactory::new().await;
+MockServerFactory::setup_botguard_challenge(&amp;mock_server).await;
+```
+
+## API Compatibility Contract Tests
+
+Created dedicated contract tests ensuring the Rust implementation
+maintains full API compatibility with the TypeScript version:
+
+- JSON schema validation for all request/response types
+- Field name consistency verification (`poToken` vs `po_token`)
+- Serialization/deserialization round-trip testing
+- Optional field handling validation
+
+These tests prevent API regressions and ensure seamless interoperability
+between implementations.
+
+## TDD Documentation and Practices
+
+Enhanced `docs/testing-guidelines.md` with comprehensive TDD guidance:
+
+- Complete Red-Green-Refactor cycle examples
+- Module development strategy using dependency injection
+- Professional testing tools usage patterns
+- Best practices for async testing and mocking
+
+## Quality Assurance Enhancements
+
+Updated `scripts/quality_check.sh` with benchmark validation logic that
+properly handles external API safety concerns. The script now:
+
+- Detects and warns about benchmark directories/configurations
+- Explains why performance benchmarks are disabled (external API DOS
+prevention)
+- Maintains comprehensive quality checks while respecting external
+service constraints
+
+## Performance Benchmark Policy
+
+**Intentionally excluded performance benchmarks** as specified in the
+requirements. The core functionality involves external API calls to
+Google's BotGuard system, making performance testing equivalent to
+denial-of-service attacks. This decision prioritizes responsible
+development practices over performance metrics.
+
+## Results
+
+- **185 tests** now passing (added 8 new contract tests)
+- **87.38% test coverage** maintained (exceeds 75% requirement)
+- **All quality checks** passing with enhanced validation
+- **Zero regressions** introduced
+- **Full TypeScript API compatibility** verified
+
+The enhanced testing framework provides a solid foundation for continued
+TDD development while maintaining the project's high quality standards
+and external API safety requirements.
+
+Fixes #9.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bbebe28</div>
+                                        <div class="message">feat: Enhance testing framework with professional tools and TDD workflow
+
+- Add professional testing dependencies (wiremock, pretty_assertions, rstest, fake, serde_path_to_error)
+- Enhance tests/common/mod.rs with comprehensive test utilities:
+  * TestConfig factory for different scenarios
+  * MockData factory for test data generation
+  * MockServerFactory for HTTP service mocking
+  * TestUtils for async testing utilities
+- Create contract tests for API compatibility with TypeScript version
+- Update docs/testing-guidelines.md with TDD practices and professional testing tools
+- Enhance scripts/quality_check.sh with benchmark validation
+- All 185 tests passing, coverage remains at 87.38%
+- No performance benchmarks implemented (external API safety)
+
+Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#675c3ff</div>
+                                        <div class="message">Initial plan</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -245,12 +191,12 @@ Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#3 feat: implement complete Rust project infrastructure for POT provider</span>
+                                        <span class="issue">#19 feat: Enhance testing framework with professional tools and TDD workflow</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by Copilot in <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span></div>
-                                    <div>29 files changed <span class="code">++4024 --23</span></div>
+                                    <div>8 files changed <span class="code">++826 --7</span></div>
                                 </div>
                             </section>
                         </div>
@@ -258,31 +204,15 @@ Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
+                                        Reviewed
+                                        <span class="issue">#19 feat: Enhance testing framework with professional tools and TDD workflow</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">copilot/fix-2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dbfbfc3</div>
-                                        <div class="message">build(devcontainer): switch devcontainer base from Python to Rust
-
-- Switches the devcontainer configuration from Python to Rust, updates the base image and installed features accordingly, adjusts mounts for environment files, enhances Rust toolchain setup with additional tools, and updates VS Code extensions to focus on Rust and testing support.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de538b2</div>
-                                        <div class="message">test(nextest): introduce custom profiles for flexible test runs
-
-- Add a nextest configuration file specifying custom test profiles for local development, CI, quick, and full test runs, including timeout, concurrency, retries, and reporting options.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
+                                    <div>opened by Copilot in <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span></div>
                                 </div>
                             </section>
                         </div>
@@ -304,14 +234,14 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="136.743568988978" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="136.743568988978" y="0" width="74.89333859116832" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="211.6369075801463" y="0" width="73.85901738155493" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="285.49592496170123" y="0" width="51.74495046782192" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="337.24087542952316" y="0" width="46.529437606232264" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="383.7703130357554" y="0" width="31.748156622947942" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="415.5184696587034" y="0" width="26.46929463290064" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="441.98776429160404" y="0" width="18.012235708395977" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="133.84401154288176" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="133.84401154288176" y="0" width="82.00171700048438" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="215.84572854336614" y="0" width="73.30527460263416" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="289.1510031460003" y="0" width="50.64773282507523" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="339.7987359710755" y="0" width="45.542811483546394" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.3415474546219" y="0" width="31.074957842072777" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.41650529669465" y="0" width="25.953196606712723" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.36970190340736" y="0" width="17.6302980965926" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -322,15 +252,15 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Rust
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
