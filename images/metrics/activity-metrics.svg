@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="481" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="438" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.number{color:#2777aa}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,6 +19,28 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">copilot/fix-37</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4f6f07b</div>
+                                        <div class="message">style: cargo fmt
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -28,12 +50,8 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by BestofthebestinAI in <span class="repo">m-bain/whisperX</span></div>
-                                    <div class="comment">
-                                        <code class="language-bash">whisperx <span class="token parameter variable">--chunk_size</span> <span class="token number">10</span> audio.wav</code>
-                                        What's
-                                        <code>--chunk_size</code>
-                                        : https://github.com/m-bain/whisperX/pull/445
-                                    </div>
+                                    <div class="comment">Maybe this one?
+https://github.com/m-bain/whisperX/blob/2d9ce44329ae73af2520196d31cd14b6192ace44/whisperx/asr.py#L189-L200</div>
                                 </div>
                             </section>
                         </div>
@@ -41,31 +59,36 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#33 feat: Implement Phase 5 - JSON validation and API improvements</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Copilot in <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span></div>
-                                    <div class="comment">Note: I plan to create a new issue plan to thoroughly review and update docs/api-reference.md</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">copilot/fix-27</span>
-                                        in
-                                        <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
+                                    <div>on branch <span class="code">copilot/fix-35</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2fe0690</div>
+                                        <div class="message">docs: add comprehensive documentation for all missing struct fields
+
+- Add detailed documentation for 37 struct fields in src/error/types.rs
+- Include documentation for all error variant fields (BotGuard, TokenGeneration, Cache, Config, etc.)
+- Add documentation for legacy error type fields for backward compatibility
+- Add documentation for 2 struct fields in src/types/internal.rs for Google's private field naming convention
+- Resolves all 39 missing documentation items identified by rustdoc
+- Ensures 100% documentation coverage for all public APIs
+- All quality checks now pass including documentation coverage validation
+
+Resolves issue #35
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#553b332</div>
+                                        <div class="message">style: cargo fmt
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -79,7 +102,7 @@
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#27 Phase 5: Server Features Implementation - JSON Validation and API Improvements</span>
+                                        <span class="issue">#22 Complete All TODO Items - BotGuard Integration and Core Functionality Implementation</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -91,184 +114,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Deleted
+                      branch
+                                        <span class="code">copilot/fix-28</span>
+                                        in
                                         <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#67b80bb</div>
-                                        <div class="message">
-                                            feat: Implement Phase 5 - JSON validation and API improvements (#33)
-
-This PR implements Phase 5 of the server features, adding comprehensive
-JSON validation for deprecated fields and API improvements to match the
-TypeScript implementation behavior.
-
-## Key Features Implemented
-
-###
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#8899A6" d="M27.989 19.977c-.622 0-1.225.078-1.806.213L15.811 9.818c.134-.581.212-1.184.212-1.806C16.023 3.587 12.436 0 8.012 0 7.11 0 5.91.916 6.909 1.915l2.997 2.997s.999 1.998-.999 3.995-3.996.998-3.996.998L1.915 6.909C.916 5.91 0 7.105 0 8.012c0 4.425 3.587 8.012 8.012 8.012.622 0 1.225-.078 1.806-.212l10.371 10.371c-.135.581-.213 1.184-.213 1.806 0 4.425 3.588 8.011 8.012 8.011.901 0 2.101-.916 1.102-1.915l-2.997-2.997s-.999-1.998.999-3.995 3.995-.999 3.995-.999l2.997 2.997c1 .999 1.916-.196 1.916-1.102 0-4.425-3.587-8.012-8.011-8.012z"/>
-                                            </svg>
-                                            Deprecated Field Validation Middleware
-
-Implemented middleware that intercepts raw JSON requests before
-deserialization to validate deprecated fields:
-
-```rust
-// Before: No validation of deprecated fields
-pub async fn generate_pot(request: PotRequest) -&gt; Result&lt;...&gt; {
-    // Fields already filtered out by struct deserialization
-}
-
-// After: Middleware validates raw JSON first
-pub async fn validate_deprecated_fields_middleware(request: Request, next: Next) -&gt; Result&lt;...&gt; {
-    if obj.contains_key("data_sync_id") {
-        return Err(ErrorResponse::with_context(
-            "data_sync_id is deprecated, use content_binding instead",
-            "deprecated_field_validation"
-        ));
-    }
-}
-```
-
-This matches the TypeScript server's behavior exactly:
-```typescript
-if (body.data_sync_id)
-    return response.status(400).send({
-        error: "data_sync_id is deprecated, use content_binding instead",
-    });
-```
-
-###
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#CCD6DD" d="M31 2H5C3.343 2 2 3.343 2 5v26c0 1.657 1.343 3 3 3h26c1.657 0 3-1.343 3-3V5c0-1.657-1.343-3-3-3z"/>
-                                                <path fill="#E1E8ED" d="M31 1H5C2.791 1 1 2.791 1 5v26c0 2.209 1.791 4 4 4h26c2.209 0 4-1.791 4-4V5c0-2.209-1.791-4-4-4zm0 2c1.103 0 2 .897 2 2v4h-6V3h4zm-4 16h6v6h-6v-6zm0-2v-6h6v6h-6zM25 3v6h-6V3h6zm-6 8h6v6h-6v-6zm0 8h6v6h-6v-6zM17 3v6h-6V3h6zm-6 8h6v6h-6v-6zm0 8h6v6h-6v-6zM3 5c0-1.103.897-2 2-2h4v6H3V5zm0 6h6v6H3v-6zm0 8h6v6H3v-6zm2 14c-1.103 0-2-.897-2-2v-4h6v6H5zm6 0v-6h6v6h-6zm8 0v-6h6v6h-6zm12 0h-4v-6h6v4c0 1.103-.897 2-2 2z"/>
-                                                <path fill="#5C913B" d="M13 33H7V16c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v17z"/>
-                                                <path fill="#3B94D9" d="M29 33h-6V9c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v24z"/>
-                                                <path fill="#DD2E44" d="M21 33h-6V23c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v10z"/>
-                                            </svg>
-                                            Enhanced Error Response Format
-
-Extended the `ErrorResponse` type with contextual information while
-maintaining backward compatibility:
-
-```rust
-#[derive(Debug, Clone, Serialize, Deserialize)]
-pub struct ErrorResponse {
-    pub error: String,
-    #[serde(skip_serializing_if = "Option::is_none")]
-    pub context: Option&lt;String&gt;,
-    #[serde(skip_serializing_if = "Option::is_none")]
-    pub details: Option&lt;serde_json::Value&gt;,
-    #[serde(skip_serializing_if = "Option::is_none")]
-    pub timestamp: Option&lt;DateTime&lt;Utc&gt;&gt;,
-    #[serde(skip_serializing_if = "Option::is_none")]
-    pub version: Option&lt;String&gt;,
-}
-```
-
-###
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M28.977 16.492l.011-.006c-1.466.66-3.102.795-4.676.372-1.626-.436-3.006-1.423-3.947-2.796.019.028.034.058.054.086L19 14l-.213 1.302c1.019 1.443 2.426 2.535 4.069 3.174l-.084.311c-.408 1.521-.275 3.296-.134 5.176.184 2.45.375 4.984-.665 6.933-.978 1.829-2.921 2.919-5.205 2.919h-.032c-2.129-.01-4.063-.98-4.813-2.415-.538-1.03-.597-2.431-.66-3.912-.101-2.393-.214-5.104-2.268-7.443l-3.949-4.501-1.503 1.319 3.949 4.5c1.588 1.811 1.682 4.046 1.773 6.209.069 1.636.14 3.328.885 4.754 1.101 2.106 3.682 3.476 6.577 3.489h.042c3.035 0 5.638-1.484 6.968-3.977 1.314-2.461 1.092-5.417.895-8.025-.128-1.704-.249-3.315.071-4.506l.085-.318c.451.069.902.113 1.352.113 1.252-.001 2.487-.277 3.644-.795L30 17l-1.023-.508z"/>
-                                                <path fill="#99AAB5" d="M1.258 18.867c-1.457-1.66-1.292-4.188.368-5.645 1.66-1.457 4.188-1.292 5.645.368 1.457 1.661 1.292 4.188-.368 5.645-1.66 1.457-4.188 1.293-5.645-.368z"/>
-                                                <path fill="#31373D" d="M2.762 17.548c-.729-.83-.646-2.094.184-2.822.83-.729 2.094-.646 2.822.184.729.83.646 2.094-.184 2.822-.83.729-2.094.646-2.822-.184z"/>
-                                                <path fill="#99AAB5" d="M29.791 18.318l-.814-1.826c1.936-.865 3.362-2.534 3.911-4.579l.778-2.897c.286-1.065-.348-2.164-1.413-2.451l.52-1.932c2.13.573 3.397 2.771 2.825 4.901l-.778 2.897c-.707 2.63-2.54 4.775-5.029 5.887zm-11.006-3.014c-1.555-2.197-2.047-4.946-1.35-7.542l.778-2.897c.572-2.131 2.771-3.398 4.9-2.826l-.519 1.932c-1.067-.286-2.164.348-2.45 1.413l-.778 2.898c-.543 2.019-.16 4.158 1.051 5.867l-1.632 1.155z"/>
-                                                <path fill="#31373D" d="M22.56 6.032c-.8-.215-1.274-1.038-1.059-1.838l.778-2.897c.215-.8 1.038-1.274 1.838-1.059.8.215 1.274 1.038 1.059 1.838l-.778 2.897c-.215.8-1.038 1.274-1.838 1.059zm8.692 2.335c-.8-.215-1.274-1.038-1.059-1.838l.778-2.897c.215-.8 1.038-1.274 1.838-1.059.8.215 1.274 1.038 1.06 1.838l-.778 2.897c-.216.8-1.039 1.274-1.839 1.059z"/>
-                                            </svg>
-                                            Health Check and Service Info Endpoints
-
-Added two new endpoints for better observability:
-
-- **`/health`** - Returns detailed health information with uptime and
-service status
-- **`/info`** - Returns comprehensive service information and API
-documentation
-
-```json
-{
-  "service": "bgutil-ytdlp-pot-provider",
-  "version": "0.1.0",
-  "description": "POT token generation service for yt-dlp",
-  "endpoints": [
-    {"path": "/get_pot", "method": "POST", "description": "Generate POT token"},
-    {"path": "/health", "method": "GET", "description": "Detailed health check"}
-  ]
-}
-```
-
-## Quality Assurance
-
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            **216 tests passing** (100% pass rate, including 6 new tests for
-deprecated field validation)
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            **Zero compiler warnings** with `cargo clippy -- -D warnings`
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            **Proper code formatting** with `cargo fmt`
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            **Full documentation coverage** for new APIs
--
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
-                                            </svg>
-                                            **TypeScript behavior compatibility** verified through comprehensive
-testing
-
-## Implementation Details
-
-The middleware uses a clean architecture that:
-1. Only applies to `/get_pot` POST requests (performance optimization)
-2. Parses raw JSON before struct deserialization to catch deprecated
-fields
-3. Properly reconstructs the request for downstream processing
-4. Provides detailed error context for debugging
-
-All existing functionality remains unchanged, ensuring zero breaking
-changes while adding the new validation layer.
-
-Fixes #27.
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f62d6a</div>
-                                        <div class="message">feat: Implement Phase 5 - JSON validation and API improvements
-
-- Add deprecated field validation middleware for data_sync_id and visitor_data
-- Enhance ErrorResponse with context, details, timestamps, and version
-- Add /health endpoint for detailed health information
-- Add /info endpoint for service information and available endpoints
-- Update router configuration with middleware and new endpoints
-- Add comprehensive test coverage for all new features
-- All tests pass and code quality checks satisfied
-
-Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b06e34</div>
-                                        <div class="message">Initial plan</div>
                                     </div>
                                 </div>
                             </section>
@@ -291,14 +144,14 @@ Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.7514215847493" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="132.7514215847493" y="0" width="85.08737711658348" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="217.8387987013328" y="0" width="72.70687198464837" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="290.5456706859812" y="0" width="50.23428732498184" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="340.77995801096296" y="0" width="45.17103826845489" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.9509962794179" y="0" width="30.82128801780305" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.77228429722095" y="0" width="25.741336534177115" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.51362083139804" y="0" width="17.486379168601957" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="133.68525319177942" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="133.68525319177942" y="0" width="82.4500776214546" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="216.135330813234" y="0" width="73.21832394724912" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="289.35365476048315" y="0" width="50.587657290445854" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="339.941312050929" y="0" width="45.48879112378324" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.4301031747122" y="0" width="31.038098448733383" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.4682016234456" y="0" width="25.922412362788624" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.39061398623426" y="0" width="17.60938601376579" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
