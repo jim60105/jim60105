@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="438" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="562" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,20 +19,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
+                                        Commented on
+                                        <span class="issue">#41 feat: implement real POT token generation with type differentiation</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">copilot/fix-37</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4f6f07b</div>
-                                        <div class="message">style: cargo fmt
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    <div>opened by Copilot in <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span></div>
+                                    <div class="comment">
+                                        @copilot run
+                                        <code>cargo fmt</code>
+                                        and quality_check.sh and fix any issue or failed tests.
                                     </div>
                                 </div>
                             </section>
@@ -50,8 +49,8 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                 </div>
                                 <div class="details">
                                     <div>opened by BestofthebestinAI in <span class="repo">m-bain/whisperX</span></div>
-                                    <div class="comment">Maybe this one?
-https://github.com/m-bain/whisperX/blob/2d9ce44329ae73af2520196d31cd14b6192ace44/whisperx/asr.py#L189-L200</div>
+                                    <div class="comment">Yes.
+The default value is 30, you may want to try 6~15</div>
                                 </div>
                             </section>
                         </div>
@@ -59,36 +58,14 @@ https://github.com/m-bain/whisperX/blob/2d9ce44329ae73af2520196d31cd14b6192ace44
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Deleted
+                      branch
+                                        <span class="code">copilot/fix-37</span>
+                                        in
                                         <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">copilot/fix-35</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2fe0690</div>
-                                        <div class="message">docs: add comprehensive documentation for all missing struct fields
-
-- Add detailed documentation for 37 struct fields in src/error/types.rs
-- Include documentation for all error variant fields (BotGuard, TokenGeneration, Cache, Config, etc.)
-- Add documentation for legacy error type fields for backward compatibility
-- Add documentation for 2 struct fields in src/types/internal.rs for Google's private field naming convention
-- Resolves all 39 missing documentation items identified by rustdoc
-- Ensures 100% documentation coverage for all public APIs
-- All quality checks now pass including documentation coverage validation
-
-Resolves issue #35
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#553b332</div>
-                                        <div class="message">style: cargo fmt
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -102,7 +79,7 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#22 Complete All TODO Items - BotGuard Integration and Core Functionality Implementation</span>
+                                        <span class="issue">#37 實作完整的 BotGuard 整合</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -114,14 +91,382 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">copilot/fix-28</span>
-                                        in
+                                        Pushed 9 commits in
                                         <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9ba0100</div>
+                                        <div class="message">
+                                            feat: implement rustypipe-botguard integration replacing manual BotGuard implementation (#39)
+
+# Backlog #37 - 實作完整的 BotGuard 整合 工作報告
+
+**任務**：整合 rustypipe-botguard crate 來取代複雜的手動 BotGuard 實作，提供真實的 BotGuard
+整合功能
+**類型**：Enhancement  
+**狀態**：已完成
+
+## 一、任務概述
+
+本次任務成功將專門的 `rustypipe-botguard` crate 整合到專案中，取代了原本複雜的手動 deno_core
+JavaScript VM 實作。此變更大幅簡化了程式碼架構，同時提供更穩定可靠的 BotGuard 功能。
+
+透過採用經過實戰測試的專門 crate，專案的維護負擔顯著降低，並且能夠自動跟隨 YouTube API 的變化進行更新。
+
+## 二、實作內容
+
+### 2.1 相依性管理更新
+- **新增**：`rustypipe-botguard = "0.1.2"` - 專門的 BotGuard 功能 crate
+- **新增**：`time = "0.3"` with formatting/parsing features -
+rustypipe-botguard 相容性需求
+- **新增**：`axum-macros = "0.5.0"` - 改善除錯訊息顯示
+- **移除**：直接的 `deno_core` 相依性（現由 rustypipe-botguard 內部處理）
+- **更新**：多項相依性版本以確保相容性
+- 【F:Cargo.toml†L76-L87】
+
+### 2.2 BotGuard 客戶端架構重構
+完全重寫 `BotGuardClient` 提供簡化的 API：
+
+```rust
+// Before: 複雜的手動 deno_core 整合 (1500+ 行)
+// After: 簡潔的 rustypipe-botguard API 呼叫 (~200 行)
+
+let client = BotGuardClient::new(snapshot_path, user_agent);
+client.initialize().await?;
+let po_token = client.generate_po_token("video_id").await?;
+```
+
+**關鍵改善**：
+- **執行緒安全**：使用 `AtomicBool` 進行初始化狀態管理
+- **按需實例化**：為每個請求創建新的 Botguard 實例以避免 Send+Sync 限制
+- **快照支援**：可配置的快照快取以提升效能
+- 【F:src/session/botguard.rs†L1-L200】
+
+### 2.3 SessionManager 整合
+- 直接將 `BotGuardClient` 整合到 `SessionManager` 結構中
+- 取代複雜的 `WebPoMinter` 相依性，改用直接的 BotGuard 呼叫
+- 使用經過實戰測試的 rustypipe-botguard 實作簡化 POT token 生成流程
+- 【F:src/session/manager.rs†L86-L90】【F:src/session/manager.rs†L501-L520】
+
+### 2.4 增強的設定管理
+擴展 `BotGuardSettings` 新增配置選項：
+
+```rust
+pub struct BotGuardSettings {
+    // 現有設定...
+    pub snapshot_path: Option&lt;PathBuf&gt;,     // 快照快取位置
+    pub user_agent: Option&lt;String&gt;,         // 自訂 User Agent  
+    pub disable_snapshot: bool,             // 停用快照功能
+}
+```
+
+包含使用系統資料目錄的智慧預設值。
+- 【F:src/config/settings.rs†L140-L160】
+
+### 2.5 程式碼大幅簡化
+- **移除**：1500+ 行複雜的手動 JavaScript VM 整合程式碼
+- **簡化**：WebPoMinter 保持向後相容性並提供棄用警告
+- **維護**：所有現有功能在大幅降低維護負擔的同時得以保留
+- 【F:src/session/webpo_minter.rs†L1-L200】
+
+### 2.6 錯誤處理強化
+整合 rustypipe-botguard 錯誤類型並改善錯誤格式化：
+- 新增多種特定錯誤類型以提供更精確的錯誤資訊
+- 改善錯誤訊息格式化，提供更好的除錯體驗
+- 【F:src/error/types.rs†L1-L100】
+
+## 三、技術細節
+
+### 3.1 架構變更
+- **87% 程式碼減少**：消除複雜的手動 deno_core 實作
+- **模組化設計**：使用專門的 crate 處理 BotGuard 功能
+- **向後相容性**：保持現有 API 介面，內部實作透明升級
+
+### 3.2 API 變更
+- 保持所有現有的 HTTP API 端點不變
+- 內部實作從手動 JavaScript VM 切換到 rustypipe-botguard
+- 新增棄用警告以指導舊介面的遷移
+
+### 3.3 配置變更
+- 新增 BotGuard 快照路徑配置選項
+- 新增自訂 User Agent 支援
+- 新增快照功能開關
+
+## 四、測試與驗證
+
+### 4.1 程式碼品質檢查
+```bash
+# 格式化檢查
+cargo fmt -- --check
+
+# Clippy 警告檢查  
+cargo clippy -- -D warnings
+
+# 建置測試
+cargo build
+
+# 單元測試
+cargo nextest run || true
+```
+
+### 4.2 功能測試
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            HTTP 伺服器成功啟動並回應請求
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            POT token 生成端點正常運作
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            向後相容性測試通過
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            錯誤處理測試正常
+
+### 4.3 整合測試
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            BotGuardClient 初始化測試
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            SessionManager 整合測試  
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            棄用介面警告測試
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            執行緒安全性驗證
+
+## 五、影響評估
+
+### 5.1 向後相容性
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            所有現有的 HTTP API 端點保持不變
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            配置選項向後相容並新增增強功能
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            POT token 生成保持相同的外部介面
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            棄用元件提供清楚的遷移指導
+
+### 5.2 使用者體驗
+- **效能提升**：內建快照快取和最佳化的 token 生成
+- **穩定性改善**：使用經過實戰測試的專門實作
+- **維護簡化**：將 BotGuard 維護責任轉移到專門的 crate
+
+## 六、問題與解決方案
+
+### 6.1 遇到的問題
+- **問題描述**：初始實作遇到 Handler trait 相容性問題，導致伺服器編譯失敗
+- **解決方案**：重構 BotGuardClient 為執行緒安全設計，使用 AtomicBool 和按需實例化
+
+- **問題描述**：並行 BotGuard 操作造成記憶體區段錯誤
+- **解決方案**：實作按需實例創建策略，避免跨執行緒共享狀態
+
+### 6.2 技術債務
+- **解決**：移除 1500+ 行複雜的手動 JavaScript VM 整合程式碼
+- **解決**：簡化 WebPoMinter 實作，提供向後相容性
+- **新增**：為未來可能的 API 變更準備了更靈活的架構
+
+## 七、後續事項
+
+### 7.1 待完成項目
+- [x] 基本 BotGuard 整合
+- [x] HTTP 伺服器相容性
+- [x] 執行緒安全性解決
+- [x] 測試覆蓋率驗證
+
+### 7.2 相關任務
+- 關聯到 Issue #37 - 實作完整的 BotGuard 整合
+
+### 7.3 建議的下一步
+- 監控生產環境中的 rustypipe-botguard 效能表現
+- 根據使用者回饋調整快照快取策略
+- 考慮移除已棄用的 WebPoMinter 介面（在下一個主要版本中）
+
+## 八、檔案異動清單
+
+| 檔案路徑 | 異動類型 | 描述 |
+|---------|----------|------|
+| `Cargo.toml` | 修改 | 新增 rustypipe-botguard 依賴，移除 deno_core，更新其他依賴版本 |
+| `Cargo.lock` | 修改 | 依賴鎖定檔案更新，反映新的依賴關係 |
+| `src/session/botguard.rs` | 重構 | 完全重寫，使用 rustypipe-botguard API，簡化為
+~200 行 |
+| `src/session/manager.rs` | 修改 | 整合 BotGuardClient，簡化 POT token 生成流程 |
+| `src/session/webpo_minter.rs` | 簡化 | 移除複雜實作，保留向後相容性介面，增加棄用警告 |
+| `src/config/settings.rs` | 修改 | 新增 BotGuard 配置選項（快照路徑、User Agent 等） |
+| `src/error/types.rs` | 增強 | 整合 rustypipe-botguard 錯誤類型，改善錯誤格式化 |
+| `src/types/internal.rs` | 修改 | 新增字段文件註解，改善程式碼可讀性 |
+| `src/server/handlers.rs` | 清理 | 移除冗餘程式碼，保持 API 端點功能不變 |
+| `docs/api-reference.md` | 更新 | 反映內部實作變更，保持 API 文件準確性 |
+| `README.md` | 更新 | 更新專案狀態和功能描述 |
+
+## 九、技術成果
+
+### 9.1 程式碼品質提升
+- **複雜度降低**：從 1500+ 行手動實作簡化為 200 行 API 呼叫
+- **可維護性**：將專門功能委託給專門的 crate
+- **可靠性**：使用經過實戰測試的 BotGuard 實作
+
+### 9.2 效能改善
+- **內建最佳化**：rustypipe-botguard 包含快照快取和效能最佳化
+- **資源使用**：移除自訂 JavaScript VM 降低記憶體使用
+- **回應時間**：改善的 token 生成速度
+
+### 9.3 未來保障
+- **自動更新**：透過 rustypipe-botguard 更新自動跟隨 YouTube API 變更
+- **社群支援**：受益於 RustyPipe 專案的持續維護
+- **擴展性**：為未來功能擴展提供更穩固的基礎
+
+Resolves #37
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2590cee</div>
+                                        <div class="message">fix: resolve concurrent BotGuard operations segmentation fault
+
+- Add global mutex to serialize BotGuard operations preventing V8 runtime conflicts
+- Fix integration test test_session_manager_concurrent_requests that was segfaulting
+- Prevent multiple concurrent V8 runtime instances from interfering with each other
+- All 183 tests now pass successfully
+
+The segmentation fault occurred when multiple concurrent requests tried to create
+V8 runtimes simultaneously. The mutex ensures only one BotGuard operation runs
+at a time, maintaining thread safety while preserving functionality.
+
+Resolves the failing integration test issue.
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb66b8d</div>
+                                        <div class="message">chore(deps): update dependencies and add axum-macros
+
+- Update several dependencies to newer versions, including tower-http, clap, toml, base64, rstest, and fake, and add axum-macros as a new dependency.
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa3c364</div>
+                                        <div class="message">fix: resolve Handler trait compilation and BotGuard initialization issues
+
+- Restructure BotGuard client to use spawn_blocking for thread safety compatibility with Axum Handler trait
+- Add automatic BotGuard initialization in generate_pot_token method
+- Fix clippy warnings and ensure proper code formatting
+- Resolve V8/Deno runtime !Send/!Sync compatibility issues through task isolation
+
+This resolves the compilation errors from Handler trait requirements while maintaining proper BotGuard integration. All unit tests now pass and the project compiles successfully.
+
+Resolves issue #37
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f6f07b</div>
+                                        <div class="message">style: cargo fmt
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5b4db5</div>
+                                        <div class="message">fix: Investigate Handler trait compatibility issue
+
+- Attempt to fix Axum Handler trait compilation issue
+- Change return type from Result to axum::response::Response
+- Update test functions to work with new response types
+- Add IntoResponse trait import
+
+Note: Handler trait issue persists, likely related to thread safety
+requirements. Core BotGuard integration is functional but server
+compilation requires further investigation.
+
+Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#546489b</div>
+                                        <div class="message">feat: Complete Phase 3 &amp; 4 - SessionManager and Config integration
+
+- Phase 3: Integrate BotGuardClient into SessionManager
+- Phase 3: Replace WebPoMinter with direct BotGuardClient calls
+- Phase 3: Simplify POT token generation flow using rustypipe-botguard
+- Phase 4: Add BotGuard configuration options (snapshot_path, user_agent, disable_snapshot)
+- Phase 4: Implement default configuration with proper data directory
+- Fix: Resolve thread safety issues with atomic initialization
+- Fix: Simplify BotGuard instance management with on-demand creation
+
+Note: Server compilation issue remains - investigating Handler trait compatibility.
+The core BotGuard integration is complete and functional.
+
+Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95ee9e4</div>
+                                        <div class="message">feat: Complete Phase 1 &amp; 2 - Dependencies and BotGuard refactor
+
+- Phase 1: Add rustypipe-botguard dependency (0.1.2) to Cargo.toml
+- Phase 1: Remove deno_core direct dependency
+- Phase 1: Add time crate for rustypipe-botguard compatibility
+- Phase 2: Completely refactor BotGuardClient using rustypipe-botguard
+- Phase 2: Implement initialize(), generate_po_token(), and snapshot management
+- Phase 2: Replace complex manual JavaScript VM integration with simple API calls
+- Phase 2: Simplify WebPoMinter to maintain backward compatibility
+- Phase 2: Add comprehensive test coverage for new BotGuard implementation
+
+The implementation now uses rustypipe-botguard's proven Rust implementation
+instead of complex manual deno_core integration, significantly reducing
+code complexity and maintenance burden.
+
+Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9f874f</div>
+                                        <div class="message">Initial plan</div>
                                     </div>
                                 </div>
                             </section>
@@ -144,14 +489,14 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="133.68525319177942" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="133.68525319177942" y="0" width="82.4500776214546" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="216.135330813234" y="0" width="73.21832394724912" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="289.35365476048315" y="0" width="50.587657290445854" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="339.941312050929" y="0" width="45.48879112378324" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.4301031747122" y="0" width="31.038098448733383" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.4682016234456" y="0" width="25.922412362788624" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.39061398623426" y="0" width="17.60938601376579" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="133.32329357902591" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="133.32329357902591" y="0" width="83.47231321166744" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="216.79560679069334" y="0" width="73.02008161647844" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="289.81568840717176" y="0" width="50.45068863903679" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="340.26637704620856" y="0" width="45.36562791148659" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.63200495769513" y="0" width="30.95406122079028" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.5860661784854" y="0" width="25.852226114743665" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.4382922932291" y="0" width="17.561707706770882" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
