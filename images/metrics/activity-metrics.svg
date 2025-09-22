@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="384" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="459" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,14 +23,65 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">jim60105/blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f3d251f</div>
+                                        <div class="message">fix: preserve Chinese punctuation and apostrophes in ChatGPT parser
+
+- Add CJK Symbols and Punctuation range (\u3000-\u303f) to preserve Chinese full stops (句號 。)
+- Add General Punctuation range (\u2000-\u206f) to preserve apostrophes and smart quotes
+- Update clean_text function regex pattern to include missing Unicode ranges
+- Ensure all Chinese punctuation and English apostrophes are preserved in generated content
+
+Resolves issue with missing punctuation in ChatGPT conversation parsing
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
                                         <span class="repo">jim60105/ai-talks-content</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#21578a6</div>
-                                        <div class="message">chore: fix typo in GitHub Copilot prompt reference
+                                        <div class="sha">#9131954</div>
+                                        <div class="message">chore: 智能 to 智慧
+
+- Add a front matter delimiter “+++” above the title in the BEP20 vs ERC20 gas fee comparison article
+- Correct the description metadata by changing “幣安智能鏈” to “幣安智慧鏈”
+- Standardize terminology across multiple posts by replacing “智能合約” with “智慧合約”
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#952def6</div>
+                                        <div class="message">feat: add Cryptocurrency/ready-metal-card-starknet-guide.md
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56ba8b5</div>
+                                        <div class="message">feat: add overseas-account-taiwan-tax-risks-and-compliance.md
+
+Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50aa36b</div>
+                                        <div class="message">feat: add Cryptocurrency/ready-metal-card-starknet-guide-defi-risk-tips.md
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
@@ -41,11 +92,14 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">ericc-ch/copilot-api</span>
+                                        Deleted
+                      branch
+                                        <span class="code">issue-13-refactor-search-markdown-generator</span>
+                                        in
+                                        <span class="repo">jim60105/blog</span>
                                     </div>
                                 </div>
                             </section>
@@ -58,14 +112,100 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jim60105/dotfiles</span>
+                                        <span class="repo">jim60105/blog</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#78b8f7d</div>
-                                        <div class="message">feat: Add KITTY_DISABLE_WAYLAND environment variable
+                                        <div class="sha">#f3344ed</div>
+                                        <div class="message">refactor: eliminate duplicate create_basic_markdown calls in search-markdown-generator (#14)
+
+# 重構 search-markdown-generator.zsh 避免重複建立 markdown 檔案
+
+## 問題概述
+
+此次重構解決了 `search-markdown-generator.zsh` 中 `create_basic_markdown`
+函式被重複呼叫的問題，提升了效能並改善了程式碼結構。
+
+## 主要變更
+
+### 1. 建立新的預處理函式
+- **新增 `preprocess_references_and_content` 函式**：負責在建立 markdown
+檔案前預處理參考文獻和內容
+- 支援參考文獻格式修正，包含 offset numbering（如 1001, 2001 等）
+- 使用暫存檔案儲存已使用的參考文獻編號供後續使用
+
+### 2. 重構參考文獻處理
+- **重新命名並簡化 `process_references` 為 `add_references_to_markdown`**
+- 移除重複的 `create_basic_markdown` 呼叫
+- 職責更加明確：純粹負責將參考文獻新增到已建立的 markdown 檔案
+
+### 3. 優化主要工作流程
+- **`generate_markdown_file` 函式重構**：
+  1. 先預處理參考文獻和內容
+  2. 只呼叫一次 `create_basic_markdown`
+  3. 如果有參考文獻，再新增到檔案末尾
+
+## 技術改善
+
+### 效能提升
+- **減少 50% 的檔案 I/O 操作**：消除不必要的檔案覆寫
+- **避免重複建構**：第一次建立的檔案不再被覆寫浪費
+- **更高效的處理流程**：參考文獻預處理在 markdown 建立前完成
+
+### 程式碼品質
+- **函式職責分離**：每個函式有明確的單一職責
+- **消除重複程式碼**：移除 `create_basic_markdown` 的重複呼叫
+- **提高可讀性**：工作流程更加清晰易懂
+- **改善維護性**：更容易進行除錯和功能擴展
+
+## 相容性保證
+
+- **保持 API 介面不變**：所有現有的 parser
+腳本（`claude-chat-parser.zsh`、`felo-search-parser.zsh`、`chatgpt-parser.zsh`）無需修改
+- **輸出格式一致**：生成的 markdown 檔案格式完全相同
+- **功能完整性**：所有原有功能均保留，包括 AI metadata 生成、參考文獻處理、檔案名稱清理等
+
+## 測試驗證
+
+- **語法檢查通過**：`zsh -n search-markdown-generator.zsh` 無錯誤
+- **函式定義正確**：所有新舊函式均正確載入
+- **手動驗證完成**：使用者已確認重構後的程式碼運作正常
+
+## 架構改善
+
+### 修改前的問題流程
+```
+generate_markdown_file()
+├── create_basic_markdown()          # 第一次建立（會被覆寫）
+└── process_references()
+    ├── 檢查 ref_count &gt; 0
+    ├── extract_used_references()
+    ├── fix_reference_format()
+    ├── create_basic_markdown()      # 第二次建立（覆寫第一次）
+    └── add_reference_data()
+```
+
+### 修改後的優化流程
+```
+generate_markdown_file()
+├── preprocess_references_and_content()  # 預處理參考文獻
+│   ├── extract_used_references()
+│   └── fix_reference_format()
+├── create_basic_markdown()              # 只建立一次
+└── add_references_to_markdown()         # 純粹新增參考文獻
+```
+
+## 總結
+
+此次重構成功實現了以下目標：
+- 消除了效能瓶頸和資源浪費
+- 提升了程式碼的可維護性和可讀性
+- 保持了完全的向後相容性
+- 為未來功能擴展奠定了更好的基礎
+
+Resolves #13
 
 Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                                     </div>
@@ -76,34 +216,16 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/dotfiles</span>
+                                        Closed
+                                        <span class="issue">#13 重構 search-markdown-generator.zsh 避免重複建立 markdown 檔案</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a6e808f</div>
-                                        <div class="message">feat(.gitconfig): Add conditional safe directory configuration for CHT-Dell-XPS
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">mmulet/term.everything</span>
-                                    </div>
+                                    <div>opened by bot0419 in <span class="repo">jim60105/blog</span></div>
                                 </div>
                             </section>
                         </div>
@@ -125,14 +247,14 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="131.06410182023143" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="131.06410182023143" y="0" width="82.36802078843539" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="213.4321226086668" y="0" width="71.78506390703227" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="285.21718651569904" y="0" width="51.37495648353835" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="336.59214299923735" y="0" width="48.64560815291271" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.23775115215005" y="0" width="30.767818954941813" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.0055701070919" y="0" width="26.729750339842845" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.73532044693474" y="0" width="17.264679553065218" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="130.99478731031033" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="130.99478731031033" y="0" width="82.32445966899208" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="213.3192469793024" y="0" width="71.74709968604981" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="285.0663466653522" y="0" width="51.347786344030894" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="336.41413300938314" y="0" width="48.61988145550201" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.0340144648851" y="0" width="30.751547098174132" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="415.7855615630593" y="0" width="26.958889475590183" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.74445103864946" y="0" width="17.255548961350584" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
