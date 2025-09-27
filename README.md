@@ -63,8 +63,6 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
     <a href="https://www.facebook.com/jim60105/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/facebook.png" width="80px" alt="facebook"></a>&nbsp;
     <a href="https://x.com/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/x.png" width="80px" alt="x"></a>&nbsp;
     <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/github.png" width="80px" alt="github"></a>&nbsp;
-    <a href="https://civitai.green/user/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/civitai.png" width="80px" alt="civitai"></a>&nbsp;
-    <a href="https://www.coze.com/user/7376660011738809345" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/coze.png" width="80px" alt="coze"></a>&nbsp;
-    <a href="https://liker.land/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/likecoin.png" width="80px" alt="likecoin"></a><br>
+    <a href="https://civitai.green/user/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/civitai.png" width="80px" alt="civitai"></a><br>
     <span>Feel free to find me here, and I mainly lives in <a href="https://liker.social/@jim60105">Mastodon.</a></span>
 </p>
