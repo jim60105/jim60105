@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="419" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="428" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,353 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">copilot/fix-cc74ec0c-b819-489d-8b1d-f895609e44e6</span>
+                                        in
+                                        <span class="repo">jim60105/standalone-civitai-shortcut</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#75 限制縮圖格式為靜態圖片，過濾動態格式（GIF、WebM）的支援</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by bot0419 in <span class="repo">jim60105/standalone-civitai-shortcut</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jim60105/standalone-civitai-shortcut</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d1a5cc3</div>
+                                        <div class="message">
+                                            Implement static image format filtering to remove GIF and dynamic format support (#76)
+
+- [x] 分析現有程式碼並確認問題範圍
+- [x] 識別需要修改的關鍵檔案
+- [x] 建立靜態圖片格式過濾常數和工具類別
+- [x] 更新 DataValidator 移除 GIF 支援
+- [x] 更新 StandaloneMetadataProcessor 移除動態格式
+- [x] 更新 ImageProcessor 加入靜態圖片過濾
+- [x] 建立圖片格式過濾測試
+- [x] 程式碼格式化和檢查
+- [x] 執行回歸測試確保現有功能正常運作
+- [x] 修復 CI 測試失敗問題
+
+## 實作完成
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            成功實作靜態圖片格式過濾機制，並修復所有 CI 測試問題：
+
+###
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <circle fill="#DD2E44" cx="18" cy="18" r="18"/>
+                                                <circle fill="#FFF" cx="18" cy="18" r="13.5"/>
+                                                <circle fill="#DD2E44" cx="18" cy="18" r="10"/>
+                                                <circle fill="#FFF" cx="18" cy="18" r="6"/>
+                                                <circle fill="#DD2E44" cx="18" cy="18" r="3"/>
+                                                <path opacity=".2" d="M18.24 18.282l13.144 11.754s-2.647 3.376-7.89 5.109L17.579 18.42l.661-.138z"/>
+                                                <path fill="#FFAC33" d="M18.294 19c-.255 0-.509-.097-.704-.292-.389-.389-.389-1.018 0-1.407l.563-.563c.389-.389 1.018-.389 1.408 0 .388.389.388 1.018 0 1.407l-.564.563c-.194.195-.448.292-.703.292z"/>
+                                                <path fill="#55ACEE" d="M24.016 6.981c-.403 2.079 0 4.691 0 4.691l7.054-7.388c.291-1.454-.528-3.932-1.718-4.238-1.19-.306-4.079.803-5.336 6.935zm5.003 5.003c-2.079.403-4.691 0-4.691 0l7.388-7.054c1.454-.291 3.932.528 4.238 1.718.306 1.19-.803 4.079-6.935 5.336z"/>
+                                                <path fill="#3A87C2" d="M32.798 4.485L21.176 17.587c-.362.362-1.673.882-2.51.046-.836-.836-.419-2.08-.057-2.443L31.815 3.501s.676-.635 1.159-.152-.176 1.136-.176 1.136z"/>
+                                            </svg>
+                                            核心功能（已完成）
+- **僅支援靜態圖片格式**: JPG, JPEG, PNG, WebP, AVIF
+- **過濾動態格式**: GIF, WebM, MP4, MOV 
+- **全系統整合**: 從 API 回應到縮圖生成的完整過濾流程
+
+###
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#8899A6" d="M27.989 19.977c-.622 0-1.225.078-1.806.213L15.811 9.818c.134-.581.212-1.184.212-1.806C16.023 3.587 12.436 0 8.012 0 7.11 0 5.91.916 6.909 1.915l2.997 2.997s.999 1.998-.999 3.995-3.996.998-3.996.998L1.915 6.909C.916 5.91 0 7.105 0 8.012c0 4.425 3.587 8.012 8.012 8.012.622 0 1.225-.078 1.806-.212l10.371 10.371c-.135.581-.213 1.184-.213 1.806 0 4.425 3.588 8.011 8.012 8.011.901 0 2.101-.916 1.102-1.915l-2.997-2.997s-.999-1.998.999-3.995 3.995-.999 3.995-.999l2.997 2.997c1 .999 1.916-.196 1.916-1.102 0-4.425-3.587-8.012-8.011-8.012z"/>
+                                            </svg>
+                                            CI 測試修復
+1. **測試 URL 更新**: 將測試中的無效 URL (如 "url1", "http://img") 更新為有效的圖片 URL
+2. **ImageFormatFilter 強化**: 改進處理畸形 URL 的能力，支援 `http://img.jpg` 等格式
+3. **整合測試重構**: 替換不穩定的模擬測試為更可靠的核心功能測試
+4. **Import 清理**: 修復所有 linting 警告和未使用的 import
+
+###
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#CCD6DD" d="M31 2H5C3.343 2 2 3.343 2 5v26c0 1.657 1.343 3 3 3h26c1.657 0 3-1.343 3-3V5c0-1.657-1.343-3-3-3z"/>
+                                                <path fill="#E1E8ED" d="M31 1H5C2.791 1 1 2.791 1 5v26c0 2.209 1.791 4 4 4h26c2.209 0 4-1.791 4-4V5c0-2.209-1.791-4-4-4zm0 2c1.103 0 2 .897 2 2v4h-6V3h4zm-4 16h6v6h-6v-6zm0-2v-6h6v6h-6zM25 3v6h-6V3h6zm-6 8h6v6h-6v-6zm0 8h6v6h-6v-6zM17 3v6h-6V3h6zm-6 8h6v6h-6v-6zm0 8h6v6h-6v-6zM3 5c0-1.103.897-2 2-2h4v6H3V5zm0 6h6v6H3v-6zm0 8h6v6H3v-6zm2 14c-1.103 0-2-.897-2-2v-4h6v6H5zm6 0v-6h6v6h-6zm8 0v-6h6v6h-6zm12 0h-4v-6h6v4c0 1.103-.897 2-2 2z"/>
+                                                <path fill="#5C913B" d="M13 33H7V16c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v17z"/>
+                                                <path fill="#3B94D9" d="M29 33h-6V9c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v24z"/>
+                                                <path fill="#DD2E44" d="M21 33h-6V23c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v10z"/>
+                                            </svg>
+                                            測試結果
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            **985 個測試全部通過** (0 失敗)
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            **73.36% 程式覆蓋率** (超過 70% 要求)
+-
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            **9 個跳過的測試** (預期的 UI 適配器模組測試)
+
+###
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#269" d="M0 29c0 2.209 1.791 4 4 4h24c2.209 0 4-1.791 4-4V12c0-2.209-1.791-4-4-4h-9c-3.562 0-3-5-8.438-5H4C1.791 3 0 4.791 0 7v22z"/>
+                                                <path fill="#55ACEE" d="M30 10h-6.562C18 10 18.562 15 15 15H6c-2.209 0-4 1.791-4 4v10c0 .553-.448 1-1 1s-1-.447-1-1c0 2.209 1.791 4 4 4h26c2.209 0 4-1.791 4-4V14c0-2.209-1.791-4-4-4z"/>
+                                            </svg>
+                                            修復的檔案
+1. **測試檔案更新**:
+   - `tests/test_image_download_limit.py` - 使用正確的圖片副檔名
+   - `tests/test_ishortcut_core/test_image_processor.py` - 修正 URL 格式
+   - `tests/test_static_image_integration.py` - 重構為更穩定的測試
+
+2. **核心邏輯改進**:
+   - `scripts/civitai_manager_libs/image_format_filter.py` - 處理畸形 URL
+
+###
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#77B255" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#FFF" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            CI 要求達成
+- [x] 所有測試通過 (985/985)
+- [x] 達到 70% 測試覆蓋率要求 (實際 73.36%)
+- [x] 程式碼通過 black 格式化
+- [x] 程式碼通過 flake8 檢查
+- [x] 靜態圖片過濾功能完整運作
+
+系統現在完全符合 CI 要求，所有測試通過，並成功實作靜態圖片過濾功能。
+
+&lt;!-- START COPILOT CODING AGENT SUFFIX --&gt;
+
+
+
+&lt;details&gt;
+
+&lt;summary&gt;Original prompt&lt;/summary&gt;
+
+
+----
+
+*This section details on the original issue you should resolve*
+
+&lt;issue_title&gt;限制縮圖格式為靜態圖片，過濾動態格式（GIF、WebM）的支援&lt;/issue_title&gt;
+&lt;issue_description&gt;# 限制縮圖格式為靜態圖片，過濾動態格式（GIF、WebM）的支援
+
+## 需求描述
+
+目前系統在處理縮圖下載和顯示時，需要限制為靜態圖片格式，避免下載和顯示動態圖片（如 GIF、WebM 等）。僅允許使用以下靜態圖片格式：
+- JPG/JPEG
+- PNG  
+- WebP
+- AVIF
+
+## 問題分析
+
+通過程式碼分析發現以下需要改進的地方：
+
+### 1. 當前格式支援狀況
+- `data_validator.py` 中 `valid_image_extensions` 包含 `.gif`
+- `standalone_metadata_processor.py` 中 `_supported_formats` 包含 `.gif`
+- 缺乏對 WebM、MP4 等動態格式的明確過濾
+
+### 2. 影響的模組
+- **圖片下載處理**：`image_processor.py`
+- **資料驗證**：`data_validator.py` 
+- **Metadata 處理**：`standalone_metadata_processor.py`
+- **Civitai API 回應處理**：相關的圖片 URL 過濾
+
+## 實作計劃
+
+### 階段一：建立靜態圖片格式過濾機制（TDD 方式）
+
+#### 1.1 建立測試框架
+```python
+# tests/test_static_image_filter.py - 新建測試檔案
+class TestStaticImageFilter:
+    def test_validate_static_image_extensions(self):
+        # 測試靜態圖片格式驗證
+        pass
+        
+    def test_filter_dynamic_image_urls(self):
+        # 測試動態圖片 URL 過濾
+        pass
+        
+    def test_image_processor_static_only(self):
+        # 測試 ImageProcessor 僅處理靜態圖片
+        pass
+```
+
+#### 1.2 定義靜態圖片格式常數
+```python
+# scripts/civitai_manager_libs/settings/constants.py
+STATIC_IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.webp', '.avif']
+DYNAMIC_IMAGE_EXTENSIONS = ['.gif', '.webm', '.mp4', '.mov']
+```
+
+#### 1.3 建立圖片格式過濾器類別
+```python
+# scripts/civitai_manager_libs/utils/image_format_filter.py
+class ImageFormatFilter:
+    @staticmethod
+    def is_static_image(url_or_path: str) -&gt; bool:
+        """Check if image is static format"""
+        
+    @staticmethod
+    def filter_static_urls(urls: List[str]) -&gt; List[str]:
+        """Filter list to include only static image URLs"""
+        
+    @staticmethod  
+    def get_static_extension(url: str) -&gt; Optional[str]:
+        """Get static image extension from URL"""
+```
+
+### 階段二：更新現有模組支援靜態圖片過濾
+
+#### 2.1 更新 DataValidator
+```python
+# scripts/civitai_manager_libs/ishortcut_core/data_validator.py
+class DataValidator:
+    def __init__(self):
+        # 更新為僅包含靜態圖片格式
+        self.valid_image_extensions = STATIC_IMAGE_EXTENSIONS
+        
+    def validate_static_image_file(self, file_path: str) -&gt; bool:
+        """Validate file is static image format"""
+```
+
+#### 2.2 更新 ImageProcessor
+```python
+# scripts/civitai_manager_libs/ishortcut_core/image_processor.py  
+class ImageProcessor:
+    def get_preview_image_url(self, model_info: Dict) -&gt; Optional[str]:
+        """Get preview image URL, filtered for static formats only"""
+        
+    def _collect_images_to_download(self, version_list, modelid: str) -&gt; List:
+        """Collect images, filtering for static formats only"""
+        
+    def download_model_images(self, model_info: Dict, ...) -&gt; List:
+        """Download model images, static formats only"""
+```
+
+#### 2.3 更新 Metadata Processor
+```python
+# scripts/civitai_manager_libs/compat/standalone_adapters/standalone_metadata_processor.py
+class StandaloneMetadataProcessor:
+    def __init__(self):
+        self._supported_formats = set(STATIC_IMAGE_EXTENSIONS)
+```
+
+### 階段三：Gallery 和 API 回應過濾
+
+#### 3.1 更新 Gallery 處理
+```python
+# scripts/civitai_manager_libs/gallery/gallery_utilities.py
+def get_civitai_images(modelId: str, ...) -&gt; List:
+    """Get Civitai images, filtered for static formats"""
+    # 在 API 回應處理時過濾動態圖片
+```
+
+#### 3.2 更新 Civitai API 處理
+```python
+# scripts/civitai_manager_libs/civitai.py
+def request_models(api_url=None):
+    """Request models with static image filtering"""
+    # 在處理 images 欄位時過濾格式
+```
+
+### 階段四：綜合測試與驗證
+
+#### 4.1 整合測試
+```python
+# tests/test_static_image_integration.py
+class TestStaticImageIntegration:
+    def test_end_to_end_static_filtering(self):
+        """測試從 API 到顯示的完整靜態圖片過濾流程"""
+        
+    def test_thumbnail_generation_static_only(self):
+        """測試縮圖生成僅支援靜態格式"""
+        
+    def test_gallery_display_static_only(self):
+        """測試畫廊顯示僅包含靜態圖片"""
+```
+
+#### 4.2 回歸測試
+- 確保現有功能正常運作
+- 驗證縮圖生成品質未受影響
+- 確認下載效能未降低
+
+## 實作細節
+
+### 檔案變更清單
+
+| 檔案路徑 | 變更類型 | 描述 |
+|---------|----------|------|
+| `scripts/civitai_manager_libs/settings/constants.py` | 修改 | ...
+
+&lt;/details&gt;
+Fixes jim60105/standalone-civitai-shortcut#75
+---------
+
+Co-authored-by: copilot-swe-agent[bot] &lt;198982749+Copilot@users.noreply.github.com&gt;
+Co-authored-by: jim60105 &lt;16995691+jim60105@users.noreply.github.com&gt;
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#76 Implement static image format filtering to remove GIF and dynamic format support</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Copilot in <span class="repo">jim60105/standalone-civitai-shortcut</span></div>
+                                    <div>10 files changed <span class="code">++969 --31</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -32,100 +379,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sound-buttons/sound-buttons_configs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ee0c8c5</div>
-                                        <div class="message">refactor(main.json): prioritize aruma entry in array ordering
-
-- Move the aruma entry to the top of the JSON array to adjust its ordering.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sound-buttons/sound-buttons_configs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8811be3</div>
-                                        <div class="message">Update
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">sound-buttons/sound-buttons_upload-backend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a47f62f</div>
-                                        <div class="message">build(dockerfile): include BgUtil POT binaries in image
-
-- Add BgUtil POT provider and client binaries to the image, copying them from the bgutil-pot container to the appropriate locations.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jim60105/bgutil-ytdlp-pot-provider-rs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ed17383</div>
-                                        <div class="message">docs: add docker-yt-dlp container tip in README
-
-Add a tip section before installation instructions to inform users about the all-in-one docker-yt-dlp container solution that includes both yt-dlp and this POT provider pre-configured. This provides users with an easier deployment option using ghcr.io/jim60105/yt-dlp:pot container image.
-
-Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -134,12 +387,74 @@ Signed-off-by: Jim Chen &lt;Jim@ChenJ.im&gt;</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    13 Languages
+                    27 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
+                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
+                    <mask id="languages-bar">
+                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
+                    </mask>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.31352436169027" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="132.31352436169027" y="0" width="81.99448217619555" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="214.30800653788583" y="0" width="71.45951895773385" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="285.7675254956197" y="0" width="51.14197128169605" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="336.9094967773157" y="0" width="48.42500053375338" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.33449731106913" y="0" width="30.62828703121627" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="415.9627843422854" y="0" width="26.850831350538378" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.81361569282376" y="0" width="17.186384307176255" height="8" fill="#3178c6"/>
+                </svg>
                 <div class="field center horizontal-wrap fill-width">
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Rust
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C#
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Shell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
+                    </div>
                 </div>
             </section>
         </div>
