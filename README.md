@@ -66,3 +66,7 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
     <a href="https://civitai.green/user/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/civitai.png" width="80px" alt="civitai"></a><br>
     <span>Feel free to find me here, and I mainly lives in <a href="https://liker.social/@jim60105">Mastodon.</a></span>
 </p>
+
+---
+
+[![An image of @jim60105's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jim60105)](https://holopin.io/@jim60105)
