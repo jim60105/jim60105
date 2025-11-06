@@ -36,11 +36,6 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
 <details>
     <summary>More info</summary>
     <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/base-metrics.svg"/>
-    <!--img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/achievements.svg" /-->
-    <a href="https://github.com/jim60105?tab=repositories">
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/activity-metrics.svg"/>
-        <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/habits-metrics.svg" />
-    </a>
     <a href="https://blog.maki0419.com/">
         <img src="https://github.com/jim60105/jim60105/raw/master/images/metrics/blog.svg" />
     </a>
