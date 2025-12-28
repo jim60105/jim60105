@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Cloudflare DDNS 完整教學：自動更新浮動 IP 的 DNS 記錄</div>
+                                <div class="date">26 Dec 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">自家網路拓撲重新設計：FortiGate 60F 與 Mikrotik hEX S 的角色轉換</div>
                                 <div class="date">26 Dec 2025</div>
                             </div>
@@ -49,15 +58,6 @@
                             <div class="infos">
                                 <div class="title">台灣 VTuber 須多夜花畢業一年後安排直播 神秘倒數網站引發猜測</div>
                                 <div class="date">15 Dec 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Coding Agent 中文字變方塊？Playwright MCP 字型渲染解決方案</div>
-                                <div class="date">3 Dec 2025</div>
                             </div>
                         </div>
                     </section>
