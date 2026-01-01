@@ -59,7 +59,7 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
     <a href="https://x.com/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/x.png" width="80px" alt="x"></a>&nbsp;
     <a href="https://github.com/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/github.png" width="80px" alt="github"></a>&nbsp;
     <a href="https://civitai.green/user/jim60105" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jim60105/jim60105/raw/master/images/social/civitai.png" width="80px" alt="civitai"></a><br>
-    <span>Feel free to find me here, and I mainly lives in <a href="https://liker.social/@jim60105">Mastodon.</a></span>
+    <span>Feel free to find me here, and I mainly lives in <a href="https://xn--ior.tw/@Jim">Misskey 友.tw.</a></span>
 </p>
 
 ---
