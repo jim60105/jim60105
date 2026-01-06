@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">使用 Fedora CoreOS 在雲端部署 Misskey 聯邦宇宙節點</div>
+                                <div class="date">5 Jan 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">打造 VTuber 須多夜花官方網站：Zola SSG 與 AI 協作開發實錄</div>
                                 <div class="date">29 Dec 2025</div>
                             </div>
@@ -49,15 +58,6 @@
                             <div class="infos">
                                 <div class="title">VTuber 「須多夜花」正式宣布復出 轉型個人勢並發表首支原創曲</div>
                                 <div class="date">22 Dec 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Fedora Kinoite 開發者快速上手指南</div>
-                                <div class="date">15 Dec 2025</div>
                             </div>
                         </div>
                     </section>
