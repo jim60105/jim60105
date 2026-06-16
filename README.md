@@ -47,7 +47,8 @@ Furthermore, Cloudflare workers are great for [generating open graph meta tags](
     <a href="https://learn.microsoft.com/api/credentials/share/zh-tw/jim60105/10E1317911550C2?sharingId=7CA322B4CB39EA6C" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/ca918d1e-1172-40ab-9b57-d9a29cb3b0a2" height="125px" alt="AZ204"></a>&nbsp;
     <a href="https://learn.microsoft.com/api/credentials/share/zh-tw/jim60105/D9BA40F56F41CEF9?sharingId=7CA322B4CB39EA6C" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/0e7fb36e-0780-49dd-8a4a-8035d4cc6366" height="125px" alt="AI102"></a>&nbsp;
     <a href="https://learn.microsoft.com/api/credentials/share/zh-tw/jim60105/4D11F25D5846BBFA?sharingId=7CA322B4CB39EA6C" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/367e1ef3-171b-49fd-a8c8-11c0000183bb" height="125px" alt="AI900"></a>&nbsp;
-    <a href="https://www.credly.com/badges/518fb85e-714f-4acd-ba9b-41264fd21136/public_url" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/a073b6b2-0c2f-4eb6-a43f-a0dc088204e7" height="125px" alt="GitHubFoundations"></a>
+    <a href="https://www.credly.com/badges/518fb85e-714f-4acd-ba9b-41264fd21136/public_url" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/86cd81bb-f5d7-4442-9519-09365df5ac1d" height="125px" alt="GitHubFoundations"></a>&nbsp;
+    <a href="https://learn.microsoft.com/api/credentials/share/zh-tw/jim60105/C880D71FBE5F477A?sharingId=7CA322B4CB39EA6C" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/adb95c5f-98c0-463e-b982-1a37aa608816" height="125px" alt="GH300"></a>
 </p>
 
 ---
